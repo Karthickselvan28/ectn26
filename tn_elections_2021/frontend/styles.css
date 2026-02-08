@@ -811,3 +811,288 @@ body {
     padding: 2rem;
     color: var(--text-secondary);
 }
+
+/* ===========================
+   Mobile Responsive Styles
+   =========================== */
+
+/* Tablet - 768px to 1024px */
+@media (max-width: 1024px) {
+    .header {
+        padding: 1rem 1.5rem;
+    }
+
+    .header h1 {
+        font-size: 1.5rem;
+    }
+
+    .container {
+        flex-direction: column;
+    }
+
+    .table-panel,
+    .map-panel {
+        flex: none;
+        width: 100%;
+    }
+
+    .map-panel {
+        height: 350px;
+    }
+
+    #map {
+        height: 350px !important;
+        min-height: 350px !important;
+    }
+
+    .stats-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .areas-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .district-summary-card {
+        padding: 1.5rem;
+    }
+
+    .summary-stats {
+        flex-direction: column;
+        gap: 1rem;
+    }
+}
+
+/* Mobile - below 768px */
+@media (max-width: 768px) {
+    .header {
+        padding: 1rem;
+    }
+
+    .header-content {
+        flex-direction: column;
+        gap: 1rem;
+        text-align: center;
+    }
+
+    .header h1 {
+        font-size: 1.25rem;
+    }
+
+    .header-actions {
+        flex-direction: column;
+        width: 100%;
+        gap: 0.5rem;
+    }
+
+    .back-btn {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .area-selector {
+        width: 100%;
+    }
+
+    .area-selector select {
+        width: 100%;
+    }
+
+    /* District Overview */
+    .overview-container {
+        padding: 1rem;
+    }
+
+    .district-summary-card {
+        padding: 1rem;
+        margin-bottom: 1rem;
+    }
+
+    .district-summary-card h2 {
+        font-size: 1.25rem;
+        margin-bottom: 1rem;
+    }
+
+    .summary-stats {
+        flex-direction: column;
+        gap: 0.75rem;
+    }
+
+    .stat-item {
+        padding: 0.75rem;
+    }
+
+    .stat-value {
+        font-size: 1.5rem;
+    }
+
+    .party-breakdown {
+        margin-top: 1rem;
+    }
+
+    .party-bar {
+        flex-direction: column;
+        height: auto;
+        border-radius: var(--radius-md);
+    }
+
+    .party-segment {
+        width: 100% !important;
+        padding: 0.75rem;
+        border-radius: var(--radius-sm);
+        margin-bottom: 0.25rem;
+    }
+
+    .areas-grid {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+
+    .area-card {
+        padding: 1rem;
+    }
+
+    .area-header h3 {
+        font-size: 1.1rem;
+    }
+
+    /* Booth Analysis */
+    .table-panel {
+        padding: 0.5rem;
+    }
+
+    .filters-bar {
+        flex-direction: column;
+        gap: 0.5rem;
+        padding: 0.5rem;
+    }
+
+    .filter-group {
+        width: 100%;
+    }
+
+    .filter-group select,
+    .filter-group input {
+        width: 100%;
+    }
+
+    .stats-grid {
+        grid-template-columns: 1fr 1fr;
+        gap: 0.5rem;
+        padding: 0.5rem;
+    }
+
+    .stat-card {
+        padding: 0.75rem;
+    }
+
+    .stat-card .value {
+        font-size: 1.25rem;
+    }
+
+    .stat-card .label {
+        font-size: 0.7rem;
+    }
+
+    /* Table */
+    .data-table {
+        font-size: 0.75rem;
+    }
+
+    .data-table th,
+    .data-table td {
+        padding: 0.5rem 0.25rem;
+    }
+
+    .data-table th:nth-child(n+4),
+    .data-table td:nth-child(n+4) {
+        display: none;
+    }
+
+    .location-cell {
+        max-width: 100px;
+    }
+
+    .location-coords {
+        display: none;
+    }
+
+    /* Map Panel */
+    .map-panel {
+        height: 300px;
+        padding: 0.5rem;
+    }
+
+    #map {
+        height: 280px !important;
+        min-height: 280px !important;
+    }
+
+    .map-header h3 {
+        font-size: 1rem;
+    }
+
+    .legend {
+        flex-wrap: wrap;
+        gap: 0.5rem;
+    }
+
+    .legend-item {
+        font-size: 0.7rem;
+    }
+
+    /* Pagination */
+    .pagination {
+        flex-wrap: wrap;
+        gap: 0.5rem;
+        padding: 0.5rem;
+    }
+
+    .pagination button {
+        padding: 0.5rem 0.75rem;
+        font-size: 0.75rem;
+    }
+}
+
+/* Small Mobile - below 480px */
+@media (max-width: 480px) {
+    .header h1 {
+        font-size: 1.1rem;
+    }
+
+    .subtitle {
+        font-size: 0.75rem;
+    }
+
+    .stats-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .stat-card {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .stat-card .value {
+        order: 2;
+    }
+
+    .stat-card .label {
+        order: 1;
+    }
+
+    .data-table th:nth-child(n+3),
+    .data-table td:nth-child(n+3) {
+        display: none;
+    }
+
+    .area-stats {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .analyze-btn {
+        padding: 0.75rem;
+        font-size: 0.8rem;
+    }
+}
