@@ -1,0 +1,2312 @@
+[
+  {
+    "sl_no": 1,
+    "station_no": "2",
+    "building": "3",
+    "village": "",
+    "search_address": "3, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 2,
+    "station_no": "2",
+    "building": "Community Hall, Damal Colony, East Facing",
+    "village": "Damal Colony",
+    "search_address": "Community Hall, Damal Colony, East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 3,
+    "station_no": "3",
+    "building": "Government Higher Secondary School, Damal South Facing",
+    "village": "Damal South Facing",
+    "search_address": "Government Higher Secondary School, Damal South Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 4,
+    "station_no": "4",
+    "building": "Government Higher Secondary School, Damal North Facing East Side",
+    "village": "Damal North Facing East Side",
+    "search_address": "Government Higher Secondary School, Damal North Facing East Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 5,
+    "station_no": "5",
+    "building": "Government Higher Secondary School, Damal East West building South Facing",
+    "village": "Damal East West building South Facing",
+    "search_address": "Government Higher Secondary School, Damal East West building South Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 6,
+    "station_no": "6",
+    "building": "Panchayat Union Middle school, North Facing New Building 6th Std, Damal - 631551",
+    "village": "North Facing New Building",
+    "search_address": "Panchayat Union Middle school, North Facing New Building 6th Std, Damal - 631551, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 7,
+    "station_no": "7",
+    "building": "Panchayat Union Middle school, North Facing New Building 7th Std, Damal- 631551",
+    "village": "North Facing New Building",
+    "search_address": "Panchayat Union Middle school, North Facing New Building 7th Std, Damal- 631551, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 8,
+    "station_no": "8",
+    "building": "Panchayat Union Middle School ,Kilar North Building, North Facing",
+    "village": "Kilar North Building",
+    "search_address": "Panchayat Union Middle School ,Kilar North Building, North Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 9,
+    "station_no": "9",
+    "building": "Panchayat Union Middle School ,Kilar, South Side Building East wing North facing",
+    "village": "Kilar",
+    "search_address": "Panchayat Union Middle School ,Kilar, South Side Building East wing North facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 10,
+    "station_no": "10",
+    "building": "Govt. Higher secondary school ,Musaravakkam North Facing East Wing South Building",
+    "village": "Musaravakkam North Facing East Wing South Building",
+    "search_address": "Govt. Higher secondary school ,Musaravakkam North Facing East Wing South Building, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 11,
+    "station_no": "11",
+    "building": "Govt. Higher secondary school ,Musaravakkam north facing west side",
+    "village": "Musaravakkam north facing west side",
+    "search_address": "Govt. Higher secondary school ,Musaravakkam north facing west side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 12,
+    "station_no": "12",
+    "building": "Panchayat Union Middle School, Musaravakkam ,North Facing West side",
+    "village": "Musaravakkam",
+    "search_address": "Panchayat Union Middle School, Musaravakkam ,North Facing West side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 13,
+    "station_no": "13",
+    "building": "Panchayat Union Middle School, Musaravakkam ,North Facing East side",
+    "village": "Musaravakkam",
+    "search_address": "Panchayat Union Middle School, Musaravakkam ,North Facing East side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 14,
+    "station_no": "14",
+    "building": "Panchayat Union Middle School, Musaravakkam South Facing",
+    "village": "Musaravakkam South Facing",
+    "search_address": "Panchayat Union Middle School, Musaravakkam South Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 15,
+    "station_no": "15",
+    "building": "Panchayat Union Middle School ,Perumbakkam , South facing east side",
+    "village": "Perumbakkam",
+    "search_address": "Panchayat Union Middle School ,Perumbakkam , South facing east side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 16,
+    "station_no": "16",
+    "building": "Panchayat Union Middle School ,Perumbakkam , North Facing",
+    "village": "Perumbakkam",
+    "search_address": "Panchayat Union Middle School ,Perumbakkam , North Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 17,
+    "station_no": "17",
+    "building": "Panchayat Union Primary School ,Vishar North Facing",
+    "village": "Vishar North Facing",
+    "search_address": "Panchayat Union Primary School ,Vishar North Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 18,
+    "station_no": "18",
+    "building": "Panchayat Union Primary School ,Vishar East Facing",
+    "village": "Vishar East Facing",
+    "search_address": "Panchayat Union Primary School ,Vishar East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 19,
+    "station_no": "19",
+    "building": "Government ADW High School ,Melottivakkam South Facing",
+    "village": "Melottivakkam South Facing",
+    "search_address": "Government ADW High School ,Melottivakkam South Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 20,
+    "station_no": "20",
+    "building": "Government ADW Primary School ,Melottivakkam West Facing",
+    "village": "Melottivakkam West Facing",
+    "search_address": "Government ADW Primary School ,Melottivakkam West Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 21,
+    "station_no": "21",
+    "building": "Panchayat Union Primary School, East Facing 3rd Std A Section, Thirupukuzhi - 631551",
+    "village": "East Facing",
+    "search_address": "Panchayat Union Primary School, East Facing 3rd Std A Section, Thirupukuzhi - 631551, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 22,
+    "station_no": "22",
+    "building": "Panchayat Union Primary School, East Facing 5th Std,Thirupukuzhi-631551",
+    "village": "East Facing",
+    "search_address": "Panchayat Union Primary School, East Facing 5th Std,Thirupukuzhi-631551, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 23,
+    "station_no": "23",
+    "building": "Panchayat Union Primary School, East Facing 4th Std, Thirupukuzhi-631551",
+    "village": "East Facing",
+    "search_address": "Panchayat Union Primary School, East Facing 4th Std, Thirupukuzhi-631551, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 24,
+    "station_no": "24",
+    "building": "Panchayat Union Primary School , East Facing 2nd Std A, Thirupukuzhi- 631551",
+    "village": "East Facing",
+    "search_address": "Panchayat Union Primary School , East Facing 2nd Std A, Thirupukuzhi- 631551, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 25,
+    "station_no": "25",
+    "building": "Panchayat Union Primary School, South Facing 3rd Std B, Thirupukuzhi -631551",
+    "village": "South Facing",
+    "search_address": "Panchayat Union Primary School, South Facing 3rd Std B, Thirupukuzhi -631551, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 26,
+    "station_no": "26",
+    "building": "Panchayat Union Primary School, South Facing 2nd Std B, Thirupukuzhi -631551",
+    "village": "South Facing",
+    "search_address": "Panchayat Union Primary School, South Facing 2nd Std B, Thirupukuzhi -631551, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 27,
+    "station_no": "27",
+    "building": "Panchayat union Middle school ,Muttavakkam East Facing",
+    "village": "Muttavakkam East Facing",
+    "search_address": "Panchayat union Middle school ,Muttavakkam East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 28,
+    "station_no": "28",
+    "building": "Panchayat union Middle school ,Muttavakkam, South Facing",
+    "village": "Muttavakkam",
+    "search_address": "Panchayat union Middle school ,Muttavakkam, South Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 29,
+    "station_no": "29",
+    "building": "Panchayat union primary school ,Thaipakkam West Facing",
+    "village": "Thaipakkam West Facing",
+    "search_address": "Panchayat union primary school ,Thaipakkam West Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 30,
+    "station_no": "30",
+    "building": "Panchayat Union Middle School ,Vathiyur East Facing",
+    "village": "Vathiyur East Facing",
+    "search_address": "Panchayat Union Middle School ,Vathiyur East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 31,
+    "station_no": "31",
+    "building": "Panchayat Union Middle School ,Vathiyur South Side Building North Facing",
+    "village": "Vathiyur South Side Building North Facing",
+    "search_address": "Panchayat Union Middle School ,Vathiyur South Side Building North Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 32,
+    "station_no": "32",
+    "building": "Panchayat Union Middle school ,Kooram SSA Building East Facing",
+    "village": "Kooram SSA Building East Facing",
+    "search_address": "Panchayat Union Middle school ,Kooram SSA Building East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 33,
+    "station_no": "33",
+    "building": "Panchayat Union Middle school ,Kooram SSA Building East West Building West wing South Facing",
+    "village": "Kooram SSA Building East West Building West wing South Facing",
+    "search_address": "Panchayat Union Middle school ,Kooram SSA Building East West Building West wing South Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 34,
+    "station_no": "34",
+    "building": "Panchayat union primary school, South Facing, Ariyaperumbakkam-631551",
+    "village": "South Facing",
+    "search_address": "Panchayat union primary school, South Facing, Ariyaperumbakkam-631551, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 35,
+    "station_no": "35",
+    "building": "Panchayat union primary school ,Ariyaperumbakkam South Side Building West Facing",
+    "village": "Ariyaperumbakkam South Side Building West Facing",
+    "search_address": "Panchayat union primary school ,Ariyaperumbakkam South Side Building West Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 36,
+    "station_no": "36",
+    "building": "Panchayat union primary school ,Sirunaiperugal East Facing",
+    "village": "Sirunaiperugal East Facing",
+    "search_address": "Panchayat union primary school ,Sirunaiperugal East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 37,
+    "station_no": "37",
+    "building": "Panchayat union primary school ,Sirunaiperugal East Facing",
+    "village": "Sirunaiperugal East Facing",
+    "search_address": "Panchayat union primary school ,Sirunaiperugal East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 38,
+    "station_no": "38",
+    "building": "Panchayat Union Middle school, East Facing, Rcc Roof Building 5th std, Keezhambi -631502",
+    "village": "East Facing",
+    "search_address": "Panchayat Union Middle school, East Facing, Rcc Roof Building 5th std, Keezhambi -631502, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 39,
+    "station_no": "39",
+    "building": "Panchayat Union Middle school ,East Facing RCC Building 4th Std, Keezhambi- 631502",
+    "village": "East Facing RCC Building",
+    "search_address": "Panchayat Union Middle school ,East Facing RCC Building 4th Std, Keezhambi- 631502, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 40,
+    "station_no": "40",
+    "building": "Panchayat Union Middle school, East side, West Facing (New RCC Building) 6th Std, Keezhambi-631502",
+    "village": "East side",
+    "search_address": "Panchayat Union Middle school, East side, West Facing (New RCC Building) 6th Std, Keezhambi-631502, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 41,
+    "station_no": "41",
+    "building": "Panchayat Union Middle school ,Keezhambi, East Facing",
+    "village": "Keezhambi",
+    "search_address": "Panchayat Union Middle school ,Keezhambi, East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 42,
+    "station_no": "42",
+    "building": "Panchayat Union Middle School ,Mettukuppam North Facing (SSA Building)",
+    "village": "Mettukuppam North Facing",
+    "search_address": "Panchayat Union Middle School ,Mettukuppam North Facing (SSA Building), Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 43,
+    "station_no": "43",
+    "building": "Panchayat Union Primary School ,Melkathirpur North Facing East Side",
+    "village": "Melkathirpur North Facing East Side",
+    "search_address": "Panchayat Union Primary School ,Melkathirpur North Facing East Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 44,
+    "station_no": "44",
+    "building": "Panchayat Union Primary School ,Thiruparuthikundram East west building East Facing South Side",
+    "village": "Thiruparuthikundram East west building East Facing South Side",
+    "search_address": "Panchayat Union Primary School ,Thiruparuthikundram East west building East Facing South Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 45,
+    "station_no": "45",
+    "building": "Panchayat Union Primary School ,Thiruparuthikundram East west building North Facing",
+    "village": "Thiruparuthikundram East west building North Facing",
+    "search_address": "Panchayat Union Primary School ,Thiruparuthikundram East west building North Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 46,
+    "station_no": "46",
+    "building": "Panchayat Union Middle School ,Keelkadirpur new building east side East Facing",
+    "village": "Keelkadirpur new building east side East Facing",
+    "search_address": "Panchayat Union Middle School ,Keelkadirpur new building east side East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 47,
+    "station_no": "47",
+    "building": "Panchayat Union Middle School ,Keelkadirpur new building east side East Facing",
+    "village": "Keelkadirpur new building east side East Facing",
+    "search_address": "Panchayat Union Middle School ,Keelkadirpur new building east side East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 48,
+    "station_no": "48",
+    "building": "Panchayat Union Primary School, Mettupallayam West Facing room-1",
+    "village": "Mettupallayam West Facing room",
+    "search_address": "Panchayat Union Primary School, Mettupallayam West Facing room-1, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 49,
+    "station_no": "49",
+    "building": "Roman Katholikka High School , Vippedu East Facing",
+    "village": "Vippedu East Facing",
+    "search_address": "Roman Katholikka High School , Vippedu East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 50,
+    "station_no": "50",
+    "building": "Roman Kaththolic High school, East Facing 8th Std, Vippedu-631502",
+    "village": "East Facing",
+    "search_address": "Roman Kaththolic High school, East Facing 8th Std, Vippedu-631502, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 51,
+    "station_no": "51",
+    "building": "Panchayat Union Primary School ,Venkatapuram New Building South Facing west side",
+    "village": "Venkatapuram New Building South Facing west side",
+    "search_address": "Panchayat Union Primary School ,Venkatapuram New Building South Facing west side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 52,
+    "station_no": "52",
+    "building": "Govt. High school ,Sevilimedu TNHB quarters South Facing",
+    "village": "Sevilimedu TNHB quarters South Facing",
+    "search_address": "Govt. High school ,Sevilimedu TNHB quarters South Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 53,
+    "station_no": "53",
+    "building": "Govt High School, Sevilimedu, TNHB Qtrs New Building, North Facing South wing east side",
+    "village": "Sevilimedu",
+    "search_address": "Govt High School, Sevilimedu, TNHB Qtrs New Building, North Facing South wing east side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 54,
+    "station_no": "54",
+    "building": "Swamy Vivekanandha Matriculation Highr Secondary School, Sevilimedu Additional Building, East Facing South Wing Room No.56",
+    "village": "Sevilimedu Additional Building",
+    "search_address": "Swamy Vivekanandha Matriculation Highr Secondary School, Sevilimedu Additional Building, East Facing South Wing Room No.56, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 55,
+    "station_no": "55",
+    "building": "Swamy Vivekanandha Matriculation Highr Secondary School, Sevilimedu East Facing North wing Room.no. 57",
+    "village": "Sevilimedu East Facing North wing Room",
+    "search_address": "Swamy Vivekanandha Matriculation Highr Secondary School, Sevilimedu East Facing North wing Room.no. 57, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 56,
+    "station_no": "56",
+    "building": "Swamy Vivekanandha Matriculation Highr Secondary School, Sevilimedu East Facing North wing Room.no. 59",
+    "village": "Sevilimedu East Facing North wing Room",
+    "search_address": "Swamy Vivekanandha Matriculation Highr Secondary School, Sevilimedu East Facing North wing Room.no. 59, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 57,
+    "station_no": "57",
+    "building": "Panchayat Union Middle School, TNHB Qtrs, Sevilimedu East Facing Room No 1",
+    "village": "TNHB Qtrs",
+    "search_address": "Panchayat Union Middle School, TNHB Qtrs, Sevilimedu East Facing Room No 1, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 58,
+    "station_no": "58",
+    "building": "Panchayat Union Middle School, TNHB Qtrs, Sevilimedu West Facing North Side Room No 10",
+    "village": "TNHB Qtrs",
+    "search_address": "Panchayat Union Middle School, TNHB Qtrs, Sevilimedu West Facing North Side Room No 10, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 59,
+    "station_no": "59",
+    "building": "Panchayat Union Middle School, TNHB Qtrs, Sevilimedu West Facing Room No 7",
+    "village": "TNHB Qtrs",
+    "search_address": "Panchayat Union Middle School, TNHB Qtrs, Sevilimedu West Facing Room No 7, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 60,
+    "station_no": "60",
+    "building": "Govt High School, Sevilimedu, TNHB Qtrs New Building West Facing",
+    "village": "Sevilimedu",
+    "search_address": "Govt High School, Sevilimedu, TNHB Qtrs New Building West Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 61,
+    "station_no": "61",
+    "building": "Panchayat Union Middle School, TNHB Qtrs, Sevilimedu WEST Facing West Side",
+    "village": "TNHB Qtrs",
+    "search_address": "Panchayat Union Middle School, TNHB Qtrs, Sevilimedu WEST Facing West Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 62,
+    "station_no": "62",
+    "building": "Government High School TNHB Quarters Sevilimedu JVVT Building West Facing North Side",
+    "village": "",
+    "search_address": "Government High School TNHB Quarters Sevilimedu JVVT Building West Facing North Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 63,
+    "station_no": "63",
+    "building": "Infant Jesus Matriculation Higher Secondary School, Sevilimedu South Facing",
+    "village": "Sevilimedu South Facing",
+    "search_address": "Infant Jesus Matriculation Higher Secondary School, Sevilimedu South Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 64,
+    "station_no": "64",
+    "building": "Infant Jesus Matriculation Higher Secondary School, South Facing Room No.9, Sevilimedu-631502",
+    "village": "South Facing Room No",
+    "search_address": "Infant Jesus Matriculation Higher Secondary School, South Facing Room No.9, Sevilimedu-631502, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 65,
+    "station_no": "65",
+    "building": "Infant Jesus Matriculation on Higher Secondary School Sevilimedu South Facing Room No. 8",
+    "village": "",
+    "search_address": "Infant Jesus Matriculation on Higher Secondary School Sevilimedu South Facing Room No. 8, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 66,
+    "station_no": "66",
+    "building": "Panchayat Union Elementary School ,Sevilimedu North Facing",
+    "village": "Sevilimedu North Facing",
+    "search_address": "Panchayat Union Elementary School ,Sevilimedu North Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 67,
+    "station_no": "67",
+    "building": "Panchayat Union Elementary School ,Sevilimedu East Facing North side",
+    "village": "Sevilimedu East Facing North side",
+    "search_address": "Panchayat Union Elementary School ,Sevilimedu East Facing North side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 68,
+    "station_no": "68",
+    "building": "Panchayat Union Elementary School ,Sevilimedu South Facing",
+    "village": "Sevilimedu South Facing",
+    "search_address": "Panchayat Union Elementary School ,Sevilimedu South Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 69,
+    "station_no": "69",
+    "building": "Panchayat Union Elementary School ,Sevilimedu North Facing",
+    "village": "Sevilimedu North Facing",
+    "search_address": "Panchayat Union Elementary School ,Sevilimedu North Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 70,
+    "station_no": "70",
+    "building": "Swamy Vivekanandha Matriculation Highr Secondary School, Sevilimedu West Facing South Wing. Room-62",
+    "village": "Sevilimedu West Facing South Wing",
+    "search_address": "Swamy Vivekanandha Matriculation Highr Secondary School, Sevilimedu West Facing South Wing. Room-62, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 71,
+    "station_no": "71",
+    "building": "Swamy Vivekanandha Matriculation Highr Secondary School, West Facing South Wing 9th Std, Sevilimedu -631502",
+    "village": "West Facing South Wing",
+    "search_address": "Swamy Vivekanandha Matriculation Highr Secondary School, West Facing South Wing 9th Std, Sevilimedu -631502, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 72,
+    "station_no": "72",
+    "building": "Infant Jesus Matriculation Higher Secondary School Sevilimedu North Facing Room No 38",
+    "village": "",
+    "search_address": "Infant Jesus Matriculation Higher Secondary School Sevilimedu North Facing Room No 38, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 73,
+    "station_no": "73",
+    "building": "Infant Jesus Matriculation Higher Secondary School Sevilimedu South Facing",
+    "village": "",
+    "search_address": "Infant Jesus Matriculation Higher Secondary School Sevilimedu South Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 74,
+    "station_no": "74",
+    "building": "Municipal Middle School, Olimugamadpet West Facing,North East Side Building",
+    "village": "Olimugamadpet West Facing",
+    "search_address": "Municipal Middle School, Olimugamadpet West Facing,North East Side Building, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 75,
+    "station_no": "75",
+    "building": "Municipal Middle School , Olimohammedpettai South facing North building",
+    "village": "Olimohammedpettai South facing North building",
+    "search_address": "Municipal Middle School , Olimohammedpettai South facing North building, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 76,
+    "station_no": "76",
+    "building": "Municipal Middle school SSA Building ,Olimugamad North Block West Facing",
+    "village": "Olimugamad North Block West Facing",
+    "search_address": "Municipal Middle school SSA Building ,Olimugamad North Block West Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 77,
+    "station_no": "77",
+    "building": "Municipal Middle School, Olimugamadpet South Facing Middle Room",
+    "village": "Olimugamadpet South Facing Middle Room",
+    "search_address": "Municipal Middle School, Olimugamadpet South Facing Middle Room, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 78,
+    "station_no": "78",
+    "building": "Municipal Middle School, Olimugamadpet East Facing South Side",
+    "village": "Olimugamadpet East Facing South Side",
+    "search_address": "Municipal Middle School, Olimugamadpet East Facing South Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 79,
+    "station_no": "79",
+    "building": "Municipal Middle School Ekambara West Mada St ,BIG Kancheepuram, East side West Facing",
+    "village": "BIG Kancheepuram",
+    "search_address": "Municipal Middle School Ekambara West Mada St ,BIG Kancheepuram, East side West Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 80,
+    "station_no": "80",
+    "building": "Municipal Middle School Ekambara West Mada St, Kancheepuram West Facing Middle Room",
+    "village": "Kancheepuram West Facing Middle Room",
+    "search_address": "Municipal Middle School Ekambara West Mada St, Kancheepuram West Facing Middle Room, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 81,
+    "station_no": "81",
+    "building": "Municipal Middle School Ekambara West Mada St, Kancheepuram North Facing East side",
+    "village": "Kancheepuram North Facing East side",
+    "search_address": "Municipal Middle School Ekambara West Mada St, Kancheepuram North Facing East side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 82,
+    "station_no": "82",
+    "building": "Municipal Middle School Ekambara West Mada St ,Kancheepuram.",
+    "village": "Kancheepuram",
+    "search_address": "Municipal Middle School Ekambara West Mada St ,Kancheepuram., Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 83,
+    "station_no": "83",
+    "building": "Royal Metriculation Higher Secondary , North Facing 12th Std (Private Building), Kancheepuram-631502",
+    "village": "North Facing",
+    "search_address": "Royal Metriculation Higher Secondary , North Facing 12th Std (Private Building), Kancheepuram-631502, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 84,
+    "station_no": "84",
+    "building": "Royal Metriculation Higher Secondary School , North Facing 11th Std (Private Building), Kancheepuram-631502",
+    "village": "North Facing",
+    "search_address": "Royal Metriculation Higher Secondary School , North Facing 11th Std (Private Building), Kancheepuram-631502, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 85,
+    "station_no": "85",
+    "building": "Narayanaguru Matriculation Higher Secondary School, Egambaranatha sannathi Street, Periya Kancheepuram North Facing Room No.1",
+    "village": "Egambaranatha sannathi Street",
+    "search_address": "Narayanaguru Matriculation Higher Secondary School, Egambaranatha sannathi Street, Periya Kancheepuram North Facing Room No.1, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 86,
+    "station_no": "86",
+    "building": "Dharga Muslim Municipal Primary school ,Kancheepuram. Eastern side East Facing",
+    "village": "Kancheepuram",
+    "search_address": "Dharga Muslim Municipal Primary school ,Kancheepuram. Eastern side East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 87,
+    "station_no": "87",
+    "building": "PTVS High School ,Kancheepuram North Facing East Side",
+    "village": "Kancheepuram North Facing East Side",
+    "search_address": "PTVS High School ,Kancheepuram North Facing East Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 88,
+    "station_no": "88",
+    "building": "PTVS High School ,Kancheepuram West Building East Facing",
+    "village": "Kancheepuram West Building East Facing",
+    "search_address": "PTVS High School ,Kancheepuram West Building East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 89,
+    "station_no": "89",
+    "building": "Royal Metriculation Higher Secondary School, North Facing 1st Std B Section (Private Building), Kancheepuram-631502",
+    "village": "North Facing",
+    "search_address": "Royal Metriculation Higher Secondary School, North Facing 1st Std B Section (Private Building), Kancheepuram-631502, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 90,
+    "station_no": "90",
+    "building": "Royal Metriculation Higher Secondary School, North Facing 2nd Std A Section (Private Building), Kancheepuram-631502",
+    "village": "North Facing",
+    "search_address": "Royal Metriculation Higher Secondary School, North Facing 2nd Std A Section (Private Building), Kancheepuram-631502, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 91,
+    "station_no": "91",
+    "building": "Royal Metriculation Higher Secondary School, North Facing 2nd Std B Section (Private Building), Kancheepuram-631502",
+    "village": "North Facing",
+    "search_address": "Royal Metriculation Higher Secondary School, North Facing 2nd Std B Section (Private Building), Kancheepuram-631502, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 92,
+    "station_no": "92",
+    "building": "Saint Joseph Primary school ,Damalwar St Kancheepuram. 1st Class A sec West Facing",
+    "village": "Damalwar St Kancheepuram",
+    "search_address": "Saint Joseph Primary school ,Damalwar St Kancheepuram. 1st Class A sec West Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 93,
+    "station_no": "93",
+    "building": "Saint Joseph Primary school ,Damalwar St, Kancheepuram .5th Class A sec West Facing",
+    "village": "Damalwar St",
+    "search_address": "Saint Joseph Primary school ,Damalwar St, Kancheepuram .5th Class A sec West Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 94,
+    "station_no": "94",
+    "building": "Saint Joseph Primary school ,Damalwar St, Kancheepuram .5th th Class B sec West Facing",
+    "village": "Damalwar St",
+    "search_address": "Saint Joseph Primary school ,Damalwar St, Kancheepuram .5th th Class B sec West Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 95,
+    "station_no": "95",
+    "building": "Mariya Auxiliyam Girls Higher Secondary School West facing Room No.33",
+    "village": "",
+    "search_address": "Mariya Auxiliyam Girls Higher Secondary School West facing Room No.33, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 96,
+    "station_no": "96",
+    "building": "Mariya Auxiliyam Girls Higher Secondary School Room No. 3 North Facing",
+    "village": "",
+    "search_address": "Mariya Auxiliyam Girls Higher Secondary School Room No. 3 North Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 97,
+    "station_no": "97",
+    "building": "Mariya Auxiliyam Girls Higher Secondary School North Facig Room No. 1",
+    "village": "",
+    "search_address": "Mariya Auxiliyam Girls Higher Secondary School North Facig Room No. 1, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 98,
+    "station_no": "98",
+    "building": "Saint Joseph Primary school ,Damalwar St, Kanchipuram West Facing",
+    "village": "Damalwar St",
+    "search_address": "Saint Joseph Primary school ,Damalwar St, Kanchipuram West Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 99,
+    "station_no": "99",
+    "building": "Saint Joseph Primary school, West Facing North Side, Damalwar St Kancheepuram- 631502",
+    "village": "West Facing North Side",
+    "search_address": "Saint Joseph Primary school, West Facing North Side, Damalwar St Kancheepuram- 631502, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 100,
+    "station_no": "100",
+    "building": "PTVS Matriculation Higher Secondary School , Kancheepuram.West Facing Damalwar St,",
+    "village": "Kancheepuram",
+    "search_address": "PTVS Matriculation Higher Secondary School , Kancheepuram.West Facing Damalwar St,, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 101,
+    "station_no": "101",
+    "building": "PTVS Matriculation School ,Kancheepuram Sengazhuneeroadi veedi East Facing Room No. 5",
+    "village": "Kancheepuram Sengazhuneeroadi veedi East Facing Room No",
+    "search_address": "PTVS Matriculation School ,Kancheepuram Sengazhuneeroadi veedi East Facing Room No. 5, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 102,
+    "station_no": "102",
+    "building": "PTVS High School Sengazhuneeroadi veedi, Kancheepuram Sounth Facing",
+    "village": "Kancheepuram Sounth Facing",
+    "search_address": "PTVS High School Sengazhuneeroadi veedi, Kancheepuram Sounth Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 103,
+    "station_no": "103",
+    "building": "PTVS Matriculation Higher Secondary School Dharmaraja Koil Street Kancheepuram North Facing Room No.7",
+    "village": "",
+    "search_address": "PTVS Matriculation Higher Secondary School Dharmaraja Koil Street Kancheepuram North Facing Room No.7, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 104,
+    "station_no": "104",
+    "building": "PTVS Matriculation Higher Secondary School Dharmaraja Koil Street Kancheepuram North Facing Room No. 9",
+    "village": "",
+    "search_address": "PTVS Matriculation Higher Secondary School Dharmaraja Koil Street Kancheepuram North Facing Room No. 9, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 105,
+    "station_no": "105",
+    "building": "Vaikundam Municipal Middle Vaikunda Perumal Koil mada Street, South Facing East Side",
+    "village": "South Facing East Side",
+    "search_address": "Vaikundam Municipal Middle Vaikunda Perumal Koil mada Street, South Facing East Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 106,
+    "station_no": "106",
+    "building": "Vaikundam Municipal middle school . ICDS Centre, Vaikundaperumal Mada Street West Facing North Side",
+    "village": "Vaikundaperumal Mada Street West Facing North Side",
+    "search_address": "Vaikundam Municipal middle school . ICDS Centre, Vaikundaperumal Mada Street West Facing North Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 107,
+    "station_no": "107",
+    "building": "Vaikundaperumal Municipal Middle School . Vaikundaperumal Mada Street. West Facing North side",
+    "village": "",
+    "search_address": "Vaikundaperumal Municipal Middle School . Vaikundaperumal Mada Street. West Facing North side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 108,
+    "station_no": "108",
+    "building": "PTVS High School Sengazhuneeroadi veedi, Kancheepuram South Facing East side",
+    "village": "Kancheepuram South Facing East side",
+    "search_address": "PTVS High School Sengazhuneeroadi veedi, Kancheepuram South Facing East side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 109,
+    "station_no": "109",
+    "building": "PTVS MatriculationSchool ,Kancheepuram Sengazhuneeroadi veedi North Facing Room No. 11",
+    "village": "Kancheepuram Sengazhuneeroadi veedi North Facing Room No",
+    "search_address": "PTVS MatriculationSchool ,Kancheepuram Sengazhuneeroadi veedi North Facing Room No. 11, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 110,
+    "station_no": "110",
+    "building": "C.M. Suburaya Mudaliyar High school, Mahanadu Dharmaraja Street East Facing , East side",
+    "village": "Mahanadu Dharmaraja Street East Facing",
+    "search_address": "C.M. Suburaya Mudaliyar High school, Mahanadu Dharmaraja Street East Facing , East side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 111,
+    "station_no": "111",
+    "building": "C.M. Suburaya Mudaliyar High school Mahanadu Dharmaraja Street ,Kancheepuram, East Facing South Side Main Building",
+    "village": "Kancheepuram",
+    "search_address": "C.M. Suburaya Mudaliyar High school Mahanadu Dharmaraja Street ,Kancheepuram, East Facing South Side Main Building, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 112,
+    "station_no": "112",
+    "building": "Sri S.S.K.V. girls higher secondary school ,Kancheepuram Raguram illam, West Facing North side",
+    "village": "Kancheepuram Raguram illam",
+    "search_address": "Sri S.S.K.V. girls higher secondary school ,Kancheepuram Raguram illam, West Facing North side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 113,
+    "station_no": "113",
+    "building": "Sri S.S.K.V. girls higher secondary school ,Kancheepuram Raguram illam, West Facing South side",
+    "village": "Kancheepuram Raguram illam",
+    "search_address": "Sri S.S.K.V. girls higher secondary school ,Kancheepuram Raguram illam, West Facing South side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 114,
+    "station_no": "114",
+    "building": "Narayanaguru Matriculation Higher Secondary School, Egambaranatha sannathi Street, Periya Kancheepuram South Facing West wing",
+    "village": "Egambaranatha sannathi Street",
+    "search_address": "Narayanaguru Matriculation Higher Secondary School, Egambaranatha sannathi Street, Periya Kancheepuram South Facing West wing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 115,
+    "station_no": "115",
+    "building": "Narayanaguru Matriculation Higher Secondary School, Egambaranatha sannathi theru Periya Kancheepuram North Facing,",
+    "village": "Egambaranatha sannathi theru Periya Kancheepuram North Facing",
+    "search_address": "Narayanaguru Matriculation Higher Secondary School, Egambaranatha sannathi theru Periya Kancheepuram North Facing,, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 116,
+    "station_no": "116",
+    "building": "Narayanaguru Matriculation Higher Secondary School, Egambaranatha sannathi theru PeriyaKancheepuram South Facing",
+    "village": "Egambaranatha sannathi theru PeriyaKancheepuram South Facing",
+    "search_address": "Narayanaguru Matriculation Higher Secondary School, Egambaranatha sannathi theru PeriyaKancheepuram South Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 117,
+    "station_no": "117",
+    "building": "K.V.K. Naickar Municipal Middle school ,Uperikulam DR.P.S.Srinivas Branch, South Side North Facing",
+    "village": "Uperikulam DR",
+    "search_address": "K.V.K. Naickar Municipal Middle school ,Uperikulam DR.P.S.Srinivas Branch, South Side North Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 118,
+    "station_no": "118",
+    "building": "Narayanaguru Matriculation Higher Secondary School, Egambaranatha sannathi theru PeriyaKancheepuram South Facing",
+    "village": "Egambaranatha sannathi theru PeriyaKancheepuram South Facing",
+    "search_address": "Narayanaguru Matriculation Higher Secondary School, Egambaranatha sannathi theru PeriyaKancheepuram South Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 119,
+    "station_no": "119",
+    "building": "K.V.K. Naickar Municipal Middle school ,Uperikulam.Dr.PSS Branch.North Facing Middle Room",
+    "village": "Uperikulam",
+    "search_address": "K.V.K. Naickar Municipal Middle school ,Uperikulam.Dr.PSS Branch.North Facing Middle Room, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 120,
+    "station_no": "120",
+    "building": "K.V.K. Naickar Municipal Middle school ,Uperikulam.Dr.PSS Branch.West Faicng North Side",
+    "village": "Uperikulam",
+    "search_address": "K.V.K. Naickar Municipal Middle school ,Uperikulam.Dr.PSS Branch.West Faicng North Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 121,
+    "station_no": "121",
+    "building": "Kailasanathar Koil Municipal Primary School Backside,Kanchipuram North Facing East Side",
+    "village": "Kanchipuram North Facing East Side",
+    "search_address": "Kailasanathar Koil Municipal Primary School Backside,Kanchipuram North Facing East Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 122,
+    "station_no": "122",
+    "building": "ICDS Centre Kailasanathar Koil Backside,Kanchipuram north face",
+    "village": "Kanchipuram north face",
+    "search_address": "ICDS Centre Kailasanathar Koil Backside,Kanchipuram north face, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 123,
+    "station_no": "123",
+    "building": "Global Matriculation Higher Secondary School, Pillaiyarpalayam, Kancheepuram East Facing",
+    "village": "Pillaiyarpalayam",
+    "search_address": "Global Matriculation Higher Secondary School, Pillaiyarpalayam, Kancheepuram East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 124,
+    "station_no": "124",
+    "building": "Global Matriculation Higher Secondary School, Pillaiyarpalayam, Kancheepuram North Facing",
+    "village": "Pillaiyarpalayam",
+    "search_address": "Global Matriculation Higher Secondary School, Pillaiyarpalayam, Kancheepuram North Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 125,
+    "station_no": "125",
+    "building": "Global Matriculation Higher Secondary School, Pillaiyarpalayam, Kancheepuram West Facing",
+    "village": "Pillaiyarpalayam",
+    "search_address": "Global Matriculation Higher Secondary School, Pillaiyarpalayam, Kancheepuram West Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 126,
+    "station_no": "126",
+    "building": "Chairman Saminathan Mudaliyar Municipal Higher secondary school ,Kancheepuram North Facing .R.NO.1",
+    "village": "Kancheepuram North Facing",
+    "search_address": "Chairman Saminathan Mudaliyar Municipal Higher secondary school ,Kancheepuram North Facing .R.NO.1, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 127,
+    "station_no": "127",
+    "building": "Chairman Saminathan Mudaliyar Municipal Higher secondary school Pillayarpalayam Branch School ,Kancheepuram North Facing East Side 3 Room Building",
+    "village": "Kancheepuram North Facing East Side",
+    "search_address": "Chairman Saminathan Mudaliyar Municipal Higher secondary school Pillayarpalayam Branch School ,Kancheepuram North Facing East Side 3 Room Building, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 128,
+    "station_no": "128",
+    "building": "Mel Pillaiyar palayam Municipal Middle school ,Kancheepuram Nadu st, East Facing North Side",
+    "village": "Kancheepuram Nadu st",
+    "search_address": "Mel Pillaiyar palayam Municipal Middle school ,Kancheepuram Nadu st, East Facing North Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 129,
+    "station_no": "129",
+    "building": "Mel Pillaiyar palayam Municipal Middle school ,Kancheepuram Nadu st, New Building West Facing South Side",
+    "village": "Kancheepuram Nadu st",
+    "search_address": "Mel Pillaiyar palayam Municipal Middle school ,Kancheepuram Nadu st, New Building West Facing South Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 130,
+    "station_no": "130",
+    "building": "Mel Pillaiyar palayam Municipal Middle school ,Kancheepuram Nadu st, New Building west Facing",
+    "village": "Kancheepuram Nadu st",
+    "search_address": "Mel Pillaiyar palayam Municipal Middle school ,Kancheepuram Nadu st, New Building west Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 131,
+    "station_no": "131",
+    "building": "Mel Pillaiyar palayam Municipal Middle school ,Kancheepuram Nadu st, West Facing",
+    "village": "Kancheepuram Nadu st",
+    "search_address": "Mel Pillaiyar palayam Municipal Middle school ,Kancheepuram Nadu st, West Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 132,
+    "station_no": "132",
+    "building": "Chairman Saminathan Mudaliyar Municipal Higher Secondary school ,Kanchipuram New Building East side North Face",
+    "village": "Kanchipuram New Building East side North Face",
+    "search_address": "Chairman Saminathan Mudaliyar Municipal Higher Secondary school ,Kanchipuram New Building East side North Face, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 133,
+    "station_no": "133",
+    "building": "Chairman Saminathan Mudaliyar Municipal primary school, New Building East side North Face Room No 2, Kanchipuram -631502",
+    "village": "New Building East side North Face Room No",
+    "search_address": "Chairman Saminathan Mudaliyar Municipal primary school, New Building East side North Face Room No 2, Kanchipuram -631502, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 134,
+    "station_no": "134",
+    "building": "Chairman Saminathan Mudaliyar Municipal Higher Secondary School ,Kanchipuram New Building west side",
+    "village": "Kanchipuram New Building west side",
+    "search_address": "Chairman Saminathan Mudaliyar Municipal Higher Secondary School ,Kanchipuram New Building west side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 135,
+    "station_no": "135",
+    "building": "Chairman Saminathan Mudaliyar Municipal Higher Secondary School ,Kanchipuram New Building East side West facing Room No. 8",
+    "village": "Kanchipuram New Building East side West facing Room No",
+    "search_address": "Chairman Saminathan Mudaliyar Municipal Higher Secondary School ,Kanchipuram New Building East side West facing Room No. 8, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 136,
+    "station_no": "136",
+    "building": "Chairman Saminathan Mudaliyar Municipal Higher secondary school (Branch School) ,Kancheepuram South Facing Room No. 10",
+    "village": "Kancheepuram South Facing Room No",
+    "search_address": "Chairman Saminathan Mudaliyar Municipal Higher secondary school (Branch School) ,Kancheepuram South Facing Room No. 10, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 137,
+    "station_no": "137",
+    "building": "Mel Pillaiyarpalayam Municipal Middle School,Pillaiyarpalayam Kancheepuram East Facing South Side",
+    "village": "Pillaiyarpalayam Kancheepuram East Facing South Side",
+    "search_address": "Mel Pillaiyarpalayam Municipal Middle School,Pillaiyarpalayam Kancheepuram East Facing South Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 138,
+    "station_no": "138",
+    "building": "Chairman Saminathan Mudaliyar Municipal primary school ,New building North Facing Block West room",
+    "village": "New building North Facing Block West room",
+    "search_address": "Chairman Saminathan Mudaliyar Municipal primary school ,New building North Facing Block West room, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 139,
+    "station_no": "139",
+    "building": "Chairman Saminathan Mudaliyar Municipal primary school, Kancheepuram North Facing East wing",
+    "village": "Kancheepuram North Facing East wing",
+    "search_address": "Chairman Saminathan Mudaliyar Municipal primary school, Kancheepuram North Facing East wing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 140,
+    "station_no": "140",
+    "building": "Chairman Saminathan Mudaliyar Municipal Higher secondary school Pillayarpalayam Branch School Kancheepuram East Facing West Side Building North Side",
+    "village": "",
+    "search_address": "Chairman Saminathan Mudaliyar Municipal Higher secondary school Pillayarpalayam Branch School Kancheepuram East Facing West Side Building North Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 141,
+    "station_no": "141",
+    "building": "Chairman Saminathan Mudaliyar Municipal Higher Secondary school , Pillaiyarpalayam Kanchipuram South Facing",
+    "village": "Pillaiyarpalayam Kanchipuram South Facing",
+    "search_address": "Chairman Saminathan Mudaliyar Municipal Higher Secondary school , Pillaiyarpalayam Kanchipuram South Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 142,
+    "station_no": "142",
+    "building": "Chairman Saminathan Mudaliyar Municipal primary school ,Kanchipuram New Building East side North Face",
+    "village": "Kanchipuram New Building East side North Face",
+    "search_address": "Chairman Saminathan Mudaliyar Municipal primary school ,Kanchipuram New Building East side North Face, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 143,
+    "station_no": "143",
+    "building": "Sri S.S.K.V. girls higher secondary school ,Kancheepuram , West Facing V.R. Block South Side",
+    "village": "Kancheepuram",
+    "search_address": "Sri S.S.K.V. girls higher secondary school ,Kancheepuram , West Facing V.R. Block South Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 144,
+    "station_no": "144",
+    "building": "Sri S.S.K.V.Girls Higher Secondary school, Kancheepuram West facing",
+    "village": "Kancheepuram West facing",
+    "search_address": "Sri S.S.K.V.Girls Higher Secondary school, Kancheepuram West facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 145,
+    "station_no": "145",
+    "building": "Sri S.S.K.V. girls higher secondary school ,Kancheepuram North facing V.R. Block",
+    "village": "Kancheepuram North facing V",
+    "search_address": "Sri S.S.K.V. girls higher secondary school ,Kancheepuram North facing V.R. Block, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 146,
+    "station_no": "146",
+    "building": "Okkapiranthankulam Municipal primary school ,Kanchipuram West Facing North Side",
+    "village": "Kanchipuram West Facing North Side",
+    "search_address": "Okkapiranthankulam Municipal primary school ,Kanchipuram West Facing North Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 147,
+    "station_no": "147",
+    "building": "Okkapiranthankulam Municipal primary school ,Kanchipuram West Facing South Side",
+    "village": "Kanchipuram West Facing South Side",
+    "search_address": "Okkapiranthankulam Municipal primary school ,Kanchipuram West Facing South Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 148,
+    "station_no": "148",
+    "building": "Pachaiyappan Higher secondary school , South Facing North Building East Side",
+    "village": "South Facing North Building East Side",
+    "search_address": "Pachaiyappan Higher secondary school , South Facing North Building East Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 149,
+    "station_no": "149",
+    "building": "Pachaiyappan Higher secondary school ,Room No.89, Kanchipuram north block east Facing",
+    "village": "Room No",
+    "search_address": "Pachaiyappan Higher secondary school ,Room No.89, Kanchipuram north block east Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 150,
+    "station_no": "150",
+    "building": "Anderson Higher secondary school ,Kachipuram Near PTA Block West Building West Facing",
+    "village": "Kachipuram Near PTA Block West Building West Facing",
+    "search_address": "Anderson Higher secondary school ,Kachipuram Near PTA Block West Building West Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 151,
+    "station_no": "151",
+    "building": "Anderson Higher secondary school ,Kachipuram Near West Building North, West Facing",
+    "village": "Kachipuram Near West Building North",
+    "search_address": "Anderson Higher secondary school ,Kachipuram Near West Building North, West Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 152,
+    "station_no": "152",
+    "building": "Anderson Higher secondary school ,Kachipuram Near West Facing Building North wing,",
+    "village": "Kachipuram Near West Facing Building North wing",
+    "search_address": "Anderson Higher secondary school ,Kachipuram Near West Facing Building North wing,, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 153,
+    "station_no": "153",
+    "building": "Anderson Higher Secondary School,Kancheepuram South Facing",
+    "village": "Kancheepuram South Facing",
+    "search_address": "Anderson Higher Secondary School,Kancheepuram South Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 154,
+    "station_no": "154",
+    "building": "Anderson Higher secondary school, Near Millinium Block South Facing 7th Std, Kanchipuram-631502",
+    "village": "Near Millinium Block South Facing",
+    "search_address": "Anderson Higher secondary school, Near Millinium Block South Facing 7th Std, Kanchipuram-631502, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 155,
+    "station_no": "155",
+    "building": "Anderson Higher secondary school, Millinium Block South Facing 8th Std, Kanchipuram-631502",
+    "village": "Millinium Block South Facing",
+    "search_address": "Anderson Higher secondary school, Millinium Block South Facing 8th Std, Kanchipuram-631502, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 156,
+    "station_no": "156",
+    "building": "R.B.A.N.M. Government Girls Higher secondary school ,Center Roon North part kanchipuram East Facing North Side 1st Room",
+    "village": "Center Roon North part kanchipuram East Facing North Side",
+    "search_address": "R.B.A.N.M. Government Girls Higher secondary school ,Center Roon North part kanchipuram East Facing North Side 1st Room, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 157,
+    "station_no": "157",
+    "building": "Dr.P.S. Srinivasan Municiple Higher secondary school ,Vaikundapuram St, Kanchipuram West Facing",
+    "village": "Vaikundapuram St",
+    "search_address": "Dr.P.S. Srinivasan Municiple Higher secondary school ,Vaikundapuram St, Kanchipuram West Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 158,
+    "station_no": "158",
+    "building": "R.B.A.N.M. Government Girls Higher secondary school ,Center Roon North part kanchipuram East Facing",
+    "village": "Center Roon North part kanchipuram East Facing",
+    "search_address": "R.B.A.N.M. Government Girls Higher secondary school ,Center Roon North part kanchipuram East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 159,
+    "station_no": "159",
+    "building": "R.B.A.N.M. Government Girls Higher secondary school North part, East Facing, Kanchipuram 631502",
+    "village": "East Facing",
+    "search_address": "R.B.A.N.M. Government Girls Higher secondary school North part, East Facing, Kanchipuram 631502, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 160,
+    "station_no": "160",
+    "building": "R.B.A.N.M. Government Girls Higher secondary school Left Side North part, East Facing, Kanchipuram -631502",
+    "village": "East Facing",
+    "search_address": "R.B.A.N.M. Government Girls Higher secondary school Left Side North part, East Facing, Kanchipuram -631502, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 161,
+    "station_no": "161",
+    "building": "R.B.A.N.M. Government Girls Higher secondary school ,Center Room North part kanchipuram East Facing North Side 4th Room",
+    "village": "Center Room North part kanchipuram East Facing North Side",
+    "search_address": "R.B.A.N.M. Government Girls Higher secondary school ,Center Room North part kanchipuram East Facing North Side 4th Room, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 162,
+    "station_no": "162",
+    "building": "Peraringnar Anna Memorial Hall Rani Annadurai Girls Higher Secondary School ,Shekpettai Kanchipuram East Facing",
+    "village": "Shekpettai Kanchipuram East Facing",
+    "search_address": "Peraringnar Anna Memorial Hall Rani Annadurai Girls Higher Secondary School ,Shekpettai Kanchipuram East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 163,
+    "station_no": "163",
+    "building": "Dr. P.S. Srinivasan Higher Secondary school Vaikuntapuram Street, KPM. Bharathiyar Centurian New Building South Block West Facing",
+    "village": "KPM",
+    "search_address": "Dr. P.S. Srinivasan Higher Secondary school Vaikuntapuram Street, KPM. Bharathiyar Centurian New Building South Block West Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 164,
+    "station_no": "164",
+    "building": "Doctor P.S. Srinivasan Higher Secondary school Vaikuntapuram Street, Bharathiyar Centurian New Building South Block West Side, Kancheepuram- 631502",
+    "village": "Bharathiyar Centurian New Building South Block West Side",
+    "search_address": "Doctor P.S. Srinivasan Higher Secondary school Vaikuntapuram Street, Bharathiyar Centurian New Building South Block West Side, Kancheepuram- 631502, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 165,
+    "station_no": "165",
+    "building": "Reddypettai Municipal Primary School,Reddypettai, Kancheepuram South Facing",
+    "village": "Reddypettai",
+    "search_address": "Reddypettai Municipal Primary School,Reddypettai, Kancheepuram South Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 166,
+    "station_no": "166",
+    "building": "Reddypettai Municipal Primary school,Reddypettai, Kancheepuram South Facing Middle Room",
+    "village": "Reddypettai",
+    "search_address": "Reddypettai Municipal Primary school,Reddypettai, Kancheepuram South Facing Middle Room, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 167,
+    "station_no": "167",
+    "building": "Veterinary Office department ,Hostpital Road, 3rd Building Kanchipuram South Facing East wing",
+    "village": "Hostpital Road",
+    "search_address": "Veterinary Office department ,Hostpital Road, 3rd Building Kanchipuram South Facing East wing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 168,
+    "station_no": "168",
+    "building": "Veterinary Office Department,Kanchipuram South Facing Middle Room",
+    "village": "Kanchipuram South Facing Middle Room",
+    "search_address": "Veterinary Office Department,Kanchipuram South Facing Middle Room, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 169,
+    "station_no": "169",
+    "building": "Municipal Primary School ,Gandhi Road,kancheepuram North Facing East Side",
+    "village": "Gandhi Road",
+    "search_address": "Municipal Primary School ,Gandhi Road,kancheepuram North Facing East Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 170,
+    "station_no": "170",
+    "building": "Municipal Primary School ,Gandhi Road, kancheepuram East Facing South Side",
+    "village": "Gandhi Road",
+    "search_address": "Municipal Primary School ,Gandhi Road, kancheepuram East Facing South Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 171,
+    "station_no": "171",
+    "building": "Nutrious meal centre ,Kanchipuram 31-32 East Facing North Building",
+    "village": "Kanchipuram",
+    "search_address": "Nutrious meal centre ,Kanchipuram 31-32 East Facing North Building, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 172,
+    "station_no": "172",
+    "building": "Municipal Primary school ,Gandhi Road, Kanchipuram North Side Building East Building",
+    "village": "Gandhi Road",
+    "search_address": "Municipal Primary school ,Gandhi Road, Kanchipuram North Side Building East Building, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 173,
+    "station_no": "173",
+    "building": "Pachaiyappan Higher secondary school, Kanchipuram East Face",
+    "village": "Kanchipuram East Face",
+    "search_address": "Pachaiyappan Higher secondary school, Kanchipuram East Face, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 174,
+    "station_no": "174",
+    "building": "Pachaiyappan Higher secondary school ,Room No.8, Kanchipuram North Face",
+    "village": "Room No",
+    "search_address": "Pachaiyappan Higher secondary school ,Room No.8, Kanchipuram North Face, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 175,
+    "station_no": "175",
+    "building": "Pachaiyappan Higher Secondary School,Kancheepuram North East Building South Facing",
+    "village": "Kancheepuram North East Building South Facing",
+    "search_address": "Pachaiyappan Higher Secondary School,Kancheepuram North East Building South Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 176,
+    "station_no": "176",
+    "building": "Thiyagi Middle school ,Karukinil Amarnthaval Koil St Kanchipuram East Facing South Wing",
+    "village": "Karukinil Amarnthaval Koil St Kanchipuram East Facing South Wing",
+    "search_address": "Thiyagi Middle school ,Karukinil Amarnthaval Koil St Kanchipuram East Facing South Wing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 177,
+    "station_no": "177",
+    "building": "Thiyagi Middle school ,Karukinil Amarnthaval Koil St Kanchipuram North wing West Facing",
+    "village": "Karukinil Amarnthaval Koil St Kanchipuram North wing West Facing",
+    "search_address": "Thiyagi Middle school ,Karukinil Amarnthaval Koil St Kanchipuram North wing West Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 178,
+    "station_no": "178",
+    "building": "Thiyagi Middle school ,Karukinil Amarnthaval Koil Street, North Wing West Facing 8MW, Kanchipuram-631502",
+    "village": "Karukinil Amarnthaval Koil Street",
+    "search_address": "Thiyagi Middle school ,Karukinil Amarnthaval Koil Street, North Wing West Facing 8MW, Kanchipuram-631502, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 179,
+    "station_no": "179",
+    "building": "Thiyagi Middle school ,Karukinil Amarnthaval Koil St Kanchipuram West Facing",
+    "village": "Karukinil Amarnthaval Koil St Kanchipuram West Facing",
+    "search_address": "Thiyagi Middle school ,Karukinil Amarnthaval Koil St Kanchipuram West Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 180,
+    "station_no": "180",
+    "building": "Thiyagi Middle school ,Karukinil Amarnthaval Koil St, Kanchipuram North Wing South Facing",
+    "village": "Karukinil Amarnthaval Koil St",
+    "search_address": "Thiyagi Middle school ,Karukinil Amarnthaval Koil St, Kanchipuram North Wing South Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 181,
+    "station_no": "181",
+    "building": "Thiyagi Middle school ,Karukinil Amarnthaval Koil Street, North Wing South Facing 7th Std, Kanchipuram -631502",
+    "village": "Karukinil Amarnthaval Koil Street",
+    "search_address": "Thiyagi Middle school ,Karukinil Amarnthaval Koil Street, North Wing South Facing 7th Std, Kanchipuram -631502, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 182,
+    "station_no": "182",
+    "building": "Victoria Matriculation Higher Secondary School ,M.M.Avenue, Near A.K.G.Kalyanamandapam. Kanchipuram North Facing Room No. 1",
+    "village": "Near A",
+    "search_address": "Victoria Matriculation Higher Secondary School ,M.M.Avenue, Near A.K.G.Kalyanamandapam. Kanchipuram North Facing Room No. 1, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 183,
+    "station_no": "183",
+    "building": "Victoria Matriculation Higher Secondary School ,M.M.Avenue, Near A.K.G.Kalyanamandapam. Kanchipuram North Facing Room No. 2",
+    "village": "Near A",
+    "search_address": "Victoria Matriculation Higher Secondary School ,M.M.Avenue, Near A.K.G.Kalyanamandapam. Kanchipuram North Facing Room No. 2, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 184,
+    "station_no": "184",
+    "building": "Victoria Matriculation Higher Secondary School ,M.M.Avenue, Near A.K.G.Kalyanamandapam. Kanchipuram East Face",
+    "village": "Near A",
+    "search_address": "Victoria Matriculation Higher Secondary School ,M.M.Avenue, Near A.K.G.Kalyanamandapam. Kanchipuram East Face, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 185,
+    "station_no": "185",
+    "building": "Victoria Matriculation Higher Secondary School ,M.M.Avenue, Near A.K.G.Kalyanamandapam. Kanchipuram North Facing Room No. 5",
+    "village": "Near A",
+    "search_address": "Victoria Matriculation Higher Secondary School ,M.M.Avenue, Near A.K.G.Kalyanamandapam. Kanchipuram North Facing Room No. 5, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 186,
+    "station_no": "186",
+    "building": "CSI Middle school ,School Street Kanchipuram South Facing",
+    "village": "School Street Kanchipuram South Facing",
+    "search_address": "CSI Middle school ,School Street Kanchipuram South Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 187,
+    "station_no": "187",
+    "building": "CSI Middle school ,School Mettu Street Kanchipuram East Facing South Side",
+    "village": "School Mettu Street Kanchipuram East Facing South Side",
+    "search_address": "CSI Middle school ,School Mettu Street Kanchipuram East Facing South Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 188,
+    "station_no": "188",
+    "building": "Victoria Nursary school ,M.M.Avenue, Near Rangasamy Kanchipuram North Facing",
+    "village": "Near Rangasamy Kanchipuram North Facing",
+    "search_address": "Victoria Nursary school ,M.M.Avenue, Near Rangasamy Kanchipuram North Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 189,
+    "station_no": "189",
+    "building": "Chairman Thangavelu Municipal High school ,Kanchipuram Thumbavanam Street South Face",
+    "village": "Kanchipuram Thumbavanam Street South Face",
+    "search_address": "Chairman Thangavelu Municipal High school ,Kanchipuram Thumbavanam Street South Face, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 190,
+    "station_no": "190",
+    "building": "Chairman Thangavelu Mudhaliyar High School, Thumbavanam Street North Facing West Side",
+    "village": "Thumbavanam Street North Facing West Side",
+    "search_address": "Chairman Thangavelu Mudhaliyar High School, Thumbavanam Street North Facing West Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 191,
+    "station_no": "191",
+    "building": "Chairman Thangavelu Municipal High school ,Kanchipuram Thumbavanam Street South Face",
+    "village": "Kanchipuram Thumbavanam Street South Face",
+    "search_address": "Chairman Thangavelu Municipal High school ,Kanchipuram Thumbavanam Street South Face, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 192,
+    "station_no": "192",
+    "building": "Chairman Thangavelu Mudhaliyar High School, Thumbavanam Street South Facing West Side",
+    "village": "Thumbavanam Street South Facing West Side",
+    "search_address": "Chairman Thangavelu Mudhaliyar High School, Thumbavanam Street South Facing West Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 193,
+    "station_no": "193",
+    "building": "Thiru. Muthu chettiyar Municipal Middle school ,Narayanapalayam St Kanchipuram East Facing South Side",
+    "village": "Narayanapalayam St Kanchipuram East Facing South Side",
+    "search_address": "Thiru. Muthu chettiyar Municipal Middle school ,Narayanapalayam St Kanchipuram East Facing South Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 194,
+    "station_no": "194",
+    "building": "Thiru. Muthu chettiyar Municipal Middle school ,Narayanapalayam St Kanchipuram East Facing",
+    "village": "Narayanapalayam St Kanchipuram East Facing",
+    "search_address": "Thiru. Muthu chettiyar Municipal Middle school ,Narayanapalayam St Kanchipuram East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 195,
+    "station_no": "195",
+    "building": "Thiru. Muthu chettiyar Municipal Middle school ,Narayanapalayam Street, East Facing Room No.3, Kanchipuram -631502",
+    "village": "Narayanapalayam Street",
+    "search_address": "Thiru. Muthu chettiyar Municipal Middle school ,Narayanapalayam Street, East Facing Room No.3, Kanchipuram -631502, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 196,
+    "station_no": "196",
+    "building": "Pachaiyappan Womens college ,Kanchipuram West Facing",
+    "village": "Kanchipuram West Facing",
+    "search_address": "Pachaiyappan Womens college ,Kanchipuram West Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 197,
+    "station_no": "197",
+    "building": "Pachaiyappas Womens College,Vegavathi Nadhi Road Kancheepuram West Facing Room No. 8",
+    "village": "Vegavathi Nadhi Road Kancheepuram West Facing Room No",
+    "search_address": "Pachaiyappas Womens College,Vegavathi Nadhi Road Kancheepuram West Facing Room No. 8, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 198,
+    "station_no": "198",
+    "building": "Pachaiyappas Womens College, Vegavathi Nadhi Road Kancheepuram North Facing Room No 12",
+    "village": "Vegavathi Nadhi Road Kancheepuram North Facing Room No",
+    "search_address": "Pachaiyappas Womens College, Vegavathi Nadhi Road Kancheepuram North Facing Room No 12, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 199,
+    "station_no": "199",
+    "building": "Pachaiyappas Womens College, Vegavathi Nadhi Road Kancheepuram East Facing Room No.6",
+    "village": "Vegavathi Nadhi Road Kancheepuram East Facing Room No",
+    "search_address": "Pachaiyappas Womens College, Vegavathi Nadhi Road Kancheepuram East Facing Room No.6, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 200,
+    "station_no": "200",
+    "building": "Pachaiyappas Womens College, Vegavathi Nadhi Road Kancheepuram East Facing North Side",
+    "village": "Vegavathi Nadhi Road Kancheepuram East Facing North Side",
+    "search_address": "Pachaiyappas Womens College, Vegavathi Nadhi Road Kancheepuram East Facing North Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 201,
+    "station_no": "201",
+    "building": "Pachaiyappan Branch Middle school ,Kanchipuram North Facing",
+    "village": "Kanchipuram North Facing",
+    "search_address": "Pachaiyappan Branch Middle school ,Kanchipuram North Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 202,
+    "station_no": "202",
+    "building": "Municipal Primary School ,Kumar St, Chinna Kanchipuram East Face",
+    "village": "Kumar St",
+    "search_address": "Municipal Primary School ,Kumar St, Chinna Kanchipuram East Face, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 203,
+    "station_no": "203",
+    "building": "Yathothakari Municipal Primary school ,Yadothakari Mada St, Chinna Kanchipuram South Facing East Side",
+    "village": "Yadothakari Mada St",
+    "search_address": "Yathothakari Municipal Primary school ,Yadothakari Mada St, Chinna Kanchipuram South Facing East Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 204,
+    "station_no": "204",
+    "building": "Yathothakari Municipal Primary school ,Yadothakari Mada St, Chinna Kanchipuram East facing North Side",
+    "village": "Yadothakari Mada St",
+    "search_address": "Yathothakari Municipal Primary school ,Yadothakari Mada St, Chinna Kanchipuram East facing North Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 205,
+    "station_no": "205",
+    "building": "CSI Primary School, T.K.Nambi Street, Chinna kancheepuram South Facing",
+    "village": "Chinna kancheepuram South Facing",
+    "search_address": "CSI Primary School, T.K.Nambi Street, Chinna kancheepuram South Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 206,
+    "station_no": "206",
+    "building": "Municipal Primary school Yathothakari Mada veethy ,Kanchipuram ICDS Centre, South Facing",
+    "village": "Kanchipuram ICDS Centre",
+    "search_address": "Municipal Primary school Yathothakari Mada veethy ,Kanchipuram ICDS Centre, South Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 207,
+    "station_no": "207",
+    "building": "Yagasalai Municipal Middle school ,Kanchipuram East Side South Facing",
+    "village": "Kanchipuram East Side South Facing",
+    "search_address": "Yagasalai Municipal Middle school ,Kanchipuram East Side South Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 208,
+    "station_no": "208",
+    "building": "Yagasalai Municipal Middle school ,Kanchipuram North Side South Facing",
+    "village": "Kanchipuram North Side South Facing",
+    "search_address": "Yagasalai Municipal Middle school ,Kanchipuram North Side South Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 209,
+    "station_no": "209",
+    "building": "Yagasalai Municipal Middle school ,Kanchipuram South facing",
+    "village": "Kanchipuram South facing",
+    "search_address": "Yagasalai Municipal Middle school ,Kanchipuram South facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 210,
+    "station_no": "210",
+    "building": "Pachaiyappas Branch Middle School, North Facing, East Side",
+    "village": "North Facing",
+    "search_address": "Pachaiyappas Branch Middle School, North Facing, East Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 211,
+    "station_no": "211",
+    "building": "B.Missirilal Sowkar Government Girls Higher secondary school ,Room No.14, Kanchipuram, New Building East Facing West Side",
+    "village": "Room No",
+    "search_address": "B.Missirilal Sowkar Government Girls Higher secondary school ,Room No.14, Kanchipuram, New Building East Facing West Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 212,
+    "station_no": "212",
+    "building": "B.Missirilal Sowkar Government Girls Higher secondary school ,Room No.14, Kanchipuram New Building West Facing",
+    "village": "Room No",
+    "search_address": "B.Missirilal Sowkar Government Girls Higher secondary school ,Room No.14, Kanchipuram New Building West Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 213,
+    "station_no": "213",
+    "building": "Municipal Sri Krishna nithi nadum Middle school ,Kanchipuram Main Building East Facing Western wing North side",
+    "village": "Kanchipuram Main Building East Facing Western wing North side",
+    "search_address": "Municipal Sri Krishna nithi nadum Middle school ,Kanchipuram Main Building East Facing Western wing North side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 214,
+    "station_no": "214",
+    "building": "Municipal Sri Krishna nithi nadum Middle school, Main Building East Facing Western wing North side 6th Std, Kanchipuram - 631502",
+    "village": "Main Building East Facing Western wing North side",
+    "search_address": "Municipal Sri Krishna nithi nadum Middle school, Main Building East Facing Western wing North side 6th Std, Kanchipuram - 631502, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 215,
+    "station_no": "215",
+    "building": "Municipal Sri Krishna nithi nadum Middle school ,Kanchipuram, New Building, West Facing South Side",
+    "village": "Kanchipuram",
+    "search_address": "Municipal Sri Krishna nithi nadum Middle school ,Kanchipuram, New Building, West Facing South Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 216,
+    "station_no": "216",
+    "building": "Municipal Sri Krishna nithi nadum Middle school ,Kanchipuram Main Building East Facing Western wing North side",
+    "village": "Kanchipuram Main Building East Facing Western wing North side",
+    "search_address": "Municipal Sri Krishna nithi nadum Middle school ,Kanchipuram Main Building East Facing Western wing North side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 217,
+    "station_no": "217",
+    "building": "Municipal Sri Krishna Aided Middle school ,Kancheepuram Main Building East Facing West wing South side",
+    "village": "Kancheepuram Main Building East Facing West wing South side",
+    "search_address": "Municipal Sri Krishna Aided Middle school ,Kancheepuram Main Building East Facing West wing South side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 218,
+    "station_no": "218",
+    "building": "B.Missirilal Sowkar Government Girls Higher secondary school ,Kanchipuram South side building North Facing East Side",
+    "village": "Kanchipuram South side building North Facing East Side",
+    "search_address": "B.Missirilal Sowkar Government Girls Higher secondary school ,Kanchipuram South side building North Facing East Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 219,
+    "station_no": "219",
+    "building": "B.Missirilal Sowkar Government Girls Higher secondary school ,Kanchipuram East Facing South Side Commerce Hall",
+    "village": "Kanchipuram East Facing South Side Commerce Hall",
+    "search_address": "B.Missirilal Sowkar Government Girls Higher secondary school ,Kanchipuram East Facing South Side Commerce Hall, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 220,
+    "station_no": "220",
+    "building": "B.Missirilal Sowkar Government Girls Higher secondary school ,Kanchipuram New building West Facing",
+    "village": "Kanchipuram New building West Facing",
+    "search_address": "B.Missirilal Sowkar Government Girls Higher secondary school ,Kanchipuram New building West Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 221,
+    "station_no": "221",
+    "building": "North mada Municipal Primary school ,Kanchipuram East Facing South side",
+    "village": "Kanchipuram East Facing South side",
+    "search_address": "North mada Municipal Primary school ,Kanchipuram East Facing South side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 222,
+    "station_no": "222",
+    "building": "North mada Municipal Primary school ,Kanchipuram East Facing North side",
+    "village": "Kanchipuram East Facing North side",
+    "search_address": "North mada Municipal Primary school ,Kanchipuram East Facing North side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 223,
+    "station_no": "223",
+    "building": "North mada Municipal Primary school ,Kanchipuram East Facing",
+    "village": "Kanchipuram East Facing",
+    "search_address": "North mada Municipal Primary school ,Kanchipuram East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 224,
+    "station_no": "224",
+    "building": "Municipal Primary school ,Kanchipuram Pattala St North Face",
+    "village": "Kanchipuram Pattala St North Face",
+    "search_address": "Municipal Primary school ,Kanchipuram Pattala St North Face, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 225,
+    "station_no": "225",
+    "building": "Municipal Middle school , Pattala St, Kanchipuram East Facing",
+    "village": "Pattala St",
+    "search_address": "Municipal Middle school , Pattala St, Kanchipuram East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 226,
+    "station_no": "226",
+    "building": "Municipal Primary school ,Kanchipuram Pattala St East Face North Side",
+    "village": "Kanchipuram Pattala St East Face North Side",
+    "search_address": "Municipal Primary school ,Kanchipuram Pattala St East Face North Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 227,
+    "station_no": "227",
+    "building": "Panchayat Union Primary School ,Putheri Periya Mettu Street (East Side Building) North Facing",
+    "village": "Putheri Periya Mettu Street",
+    "search_address": "Panchayat Union Primary School ,Putheri Periya Mettu Street (East Side Building) North Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 228,
+    "station_no": "228",
+    "building": "Panchayat Union Primary School ,Putheri Periya Mettu Street West Side Building East facing",
+    "village": "Putheri Periya Mettu Street West Side Building East facing",
+    "search_address": "Panchayat Union Primary School ,Putheri Periya Mettu Street West Side Building East facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 229,
+    "station_no": "229",
+    "building": "Panchayat Union Primary School, Mettu colony Putheri East facing",
+    "village": "Mettu colony Putheri East facing",
+    "search_address": "Panchayat Union Primary School, Mettu colony Putheri East facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 230,
+    "station_no": "230",
+    "building": "Panchayat Union Anganvadi Maiyam, Putheri West Building East Facing",
+    "village": "Putheri West Building East Facing",
+    "search_address": "Panchayat Union Anganvadi Maiyam, Putheri West Building East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 231,
+    "station_no": "231",
+    "building": "Panchayat Union Middle school ,J.J Nagar Sirukaveripakkam East Part South facing",
+    "village": "",
+    "search_address": "Panchayat Union Middle school ,J.J Nagar Sirukaveripakkam East Part South facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 232,
+    "station_no": "232",
+    "building": "Panchayat Union Middle school ,Sirukaveripakkam North Side South facing",
+    "village": "Sirukaveripakkam North Side South facing",
+    "search_address": "Panchayat Union Middle school ,Sirukaveripakkam North Side South facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 233,
+    "station_no": "233",
+    "building": "Panchayat Union Middle school ,Sirukaveripakkam West Part South facing",
+    "village": "Sirukaveripakkam West Part South facing",
+    "search_address": "Panchayat Union Middle school ,Sirukaveripakkam West Part South facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 234,
+    "station_no": "234",
+    "building": "Panchayat Union Middle School , North Facing 6th Std, Sirukaveripakkam-631502",
+    "village": "North Facing",
+    "search_address": "Panchayat Union Middle School , North Facing 6th Std, Sirukaveripakkam-631502, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 235,
+    "station_no": "235",
+    "building": "Panchayat Union Middle School, North Facing 7th Std, Sirukaveripakkam -631502",
+    "village": "North Facing",
+    "search_address": "Panchayat Union Middle School, North Facing 7th Std, Sirukaveripakkam -631502, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 236,
+    "station_no": "236",
+    "building": "Panchayat Union Middle School, North Facing 8th Std, Sirukaveripakkam-631502",
+    "village": "North Facing",
+    "search_address": "Panchayat Union Middle School, North Facing 8th Std, Sirukaveripakkam-631502, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 237,
+    "station_no": "237",
+    "building": "Panchayat Union Middle school ,J.J Nagar Sirukaveripakkam south Facing",
+    "village": "",
+    "search_address": "Panchayat Union Middle school ,J.J Nagar Sirukaveripakkam south Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 238,
+    "station_no": "238",
+    "building": "Panchayat Union Palvadi building ,Karupadithatdadai North facing",
+    "village": "Karupadithatdadai North facing",
+    "search_address": "Panchayat Union Palvadi building ,Karupadithatdadai North facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 239,
+    "station_no": "239",
+    "building": "ICDS Centre, Earivakkam, East Facing",
+    "village": "Earivakkam",
+    "search_address": "ICDS Centre, Earivakkam, East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 240,
+    "station_no": "240",
+    "building": "Panchayat Union Library Building ,Karupadithatadai South Side East Facing",
+    "village": "Karupadithatadai South Side East Facing",
+    "search_address": "Panchayat Union Library Building ,Karupadithatadai South Side East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 241,
+    "station_no": "241",
+    "building": "Panchayat Union Middle School ,Thimmasamuthiram, South side Building South Facing",
+    "village": "Thimmasamuthiram",
+    "search_address": "Panchayat Union Middle School ,Thimmasamuthiram, South side Building South Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 242,
+    "station_no": "242",
+    "building": "Panchayat Union Middle School ,Thimmasamuthiram, West Side Building West wing South facing",
+    "village": "Thimmasamuthiram",
+    "search_address": "Panchayat Union Middle School ,Thimmasamuthiram, West Side Building West wing South facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 243,
+    "station_no": "243",
+    "building": "Panchayat Union Middle School ,Thimmasamudram South Facing",
+    "village": "Thimmasamudram South Facing",
+    "search_address": "Panchayat Union Middle School ,Thimmasamudram South Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 244,
+    "station_no": "244",
+    "building": "Panchayat Union Middle School ,Thimmasamudram North Facing",
+    "village": "Thimmasamudram North Facing",
+    "search_address": "Panchayat Union Middle School ,Thimmasamudram North Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 245,
+    "station_no": "245",
+    "building": "Panchayat union primary school ,Chembarambakkam North Facing",
+    "village": "Chembarambakkam North Facing",
+    "search_address": "Panchayat union primary school ,Chembarambakkam North Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 246,
+    "station_no": "246",
+    "building": "Government Adhithiravidar Nala Higher secondary school ,Enjambakkam West Facing South Side",
+    "village": "Enjambakkam West Facing South Side",
+    "search_address": "Government Adhithiravidar Nala Higher secondary school ,Enjambakkam West Facing South Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 247,
+    "station_no": "247",
+    "building": "Government Adhithiravidar Nala Higher secondary school ,Enjambakkam North Facing South Side",
+    "village": "Enjambakkam North Facing South Side",
+    "search_address": "Government Adhithiravidar Nala Higher secondary school ,Enjambakkam North Facing South Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 248,
+    "station_no": "248",
+    "building": "Panchayat Union Primary school , North Facing Pudupakkam East wing",
+    "village": "North Facing Pudupakkam East wing",
+    "search_address": "Panchayat Union Primary school , North Facing Pudupakkam East wing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 249,
+    "station_no": "249",
+    "building": "Panchayat Union Middle School ,Veliyur East Facing",
+    "village": "Veliyur East Facing",
+    "search_address": "Panchayat Union Middle School ,Veliyur East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 250,
+    "station_no": "250",
+    "building": "P.T.L.E.S.Chengalvaraya naickar nithi uthavi perum middle school ,Overi Chatram East Facing",
+    "village": "Overi Chatram East Facing",
+    "search_address": "P.T.L.E.S.Chengalvaraya naickar nithi uthavi perum middle school ,Overi Chatram East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 251,
+    "station_no": "251",
+    "building": "Panchayat Union Primary school ,Govindavadi new building north Facing",
+    "village": "Govindavadi new building north Facing",
+    "search_address": "Panchayat Union Primary school ,Govindavadi new building north Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 252,
+    "station_no": "252",
+    "building": "Panchayat Union Primary school ,Govindavadi Addl.Building West side West Facing",
+    "village": "Govindavadi Addl",
+    "search_address": "Panchayat Union Primary school ,Govindavadi Addl.Building West side West Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 253,
+    "station_no": "253",
+    "building": "Panchayat union primary school, North Facing South Side, Padunelli-631502",
+    "village": "North Facing South Side",
+    "search_address": "Panchayat union primary school, North Facing South Side, Padunelli-631502, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 254,
+    "station_no": "254",
+    "building": "Panchayat union primary school ,Kammavarpalayam East Facing Old Building",
+    "village": "Kammavarpalayam East Facing Old Building",
+    "search_address": "Panchayat union primary school ,Kammavarpalayam East Facing Old Building, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 255,
+    "station_no": "255",
+    "building": "Panchayat Union Middle school ,Samanthipuram South facing",
+    "village": "Samanthipuram South facing",
+    "search_address": "Panchayat Union Middle school ,Samanthipuram South facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 256,
+    "station_no": "256",
+    "building": "Panchayat Union Middle school ,Kottavakakm , North Building West facing",
+    "village": "Kottavakakm",
+    "search_address": "Panchayat Union Middle school ,Kottavakakm , North Building West facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 257,
+    "station_no": "257",
+    "building": "Government Hr. sec. school ,Pullalore Addl.Building Eastern side South Facing",
+    "village": "Pullalore Addl",
+    "search_address": "Government Hr. sec. school ,Pullalore Addl.Building Eastern side South Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 258,
+    "station_no": "258",
+    "building": "Government Hr. sec. school ,Pullalore Addl.Building Eastern side West Facing",
+    "village": "Pullalore Addl",
+    "search_address": "Government Hr. sec. school ,Pullalore Addl.Building Eastern side West Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 259,
+    "station_no": "259",
+    "building": "Government Hr. sec. school ,Pullalore Addl.Building South Facing Western Side",
+    "village": "Pullalore Addl",
+    "search_address": "Government Hr. sec. school ,Pullalore Addl.Building South Facing Western Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 260,
+    "station_no": "260",
+    "building": "Panchayat union primary school , Thandalam , South Facing",
+    "village": "Thandalam",
+    "search_address": "Panchayat union primary school , Thandalam , South Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 261,
+    "station_no": "261",
+    "building": "Panchayat Union Primary school ,Purisai North Facing",
+    "village": "Purisai North Facing",
+    "search_address": "Panchayat Union Primary school ,Purisai North Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 262,
+    "station_no": "262",
+    "building": "Panchayat Union Primary school ,Purisai North Facing",
+    "village": "Purisai North Facing",
+    "search_address": "Panchayat Union Primary school ,Purisai North Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 263,
+    "station_no": "263",
+    "building": "Panchayat Union Middle school ,Valathur East Facing",
+    "village": "Valathur East Facing",
+    "search_address": "Panchayat Union Middle school ,Valathur East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 264,
+    "station_no": "264",
+    "building": "Panchayat Union Middle School ,Kattupattur East Facing",
+    "village": "Kattupattur East Facing",
+    "search_address": "Panchayat Union Middle School ,Kattupattur East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 265,
+    "station_no": "265",
+    "building": "Aringnar Anna Government Higher Secondary school , Paranthur East Facing",
+    "village": "Paranthur East Facing",
+    "search_address": "Aringnar Anna Government Higher Secondary school , Paranthur East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 266,
+    "station_no": "266",
+    "building": "Panchayat union primary school ,Mettuparanthur East Facing",
+    "village": "Mettuparanthur East Facing",
+    "search_address": "Panchayat union primary school ,Mettuparanthur East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 267,
+    "station_no": "267",
+    "building": "Panchayat union primary school ,Thandalam East Facing",
+    "village": "Thandalam East Facing",
+    "search_address": "Panchayat union primary school ,Thandalam East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 268,
+    "station_no": "268",
+    "building": "Panchayat union primary school ,Nelvai East Facing",
+    "village": "Nelvai East Facing",
+    "search_address": "Panchayat union primary school ,Nelvai East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 269,
+    "station_no": "269",
+    "building": "Village Service Centre Podavur East Facing,",
+    "village": "",
+    "search_address": "Village Service Centre Podavur East Facing,, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 270,
+    "station_no": "270",
+    "building": "PUPS Siruvallur south facing East Side",
+    "village": "",
+    "search_address": "PUPS Siruvallur south facing East Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 271,
+    "station_no": "271",
+    "building": "Panchayat Union Middle school ,Siruvakkam Addl.Building (RCC Building) East Facing,",
+    "village": "Siruvakkam Addl",
+    "search_address": "Panchayat Union Middle school ,Siruvakkam Addl.Building (RCC Building) East Facing,, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 272,
+    "station_no": "272",
+    "building": "Panchayat Union Middle school ,Siruvakkam Addl.Building East Facing",
+    "village": "Siruvakkam Addl",
+    "search_address": "Panchayat Union Middle school ,Siruvakkam Addl.Building East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 273,
+    "station_no": "273",
+    "building": "Panchayat Union primary school ,Karai Western side Addl.Building West Facing",
+    "village": "Karai Western side Addl",
+    "search_address": "Panchayat Union primary school ,Karai Western side Addl.Building West Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 274,
+    "station_no": "274",
+    "building": "Panchayat Union Primary school ,Karai West Facing South side",
+    "village": "Karai West Facing South side",
+    "search_address": "Panchayat Union Primary school ,Karai West Facing South side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 275,
+    "station_no": "275",
+    "building": "Government Higher Secondary school ,Karai West Facing South Side",
+    "village": "Karai West Facing South Side",
+    "search_address": "Government Higher Secondary school ,Karai West Facing South Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 276,
+    "station_no": "276",
+    "building": "Panchayat union primary school ,Chettiyarpettai Addl.Building North Facing",
+    "village": "Chettiyarpettai Addl",
+    "search_address": "Panchayat union primary school ,Chettiyarpettai Addl.Building North Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 277,
+    "station_no": "277",
+    "building": "Panchayat Union Middle School ,Koothirampakkam South face Building East Side",
+    "village": "Koothirampakkam South face Building East Side",
+    "search_address": "Panchayat Union Middle School ,Koothirampakkam South face Building East Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 278,
+    "station_no": "278",
+    "building": "Panchayat union primary school,Thodur West facing",
+    "village": "Thodur West facing",
+    "search_address": "Panchayat union primary school,Thodur West facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 279,
+    "station_no": "279",
+    "building": "Panchayat Union middle school ,Neervalur North Facing",
+    "village": "Neervalur North Facing",
+    "search_address": "Panchayat Union middle school ,Neervalur North Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 280,
+    "station_no": "280",
+    "building": "Panchayat union Middle school ,Attuputhur North Facing New Building",
+    "village": "Attuputhur North Facing New Building",
+    "search_address": "Panchayat union Middle school ,Attuputhur North Facing New Building, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 281,
+    "station_no": "281",
+    "building": "Panchayat Union Middle school ,Chittiyampakkam South Facing",
+    "village": "Chittiyampakkam South Facing",
+    "search_address": "Panchayat Union Middle school ,Chittiyampakkam South Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 282,
+    "station_no": "282",
+    "building": "Panchayat Union Middle school ,Chittiyampakkam East Facing North side",
+    "village": "Chittiyampakkam East Facing North side",
+    "search_address": "Panchayat Union Middle school ,Chittiyampakkam East Facing North side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 283,
+    "station_no": "283",
+    "building": "CSI Middle school ,Vedal, south Facing",
+    "village": "Vedal",
+    "search_address": "CSI Middle school ,Vedal, south Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 284,
+    "station_no": "284",
+    "building": "Panchayat Union Primary School ,Enathur East Facing South side",
+    "village": "Enathur East Facing South side",
+    "search_address": "Panchayat Union Primary School ,Enathur East Facing South side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 285,
+    "station_no": "285",
+    "building": "Panchayat Union Primary School ,Enathur West Facing",
+    "village": "Enathur West Facing",
+    "search_address": "Panchayat Union Primary School ,Enathur West Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 286,
+    "station_no": "286",
+    "building": "Panchayat Union Primary School ,Enathur East Facing North side",
+    "village": "Enathur East Facing North side",
+    "search_address": "Panchayat Union Primary School ,Enathur East Facing North side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 287,
+    "station_no": "287",
+    "building": "Panchayat Union Primary School, South Side North Facing Students Dining Room, Vaiyavoor-631561",
+    "village": "South Side North Facing Students Dining Room",
+    "search_address": "Panchayat Union Primary School, South Side North Facing Students Dining Room, Vaiyavoor-631561, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 288,
+    "station_no": "288",
+    "building": "Panchayat Union Primary School, North Side South Facing 1st Std, Vaiyavoor- 631561",
+    "village": "North Side South Facing",
+    "search_address": "Panchayat Union Primary School, North Side South Facing 1st Std, Vaiyavoor- 631561, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 289,
+    "station_no": "289",
+    "building": "Panchayat Union Primary School, North Side South Facing 2nd & 3rd Std, Vaiyavoor-631561",
+    "village": "North Side South Facing",
+    "search_address": "Panchayat Union Primary School, North Side South Facing 2nd & 3rd Std, Vaiyavoor-631561, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 290,
+    "station_no": "290",
+    "building": "Panchayat Union Primary School, North Side South Facing 5th Std, Vaiyavoor- 631561",
+    "village": "North Side South Facing",
+    "search_address": "Panchayat Union Primary School, North Side South Facing 5th Std, Vaiyavoor- 631561, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 291,
+    "station_no": "291",
+    "building": "Village Service Centre, Indira Nagar, KPM Chennai Highway Near, East Facing,",
+    "village": "Indira Nagar",
+    "search_address": "Village Service Centre, Indira Nagar, KPM Chennai Highway Near, East Facing,, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 292,
+    "station_no": "292",
+    "building": "Panchayat Union Primary School, South Facing, East side, Konerikuppam",
+    "village": "South Facing",
+    "search_address": "Panchayat Union Primary School, South Facing, East side, Konerikuppam, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 293,
+    "station_no": "293",
+    "building": "Village Service Centre, Indira Nagar, KPM Chennai Highway Near, West Facing,",
+    "village": "Indira Nagar",
+    "search_address": "Village Service Centre, Indira Nagar, KPM Chennai Highway Near, West Facing,, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 294,
+    "station_no": "294",
+    "building": "Panchayat Union Primary school, mangalore tiles, East Facing North side 3rd Std, Konerikuppam-631502",
+    "village": "mangalore tiles",
+    "search_address": "Panchayat Union Primary school, mangalore tiles, East Facing North side 3rd Std, Konerikuppam-631502, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 295,
+    "station_no": "295",
+    "building": "Panchayat Union Primary school, mangalore tiles, East Facing North side 4th Std, Konerikuppam-631502",
+    "village": "mangalore tiles",
+    "search_address": "Panchayat Union Primary school, mangalore tiles, East Facing North side 4th Std, Konerikuppam-631502, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 296,
+    "station_no": "296",
+    "building": "Panchayat Office Campus, Community Hall, Konrikuppam, South Facing",
+    "village": "Community Hall",
+    "search_address": "Panchayat Office Campus, Community Hall, Konrikuppam, South Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 297,
+    "station_no": "297",
+    "building": "Kanchi College of education, Karapettai, South Facing",
+    "village": "Karapettai",
+    "search_address": "Kanchi College of education, Karapettai, South Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 298,
+    "station_no": "298",
+    "building": "Kanchi College of education, Karapettai, South Facing Eastern side",
+    "village": "Karapettai",
+    "search_address": "Kanchi College of education, Karapettai, South Facing Eastern side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 299,
+    "station_no": "299",
+    "building": "M.L.M. Mamallan Matriculation school ,Arapanancheri West Facing Room 1",
+    "village": "Arapanancheri West Facing Room",
+    "search_address": "M.L.M. Mamallan Matriculation school ,Arapanancheri West Facing Room 1, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 300,
+    "station_no": "300",
+    "building": "M.L.M. Mamallan Matriculation school ,Arapanancheri West Facing Room 3",
+    "village": "Arapanancheri West Facing Room",
+    "search_address": "M.L.M. Mamallan Matriculation school ,Arapanancheri West Facing Room 3, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 301,
+    "station_no": "301",
+    "building": "M.L.M. Mamallan Matriculation Primary school ,Arapanancheri East Facing Room No.2",
+    "village": "Arapanancheri East Facing Room No",
+    "search_address": "M.L.M. Mamallan Matriculation Primary school ,Arapanancheri East Facing Room No.2, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 302,
+    "station_no": "302",
+    "building": "M.L.M. Mamallan Matriculation Primary school ,Arapanancheri West Facing Room No.05",
+    "village": "Arapanancheri West Facing Room No",
+    "search_address": "M.L.M. Mamallan Matriculation Primary school ,Arapanancheri West Facing Room No.05, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 303,
+    "station_no": "303",
+    "building": "M.L.M. Mamallan Matriculation school ,Arapanancheri Building west Facing Room No.06",
+    "village": "Arapanancheri Building west Facing Room No",
+    "search_address": "M.L.M. Mamallan Matriculation school ,Arapanancheri Building west Facing Room No.06, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 304,
+    "station_no": "304",
+    "building": "Panchayat Union Primary School ,Thirukalimedu East Facing South Building South Side",
+    "village": "Thirukalimedu East Facing South Building South Side",
+    "search_address": "Panchayat Union Primary School ,Thirukalimedu East Facing South Building South Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 305,
+    "station_no": "305",
+    "building": "Panchayat Union Primary School ,Thirukalimedu East Facing South Building North Facing East Side",
+    "village": "Thirukalimedu East Facing South Building North Facing East Side",
+    "search_address": "Panchayat Union Primary School ,Thirukalimedu East Facing South Building North Facing East Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 306,
+    "station_no": "306",
+    "building": "Panchayat Union Primary School ,Thirukalimedu East Facing South Facing West Side",
+    "village": "Thirukalimedu East Facing South Facing West Side",
+    "search_address": "Panchayat Union Primary School ,Thirukalimedu East Facing South Facing West Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 307,
+    "station_no": "307",
+    "building": "Panchayat Union Primary School ,Thirukalimedu South Facing East Side",
+    "village": "Thirukalimedu South Facing East Side",
+    "search_address": "Panchayat Union Primary School ,Thirukalimedu South Facing East Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 308,
+    "station_no": "308",
+    "building": "Panchayat Union Primary School ,Thirukalimedu East side North facing",
+    "village": "Thirukalimedu East side North facing",
+    "search_address": "Panchayat Union Primary School ,Thirukalimedu East side North facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 309,
+    "station_no": "309",
+    "building": "Government High School, Thirukalimedu North Facing",
+    "village": "Thirukalimedu North Facing",
+    "search_address": "Government High School, Thirukalimedu North Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 310,
+    "station_no": "310",
+    "building": "Govt .High School ,Thirukalimedu North Side Building South Facing West Side",
+    "village": "Thirukalimedu North Side Building South Facing West Side",
+    "search_address": "Govt .High School ,Thirukalimedu North Side Building South Facing West Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 311,
+    "station_no": "311",
+    "building": "Govt .High School ,Thirukalimedu (North Facing)",
+    "village": "Thirukalimedu",
+    "search_address": "Govt .High School ,Thirukalimedu (North Facing), Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 312,
+    "station_no": "312",
+    "building": "Government High School, Nasarathpet West Facing North Side Room",
+    "village": "Nasarathpet West Facing North Side Room",
+    "search_address": "Government High School, Nasarathpet West Facing North Side Room, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 313,
+    "station_no": "313",
+    "building": "Government High School, Nasarathpet East Facing South side Room",
+    "village": "Nasarathpet East Facing South side Room",
+    "search_address": "Government High School, Nasarathpet East Facing South side Room, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 314,
+    "station_no": "314",
+    "building": "Pachaiyappan Mens college ,Nasarathpet East Facing West Wing",
+    "village": "Nasarathpet East Facing West Wing",
+    "search_address": "Pachaiyappan Mens college ,Nasarathpet East Facing West Wing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 315,
+    "station_no": "315",
+    "building": "Pachaiyappan Mens college, East Facing West Wing 1st Year B.A, Nasarathpet - 631501",
+    "village": "East Facing West Wing",
+    "search_address": "Pachaiyappan Mens college, East Facing West Wing 1st Year B.A, Nasarathpet - 631501, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 316,
+    "station_no": "316",
+    "building": "Pachaiyappan Mens college ,Nasarathpettai,Ground Floor,North Facing East side",
+    "village": "Nasarathpettai",
+    "search_address": "Pachaiyappan Mens college ,Nasarathpettai,Ground Floor,North Facing East side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 317,
+    "station_no": "317",
+    "building": "Pachaiyappan Mens college, Ground Floor, North Facing East Side 1st Year B.Com., Nasarathpettai-631501",
+    "village": "Ground Floor",
+    "search_address": "Pachaiyappan Mens college, Ground Floor, North Facing East Side 1st Year B.Com., Nasarathpettai-631501, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 318,
+    "station_no": "318",
+    "building": "Pachaiyappan Mens college ,Nasarathpettai,Ground Floor, North Facing",
+    "village": "Nasarathpettai",
+    "search_address": "Pachaiyappan Mens college ,Nasarathpettai,Ground Floor, North Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 319,
+    "station_no": "319",
+    "building": "Pachaiyappan Mens college ,Nasarathpettai,Ground Floor, North Facing",
+    "village": "Nasarathpettai",
+    "search_address": "Pachaiyappan Mens college ,Nasarathpettai,Ground Floor, North Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 320,
+    "station_no": "320",
+    "building": "Panchayat Union Primary School ,Narasarathpet (Thirukalimedu) SSA Building East Facing",
+    "village": "Narasarathpet",
+    "search_address": "Panchayat Union Primary School ,Narasarathpet (Thirukalimedu) SSA Building East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 321,
+    "station_no": "321",
+    "building": "Panchayat Union Primary School ,Narasarathpet (Thirukalimedu) SSA Building East Facing",
+    "village": "Narasarathpet",
+    "search_address": "Panchayat Union Primary School ,Narasarathpet (Thirukalimedu) SSA Building East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 322,
+    "station_no": "322",
+    "building": "Panchayat Union Middle School ,Kaliyanoor West facing",
+    "village": "Kaliyanoor West facing",
+    "search_address": "Panchayat Union Middle School ,Kaliyanoor West facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 323,
+    "station_no": "323",
+    "building": "Panchayat Union Middle School ,Kaliyanoor, South Facing",
+    "village": "Kaliyanoor",
+    "search_address": "Panchayat Union Middle School ,Kaliyanoor, South Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 324,
+    "station_no": "324",
+    "building": "Panchayat union primary school ,Ozhaiyur Mottur Addl.Building East Facing",
+    "village": "Ozhaiyur Mottur Addl",
+    "search_address": "Panchayat union primary school ,Ozhaiyur Mottur Addl.Building East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 325,
+    "station_no": "325",
+    "building": "Panchayat union primary school ,Karur East Facing South Side",
+    "village": "Karur East Facing South Side",
+    "search_address": "Panchayat union primary school ,Karur East Facing South Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 326,
+    "station_no": "326",
+    "building": "Government Adhithiravidar Nala Primary school ,Athivakkam South Facing west side",
+    "village": "Athivakkam South Facing west side",
+    "search_address": "Government Adhithiravidar Nala Primary school ,Athivakkam South Facing west side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 327,
+    "station_no": "327",
+    "building": "Government Adhithiravidar Nala Primary school,Athivakkam South Facing East Side",
+    "village": "Athivakkam South Facing East Side",
+    "search_address": "Government Adhithiravidar Nala Primary school,Athivakkam South Facing East Side, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 328,
+    "station_no": "328",
+    "building": "Panchayat Union Middle School, Alapakkam East Facing",
+    "village": "Alapakkam East Facing",
+    "search_address": "Panchayat Union Middle School, Alapakkam East Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 329,
+    "station_no": "329",
+    "building": "Panchayat Union Primary School, Singadivakkam South Facing",
+    "village": "Singadivakkam South Facing",
+    "search_address": "Panchayat Union Primary School, Singadivakkam South Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  },
+  {
+    "sl_no": 330,
+    "station_no": "330",
+    "building": "Panchayat Union Primary School, Singadivakkam North Facing",
+    "village": "Singadivakkam North Facing",
+    "search_address": "Panchayat Union Primary School, Singadivakkam North Facing, Kancheepuram, Kanchipuram, Tamil Nadu, India"
+  }
+]

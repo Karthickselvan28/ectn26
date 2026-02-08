@@ -1,0 +1,2642 @@
+[
+  {
+    "station_no": "2",
+    "building": "3",
+    "village": "",
+    "lat": 12.8182496,
+    "lng": 79.7159716,
+    "found": true
+  },
+  {
+    "station_no": "2",
+    "building": "Community Hall, Damal Colony, East Facing",
+    "village": "Damal Colony",
+    "lat": 12.8786388,
+    "lng": 79.6068501,
+    "found": true
+  },
+  {
+    "station_no": "3",
+    "building": "Government Higher Secondary School, Damal South Facing",
+    "village": "Damal South Facing",
+    "lat": 12.8227048,
+    "lng": 79.6965056,
+    "found": true
+  },
+  {
+    "station_no": "4",
+    "building": "Government Higher Secondary School, Damal North Facing East Side",
+    "village": "Damal North Facing East Side",
+    "lat": 12.8227048,
+    "lng": 79.6965056,
+    "found": true
+  },
+  {
+    "station_no": "5",
+    "building": "Government Higher Secondary School, Damal East West building South Facing",
+    "village": "Damal East West building South Facing",
+    "lat": 12.8227048,
+    "lng": 79.6965056,
+    "found": true
+  },
+  {
+    "station_no": "6",
+    "building": "Panchayat Union Middle school, North Facing New Building 6th Std, Damal - 631551",
+    "village": "North Facing New Building",
+    "lat": 12.8857439,
+    "lng": 79.5900949,
+    "found": true
+  },
+  {
+    "station_no": "7",
+    "building": "Panchayat Union Middle school, North Facing New Building 7th Std, Damal- 631551",
+    "village": "North Facing New Building",
+    "lat": 12.8857439,
+    "lng": 79.5900949,
+    "found": true
+  },
+  {
+    "station_no": "8",
+    "building": "Panchayat Union Middle School ,Kilar North Building, North Facing",
+    "village": "Kilar North Building",
+    "lat": 12.8205083,
+    "lng": 79.7029088,
+    "found": true
+  },
+  {
+    "station_no": "9",
+    "building": "Panchayat Union Middle School ,Kilar, South Side Building East wing North facing",
+    "village": "Kilar",
+    "lat": 12.8680754,
+    "lng": 79.57368919999999,
+    "found": true
+  },
+  {
+    "station_no": "10",
+    "building": "Govt. Higher secondary school ,Musaravakkam North Facing East Wing South Building",
+    "village": "Musaravakkam North Facing East Wing South Building",
+    "lat": 12.8602313,
+    "lng": 79.6132008,
+    "found": true
+  },
+  {
+    "station_no": "11",
+    "building": "Govt. Higher secondary school ,Musaravakkam north facing west side",
+    "village": "Musaravakkam north facing west side",
+    "lat": 12.8602313,
+    "lng": 79.6132008,
+    "found": true
+  },
+  {
+    "station_no": "12",
+    "building": "Panchayat Union Middle School, Musaravakkam ,North Facing West side",
+    "village": "Musaravakkam",
+    "lat": 12.8562754,
+    "lng": 79.6042487,
+    "found": true
+  },
+  {
+    "station_no": "13",
+    "building": "Panchayat Union Middle School, Musaravakkam ,North Facing East side",
+    "village": "Musaravakkam",
+    "lat": 12.8562754,
+    "lng": 79.6042487,
+    "found": true
+  },
+  {
+    "station_no": "14",
+    "building": "Panchayat Union Middle School, Musaravakkam South Facing",
+    "village": "Musaravakkam South Facing",
+    "lat": 12.8562754,
+    "lng": 79.6042487,
+    "found": true
+  },
+  {
+    "station_no": "15",
+    "building": "Panchayat Union Middle School ,Perumbakkam , South facing east side",
+    "village": "Perumbakkam",
+    "lat": 12.8923157,
+    "lng": 80.1888917,
+    "found": true
+  },
+  {
+    "station_no": "16",
+    "building": "Panchayat Union Middle School ,Perumbakkam , North Facing",
+    "village": "Perumbakkam",
+    "lat": 12.8923157,
+    "lng": 80.1888917,
+    "found": true
+  },
+  {
+    "station_no": "17",
+    "building": "Panchayat Union Primary School ,Vishar North Facing",
+    "village": "Vishar North Facing",
+    "lat": 12.8522689,
+    "lng": 79.7326447,
+    "found": true
+  },
+  {
+    "station_no": "18",
+    "building": "Panchayat Union Primary School ,Vishar East Facing",
+    "village": "Vishar East Facing",
+    "lat": 12.8522689,
+    "lng": 79.7326447,
+    "found": true
+  },
+  {
+    "station_no": "19",
+    "building": "Government ADW High School ,Melottivakkam South Facing",
+    "village": "Melottivakkam South Facing",
+    "lat": 12.8597658,
+    "lng": 79.6531187,
+    "found": true
+  },
+  {
+    "station_no": "20",
+    "building": "Government ADW Primary School ,Melottivakkam West Facing",
+    "village": "Melottivakkam West Facing",
+    "lat": 12.8597658,
+    "lng": 79.6531187,
+    "found": true
+  },
+  {
+    "station_no": "21",
+    "building": "Panchayat Union Primary School, East Facing 3rd Std A Section, Thirupukuzhi - 631551",
+    "village": "East Facing",
+    "lat": 12.8707386,
+    "lng": 79.6202998,
+    "found": true
+  },
+  {
+    "station_no": "22",
+    "building": "Panchayat Union Primary School, East Facing 5th Std,Thirupukuzhi-631551",
+    "village": "East Facing",
+    "lat": 12.8707386,
+    "lng": 79.6202998,
+    "found": true
+  },
+  {
+    "station_no": "23",
+    "building": "Panchayat Union Primary School, East Facing 4th Std, Thirupukuzhi-631551",
+    "village": "East Facing",
+    "lat": 12.8707386,
+    "lng": 79.6202998,
+    "found": true
+  },
+  {
+    "station_no": "24",
+    "building": "Panchayat Union Primary School , East Facing 2nd Std A, Thirupukuzhi- 631551",
+    "village": "East Facing",
+    "lat": 12.8707386,
+    "lng": 79.6202998,
+    "found": true
+  },
+  {
+    "station_no": "25",
+    "building": "Panchayat Union Primary School, South Facing 3rd Std B, Thirupukuzhi -631551",
+    "village": "South Facing",
+    "lat": 12.8707386,
+    "lng": 79.6202998,
+    "found": true
+  },
+  {
+    "station_no": "26",
+    "building": "Panchayat Union Primary School, South Facing 2nd Std B, Thirupukuzhi -631551",
+    "village": "South Facing",
+    "lat": 12.8707386,
+    "lng": 79.6202998,
+    "found": true
+  },
+  {
+    "station_no": "27",
+    "building": "Panchayat union Middle school ,Muttavakkam East Facing",
+    "village": "Muttavakkam East Facing",
+    "lat": 12.8887187,
+    "lng": 79.61968,
+    "found": true
+  },
+  {
+    "station_no": "28",
+    "building": "Panchayat union Middle school ,Muttavakkam, South Facing",
+    "village": "Muttavakkam",
+    "lat": 12.8887187,
+    "lng": 79.61968,
+    "found": true
+  },
+  {
+    "station_no": "29",
+    "building": "Panchayat union primary school ,Thaipakkam West Facing",
+    "village": "Thaipakkam West Facing",
+    "lat": 12.8880981,
+    "lng": 79.613011,
+    "found": true
+  },
+  {
+    "station_no": "30",
+    "building": "Panchayat Union Middle School ,Vathiyur East Facing",
+    "village": "Vathiyur East Facing",
+    "lat": 12.8205083,
+    "lng": 79.7029088,
+    "found": true
+  },
+  {
+    "station_no": "31",
+    "building": "Panchayat Union Middle School ,Vathiyur South Side Building North Facing",
+    "village": "Vathiyur South Side Building North Facing",
+    "lat": 12.8937103,
+    "lng": 79.6291561,
+    "found": true
+  },
+  {
+    "station_no": "32",
+    "building": "Panchayat Union Middle school ,Kooram SSA Building East Facing",
+    "village": "Kooram SSA Building East Facing",
+    "lat": 12.8205083,
+    "lng": 79.7029088,
+    "found": true
+  },
+  {
+    "station_no": "33",
+    "building": "Panchayat Union Middle school ,Kooram SSA Building East West Building West wing South Facing",
+    "village": "Kooram SSA Building East West Building West wing South Facing",
+    "lat": 12.8205083,
+    "lng": 79.7029088,
+    "found": true
+  },
+  {
+    "station_no": "34",
+    "building": "Panchayat union primary school, South Facing, Ariyaperumbakkam-631551",
+    "village": "South Facing",
+    "lat": 12.8861955,
+    "lng": 79.6544208,
+    "found": true
+  },
+  {
+    "station_no": "35",
+    "building": "Panchayat union primary school ,Ariyaperumbakkam South Side Building West Facing",
+    "village": "Ariyaperumbakkam South Side Building West Facing",
+    "lat": 12.8861955,
+    "lng": 79.6544208,
+    "found": true
+  },
+  {
+    "station_no": "36",
+    "building": "Panchayat union primary school ,Sirunaiperugal East Facing",
+    "village": "Sirunaiperugal East Facing",
+    "lat": 12.8747074,
+    "lng": 79.62634249999999,
+    "found": true
+  },
+  {
+    "station_no": "37",
+    "building": "Panchayat union primary school ,Sirunaiperugal East Facing",
+    "village": "Sirunaiperugal East Facing",
+    "lat": 12.8747074,
+    "lng": 79.62634249999999,
+    "found": true
+  },
+  {
+    "station_no": "38",
+    "building": "Panchayat Union Middle school, East Facing, Rcc Roof Building 5th std, Keezhambi -631502",
+    "village": "East Facing",
+    "lat": 12.8291068,
+    "lng": 79.76045599999999,
+    "found": true
+  },
+  {
+    "station_no": "39",
+    "building": "Panchayat Union Middle school ,East Facing RCC Building 4th Std, Keezhambi- 631502",
+    "village": "East Facing RCC Building",
+    "lat": 12.8291068,
+    "lng": 79.76045599999999,
+    "found": true
+  },
+  {
+    "station_no": "40",
+    "building": "Panchayat Union Middle school, East side, West Facing (New RCC Building) 6th Std, Keezhambi-631502",
+    "village": "East side",
+    "lat": 12.8291068,
+    "lng": 79.76045599999999,
+    "found": true
+  },
+  {
+    "station_no": "41",
+    "building": "Panchayat Union Middle school ,Keezhambi, East Facing",
+    "village": "Keezhambi",
+    "lat": 12.8205083,
+    "lng": 79.7029088,
+    "found": true
+  },
+  {
+    "station_no": "42",
+    "building": "Panchayat Union Middle School ,Mettukuppam North Facing (SSA Building)",
+    "village": "Mettukuppam North Facing",
+    "lat": 12.8205083,
+    "lng": 79.7029088,
+    "found": true
+  },
+  {
+    "station_no": "43",
+    "building": "Panchayat Union Primary School ,Melkathirpur North Facing East Side",
+    "village": "Melkathirpur North Facing East Side",
+    "lat": 12.8435004,
+    "lng": 79.70563039999999,
+    "found": true
+  },
+  {
+    "station_no": "44",
+    "building": "Panchayat Union Primary School ,Thiruparuthikundram East west building East Facing South Side",
+    "village": "Thiruparuthikundram East west building East Facing South Side",
+    "lat": 12.8277962,
+    "lng": 79.6852904,
+    "found": true
+  },
+  {
+    "station_no": "45",
+    "building": "Panchayat Union Primary School ,Thiruparuthikundram East west building North Facing",
+    "village": "Thiruparuthikundram East west building North Facing",
+    "lat": 12.8277962,
+    "lng": 79.6852904,
+    "found": true
+  },
+  {
+    "station_no": "46",
+    "building": "Panchayat Union Middle School ,Keelkadirpur new building east side East Facing",
+    "village": "Keelkadirpur new building east side East Facing",
+    "lat": 12.8205083,
+    "lng": 79.7029088,
+    "found": true
+  },
+  {
+    "station_no": "47",
+    "building": "Panchayat Union Middle School ,Keelkadirpur new building east side East Facing",
+    "village": "Keelkadirpur new building east side East Facing",
+    "lat": 12.8205083,
+    "lng": 79.7029088,
+    "found": true
+  },
+  {
+    "station_no": "48",
+    "building": "Panchayat Union Primary School, Mettupallayam West Facing room-1",
+    "village": "Mettupallayam West Facing room",
+    "lat": 12.8490907,
+    "lng": 79.7075748,
+    "found": true
+  },
+  {
+    "station_no": "49",
+    "building": "Roman Katholikka High School , Vippedu East Facing",
+    "village": "Vippedu East Facing",
+    "lat": 12.888592,
+    "lng": 80.13797360000001,
+    "found": true
+  },
+  {
+    "station_no": "50",
+    "building": "Roman Kaththolic High school, East Facing 8th Std, Vippedu-631502",
+    "village": "East Facing",
+    "lat": 12.814649,
+    "lng": 79.6516606,
+    "found": true
+  },
+  {
+    "station_no": "51",
+    "building": "Panchayat Union Primary School ,Venkatapuram New Building South Facing west side",
+    "village": "Venkatapuram New Building South Facing west side",
+    "lat": 12.8093245,
+    "lng": 79.6664894,
+    "found": true
+  },
+  {
+    "station_no": "52",
+    "building": "Govt. High school ,Sevilimedu TNHB quarters South Facing",
+    "village": "Sevilimedu TNHB quarters South Facing",
+    "lat": 12.8211214,
+    "lng": 79.6974007,
+    "found": true
+  },
+  {
+    "station_no": "53",
+    "building": "Govt High School, Sevilimedu, TNHB Qtrs New Building, North Facing South wing east side",
+    "village": "Sevilimedu",
+    "lat": 12.8678565,
+    "lng": 79.69704399999999,
+    "found": true
+  },
+  {
+    "station_no": "54",
+    "building": "Swamy Vivekanandha Matriculation Highr Secondary School, Sevilimedu Additional Building, East Facing South Wing Room No.56",
+    "village": "Sevilimedu Additional Building",
+    "lat": 12.8103064,
+    "lng": 79.6870988,
+    "found": true
+  },
+  {
+    "station_no": "55",
+    "building": "Swamy Vivekanandha Matriculation Highr Secondary School, Sevilimedu East Facing North wing Room.no. 57",
+    "village": "Sevilimedu East Facing North wing Room",
+    "lat": 12.8061465,
+    "lng": 79.68648499999999,
+    "found": true
+  },
+  {
+    "station_no": "56",
+    "building": "Swamy Vivekanandha Matriculation Highr Secondary School, Sevilimedu East Facing North wing Room.no. 59",
+    "village": "Sevilimedu East Facing North wing Room",
+    "lat": 12.8076011,
+    "lng": 79.6766861,
+    "found": true
+  },
+  {
+    "station_no": "57",
+    "building": "Panchayat Union Middle School, TNHB Qtrs, Sevilimedu East Facing Room No 1",
+    "village": "TNHB Qtrs",
+    "lat": 12.8205083,
+    "lng": 79.7029088,
+    "found": true
+  },
+  {
+    "station_no": "58",
+    "building": "Panchayat Union Middle School, TNHB Qtrs, Sevilimedu West Facing North Side Room No 10",
+    "village": "TNHB Qtrs",
+    "lat": 12.8205083,
+    "lng": 79.7029088,
+    "found": true
+  },
+  {
+    "station_no": "59",
+    "building": "Panchayat Union Middle School, TNHB Qtrs, Sevilimedu West Facing Room No 7",
+    "village": "TNHB Qtrs",
+    "lat": 12.8205083,
+    "lng": 79.7029088,
+    "found": true
+  },
+  {
+    "station_no": "60",
+    "building": "Govt High School, Sevilimedu, TNHB Qtrs New Building West Facing",
+    "village": "Sevilimedu",
+    "lat": 12.8678565,
+    "lng": 79.69704399999999,
+    "found": true
+  },
+  {
+    "station_no": "61",
+    "building": "Panchayat Union Middle School, TNHB Qtrs, Sevilimedu WEST Facing West Side",
+    "village": "TNHB Qtrs",
+    "lat": 12.8205083,
+    "lng": 79.7029088,
+    "found": true
+  },
+  {
+    "station_no": "62",
+    "building": "Government High School TNHB Quarters Sevilimedu JVVT Building West Facing North Side",
+    "village": "",
+    "lat": 12.8227048,
+    "lng": 79.6965056,
+    "found": true
+  },
+  {
+    "station_no": "63",
+    "building": "Infant Jesus Matriculation Higher Secondary School, Sevilimedu South Facing",
+    "village": "Sevilimedu South Facing",
+    "lat": 12.8184252,
+    "lng": 79.70186079999999,
+    "found": true
+  },
+  {
+    "station_no": "64",
+    "building": "Infant Jesus Matriculation Higher Secondary School, South Facing Room No.9, Sevilimedu-631502",
+    "village": "South Facing Room No",
+    "lat": 12.8080139,
+    "lng": 79.6742838,
+    "found": true
+  },
+  {
+    "station_no": "65",
+    "building": "Infant Jesus Matriculation on Higher Secondary School Sevilimedu South Facing Room No. 8",
+    "village": "",
+    "lat": 12.8184252,
+    "lng": 79.70186079999999,
+    "found": true
+  },
+  {
+    "station_no": "66",
+    "building": "Panchayat Union Elementary School ,Sevilimedu North Facing",
+    "village": "Sevilimedu North Facing",
+    "lat": 12.6272922,
+    "lng": 79.66381779999999,
+    "found": true
+  },
+  {
+    "station_no": "67",
+    "building": "Panchayat Union Elementary School ,Sevilimedu East Facing North side",
+    "village": "Sevilimedu East Facing North side",
+    "lat": 12.6272922,
+    "lng": 79.66381779999999,
+    "found": true
+  },
+  {
+    "station_no": "68",
+    "building": "Panchayat Union Elementary School ,Sevilimedu South Facing",
+    "village": "Sevilimedu South Facing",
+    "lat": 12.6272922,
+    "lng": 79.66381779999999,
+    "found": true
+  },
+  {
+    "station_no": "69",
+    "building": "Panchayat Union Elementary School ,Sevilimedu North Facing",
+    "village": "Sevilimedu North Facing",
+    "lat": 12.6272922,
+    "lng": 79.66381779999999,
+    "found": true
+  },
+  {
+    "station_no": "70",
+    "building": "Swamy Vivekanandha Matriculation Highr Secondary School, Sevilimedu West Facing South Wing. Room-62",
+    "village": "Sevilimedu West Facing South Wing",
+    "lat": 12.8080812,
+    "lng": 79.6850571,
+    "found": true
+  },
+  {
+    "station_no": "71",
+    "building": "Swamy Vivekanandha Matriculation Highr Secondary School, West Facing South Wing 9th Std, Sevilimedu -631502",
+    "village": "West Facing South Wing",
+    "lat": 12.8096976,
+    "lng": 79.6852117,
+    "found": true
+  },
+  {
+    "station_no": "72",
+    "building": "Infant Jesus Matriculation Higher Secondary School Sevilimedu North Facing Room No 38",
+    "village": "",
+    "lat": 12.8184252,
+    "lng": 79.70186079999999,
+    "found": true
+  },
+  {
+    "station_no": "73",
+    "building": "Infant Jesus Matriculation Higher Secondary School Sevilimedu South Facing",
+    "village": "",
+    "lat": 12.8184252,
+    "lng": 79.70186079999999,
+    "found": true
+  },
+  {
+    "station_no": "74",
+    "building": "Municipal Middle School, Olimugamadpet West Facing,North East Side Building",
+    "village": "Olimugamadpet West Facing",
+    "lat": 12.6280641,
+    "lng": 79.6620238,
+    "found": true
+  },
+  {
+    "station_no": "75",
+    "building": "Municipal Middle School , Olimohammedpettai South facing North building",
+    "village": "Olimohammedpettai South facing North building",
+    "lat": 12.8551184,
+    "lng": 79.69358299999999,
+    "found": true
+  },
+  {
+    "station_no": "76",
+    "building": "Municipal Middle school SSA Building ,Olimugamad North Block West Facing",
+    "village": "Olimugamad North Block West Facing",
+    "lat": 13.0538267,
+    "lng": 80.17055160000001,
+    "found": true
+  },
+  {
+    "station_no": "77",
+    "building": "Municipal Middle School, Olimugamadpet South Facing Middle Room",
+    "village": "Olimugamadpet South Facing Middle Room",
+    "lat": 12.8091235,
+    "lng": 79.7612413,
+    "found": true
+  },
+  {
+    "station_no": "78",
+    "building": "Municipal Middle School, Olimugamadpet East Facing South Side",
+    "village": "Olimugamadpet East Facing South Side",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "found": true
+  },
+  {
+    "station_no": "79",
+    "building": "Municipal Middle School Ekambara West Mada St ,BIG Kancheepuram, East side West Facing",
+    "village": "BIG Kancheepuram",
+    "lat": 12.8471802,
+    "lng": 79.6981267,
+    "found": true
+  },
+  {
+    "station_no": "80",
+    "building": "Municipal Middle School Ekambara West Mada St, Kancheepuram West Facing Middle Room",
+    "village": "Kancheepuram West Facing Middle Room",
+    "lat": 12.8471802,
+    "lng": 79.6981267,
+    "found": true
+  },
+  {
+    "station_no": "81",
+    "building": "Municipal Middle School Ekambara West Mada St, Kancheepuram North Facing East side",
+    "village": "Kancheepuram North Facing East side",
+    "lat": 12.9140197,
+    "lng": 80.1273214,
+    "found": true
+  },
+  {
+    "station_no": "82",
+    "building": "Municipal Middle School Ekambara West Mada St ,Kancheepuram.",
+    "village": "Kancheepuram",
+    "lat": 12.8471802,
+    "lng": 79.6981267,
+    "found": true
+  },
+  {
+    "station_no": "83",
+    "building": "Royal Metriculation Higher Secondary , North Facing 12th Std (Private Building), Kancheepuram-631502",
+    "village": "North Facing",
+    "lat": 12.8371787,
+    "lng": 79.7041698,
+    "found": true
+  },
+  {
+    "station_no": "84",
+    "building": "Royal Metriculation Higher Secondary School , North Facing 11th Std (Private Building), Kancheepuram-631502",
+    "village": "North Facing",
+    "lat": 12.840286,
+    "lng": 79.6980787,
+    "found": true
+  },
+  {
+    "station_no": "85",
+    "building": "Narayanaguru Matriculation Higher Secondary School, Egambaranatha sannathi Street, Periya Kancheepuram North Facing Room No.1",
+    "village": "Egambaranatha sannathi Street",
+    "lat": 12.8402399,
+    "lng": 79.7029578,
+    "found": true
+  },
+  {
+    "station_no": "86",
+    "building": "Dharga Muslim Municipal Primary school ,Kancheepuram. Eastern side East Facing",
+    "village": "Kancheepuram",
+    "lat": 12.8431184,
+    "lng": 79.6914279,
+    "found": true
+  },
+  {
+    "station_no": "87",
+    "building": "PTVS High School ,Kancheepuram North Facing East Side",
+    "village": "Kancheepuram North Facing East Side",
+    "lat": 12.8405519,
+    "lng": 79.7067919,
+    "found": true
+  },
+  {
+    "station_no": "88",
+    "building": "PTVS High School ,Kancheepuram West Building East Facing",
+    "village": "Kancheepuram West Building East Facing",
+    "lat": 12.8405519,
+    "lng": 79.7067919,
+    "found": true
+  },
+  {
+    "station_no": "89",
+    "building": "Royal Metriculation Higher Secondary School, North Facing 1st Std B Section (Private Building), Kancheepuram-631502",
+    "village": "North Facing",
+    "lat": 12.840286,
+    "lng": 79.6980787,
+    "found": true
+  },
+  {
+    "station_no": "90",
+    "building": "Royal Metriculation Higher Secondary School, North Facing 2nd Std A Section (Private Building), Kancheepuram-631502",
+    "village": "North Facing",
+    "lat": 12.840286,
+    "lng": 79.6980787,
+    "found": true
+  },
+  {
+    "station_no": "91",
+    "building": "Royal Metriculation Higher Secondary School, North Facing 2nd Std B Section (Private Building), Kancheepuram-631502",
+    "village": "North Facing",
+    "lat": 12.8322441,
+    "lng": 79.7050076,
+    "found": true
+  },
+  {
+    "station_no": "92",
+    "building": "Saint Joseph Primary school ,Damalwar St Kancheepuram. 1st Class A sec West Facing",
+    "village": "Damalwar St Kancheepuram",
+    "lat": 12.8431184,
+    "lng": 79.6914279,
+    "found": true
+  },
+  {
+    "station_no": "93",
+    "building": "Saint Joseph Primary school ,Damalwar St, Kancheepuram .5th Class A sec West Facing",
+    "village": "Damalwar St",
+    "lat": 12.8431184,
+    "lng": 79.6914279,
+    "found": true
+  },
+  {
+    "station_no": "94",
+    "building": "Saint Joseph Primary school ,Damalwar St, Kancheepuram .5th th Class B sec West Facing",
+    "village": "Damalwar St",
+    "lat": 12.8431184,
+    "lng": 79.6914279,
+    "found": true
+  },
+  {
+    "station_no": "95",
+    "building": "Mariya Auxiliyam Girls Higher Secondary School West facing Room No.33",
+    "village": "",
+    "lat": 12.8216022,
+    "lng": 79.721211,
+    "found": true
+  },
+  {
+    "station_no": "96",
+    "building": "Mariya Auxiliyam Girls Higher Secondary School Room No. 3 North Facing",
+    "village": "",
+    "lat": 12.8216022,
+    "lng": 79.721211,
+    "found": true
+  },
+  {
+    "station_no": "97",
+    "building": "Mariya Auxiliyam Girls Higher Secondary School North Facig Room No. 1",
+    "village": "",
+    "lat": 12.8208387,
+    "lng": 79.7191012,
+    "found": true
+  },
+  {
+    "station_no": "98",
+    "building": "Saint Joseph Primary school ,Damalwar St, Kanchipuram West Facing",
+    "village": "Damalwar St",
+    "lat": 12.8431184,
+    "lng": 79.6914279,
+    "found": true
+  },
+  {
+    "station_no": "99",
+    "building": "Saint Joseph Primary school, West Facing North Side, Damalwar St Kancheepuram- 631502",
+    "village": "West Facing North Side",
+    "lat": 12.8371787,
+    "lng": 79.7041698,
+    "found": true
+  },
+  {
+    "station_no": "100",
+    "building": "PTVS Matriculation Higher Secondary School , Kancheepuram.West Facing Damalwar St,",
+    "village": "Kancheepuram",
+    "lat": 12.8397882,
+    "lng": 79.7185405,
+    "found": true
+  },
+  {
+    "station_no": "101",
+    "building": "PTVS Matriculation School ,Kancheepuram Sengazhuneeroadi veedi East Facing Room No. 5",
+    "village": "Kancheepuram Sengazhuneeroadi veedi East Facing Room No",
+    "lat": 12.8143827,
+    "lng": 79.7220583,
+    "found": true
+  },
+  {
+    "station_no": "102",
+    "building": "PTVS High School Sengazhuneeroadi veedi, Kancheepuram Sounth Facing",
+    "village": "Kancheepuram Sounth Facing",
+    "lat": 12.8405519,
+    "lng": 79.7067919,
+    "found": true
+  },
+  {
+    "station_no": "103",
+    "building": "PTVS Matriculation Higher Secondary School Dharmaraja Koil Street Kancheepuram North Facing Room No.7",
+    "village": "",
+    "lat": 12.8164691,
+    "lng": 79.7246183,
+    "found": true
+  },
+  {
+    "station_no": "104",
+    "building": "PTVS Matriculation Higher Secondary School Dharmaraja Koil Street Kancheepuram North Facing Room No. 9",
+    "village": "",
+    "lat": 12.8164691,
+    "lng": 79.7246183,
+    "found": true
+  },
+  {
+    "station_no": "105",
+    "building": "Vaikundam Municipal Middle Vaikunda Perumal Koil mada Street, South Facing East Side",
+    "village": "South Facing East Side",
+    "lat": 12.8371145,
+    "lng": 79.7101732,
+    "found": true
+  },
+  {
+    "station_no": "106",
+    "building": "Vaikundam Municipal middle school . ICDS Centre, Vaikundaperumal Mada Street West Facing North Side",
+    "village": "Vaikundaperumal Mada Street West Facing North Side",
+    "lat": 12.8375862,
+    "lng": 79.7096043,
+    "found": true
+  },
+  {
+    "station_no": "107",
+    "building": "Vaikundaperumal Municipal Middle School . Vaikundaperumal Mada Street. West Facing North side",
+    "village": "",
+    "lat": 12.8371145,
+    "lng": 79.7101732,
+    "found": true
+  },
+  {
+    "station_no": "108",
+    "building": "PTVS High School Sengazhuneeroadi veedi, Kancheepuram South Facing East side",
+    "village": "Kancheepuram South Facing East side",
+    "lat": 12.8405519,
+    "lng": 79.7067919,
+    "found": true
+  },
+  {
+    "station_no": "109",
+    "building": "PTVS MatriculationSchool ,Kancheepuram Sengazhuneeroadi veedi North Facing Room No. 11",
+    "village": "Kancheepuram Sengazhuneeroadi veedi North Facing Room No",
+    "lat": 12.823058,
+    "lng": 79.7167738,
+    "found": true
+  },
+  {
+    "station_no": "110",
+    "building": "C.M. Suburaya Mudaliyar High school, Mahanadu Dharmaraja Street East Facing , East side",
+    "village": "Mahanadu Dharmaraja Street East Facing",
+    "lat": 12.8379991,
+    "lng": 80.057441,
+    "found": true
+  },
+  {
+    "station_no": "111",
+    "building": "C.M. Suburaya Mudaliyar High school Mahanadu Dharmaraja Street ,Kancheepuram, East Facing South Side Main Building",
+    "village": "Kancheepuram",
+    "lat": 12.857341,
+    "lng": 79.6084722,
+    "found": true
+  },
+  {
+    "station_no": "112",
+    "building": "Sri S.S.K.V. girls higher secondary school ,Kancheepuram Raguram illam, West Facing North side",
+    "village": "Kancheepuram Raguram illam",
+    "lat": 12.8401702,
+    "lng": 79.7018281,
+    "found": true
+  },
+  {
+    "station_no": "113",
+    "building": "Sri S.S.K.V. girls higher secondary school ,Kancheepuram Raguram illam, West Facing South side",
+    "village": "Kancheepuram Raguram illam",
+    "lat": 12.8401702,
+    "lng": 79.7018281,
+    "found": true
+  },
+  {
+    "station_no": "114",
+    "building": "Narayanaguru Matriculation Higher Secondary School, Egambaranatha sannathi Street, Periya Kancheepuram South Facing West wing",
+    "village": "Egambaranatha sannathi Street",
+    "lat": 12.8402399,
+    "lng": 79.7029578,
+    "found": true
+  },
+  {
+    "station_no": "115",
+    "building": "Narayanaguru Matriculation Higher Secondary School, Egambaranatha sannathi theru Periya Kancheepuram North Facing,",
+    "village": "Egambaranatha sannathi theru Periya Kancheepuram North Facing",
+    "lat": 12.8402399,
+    "lng": 79.7029578,
+    "found": true
+  },
+  {
+    "station_no": "116",
+    "building": "Narayanaguru Matriculation Higher Secondary School, Egambaranatha sannathi theru PeriyaKancheepuram South Facing",
+    "village": "Egambaranatha sannathi theru PeriyaKancheepuram South Facing",
+    "lat": 12.8865945,
+    "lng": 79.5918932,
+    "found": true
+  },
+  {
+    "station_no": "117",
+    "building": "K.V.K. Naickar Municipal Middle school ,Uperikulam DR.P.S.Srinivas Branch, South Side North Facing",
+    "village": "Uperikulam DR",
+    "lat": 12.6295764,
+    "lng": 79.6629759,
+    "found": true
+  },
+  {
+    "station_no": "118",
+    "building": "Narayanaguru Matriculation Higher Secondary School, Egambaranatha sannathi theru PeriyaKancheepuram South Facing",
+    "village": "Egambaranatha sannathi theru PeriyaKancheepuram South Facing",
+    "lat": 12.8865945,
+    "lng": 79.5918932,
+    "found": true
+  },
+  {
+    "station_no": "119",
+    "building": "K.V.K. Naickar Municipal Middle school ,Uperikulam.Dr.PSS Branch.North Facing Middle Room",
+    "village": "Uperikulam",
+    "lat": 12.8371443,
+    "lng": 79.6984064,
+    "found": true
+  },
+  {
+    "station_no": "120",
+    "building": "K.V.K. Naickar Municipal Middle school ,Uperikulam.Dr.PSS Branch.West Faicng North Side",
+    "village": "Uperikulam",
+    "lat": 12.8372508,
+    "lng": 79.7041749,
+    "found": true
+  },
+  {
+    "station_no": "121",
+    "building": "Kailasanathar Koil Municipal Primary School Backside,Kanchipuram North Facing East Side",
+    "village": "Kanchipuram North Facing East Side",
+    "lat": 12.8417796,
+    "lng": 79.6906607,
+    "found": true
+  },
+  {
+    "station_no": "122",
+    "building": "ICDS Centre Kailasanathar Koil Backside,Kanchipuram north face",
+    "village": "Kanchipuram north face",
+    "lat": 12.8417796,
+    "lng": 79.6906607,
+    "found": true
+  },
+  {
+    "station_no": "123",
+    "building": "Global Matriculation Higher Secondary School, Pillaiyarpalayam, Kancheepuram East Facing",
+    "village": "Pillaiyarpalayam",
+    "lat": 12.8350239,
+    "lng": 79.69353009999999,
+    "found": true
+  },
+  {
+    "station_no": "124",
+    "building": "Global Matriculation Higher Secondary School, Pillaiyarpalayam, Kancheepuram North Facing",
+    "village": "Pillaiyarpalayam",
+    "lat": 12.8350239,
+    "lng": 79.69353009999999,
+    "found": true
+  },
+  {
+    "station_no": "125",
+    "building": "Global Matriculation Higher Secondary School, Pillaiyarpalayam, Kancheepuram West Facing",
+    "village": "Pillaiyarpalayam",
+    "lat": 12.8350239,
+    "lng": 79.69353009999999,
+    "found": true
+  },
+  {
+    "station_no": "126",
+    "building": "Chairman Saminathan Mudaliyar Municipal Higher secondary school ,Kancheepuram North Facing .R.NO.1",
+    "village": "Kancheepuram North Facing",
+    "lat": 12.8208387,
+    "lng": 79.7191012,
+    "found": true
+  },
+  {
+    "station_no": "127",
+    "building": "Chairman Saminathan Mudaliyar Municipal Higher secondary school Pillayarpalayam Branch School ,Kancheepuram North Facing East Side 3 Room Building",
+    "village": "Kancheepuram North Facing East Side",
+    "lat": 12.8352333,
+    "lng": 79.6956453,
+    "found": true
+  },
+  {
+    "station_no": "128",
+    "building": "Mel Pillaiyar palayam Municipal Middle school ,Kancheepuram Nadu st, East Facing North Side",
+    "village": "Kancheepuram Nadu st",
+    "lat": 12.8346912,
+    "lng": 79.6884965,
+    "found": true
+  },
+  {
+    "station_no": "129",
+    "building": "Mel Pillaiyar palayam Municipal Middle school ,Kancheepuram Nadu st, New Building West Facing South Side",
+    "village": "Kancheepuram Nadu st",
+    "lat": 12.8346912,
+    "lng": 79.6884965,
+    "found": true
+  },
+  {
+    "station_no": "130",
+    "building": "Mel Pillaiyar palayam Municipal Middle school ,Kancheepuram Nadu st, New Building west Facing",
+    "village": "Kancheepuram Nadu st",
+    "lat": 12.8346912,
+    "lng": 79.6884965,
+    "found": true
+  },
+  {
+    "station_no": "131",
+    "building": "Mel Pillaiyar palayam Municipal Middle school ,Kancheepuram Nadu st, West Facing",
+    "village": "Kancheepuram Nadu st",
+    "lat": 12.8346912,
+    "lng": 79.6884965,
+    "found": true
+  },
+  {
+    "station_no": "132",
+    "building": "Chairman Saminathan Mudaliyar Municipal Higher Secondary school ,Kanchipuram New Building East side North Face",
+    "village": "Kanchipuram New Building East side North Face",
+    "lat": 12.9612794,
+    "lng": 80.1697804,
+    "found": true
+  },
+  {
+    "station_no": "133",
+    "building": "Chairman Saminathan Mudaliyar Municipal primary school, New Building East side North Face Room No 2, Kanchipuram -631502",
+    "village": "New Building East side North Face Room No",
+    "lat": 12.8176903,
+    "lng": 79.7212658,
+    "found": true
+  },
+  {
+    "station_no": "134",
+    "building": "Chairman Saminathan Mudaliyar Municipal Higher Secondary School ,Kanchipuram New Building west side",
+    "village": "Kanchipuram New Building west side",
+    "lat": 12.9612794,
+    "lng": 80.1697804,
+    "found": true
+  },
+  {
+    "station_no": "135",
+    "building": "Chairman Saminathan Mudaliyar Municipal Higher Secondary School ,Kanchipuram New Building East side West facing Room No. 8",
+    "village": "Kanchipuram New Building East side West facing Room No",
+    "lat": 12.9612794,
+    "lng": 80.1697804,
+    "found": true
+  },
+  {
+    "station_no": "136",
+    "building": "Chairman Saminathan Mudaliyar Municipal Higher secondary school (Branch School) ,Kancheepuram South Facing Room No. 10",
+    "village": "Kancheepuram South Facing Room No",
+    "lat": 12.8214099,
+    "lng": 79.72584069999999,
+    "found": true
+  },
+  {
+    "station_no": "137",
+    "building": "Mel Pillaiyarpalayam Municipal Middle School,Pillaiyarpalayam Kancheepuram East Facing South Side",
+    "village": "Pillaiyarpalayam Kancheepuram East Facing South Side",
+    "lat": 12.8371443,
+    "lng": 79.6984064,
+    "found": true
+  },
+  {
+    "station_no": "138",
+    "building": "Chairman Saminathan Mudaliyar Municipal primary school ,New building North Facing Block West room",
+    "village": "New building North Facing Block West room",
+    "lat": 12.6295764,
+    "lng": 79.6629759,
+    "found": true
+  },
+  {
+    "station_no": "139",
+    "building": "Chairman Saminathan Mudaliyar Municipal primary school, Kancheepuram North Facing East wing",
+    "village": "Kancheepuram North Facing East wing",
+    "lat": 12.8371787,
+    "lng": 79.7041698,
+    "found": true
+  },
+  {
+    "station_no": "140",
+    "building": "Chairman Saminathan Mudaliyar Municipal Higher secondary school Pillayarpalayam Branch School Kancheepuram East Facing West Side Building North Side",
+    "village": "",
+    "lat": 12.8350239,
+    "lng": 79.69353009999999,
+    "found": true
+  },
+  {
+    "station_no": "141",
+    "building": "Chairman Saminathan Mudaliyar Municipal Higher Secondary school , Pillaiyarpalayam Kanchipuram South Facing",
+    "village": "Pillaiyarpalayam Kanchipuram South Facing",
+    "lat": 12.8350239,
+    "lng": 79.69353009999999,
+    "found": true
+  },
+  {
+    "station_no": "142",
+    "building": "Chairman Saminathan Mudaliyar Municipal primary school ,Kanchipuram New Building East side North Face",
+    "village": "Kanchipuram New Building East side North Face",
+    "lat": 12.8371787,
+    "lng": 79.7041698,
+    "found": true
+  },
+  {
+    "station_no": "143",
+    "building": "Sri S.S.K.V. girls higher secondary school ,Kancheepuram , West Facing V.R. Block South Side",
+    "village": "Kancheepuram",
+    "lat": 12.8401702,
+    "lng": 79.7018281,
+    "found": true
+  },
+  {
+    "station_no": "144",
+    "building": "Sri S.S.K.V.Girls Higher Secondary school, Kancheepuram West facing",
+    "village": "Kancheepuram West facing",
+    "lat": 12.8401702,
+    "lng": 79.7018281,
+    "found": true
+  },
+  {
+    "station_no": "145",
+    "building": "Sri S.S.K.V. girls higher secondary school ,Kancheepuram North facing V.R. Block",
+    "village": "Kancheepuram North facing V",
+    "lat": 12.8401702,
+    "lng": 79.7018281,
+    "found": true
+  },
+  {
+    "station_no": "146",
+    "building": "Okkapiranthankulam Municipal primary school ,Kanchipuram West Facing North Side",
+    "village": "Kanchipuram West Facing North Side",
+    "lat": 12.8431184,
+    "lng": 79.6914279,
+    "found": true
+  },
+  {
+    "station_no": "147",
+    "building": "Okkapiranthankulam Municipal primary school ,Kanchipuram West Facing South Side",
+    "village": "Kanchipuram West Facing South Side",
+    "lat": 12.8431184,
+    "lng": 79.6914279,
+    "found": true
+  },
+  {
+    "station_no": "148",
+    "building": "Pachaiyappan Higher secondary school , South Facing North Building East Side",
+    "village": "South Facing North Building East Side",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "found": true
+  },
+  {
+    "station_no": "149",
+    "building": "Pachaiyappan Higher secondary school ,Room No.89, Kanchipuram north block east Facing",
+    "village": "Room No",
+    "lat": 12.8296257,
+    "lng": 79.7032634,
+    "found": true
+  },
+  {
+    "station_no": "150",
+    "building": "Anderson Higher secondary school ,Kachipuram Near PTA Block West Building West Facing",
+    "village": "Kachipuram Near PTA Block West Building West Facing",
+    "lat": 12.8342214,
+    "lng": 79.7020361,
+    "found": true
+  },
+  {
+    "station_no": "151",
+    "building": "Anderson Higher secondary school ,Kachipuram Near West Building North, West Facing",
+    "village": "Kachipuram Near West Building North",
+    "lat": 12.8342214,
+    "lng": 79.7020361,
+    "found": true
+  },
+  {
+    "station_no": "152",
+    "building": "Anderson Higher secondary school ,Kachipuram Near West Facing Building North wing,",
+    "village": "Kachipuram Near West Facing Building North wing",
+    "lat": 12.8342214,
+    "lng": 79.7020361,
+    "found": true
+  },
+  {
+    "station_no": "153",
+    "building": "Anderson Higher Secondary School,Kancheepuram South Facing",
+    "village": "Kancheepuram South Facing",
+    "lat": 12.8342214,
+    "lng": 79.7020361,
+    "found": true
+  },
+  {
+    "station_no": "154",
+    "building": "Anderson Higher secondary school, Near Millinium Block South Facing 7th Std, Kanchipuram-631502",
+    "village": "Near Millinium Block South Facing",
+    "lat": 12.8342214,
+    "lng": 79.7020361,
+    "found": true
+  },
+  {
+    "station_no": "155",
+    "building": "Anderson Higher secondary school, Millinium Block South Facing 8th Std, Kanchipuram-631502",
+    "village": "Millinium Block South Facing",
+    "lat": 12.8342214,
+    "lng": 79.7020361,
+    "found": true
+  },
+  {
+    "station_no": "156",
+    "building": "R.B.A.N.M. Government Girls Higher secondary school ,Center Roon North part kanchipuram East Facing North Side 1st Room",
+    "village": "Center Roon North part kanchipuram East Facing North Side",
+    "lat": 12.8408823,
+    "lng": 79.7124992,
+    "found": true
+  },
+  {
+    "station_no": "157",
+    "building": "Dr.P.S. Srinivasan Municiple Higher secondary school ,Vaikundapuram St, Kanchipuram West Facing",
+    "village": "Vaikundapuram St",
+    "lat": 12.8336815,
+    "lng": 79.7082559,
+    "found": true
+  },
+  {
+    "station_no": "158",
+    "building": "R.B.A.N.M. Government Girls Higher secondary school ,Center Roon North part kanchipuram East Facing",
+    "village": "Center Roon North part kanchipuram East Facing",
+    "lat": 12.8338941,
+    "lng": 79.7037458,
+    "found": true
+  },
+  {
+    "station_no": "159",
+    "building": "R.B.A.N.M. Government Girls Higher secondary school North part, East Facing, Kanchipuram 631502",
+    "village": "East Facing",
+    "lat": 12.8338941,
+    "lng": 79.7037458,
+    "found": true
+  },
+  {
+    "station_no": "160",
+    "building": "R.B.A.N.M. Government Girls Higher secondary school Left Side North part, East Facing, Kanchipuram -631502",
+    "village": "East Facing",
+    "lat": 12.8338941,
+    "lng": 79.7037458,
+    "found": true
+  },
+  {
+    "station_no": "161",
+    "building": "R.B.A.N.M. Government Girls Higher secondary school ,Center Room North part kanchipuram East Facing North Side 4th Room",
+    "village": "Center Room North part kanchipuram East Facing North Side",
+    "lat": 12.8408823,
+    "lng": 79.7124992,
+    "found": true
+  },
+  {
+    "station_no": "162",
+    "building": "Peraringnar Anna Memorial Hall Rani Annadurai Girls Higher Secondary School ,Shekpettai Kanchipuram East Facing",
+    "village": "Shekpettai Kanchipuram East Facing",
+    "lat": 12.8408823,
+    "lng": 79.7124992,
+    "found": true
+  },
+  {
+    "station_no": "163",
+    "building": "Dr. P.S. Srinivasan Higher Secondary school Vaikuntapuram Street, KPM. Bharathiyar Centurian New Building South Block West Facing",
+    "village": "KPM",
+    "lat": 12.844282,
+    "lng": 79.69683909999999,
+    "found": true
+  },
+  {
+    "station_no": "164",
+    "building": "Doctor P.S. Srinivasan Higher Secondary school Vaikuntapuram Street, Bharathiyar Centurian New Building South Block West Side, Kancheepuram- 631502",
+    "village": "Bharathiyar Centurian New Building South Block West Side",
+    "lat": 12.8169484,
+    "lng": 79.6955838,
+    "found": true
+  },
+  {
+    "station_no": "165",
+    "building": "Reddypettai Municipal Primary School,Reddypettai, Kancheepuram South Facing",
+    "village": "Reddypettai",
+    "lat": 12.8431184,
+    "lng": 79.6914279,
+    "found": true
+  },
+  {
+    "station_no": "166",
+    "building": "Reddypettai Municipal Primary school,Reddypettai, Kancheepuram South Facing Middle Room",
+    "village": "Reddypettai",
+    "lat": 12.8431184,
+    "lng": 79.6914279,
+    "found": true
+  },
+  {
+    "station_no": "167",
+    "building": "Veterinary Office department ,Hostpital Road, 3rd Building Kanchipuram South Facing East wing",
+    "village": "Hostpital Road",
+    "lat": 12.835695,
+    "lng": 79.707589,
+    "found": true
+  },
+  {
+    "station_no": "168",
+    "building": "Veterinary Office Department,Kanchipuram South Facing Middle Room",
+    "village": "Kanchipuram South Facing Middle Room",
+    "lat": 12.824048,
+    "lng": 79.6898404,
+    "found": true
+  },
+  {
+    "station_no": "169",
+    "building": "Municipal Primary School ,Gandhi Road,kancheepuram North Facing East Side",
+    "village": "Gandhi Road",
+    "lat": 12.829251,
+    "lng": 79.7065287,
+    "found": true
+  },
+  {
+    "station_no": "170",
+    "building": "Municipal Primary School ,Gandhi Road, kancheepuram East Facing South Side",
+    "village": "Gandhi Road",
+    "lat": 12.829251,
+    "lng": 79.7065287,
+    "found": true
+  },
+  {
+    "station_no": "171",
+    "building": "Nutrious meal centre ,Kanchipuram 31-32 East Facing North Building",
+    "village": "Kanchipuram",
+    "lat": 12.8092632,
+    "lng": 79.75765249999999,
+    "found": true
+  },
+  {
+    "station_no": "172",
+    "building": "Municipal Primary school ,Gandhi Road, Kanchipuram North Side Building East Building",
+    "village": "Gandhi Road",
+    "lat": 12.829251,
+    "lng": 79.7065287,
+    "found": true
+  },
+  {
+    "station_no": "173",
+    "building": "Pachaiyappan Higher secondary school, Kanchipuram East Face",
+    "village": "Kanchipuram East Face",
+    "lat": 12.8296257,
+    "lng": 79.7032634,
+    "found": true
+  },
+  {
+    "station_no": "174",
+    "building": "Pachaiyappan Higher secondary school ,Room No.8, Kanchipuram North Face",
+    "village": "Room No",
+    "lat": 12.8296257,
+    "lng": 79.7032634,
+    "found": true
+  },
+  {
+    "station_no": "175",
+    "building": "Pachaiyappan Higher Secondary School,Kancheepuram North East Building South Facing",
+    "village": "Kancheepuram North East Building South Facing",
+    "lat": 12.8296257,
+    "lng": 79.7032634,
+    "found": true
+  },
+  {
+    "station_no": "176",
+    "building": "Thiyagi Middle school ,Karukinil Amarnthaval Koil St Kanchipuram East Facing South Wing",
+    "village": "Karukinil Amarnthaval Koil St Kanchipuram East Facing South Wing",
+    "lat": 12.8276798,
+    "lng": 79.7020849,
+    "found": true
+  },
+  {
+    "station_no": "177",
+    "building": "Thiyagi Middle school ,Karukinil Amarnthaval Koil St Kanchipuram North wing West Facing",
+    "village": "Karukinil Amarnthaval Koil St Kanchipuram North wing West Facing",
+    "lat": 12.8276798,
+    "lng": 79.7020849,
+    "found": true
+  },
+  {
+    "station_no": "178",
+    "building": "Thiyagi Middle school ,Karukinil Amarnthaval Koil Street, North Wing West Facing 8MW, Kanchipuram-631502",
+    "village": "Karukinil Amarnthaval Koil Street",
+    "lat": 12.8276798,
+    "lng": 79.7020849,
+    "found": true
+  },
+  {
+    "station_no": "179",
+    "building": "Thiyagi Middle school ,Karukinil Amarnthaval Koil St Kanchipuram West Facing",
+    "village": "Karukinil Amarnthaval Koil St Kanchipuram West Facing",
+    "lat": 12.8276798,
+    "lng": 79.7020849,
+    "found": true
+  },
+  {
+    "station_no": "180",
+    "building": "Thiyagi Middle school ,Karukinil Amarnthaval Koil St, Kanchipuram North Wing South Facing",
+    "village": "Karukinil Amarnthaval Koil St",
+    "lat": 12.8276798,
+    "lng": 79.7020849,
+    "found": true
+  },
+  {
+    "station_no": "181",
+    "building": "Thiyagi Middle school ,Karukinil Amarnthaval Koil Street, North Wing South Facing 7th Std, Kanchipuram -631502",
+    "village": "Karukinil Amarnthaval Koil Street",
+    "lat": 12.827731,
+    "lng": 79.69940609999999,
+    "found": true
+  },
+  {
+    "station_no": "182",
+    "building": "Victoria Matriculation Higher Secondary School ,M.M.Avenue, Near A.K.G.Kalyanamandapam. Kanchipuram North Facing Room No. 1",
+    "village": "Near A",
+    "lat": 12.8186828,
+    "lng": 79.7062109,
+    "found": true
+  },
+  {
+    "station_no": "183",
+    "building": "Victoria Matriculation Higher Secondary School ,M.M.Avenue, Near A.K.G.Kalyanamandapam. Kanchipuram North Facing Room No. 2",
+    "village": "Near A",
+    "lat": 12.8186828,
+    "lng": 79.7062109,
+    "found": true
+  },
+  {
+    "station_no": "184",
+    "building": "Victoria Matriculation Higher Secondary School ,M.M.Avenue, Near A.K.G.Kalyanamandapam. Kanchipuram East Face",
+    "village": "Near A",
+    "lat": 12.8186828,
+    "lng": 79.7062109,
+    "found": true
+  },
+  {
+    "station_no": "185",
+    "building": "Victoria Matriculation Higher Secondary School ,M.M.Avenue, Near A.K.G.Kalyanamandapam. Kanchipuram North Facing Room No. 5",
+    "village": "Near A",
+    "lat": 12.8186828,
+    "lng": 79.7062109,
+    "found": true
+  },
+  {
+    "station_no": "186",
+    "building": "CSI Middle school ,School Street Kanchipuram South Facing",
+    "village": "School Street Kanchipuram South Facing",
+    "lat": 12.837284,
+    "lng": 79.7041744,
+    "found": true
+  },
+  {
+    "station_no": "187",
+    "building": "CSI Middle school ,School Mettu Street Kanchipuram East Facing South Side",
+    "village": "School Mettu Street Kanchipuram East Facing South Side",
+    "lat": 12.8408823,
+    "lng": 79.7124992,
+    "found": true
+  },
+  {
+    "station_no": "188",
+    "building": "Victoria Nursary school ,M.M.Avenue, Near Rangasamy Kanchipuram North Facing",
+    "village": "Near Rangasamy Kanchipuram North Facing",
+    "lat": 12.8244918,
+    "lng": 79.7083796,
+    "found": true
+  },
+  {
+    "station_no": "189",
+    "building": "Chairman Thangavelu Municipal High school ,Kanchipuram Thumbavanam Street South Face",
+    "village": "Kanchipuram Thumbavanam Street South Face",
+    "lat": 12.8225287,
+    "lng": 79.7087915,
+    "found": true
+  },
+  {
+    "station_no": "190",
+    "building": "Chairman Thangavelu Mudhaliyar High School, Thumbavanam Street North Facing West Side",
+    "village": "Thumbavanam Street North Facing West Side",
+    "lat": 12.8225287,
+    "lng": 79.7087915,
+    "found": true
+  },
+  {
+    "station_no": "191",
+    "building": "Chairman Thangavelu Municipal High school ,Kanchipuram Thumbavanam Street South Face",
+    "village": "Kanchipuram Thumbavanam Street South Face",
+    "lat": 12.8225287,
+    "lng": 79.7087915,
+    "found": true
+  },
+  {
+    "station_no": "192",
+    "building": "Chairman Thangavelu Mudhaliyar High School, Thumbavanam Street South Facing West Side",
+    "village": "Thumbavanam Street South Facing West Side",
+    "lat": 12.8225287,
+    "lng": 79.7087915,
+    "found": true
+  },
+  {
+    "station_no": "193",
+    "building": "Thiru. Muthu chettiyar Municipal Middle school ,Narayanapalayam St Kanchipuram East Facing South Side",
+    "village": "Narayanapalayam St Kanchipuram East Facing South Side",
+    "lat": 12.8408823,
+    "lng": 79.7124992,
+    "found": true
+  },
+  {
+    "station_no": "194",
+    "building": "Thiru. Muthu chettiyar Municipal Middle school ,Narayanapalayam St Kanchipuram East Facing",
+    "village": "Narayanapalayam St Kanchipuram East Facing",
+    "lat": 12.8408823,
+    "lng": 79.7124992,
+    "found": true
+  },
+  {
+    "station_no": "195",
+    "building": "Thiru. Muthu chettiyar Municipal Middle school ,Narayanapalayam Street, East Facing Room No.3, Kanchipuram -631502",
+    "village": "Narayanapalayam Street",
+    "lat": 12.8212542,
+    "lng": 79.7060214,
+    "found": true
+  },
+  {
+    "station_no": "196",
+    "building": "Pachaiyappan Womens college ,Kanchipuram West Facing",
+    "village": "Kanchipuram West Facing",
+    "lat": 12.812994,
+    "lng": 79.70152440000001,
+    "found": true
+  },
+  {
+    "station_no": "197",
+    "building": "Pachaiyappas Womens College,Vegavathi Nadhi Road Kancheepuram West Facing Room No. 8",
+    "village": "Vegavathi Nadhi Road Kancheepuram West Facing Room No",
+    "lat": 12.8680754,
+    "lng": 79.57368919999999,
+    "found": true
+  },
+  {
+    "station_no": "198",
+    "building": "Pachaiyappas Womens College, Vegavathi Nadhi Road Kancheepuram North Facing Room No 12",
+    "village": "Vegavathi Nadhi Road Kancheepuram North Facing Room No",
+    "lat": 12.8680754,
+    "lng": 79.57368919999999,
+    "found": true
+  },
+  {
+    "station_no": "199",
+    "building": "Pachaiyappas Womens College, Vegavathi Nadhi Road Kancheepuram East Facing Room No.6",
+    "village": "Vegavathi Nadhi Road Kancheepuram East Facing Room No",
+    "lat": 12.8680754,
+    "lng": 79.57368919999999,
+    "found": true
+  },
+  {
+    "station_no": "200",
+    "building": "Pachaiyappas Womens College, Vegavathi Nadhi Road Kancheepuram East Facing North Side",
+    "village": "Vegavathi Nadhi Road Kancheepuram East Facing North Side",
+    "lat": 12.8680754,
+    "lng": 79.57368919999999,
+    "found": true
+  },
+  {
+    "station_no": "201",
+    "building": "Pachaiyappan Branch Middle school ,Kanchipuram North Facing",
+    "village": "Kanchipuram North Facing",
+    "lat": 12.8371443,
+    "lng": 79.6984064,
+    "found": true
+  },
+  {
+    "station_no": "202",
+    "building": "Municipal Primary School ,Kumar St, Chinna Kanchipuram East Face",
+    "village": "Kumar St",
+    "lat": 12.8217337,
+    "lng": 79.7113145,
+    "found": true
+  },
+  {
+    "station_no": "203",
+    "building": "Yathothakari Municipal Primary school ,Yadothakari Mada St, Chinna Kanchipuram South Facing East Side",
+    "village": "Yadothakari Mada St",
+    "lat": 12.8246169,
+    "lng": 79.7134552,
+    "found": true
+  },
+  {
+    "station_no": "204",
+    "building": "Yathothakari Municipal Primary school ,Yadothakari Mada St, Chinna Kanchipuram East facing North Side",
+    "village": "Yadothakari Mada St",
+    "lat": 12.8246169,
+    "lng": 79.7134552,
+    "found": true
+  },
+  {
+    "station_no": "205",
+    "building": "CSI Primary School, T.K.Nambi Street, Chinna kancheepuram South Facing",
+    "village": "Chinna kancheepuram South Facing",
+    "lat": 12.8230616,
+    "lng": 79.7146034,
+    "found": true
+  },
+  {
+    "station_no": "206",
+    "building": "Municipal Primary school Yathothakari Mada veethy ,Kanchipuram ICDS Centre, South Facing",
+    "village": "Kanchipuram ICDS Centre",
+    "lat": 12.8246169,
+    "lng": 79.7134552,
+    "found": true
+  },
+  {
+    "station_no": "207",
+    "building": "Yagasalai Municipal Middle school ,Kanchipuram East Side South Facing",
+    "village": "Kanchipuram East Side South Facing",
+    "lat": 12.8408823,
+    "lng": 79.7124992,
+    "found": true
+  },
+  {
+    "station_no": "208",
+    "building": "Yagasalai Municipal Middle school ,Kanchipuram North Side South Facing",
+    "village": "Kanchipuram North Side South Facing",
+    "lat": 12.8408823,
+    "lng": 79.7124992,
+    "found": true
+  },
+  {
+    "station_no": "209",
+    "building": "Yagasalai Municipal Middle school ,Kanchipuram South facing",
+    "village": "Kanchipuram South facing",
+    "lat": 12.8408823,
+    "lng": 79.7124992,
+    "found": true
+  },
+  {
+    "station_no": "210",
+    "building": "Pachaiyappas Branch Middle School, North Facing, East Side",
+    "village": "North Facing",
+    "lat": 12.8207385,
+    "lng": 79.716719,
+    "found": true
+  },
+  {
+    "station_no": "211",
+    "building": "B.Missirilal Sowkar Government Girls Higher secondary school ,Room No.14, Kanchipuram, New Building East Facing West Side",
+    "village": "Room No",
+    "lat": 12.8135675,
+    "lng": 79.7275324,
+    "found": true
+  },
+  {
+    "station_no": "212",
+    "building": "B.Missirilal Sowkar Government Girls Higher secondary school ,Room No.14, Kanchipuram New Building West Facing",
+    "village": "Room No",
+    "lat": 12.8135675,
+    "lng": 79.7275324,
+    "found": true
+  },
+  {
+    "station_no": "213",
+    "building": "Municipal Sri Krishna nithi nadum Middle school ,Kanchipuram Main Building East Facing Western wing North side",
+    "village": "Kanchipuram Main Building East Facing Western wing North side",
+    "lat": 12.5105436,
+    "lng": 79.6090218,
+    "found": true
+  },
+  {
+    "station_no": "214",
+    "building": "Municipal Sri Krishna nithi nadum Middle school, Main Building East Facing Western wing North side 6th Std, Kanchipuram - 631502",
+    "village": "Main Building East Facing Western wing North side",
+    "lat": 12.8371787,
+    "lng": 79.7041698,
+    "found": true
+  },
+  {
+    "station_no": "215",
+    "building": "Municipal Sri Krishna nithi nadum Middle school ,Kanchipuram, New Building, West Facing South Side",
+    "village": "Kanchipuram",
+    "lat": 12.8196761,
+    "lng": 79.7204591,
+    "found": true
+  },
+  {
+    "station_no": "216",
+    "building": "Municipal Sri Krishna nithi nadum Middle school ,Kanchipuram Main Building East Facing Western wing North side",
+    "village": "Kanchipuram Main Building East Facing Western wing North side",
+    "lat": 12.5105436,
+    "lng": 79.6090218,
+    "found": true
+  },
+  {
+    "station_no": "217",
+    "building": "Municipal Sri Krishna Aided Middle school ,Kancheepuram Main Building East Facing West wing South side",
+    "village": "Kancheepuram Main Building East Facing West wing South side",
+    "lat": 12.8181162,
+    "lng": 79.72397099999999,
+    "found": true
+  },
+  {
+    "station_no": "218",
+    "building": "B.Missirilal Sowkar Government Girls Higher secondary school ,Kanchipuram South side building North Facing East Side",
+    "village": "Kanchipuram South side building North Facing East Side",
+    "lat": 12.8853219,
+    "lng": 80.013119,
+    "found": true
+  },
+  {
+    "station_no": "219",
+    "building": "B.Missirilal Sowkar Government Girls Higher secondary school ,Kanchipuram East Facing South Side Commerce Hall",
+    "village": "Kanchipuram East Facing South Side Commerce Hall",
+    "lat": 12.8372508,
+    "lng": 79.7041749,
+    "found": true
+  },
+  {
+    "station_no": "220",
+    "building": "B.Missirilal Sowkar Government Girls Higher secondary school ,Kanchipuram New building West Facing",
+    "village": "Kanchipuram New building West Facing",
+    "lat": 12.8853219,
+    "lng": 80.013119,
+    "found": true
+  },
+  {
+    "station_no": "221",
+    "building": "North mada Municipal Primary school ,Kanchipuram East Facing South side",
+    "village": "Kanchipuram East Facing South side",
+    "lat": 12.8408823,
+    "lng": 79.7124992,
+    "found": true
+  },
+  {
+    "station_no": "222",
+    "building": "North mada Municipal Primary school ,Kanchipuram East Facing North side",
+    "village": "Kanchipuram East Facing North side",
+    "lat": 12.8408823,
+    "lng": 79.7124992,
+    "found": true
+  },
+  {
+    "station_no": "223",
+    "building": "North mada Municipal Primary school ,Kanchipuram East Facing",
+    "village": "Kanchipuram East Facing",
+    "lat": 12.8408823,
+    "lng": 79.7124992,
+    "found": true
+  },
+  {
+    "station_no": "224",
+    "building": "Municipal Primary school ,Kanchipuram Pattala St North Face",
+    "village": "Kanchipuram Pattala St North Face",
+    "lat": 12.8183138,
+    "lng": 79.7292805,
+    "found": true
+  },
+  {
+    "station_no": "225",
+    "building": "Municipal Middle school , Pattala St, Kanchipuram East Facing",
+    "village": "Pattala St",
+    "lat": 12.8408823,
+    "lng": 79.7124992,
+    "found": true
+  },
+  {
+    "station_no": "226",
+    "building": "Municipal Primary school ,Kanchipuram Pattala St East Face North Side",
+    "village": "Kanchipuram Pattala St East Face North Side",
+    "lat": 12.8183138,
+    "lng": 79.7292805,
+    "found": true
+  },
+  {
+    "station_no": "227",
+    "building": "Panchayat Union Primary School ,Putheri Periya Mettu Street (East Side Building) North Facing",
+    "village": "Putheri Periya Mettu Street",
+    "lat": 12.8401541,
+    "lng": 79.678418,
+    "found": true
+  },
+  {
+    "station_no": "228",
+    "building": "Panchayat Union Primary School ,Putheri Periya Mettu Street West Side Building East facing",
+    "village": "Putheri Periya Mettu Street West Side Building East facing",
+    "lat": 12.8401541,
+    "lng": 79.678418,
+    "found": true
+  },
+  {
+    "station_no": "229",
+    "building": "Panchayat Union Primary School, Mettu colony Putheri East facing",
+    "village": "Mettu colony Putheri East facing",
+    "lat": 12.9262752,
+    "lng": 79.695529,
+    "found": true
+  },
+  {
+    "station_no": "230",
+    "building": "Panchayat Union Anganvadi Maiyam, Putheri West Building East Facing",
+    "village": "Putheri West Building East Facing",
+    "lat": 12.8326798,
+    "lng": 79.6823902,
+    "found": true
+  },
+  {
+    "station_no": "231",
+    "building": "Panchayat Union Middle school ,J.J Nagar Sirukaveripakkam East Part South facing",
+    "village": "",
+    "lat": 12.8205083,
+    "lng": 79.7029088,
+    "found": true
+  },
+  {
+    "station_no": "232",
+    "building": "Panchayat Union Middle school ,Sirukaveripakkam North Side South facing",
+    "village": "Sirukaveripakkam North Side South facing",
+    "lat": 12.8205083,
+    "lng": 79.7029088,
+    "found": true
+  },
+  {
+    "station_no": "233",
+    "building": "Panchayat Union Middle school ,Sirukaveripakkam West Part South facing",
+    "village": "Sirukaveripakkam West Part South facing",
+    "lat": 12.8205083,
+    "lng": 79.7029088,
+    "found": true
+  },
+  {
+    "station_no": "234",
+    "building": "Panchayat Union Middle School , North Facing 6th Std, Sirukaveripakkam-631502",
+    "village": "North Facing",
+    "lat": 12.8205083,
+    "lng": 79.7029088,
+    "found": true
+  },
+  {
+    "station_no": "235",
+    "building": "Panchayat Union Middle School, North Facing 7th Std, Sirukaveripakkam -631502",
+    "village": "North Facing",
+    "lat": 12.8205083,
+    "lng": 79.7029088,
+    "found": true
+  },
+  {
+    "station_no": "236",
+    "building": "Panchayat Union Middle School, North Facing 8th Std, Sirukaveripakkam-631502",
+    "village": "North Facing",
+    "lat": 12.8205083,
+    "lng": 79.7029088,
+    "found": true
+  },
+  {
+    "station_no": "237",
+    "building": "Panchayat Union Middle school ,J.J Nagar Sirukaveripakkam south Facing",
+    "village": "",
+    "lat": 12.8205083,
+    "lng": 79.7029088,
+    "found": true
+  },
+  {
+    "station_no": "238",
+    "building": "Panchayat Union Palvadi building ,Karupadithatdadai North facing",
+    "village": "Karupadithatdadai North facing",
+    "lat": 12.8931216,
+    "lng": 80.0228456,
+    "found": true
+  },
+  {
+    "station_no": "239",
+    "building": "ICDS Centre, Earivakkam, East Facing",
+    "village": "Earivakkam",
+    "lat": 12.8115627,
+    "lng": 79.9989895,
+    "found": true
+  },
+  {
+    "station_no": "240",
+    "building": "Panchayat Union Library Building ,Karupadithatadai South Side East Facing",
+    "village": "Karupadithatadai South Side East Facing",
+    "lat": 12.8371787,
+    "lng": 79.7041698,
+    "found": true
+  },
+  {
+    "station_no": "241",
+    "building": "Panchayat Union Middle School ,Thimmasamuthiram, South side Building South Facing",
+    "village": "Thimmasamuthiram",
+    "lat": 12.8205083,
+    "lng": 79.7029088,
+    "found": true
+  },
+  {
+    "station_no": "242",
+    "building": "Panchayat Union Middle School ,Thimmasamuthiram, West Side Building West wing South facing",
+    "village": "Thimmasamuthiram",
+    "lat": 12.8205083,
+    "lng": 79.7029088,
+    "found": true
+  },
+  {
+    "station_no": "243",
+    "building": "Panchayat Union Middle School ,Thimmasamudram South Facing",
+    "village": "Thimmasamudram South Facing",
+    "lat": 12.8205083,
+    "lng": 79.7029088,
+    "found": true
+  },
+  {
+    "station_no": "244",
+    "building": "Panchayat Union Middle School ,Thimmasamudram North Facing",
+    "village": "Thimmasamudram North Facing",
+    "lat": 12.8205083,
+    "lng": 79.7029088,
+    "found": true
+  },
+  {
+    "station_no": "245",
+    "building": "Panchayat union primary school ,Chembarambakkam North Facing",
+    "village": "Chembarambakkam North Facing",
+    "lat": 13.0318628,
+    "lng": 80.03823059999999,
+    "found": true
+  },
+  {
+    "station_no": "246",
+    "building": "Government Adhithiravidar Nala Higher secondary school ,Enjambakkam West Facing South Side",
+    "village": "Enjambakkam West Facing South Side",
+    "lat": 12.8912594,
+    "lng": 79.70679899999999,
+    "found": true
+  },
+  {
+    "station_no": "247",
+    "building": "Government Adhithiravidar Nala Higher secondary school ,Enjambakkam North Facing South Side",
+    "village": "Enjambakkam North Facing South Side",
+    "lat": 12.8912594,
+    "lng": 79.70679899999999,
+    "found": true
+  },
+  {
+    "station_no": "248",
+    "building": "Panchayat Union Primary school , North Facing Pudupakkam East wing",
+    "village": "North Facing Pudupakkam East wing",
+    "lat": 12.9198944,
+    "lng": 79.67161089999999,
+    "found": true
+  },
+  {
+    "station_no": "249",
+    "building": "Panchayat Union Middle School ,Veliyur East Facing",
+    "village": "Veliyur East Facing",
+    "lat": 12.9262752,
+    "lng": 79.695529,
+    "found": true
+  },
+  {
+    "station_no": "250",
+    "building": "P.T.L.E.S.Chengalvaraya naickar nithi uthavi perum middle school ,Overi Chatram East Facing",
+    "village": "Overi Chatram East Facing",
+    "lat": 12.9254004,
+    "lng": 79.6806699,
+    "found": true
+  },
+  {
+    "station_no": "251",
+    "building": "Panchayat Union Primary school ,Govindavadi new building north Facing",
+    "village": "Govindavadi new building north Facing",
+    "lat": 12.9485052,
+    "lng": 79.6677522,
+    "found": true
+  },
+  {
+    "station_no": "252",
+    "building": "Panchayat Union Primary school ,Govindavadi Addl.Building West side West Facing",
+    "village": "Govindavadi Addl",
+    "lat": 12.9485052,
+    "lng": 79.6677522,
+    "found": true
+  },
+  {
+    "station_no": "253",
+    "building": "Panchayat union primary school, North Facing South Side, Padunelli-631502",
+    "village": "North Facing South Side",
+    "lat": 12.8189776,
+    "lng": 79.72971989999999,
+    "found": true
+  },
+  {
+    "station_no": "254",
+    "building": "Panchayat union primary school ,Kammavarpalayam East Facing Old Building",
+    "village": "Kammavarpalayam East Facing Old Building",
+    "lat": 11.4406495,
+    "lng": 77.7058598,
+    "found": true
+  },
+  {
+    "station_no": "255",
+    "building": "Panchayat Union Middle school ,Samanthipuram South facing",
+    "village": "Samanthipuram South facing",
+    "lat": 12.8205083,
+    "lng": 79.7029088,
+    "found": true
+  },
+  {
+    "station_no": "256",
+    "building": "Panchayat Union Middle school ,Kottavakakm , North Building West facing",
+    "village": "Kottavakakm",
+    "lat": 12.8205083,
+    "lng": 79.7029088,
+    "found": true
+  },
+  {
+    "station_no": "257",
+    "building": "Government Hr. sec. school ,Pullalore Addl.Building Eastern side South Facing",
+    "village": "Pullalore Addl",
+    "lat": 12.8161105,
+    "lng": 79.7448739,
+    "found": true
+  },
+  {
+    "station_no": "258",
+    "building": "Government Hr. sec. school ,Pullalore Addl.Building Eastern side West Facing",
+    "village": "Pullalore Addl",
+    "lat": 12.8161105,
+    "lng": 79.7448739,
+    "found": true
+  },
+  {
+    "station_no": "259",
+    "building": "Government Hr. sec. school ,Pullalore Addl.Building South Facing Western Side",
+    "village": "Pullalore Addl",
+    "lat": 12.8161105,
+    "lng": 79.7448739,
+    "found": true
+  },
+  {
+    "station_no": "260",
+    "building": "Panchayat union primary school , Thandalam , South Facing",
+    "village": "Thandalam",
+    "lat": 13.0283965,
+    "lng": 80.00609659999999,
+    "found": true
+  },
+  {
+    "station_no": "261",
+    "building": "Panchayat Union Primary school ,Purisai North Facing",
+    "village": "Purisai North Facing",
+    "lat": 12.8522689,
+    "lng": 79.7326447,
+    "found": true
+  },
+  {
+    "station_no": "262",
+    "building": "Panchayat Union Primary school ,Purisai North Facing",
+    "village": "Purisai North Facing",
+    "lat": 12.8522689,
+    "lng": 79.7326447,
+    "found": true
+  },
+  {
+    "station_no": "263",
+    "building": "Panchayat Union Middle school ,Valathur East Facing",
+    "village": "Valathur East Facing",
+    "lat": 12.9651218,
+    "lng": 79.7517179,
+    "found": true
+  },
+  {
+    "station_no": "264",
+    "building": "Panchayat Union Middle School ,Kattupattur East Facing",
+    "village": "Kattupattur East Facing",
+    "lat": 12.9305481,
+    "lng": 79.7343791,
+    "found": true
+  },
+  {
+    "station_no": "265",
+    "building": "Aringnar Anna Government Higher Secondary school , Paranthur East Facing",
+    "village": "Paranthur East Facing",
+    "lat": 12.8087883,
+    "lng": 79.75689589999999,
+    "found": true
+  },
+  {
+    "station_no": "266",
+    "building": "Panchayat union primary school ,Mettuparanthur East Facing",
+    "village": "Mettuparanthur East Facing",
+    "lat": 12.8522689,
+    "lng": 79.7326447,
+    "found": true
+  },
+  {
+    "station_no": "267",
+    "building": "Panchayat union primary school ,Thandalam East Facing",
+    "village": "Thandalam East Facing",
+    "lat": 13.0283965,
+    "lng": 80.00609659999999,
+    "found": true
+  },
+  {
+    "station_no": "268",
+    "building": "Panchayat union primary school ,Nelvai East Facing",
+    "village": "Nelvai East Facing",
+    "lat": 12.8522689,
+    "lng": 79.7326447,
+    "found": true
+  },
+  {
+    "station_no": "269",
+    "building": "Village Service Centre Podavur East Facing,",
+    "village": "",
+    "lat": 12.9109925,
+    "lng": 79.74279159999999,
+    "found": true
+  },
+  {
+    "station_no": "270",
+    "building": "PUPS Siruvallur south facing East Side",
+    "village": "",
+    "lat": 12.8935067,
+    "lng": 79.7315747,
+    "found": true
+  },
+  {
+    "station_no": "271",
+    "building": "Panchayat Union Middle school ,Siruvakkam Addl.Building (RCC Building) East Facing,",
+    "village": "Siruvakkam Addl",
+    "lat": 12.8205083,
+    "lng": 79.7029088,
+    "found": true
+  },
+  {
+    "station_no": "272",
+    "building": "Panchayat Union Middle school ,Siruvakkam Addl.Building East Facing",
+    "village": "Siruvakkam Addl",
+    "lat": 12.8205083,
+    "lng": 79.7029088,
+    "found": true
+  },
+  {
+    "station_no": "273",
+    "building": "Panchayat Union primary school ,Karai Western side Addl.Building West Facing",
+    "village": "Karai Western side Addl",
+    "lat": 12.8074054,
+    "lng": 79.76675589999999,
+    "found": true
+  },
+  {
+    "station_no": "274",
+    "building": "Panchayat Union Primary school ,Karai West Facing South side",
+    "village": "Karai West Facing South side",
+    "lat": 12.8074054,
+    "lng": 79.76675589999999,
+    "found": true
+  },
+  {
+    "station_no": "275",
+    "building": "Government Higher Secondary school ,Karai West Facing South Side",
+    "village": "Karai West Facing South Side",
+    "lat": 12.8227048,
+    "lng": 79.6965056,
+    "found": true
+  },
+  {
+    "station_no": "276",
+    "building": "Panchayat union primary school ,Chettiyarpettai Addl.Building North Facing",
+    "village": "Chettiyarpettai Addl",
+    "lat": 12.8074054,
+    "lng": 79.76675589999999,
+    "found": true
+  },
+  {
+    "station_no": "277",
+    "building": "Panchayat Union Middle School ,Koothirampakkam South face Building East Side",
+    "village": "Koothirampakkam South face Building East Side",
+    "lat": 12.9758941,
+    "lng": 80.04278819999999,
+    "found": true
+  },
+  {
+    "station_no": "278",
+    "building": "Panchayat union primary school,Thodur West facing",
+    "village": "Thodur West facing",
+    "lat": 12.8522689,
+    "lng": 79.7326447,
+    "found": true
+  },
+  {
+    "station_no": "279",
+    "building": "Panchayat Union middle school ,Neervalur North Facing",
+    "village": "Neervalur North Facing",
+    "lat": 12.8897441,
+    "lng": 79.7933838,
+    "found": true
+  },
+  {
+    "station_no": "280",
+    "building": "Panchayat union Middle school ,Attuputhur North Facing New Building",
+    "village": "Attuputhur North Facing New Building",
+    "lat": 12.8205083,
+    "lng": 79.7029088,
+    "found": true
+  },
+  {
+    "station_no": "281",
+    "building": "Panchayat Union Middle school ,Chittiyampakkam South Facing",
+    "village": "Chittiyampakkam South Facing",
+    "lat": 12.8588476,
+    "lng": 79.75489800000001,
+    "found": true
+  },
+  {
+    "station_no": "282",
+    "building": "Panchayat Union Middle school ,Chittiyampakkam East Facing North side",
+    "village": "Chittiyampakkam East Facing North side",
+    "lat": 12.8588476,
+    "lng": 79.75489800000001,
+    "found": true
+  },
+  {
+    "station_no": "283",
+    "building": "CSI Middle school ,Vedal, south Facing",
+    "village": "Vedal",
+    "lat": 12.837284,
+    "lng": 79.7041744,
+    "found": true
+  },
+  {
+    "station_no": "284",
+    "building": "Panchayat Union Primary School ,Enathur East Facing South side",
+    "village": "Enathur East Facing South side",
+    "lat": 12.8074054,
+    "lng": 79.76675589999999,
+    "found": true
+  },
+  {
+    "station_no": "285",
+    "building": "Panchayat Union Primary School ,Enathur West Facing",
+    "village": "Enathur West Facing",
+    "lat": 12.8074054,
+    "lng": 79.76675589999999,
+    "found": true
+  },
+  {
+    "station_no": "286",
+    "building": "Panchayat Union Primary School ,Enathur East Facing North side",
+    "village": "Enathur East Facing North side",
+    "lat": 12.8074054,
+    "lng": 79.76675589999999,
+    "found": true
+  },
+  {
+    "station_no": "287",
+    "building": "Panchayat Union Primary School, South Side North Facing Students Dining Room, Vaiyavoor-631561",
+    "village": "South Side North Facing Students Dining Room",
+    "lat": 12.8074054,
+    "lng": 79.76675589999999,
+    "found": true
+  },
+  {
+    "station_no": "288",
+    "building": "Panchayat Union Primary School, North Side South Facing 1st Std, Vaiyavoor- 631561",
+    "village": "North Side South Facing",
+    "lat": 12.8074054,
+    "lng": 79.76675589999999,
+    "found": true
+  },
+  {
+    "station_no": "289",
+    "building": "Panchayat Union Primary School, North Side South Facing 2nd & 3rd Std, Vaiyavoor-631561",
+    "village": "North Side South Facing",
+    "lat": 12.8522689,
+    "lng": 79.7326447,
+    "found": true
+  },
+  {
+    "station_no": "290",
+    "building": "Panchayat Union Primary School, North Side South Facing 5th Std, Vaiyavoor- 631561",
+    "village": "North Side South Facing",
+    "lat": 12.8074054,
+    "lng": 79.76675589999999,
+    "found": true
+  },
+  {
+    "station_no": "291",
+    "building": "Village Service Centre, Indira Nagar, KPM Chennai Highway Near, East Facing,",
+    "village": "Indira Nagar",
+    "lat": 13.0206482,
+    "lng": 80.11354539999999,
+    "found": true
+  },
+  {
+    "station_no": "292",
+    "building": "Panchayat Union Primary School, South Facing, East side, Konerikuppam",
+    "village": "South Facing",
+    "lat": 12.8074054,
+    "lng": 79.76675589999999,
+    "found": true
+  },
+  {
+    "station_no": "293",
+    "building": "Village Service Centre, Indira Nagar, KPM Chennai Highway Near, West Facing,",
+    "village": "Indira Nagar",
+    "lat": 13.0206482,
+    "lng": 80.11354539999999,
+    "found": true
+  },
+  {
+    "station_no": "294",
+    "building": "Panchayat Union Primary school, mangalore tiles, East Facing North side 3rd Std, Konerikuppam-631502",
+    "village": "mangalore tiles",
+    "lat": 12.848662,
+    "lng": 79.7105393,
+    "found": true
+  },
+  {
+    "station_no": "295",
+    "building": "Panchayat Union Primary school, mangalore tiles, East Facing North side 4th Std, Konerikuppam-631502",
+    "village": "mangalore tiles",
+    "lat": 12.848662,
+    "lng": 79.7105393,
+    "found": true
+  },
+  {
+    "station_no": "296",
+    "building": "Panchayat Office Campus, Community Hall, Konrikuppam, South Facing",
+    "village": "Community Hall",
+    "lat": 12.851265,
+    "lng": 79.7082592,
+    "found": true
+  },
+  {
+    "station_no": "297",
+    "building": "Kanchi College of education, Karapettai, South Facing",
+    "village": "Karapettai",
+    "lat": 12.8340619,
+    "lng": 79.7029299,
+    "found": true
+  },
+  {
+    "station_no": "298",
+    "building": "Kanchi College of education, Karapettai, South Facing Eastern side",
+    "village": "Karapettai",
+    "lat": 12.8340619,
+    "lng": 79.7029299,
+    "found": true
+  },
+  {
+    "station_no": "299",
+    "building": "M.L.M. Mamallan Matriculation school ,Arapanancheri West Facing Room 1",
+    "village": "Arapanancheri West Facing Room",
+    "lat": 12.8343379,
+    "lng": 79.71522569999999,
+    "found": true
+  },
+  {
+    "station_no": "300",
+    "building": "M.L.M. Mamallan Matriculation school ,Arapanancheri West Facing Room 3",
+    "village": "Arapanancheri West Facing Room",
+    "lat": 12.8343379,
+    "lng": 79.71522569999999,
+    "found": true
+  },
+  {
+    "station_no": "301",
+    "building": "M.L.M. Mamallan Matriculation Primary school ,Arapanancheri East Facing Room No.2",
+    "village": "Arapanancheri East Facing Room No",
+    "lat": 12.8743598,
+    "lng": 79.9886732,
+    "found": true
+  },
+  {
+    "station_no": "302",
+    "building": "M.L.M. Mamallan Matriculation Primary school ,Arapanancheri West Facing Room No.05",
+    "village": "Arapanancheri West Facing Room No",
+    "lat": 12.8743598,
+    "lng": 79.9886732,
+    "found": true
+  },
+  {
+    "station_no": "303",
+    "building": "M.L.M. Mamallan Matriculation school ,Arapanancheri Building west Facing Room No.06",
+    "village": "Arapanancheri Building west Facing Room No",
+    "lat": 12.8743598,
+    "lng": 79.9886732,
+    "found": true
+  },
+  {
+    "station_no": "304",
+    "building": "Panchayat Union Primary School ,Thirukalimedu East Facing South Building South Side",
+    "village": "Thirukalimedu East Facing South Building South Side",
+    "lat": 12.8074054,
+    "lng": 79.76675589999999,
+    "found": true
+  },
+  {
+    "station_no": "305",
+    "building": "Panchayat Union Primary School ,Thirukalimedu East Facing South Building North Facing East Side",
+    "village": "Thirukalimedu East Facing South Building North Facing East Side",
+    "lat": 12.8074054,
+    "lng": 79.76675589999999,
+    "found": true
+  },
+  {
+    "station_no": "306",
+    "building": "Panchayat Union Primary School ,Thirukalimedu East Facing South Facing West Side",
+    "village": "Thirukalimedu East Facing South Facing West Side",
+    "lat": 12.8074054,
+    "lng": 79.76675589999999,
+    "found": true
+  },
+  {
+    "station_no": "307",
+    "building": "Panchayat Union Primary School ,Thirukalimedu South Facing East Side",
+    "village": "Thirukalimedu South Facing East Side",
+    "lat": 12.8074054,
+    "lng": 79.76675589999999,
+    "found": true
+  },
+  {
+    "station_no": "308",
+    "building": "Panchayat Union Primary School ,Thirukalimedu East side North facing",
+    "village": "Thirukalimedu East side North facing",
+    "lat": 12.8074054,
+    "lng": 79.76675589999999,
+    "found": true
+  },
+  {
+    "station_no": "309",
+    "building": "Government High School, Thirukalimedu North Facing",
+    "village": "Thirukalimedu North Facing",
+    "lat": 12.8227048,
+    "lng": 79.6965056,
+    "found": true
+  },
+  {
+    "station_no": "310",
+    "building": "Govt .High School ,Thirukalimedu North Side Building South Facing West Side",
+    "village": "Thirukalimedu North Side Building South Facing West Side",
+    "lat": 12.8292304,
+    "lng": 79.7217588,
+    "found": true
+  },
+  {
+    "station_no": "311",
+    "building": "Govt .High School ,Thirukalimedu (North Facing)",
+    "village": "Thirukalimedu",
+    "lat": 12.8352333,
+    "lng": 79.6956453,
+    "found": true
+  },
+  {
+    "station_no": "312",
+    "building": "Government High School, Nasarathpet West Facing North Side Room",
+    "village": "Nasarathpet West Facing North Side Room",
+    "lat": 13.044507,
+    "lng": 80.0769214,
+    "found": true
+  },
+  {
+    "station_no": "313",
+    "building": "Government High School, Nasarathpet East Facing South side Room",
+    "village": "Nasarathpet East Facing South side Room",
+    "lat": 13.044507,
+    "lng": 80.0769214,
+    "found": true
+  },
+  {
+    "station_no": "314",
+    "building": "Pachaiyappan Mens college ,Nasarathpet East Facing West Wing",
+    "village": "Nasarathpet East Facing West Wing",
+    "lat": 12.8371787,
+    "lng": 79.7041698,
+    "found": true
+  },
+  {
+    "station_no": "315",
+    "building": "Pachaiyappan Mens college, East Facing West Wing 1st Year B.A, Nasarathpet - 631501",
+    "village": "East Facing West Wing",
+    "lat": 12.8252525,
+    "lng": 79.7038144,
+    "found": true
+  },
+  {
+    "station_no": "316",
+    "building": "Pachaiyappan Mens college ,Nasarathpettai,Ground Floor,North Facing East side",
+    "village": "Nasarathpettai",
+    "lat": 12.8161086,
+    "lng": 79.74387209999999,
+    "found": true
+  },
+  {
+    "station_no": "317",
+    "building": "Pachaiyappan Mens college, Ground Floor, North Facing East Side 1st Year B.Com., Nasarathpettai-631501",
+    "village": "Ground Floor",
+    "lat": 12.8161086,
+    "lng": 79.74387209999999,
+    "found": true
+  },
+  {
+    "station_no": "318",
+    "building": "Pachaiyappan Mens college ,Nasarathpettai,Ground Floor, North Facing",
+    "village": "Nasarathpettai",
+    "lat": 12.8161086,
+    "lng": 79.74387209999999,
+    "found": true
+  },
+  {
+    "station_no": "319",
+    "building": "Pachaiyappan Mens college ,Nasarathpettai,Ground Floor, North Facing",
+    "village": "Nasarathpettai",
+    "lat": 12.8161086,
+    "lng": 79.74387209999999,
+    "found": true
+  },
+  {
+    "station_no": "320",
+    "building": "Panchayat Union Primary School ,Narasarathpet (Thirukalimedu) SSA Building East Facing",
+    "village": "Narasarathpet",
+    "lat": 12.8074054,
+    "lng": 79.76675589999999,
+    "found": true
+  },
+  {
+    "station_no": "321",
+    "building": "Panchayat Union Primary School ,Narasarathpet (Thirukalimedu) SSA Building East Facing",
+    "village": "Narasarathpet",
+    "lat": 12.8074054,
+    "lng": 79.76675589999999,
+    "found": true
+  },
+  {
+    "station_no": "322",
+    "building": "Panchayat Union Middle School ,Kaliyanoor West facing",
+    "village": "Kaliyanoor West facing",
+    "lat": 12.8291068,
+    "lng": 79.76045599999999,
+    "found": true
+  },
+  {
+    "station_no": "323",
+    "building": "Panchayat Union Middle School ,Kaliyanoor, South Facing",
+    "village": "Kaliyanoor",
+    "lat": 12.8291068,
+    "lng": 79.76045599999999,
+    "found": true
+  },
+  {
+    "station_no": "324",
+    "building": "Panchayat union primary school ,Ozhaiyur Mottur Addl.Building East Facing",
+    "village": "Ozhaiyur Mottur Addl",
+    "lat": 12.6360534,
+    "lng": 79.857039,
+    "found": true
+  },
+  {
+    "station_no": "325",
+    "building": "Panchayat union primary school ,Karur East Facing South Side",
+    "village": "Karur East Facing South Side",
+    "lat": 10.9600778,
+    "lng": 78.07660360000001,
+    "found": true
+  },
+  {
+    "station_no": "326",
+    "building": "Government Adhithiravidar Nala Primary school ,Athivakkam South Facing west side",
+    "village": "Athivakkam South Facing west side",
+    "lat": 12.8844055,
+    "lng": 79.8254722,
+    "found": true
+  },
+  {
+    "station_no": "327",
+    "building": "Government Adhithiravidar Nala Primary school,Athivakkam South Facing East Side",
+    "village": "Athivakkam South Facing East Side",
+    "lat": 12.8844055,
+    "lng": 79.8254722,
+    "found": true
+  },
+  {
+    "station_no": "328",
+    "building": "Panchayat Union Middle School, Alapakkam East Facing",
+    "village": "Alapakkam East Facing",
+    "lat": 12.8205083,
+    "lng": 79.7029088,
+    "found": true
+  },
+  {
+    "station_no": "329",
+    "building": "Panchayat Union Primary School, Singadivakkam South Facing",
+    "village": "Singadivakkam South Facing",
+    "lat": 12.8522689,
+    "lng": 79.7326447,
+    "found": true
+  },
+  {
+    "station_no": "330",
+    "building": "Panchayat Union Primary School, Singadivakkam North Facing",
+    "village": "Singadivakkam North Facing",
+    "lat": 12.8522689,
+    "lng": 79.7326447,
+    "found": true
+  }
+]

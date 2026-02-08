@@ -1,0 +1,44 @@
+{
+  "state": "Tamil Nadu",
+  "election_year": 2021,
+  "districts": [
+    {
+      "code": "dt3",
+      "name": "Kanchipuram",
+      "constituencies": [
+        {
+          "ac_number": "028",
+          "name": "Alandur",
+          "type": "General",
+          "data_file": "alandur.json",
+          "has_geocoding": false,
+          "total_booths": 565
+        },
+        {
+          "ac_number": "029",
+          "name": "Sriperumbudur",
+          "type": "SC",
+          "data_file": "sriperumbudur.json",
+          "has_geocoding": false,
+          "total_booths": 0
+        },
+        {
+          "ac_number": "036",
+          "name": "Uthiramerur",
+          "type": "General",
+          "data_file": "uthiramerur.json",
+          "has_geocoding": true,
+          "total_booths": 359
+        },
+        {
+          "ac_number": "037",
+          "name": "Kancheepuram",
+          "type": "General",
+          "data_file": "kancheepuram.json",
+          "has_geocoding": false,
+          "total_booths": 0
+        }
+      ]
+    }
+  ]
+}

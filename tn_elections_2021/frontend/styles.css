@@ -1,0 +1,813 @@
+/* ===========================
+   TN Elections 2021 - Table-Centric UI
+   =========================== */
+
+/* CSS Variables */
+:root {
+    /* Light Theme Colors */
+    --bg-primary: #f8fafc;
+    --bg-secondary: #ffffff;
+    --bg-card: #ffffff;
+    --bg-hover: #f1f5f9;
+
+    /* Text Colors */
+    --text-primary: #1e293b;
+    --text-secondary: #64748b;
+    --text-muted: #94a3b8;
+
+    /* Party Colors */
+    --dmk-color: #dc2626;
+    --dmk-light: #fef2f2;
+    --aiadmk-color: #16a34a;
+    --aiadmk-light: #f0fdf4;
+    --swing-color: #f59e0b;
+    --swing-light: #fffbeb;
+
+    /* UI */
+    --accent-blue: #3b82f6;
+    --border-color: #e2e8f0;
+    --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.05);
+    --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.1);
+    --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.1);
+
+    /* Spacing & Radius */
+    --radius-sm: 6px;
+    --radius-md: 8px;
+    --radius-lg: 12px;
+    --transition: all 0.2s ease;
+}
+
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    min-height: 100vh;
+    line-height: 1.5;
+}
+
+/* ===========================
+   Header
+   =========================== */
+/* Header */
+.header {
+    background: var(--bg-secondary);
+    border-bottom: 1px solid var(--border-color);
+    padding: 1.5rem 2rem;
+    box-shadow: var(--shadow-sm);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.header-content {
+    max-width: 1600px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header h1 {
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin-bottom: 0.25rem;
+}
+
+.subtitle {
+    font-size: 0.875rem;
+    color: var(--text-secondary);
+    font-weight: 500;
+}
+
+.header-actions {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.back-btn {
+    padding: 0.5rem 1rem;
+    background: var(--bg-hover);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-sm);
+    color: var(--text-primary);
+    font-size: 0.875rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+.back-btn:hover {
+    background: var(--border-color);
+}
+
+/* District Overview */
+.district-overview {
+    padding: 2rem;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.overview-container {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.district-summary-card {
+    background: var(--bg-card);
+    border-radius: var(--radius-lg);
+    padding: 2rem;
+    box-shadow: var(--shadow-md);
+    border: 1px solid var(--border-color);
+}
+
+.district-summary-card h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+    color: var(--text-primary);
+}
+
+.summary-stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.stat-item {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.stat-label {
+    font-size: 0.875rem;
+    color: var(--text-secondary);
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.stat-value {
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--text-primary);
+}
+
+.winner-stat .stat-value {
+    color: var(--dmk-color);
+}
+
+/* Party Breakdown Bar */
+.party-breakdown {
+    margin-top: 1.5rem;
+}
+
+.party-bar {
+    display: flex;
+    height: 60px;
+    border-radius: var(--radius-md);
+    overflow: hidden;
+    box-shadow: var(--shadow-sm);
+}
+
+.party-segment {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5rem;
+    transition: var(--transition);
+    position: relative;
+}
+
+.party-segment:hover {
+    filter: brightness(0.95);
+}
+
+.dmk-segment {
+    background: var(--dmk-color);
+    color: white;
+}
+
+.admk-segment {
+    background: var(--aiadmk-color);
+    color: white;
+}
+
+.others-segment {
+    background: var(--swing-color);
+    color: white;
+}
+
+.party-label {
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.party-votes {
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+/* Areas Grid */
+.areas-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+}
+
+.area-card {
+    background: var(--bg-card);
+    border-radius: var(--radius-lg);
+    padding: 1.5rem;
+    box-shadow: var(--shadow-md);
+    border: 1px solid var(--border-color);
+    transition: var(--transition);
+    cursor: pointer;
+}
+
+.area-card:hover {
+    box-shadow: var(--shadow-lg);
+    transform: translateY(-2px);
+    border-color: var(--accent-blue);
+}
+
+.area-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    margin-bottom: 1rem;
+}
+
+.area-card h3 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--text-primary);
+}
+
+.area-card-ac {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    background: var(--bg-hover);
+    padding: 0.25rem 0.5rem;
+    border-radius: var(--radius-sm);
+}
+
+.area-stats {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    margin-bottom: 1.5rem;
+}
+
+.area-stat-row {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.875rem;
+}
+
+.area-stat-label {
+    color: var(--text-secondary);
+}
+
+.area-stat-value {
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
+.area-winner {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    border-radius: var(--radius-sm);
+    font-size: 0.75rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.area-winner.dmk {
+    background: var(--dmk-light);
+    color: var(--dmk-color);
+}
+
+.area-winner.aiadmk {
+    background: var(--aiadmk-light);
+    color: var(--aiadmk-color);
+}
+
+.analyze-btn {
+    width: 100%;
+    padding: 0.75rem;
+    background: var(--accent-blue);
+    color: white;
+    border: none;
+    border-radius: var(--radius-sm);
+    font-size: 0.875rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+.analyze-btn:hover {
+    background: #2563eb;
+}
+
+/* Booth Analysis (existing styles preserved) */
+.constituency-selector {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.constituency-selector label {
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--text-secondary);
+}
+
+.constituency-selector select {
+    padding: 0.5rem 1rem;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-sm);
+    font-size: 0.875rem;
+    font-family: inherit;
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+.constituency-selector select:focus {
+    outline: none;
+    border-color: var(--accent-blue);
+    box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+}
+
+/* ===========================
+   Main Container - Split Layout
+   =========================== */
+.container {
+    display: flex;
+    height: calc(100vh - 65px);
+    gap: 0;
+}
+
+/* Table Panel - 65% */
+.table-panel {
+    flex: 0 0 65%;
+    display: flex;
+    flex-direction: column;
+    background: var(--bg-secondary);
+    border-right: 1px solid var(--border-color);
+    overflow: hidden;
+}
+
+/* Map Panel - 35% */
+.map-panel {
+    flex: 0 0 35%;
+    display: flex;
+    flex-direction: column;
+    background: var(--bg-primary);
+}
+
+/* ===========================
+   Filters Bar
+   =========================== */
+.filters-bar {
+    padding: 1rem;
+    background: var(--bg-secondary);
+    border-bottom: 1px solid var(--border-color);
+    display: flex;
+    gap: 0.75rem;
+    align-items: center;
+}
+
+.filter-group {
+    display: flex;
+    gap: 0.5rem;
+    flex: 1;
+}
+
+.filters-bar select,
+.filters-bar input {
+    padding: 0.5rem 0.75rem;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-sm);
+    font-size: 0.875rem;
+    font-family: inherit;
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    transition: var(--transition);
+}
+
+.filters-bar select {
+    flex: 1;
+    cursor: pointer;
+}
+
+.filters-bar input {
+    flex: 1;
+    max-width: 250px;
+}
+
+.filters-bar select:focus,
+.filters-bar input:focus {
+    outline: none;
+    border-color: var(--accent-blue);
+    box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+}
+
+/* ===========================
+   Summary Stats
+   =========================== */
+.summary-stats {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0.75rem;
+    padding: 1rem;
+    background: var(--bg-primary);
+    border-bottom: 1px solid var(--border-color);
+}
+
+.stat-card {
+    background: var(--bg-secondary);
+    padding: 0.875rem;
+    border-radius: var(--radius-md);
+    text-align: center;
+    border: 1px solid var(--border-color);
+    transition: var(--transition);
+}
+
+.stat-card.clickable {
+    cursor: pointer;
+    user-select: none;
+}
+
+.stat-card.clickable:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+}
+
+.stat-card.clickable.active {
+    border-width: 2px;
+    box-shadow: var(--shadow-md);
+}
+
+.stat-card.dmk {
+    border-left: 3px solid var(--dmk-color);
+    background: var(--dmk-light);
+}
+
+.stat-card.dmk.active {
+    border: 2px solid var(--dmk-color);
+}
+
+.stat-card.aiadmk {
+    border-left: 3px solid var(--aiadmk-color);
+    background: var(--aiadmk-light);
+}
+
+.stat-card.aiadmk.active {
+    border: 2px solid var(--aiadmk-color);
+}
+
+.stat-card.swing {
+    border-left: 3px solid var(--swing-color);
+    background: var(--swing-light);
+}
+
+.stat-card.swing.active {
+    border: 2px solid var(--swing-color);
+}
+
+.stat-value {
+    display: block;
+    font-size: 1.75rem;
+    font-weight: 700;
+    margin-bottom: 0.125rem;
+}
+
+.stat-card.dmk .stat-value {
+    color: var(--dmk-color);
+}
+
+.stat-card.aiadmk .stat-value {
+    color: var(--aiadmk-color);
+}
+
+.stat-card.swing .stat-value {
+    color: var(--swing-color);
+}
+
+.stat-label {
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+    font-weight: 500;
+}
+
+/* ===========================
+   Data Table
+   =========================== */
+.table-container {
+    flex: 1;
+    overflow-y: auto;
+    background: var(--bg-secondary);
+}
+
+#booths-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.875rem;
+}
+
+#booths-table thead {
+    position: sticky;
+    top: 0;
+    background: var(--bg-primary);
+    z-index: 10;
+    box-shadow: 0 1px 0 var(--border-color);
+}
+
+#booths-table th {
+    padding: 0.75rem 1rem;
+    text-align: left;
+    font-weight: 600;
+    color: var(--text-secondary);
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    cursor: pointer;
+    user-select: none;
+}
+
+#booths-table th:hover {
+    background: var(--bg-hover);
+}
+
+#booths-table tbody tr {
+    border-bottom: 1px solid var(--border-color);
+    transition: var(--transition);
+    cursor: pointer;
+}
+
+#booths-table tbody tr:hover {
+    background: var(--bg-hover);
+}
+
+#booths-table tbody tr.selected {
+    background: rgba(59, 130, 246, 0.1);
+    border-left: 3px solid var(--accent-blue);
+}
+
+/* Row color coding by category */
+#booths-table tbody tr.strong-dmk {
+    background: var(--dmk-light);
+}
+
+#booths-table tbody tr.strong-admk {
+    background: var(--aiadmk-light);
+}
+
+#booths-table tbody tr.swing {
+    background: var(--swing-light);
+}
+
+#booths-table td {
+    padding: 0.75rem 1rem;
+}
+
+/* Category Badge */
+.category-badge {
+    display: inline-block;
+    padding: 0.25rem 0.625rem;
+    border-radius: var(--radius-sm);
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+}
+
+.category-badge.strong-dmk {
+    background: var(--dmk-color);
+    color: white;
+}
+
+.category-badge.strong-admk {
+    background: var(--aiadmk-color);
+    color: white;
+}
+
+.category-badge.swing {
+    background: var(--swing-color);
+    color: white;
+}
+
+/* Vote Numbers */
+.vote-count {
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+}
+
+/* ===========================
+   Pagination
+   =========================== */
+.pagination {
+    padding: 1rem;
+    background: var(--bg-secondary);
+    border-top: 1px solid var(--border-color);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pagination button {
+    padding: 0.5rem 1rem;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-sm);
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    font-size: 0.875rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+.pagination button:hover:not(:disabled) {
+    background: var(--bg-hover);
+    border-color: var(--accent-blue);
+}
+
+.pagination button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+#page-info {
+    font-size: 0.875rem;
+    color: var(--text-secondary);
+}
+
+/* ===========================
+   Map Panel
+   =========================== */
+.map-header {
+    padding: 1rem;
+    background: var(--bg-secondary);
+    border-bottom: 1px solid var(--border-color);
+}
+
+.map-header h3 {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: var(--text-primary);
+    margin-bottom: 0.75rem;
+}
+
+.legend {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+}
+
+.legend-color {
+    width: 12px;
+    height: 12px;
+    border-radius: 3px;
+}
+
+.legend-color.dmk {
+    background: var(--dmk-color);
+}
+
+.legend-color.aiadmk {
+    background: var(--aiadmk-color);
+}
+
+.legend-color.swing {
+    background: var(--swing-color);
+}
+
+#map {
+    flex: 1;
+    min-height: 400px;
+    height: 400px;
+    background: var(--bg-primary);
+    border-radius: var(--radius-md);
+}
+
+/* ===========================
+   Leaflet Customization
+   =========================== */
+.leaflet-popup-content-wrapper {
+    background: var(--bg-secondary);
+    color: var(--text-primary);
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow-lg);
+    border: 1px solid var(--border-color);
+}
+
+.leaflet-popup-tip {
+    background: var(--bg-secondary);
+    border: 1px solid var(--border-color);
+}
+
+/* Geohash polygon styling */
+.geohash-area {
+    fill-opacity: 0.3;
+    stroke-width: 2;
+    stroke-opacity: 0.8;
+}
+
+.geohash-area.strong-dmk {
+    fill: var(--dmk-color);
+    stroke: var(--dmk-color);
+}
+
+.geohash-area.strong-admk {
+    fill: var(--aiadmk-color);
+    stroke: var(--aiadmk-color);
+}
+
+.geohash-area.swing {
+    fill: var(--swing-color);
+    stroke: var(--swing-color);
+}
+
+.geohash-area:hover {
+    fill-opacity: 0.5;
+    stroke-width: 3;
+}
+
+/* ===========================
+   Responsive Design
+   =========================== */
+@media (max-width: 1024px) {
+    .container {
+        flex-direction: column;
+    }
+
+    .table-panel {
+        flex: 0 0 60%;
+    }
+
+    .map-panel {
+        flex: 0 0 40%;
+    }
+}
+
+@media (max-width: 768px) {
+    .summary-stats {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .filters-bar {
+        flex-direction: column;
+    }
+
+    .filter-group {
+        width: 100%;
+    }
+
+    .filters-bar input {
+        max-width: 100%;
+    }
+
+    .table-panel {
+        flex: 0 0 50%;
+    }
+
+    .map-panel {
+        flex: 0 0 50%;
+    }
+}
+
+/* ===========================
+   Loading State
+   =========================== */
+.loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    color: var(--text-secondary);
+}

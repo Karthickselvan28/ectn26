@@ -1,0 +1,418 @@
+{
+  "constituencies": [
+    {
+      "constituency_number": "028",
+      "constituency_name": "Alandur",
+      "num_booths": 565,
+      "candidate_totals": [
+        [
+          "candidate_27",
+          235971
+        ],
+        [
+          "candidate_29",
+          235971
+        ],
+        [
+          "candidate_1_magahzaK artennuM ad",
+          115777
+        ],
+        [
+          "candidate_2_annA magahzaK artenn",
+          75634
+        ],
+        [
+          "candidate_6_maiaM lakkaM ihdeeN",
+          21067
+        ],
+        [
+          "candidate_5_ralimaT maaN ihctaK",
+          16469
+        ],
+        [
+          "candidate_26_tnednepednI",
+          1898
+        ],
+        [
+          "candidate_9_aidnI citarcomeD fo ",
+          1759
+        ],
+        [
+          "candidate_4_udanlimaT raygnalI i",
+          1096
+        ],
+        [
+          "candidate_17_tnednepednI",
+          262
+        ],
+        [
+          "candidate_3_lakkaM ihctaK ayiseD",
+          261
+        ],
+        [
+          "candidate_24_tnednepednI",
+          229
+        ],
+        [
+          "candidate_16_tnednepednI",
+          219
+        ],
+        [
+          "candidate_12_tnednepednI",
+          204
+        ],
+        [
+          "candidate_7_uhtianA lakkaM layis",
+          148
+        ],
+        [
+          "candidate_18_tnednepednI",
+          138
+        ],
+        [
+          "candidate_25_tnednepednI",
+          137
+        ],
+        [
+          "candidate_14_tnednepednI",
+          109
+        ],
+        [
+          "candidate_22_tnednepednI",
+          109
+        ],
+        [
+          "candidate_13_tnednepednI",
+          80
+        ],
+        [
+          "candidate_15_tnednepednI",
+          73
+        ],
+        [
+          "candidate_8_aakihdavanaM ayitrah",
+          59
+        ],
+        [
+          "candidate_21_tnednepednI",
+          53
+        ],
+        [
+          "candidate_10_htuoS citarcomeD lan",
+          50
+        ],
+        [
+          "candidate_20_tnednepednI",
+          41
+        ],
+        [
+          "candidate_19_tnednepednI",
+          40
+        ],
+        [
+          "candidate_11_aidnI nacilbupeR )el",
+          34
+        ],
+        [
+          "candidate_23_tnednepednI",
+          25
+        ],
+        [
+          "candidate_28",
+          0
+        ],
+        [
+          "candidate_30",
+          0
+        ]
+      ],
+      "total_votes": 707913
+    },
+    {
+      "constituency_number": "UNKNOWN",
+      "constituency_name": "UNKNOWN",
+      "num_booths": 512,
+      "candidate_totals": [
+        [
+          "candidate_17",
+          262863
+        ],
+        [
+          "candidate_19",
+          262863
+        ],
+        [
+          "candidate_1_LANOITAN SSERGNOC NA",
+          114554
+        ],
+        [
+          "candidate_2_ARTENNUM ANNA MAGAHZ",
+          104017
+        ],
+        [
+          "candidate_5_RALIMAT IHCTAK MAAN",
+          21998
+        ],
+        [
+          "candidate_4_IHDEEN LAKKAM MAIAM",
+          8838
+        ],
+        [
+          "candidate_15",
+          6325
+        ],
+        [
+          "candidate_6_LAKKAM ARTTENNUM MAG",
+          3125
+        ],
+        [
+          "candidate_16",
+          2132
+        ],
+        [
+          "candidate_3_JAMAS NAJUHAB YTRAP",
+          802
+        ],
+        [
+          "candidate_8",
+          280
+        ],
+        [
+          "candidate_12",
+          138
+        ],
+        [
+          "candidate_14",
+          132
+        ],
+        [
+          "candidate_7_LAKKAM IHCTAK AYISED",
+          123
+        ],
+        [
+          "candidate_13",
+          123
+        ],
+        [
+          "candidate_10",
+          114
+        ],
+        [
+          "candidate_9",
+          88
+        ],
+        [
+          "candidate_11",
+          74
+        ],
+        [
+          "candidate_20",
+          1
+        ],
+        [
+          "candidate_18",
+          0
+        ]
+      ],
+      "total_votes": 788590
+    },
+    {
+      "constituency_number": "036",
+      "constituency_name": "Uthiramerur",
+      "num_booths": 359,
+      "candidate_totals": [
+        [
+          "candidate_24",
+          214773
+        ],
+        [
+          "candidate_22",
+          208409
+        ],
+        [
+          "candidate_1_ARTENNUM MAGAHZAK AD",
+          92161
+        ],
+        [
+          "candidate_3_ARTENNUM MAGAHZAK AI",
+          91127
+        ],
+        [
+          "candidate_4_RALIMAT IHCTAK MAAN",
+          11320
+        ],
+        [
+          "candidate_7_ARTTENNUM MAGAZAK LA",
+          7181
+        ],
+        [
+          "candidate_6_LAKKAM IHDEEN MAIAM",
+          2077
+        ],
+        [
+          "candidate_21",
+          946
+        ],
+        [
+          "candidate_16",
+          752
+        ],
+        [
+          "candidate_2_YTRAP NAJUHAB JAMAS",
+          600
+        ],
+        [
+          "candidate_17",
+          448
+        ],
+        [
+          "candidate_14",
+          332
+        ],
+        [
+          "candidate_19",
+          305
+        ],
+        [
+          "candidate_11",
+          298
+        ],
+        [
+          "candidate_15",
+          140
+        ],
+        [
+          "candidate_5_AYISED LAKKAM IHTKAS",
+          134
+        ],
+        [
+          "candidate_10",
+          104
+        ],
+        [
+          "candidate_13",
+          100
+        ],
+        [
+          "candidate_9",
+          91
+        ],
+        [
+          "candidate_8_NACILBUPER )ELAWAHTA",
+          82
+        ],
+        [
+          "candidate_20",
+          81
+        ],
+        [
+          "candidate_18",
+          66
+        ],
+        [
+          "candidate_12",
+          64
+        ],
+        [
+          "candidate_23",
+          0
+        ],
+        [
+          "candidate_25",
+          0
+        ]
+      ],
+      "total_votes": 631591
+    },
+    {
+      "constituency_number": "037",
+      "constituency_name": "Kancheepuram",
+      "num_booths": 436,
+      "candidate_totals": [
+        [
+          "candidate_17",
+          226583
+        ],
+        [
+          "candidate_19",
+          226583
+        ],
+        [
+          "candidate_1_ARTENNUM MAGAHZAK AD",
+          100914
+        ],
+        [
+          "candidate_5_ILATTAP LAKKAM IHCTA",
+          90390
+        ],
+        [
+          "candidate_4_RALIMAT IHCTAK MAAN",
+          13829
+        ],
+        [
+          "candidate_3_LAKKAM IHDEEN MAIAM",
+          11936
+        ],
+        [
+          "candidate_16_EDNEPEDNI TN",
+          2516
+        ],
+        [
+          "candidate_6_ARTTENUM MAGAZAK LAK",
+          2283
+        ],
+        [
+          "candidate_8_EDNEPEDNI TN",
+          2029
+        ],
+        [
+          "candidate_2_NAJUHAB JAMAS YTRAP",
+          1185
+        ],
+        [
+          "candidate_12_EDNEPEDNI TN",
+          414
+        ],
+        [
+          "candidate_7_OITARENEG SELPOEP WE",
+          235
+        ],
+        [
+          "candidate_15_EDNEPEDNI TN",
+          195
+        ],
+        [
+          "candidate_11_EDNEPEDNI TN",
+          159
+        ],
+        [
+          "candidate_13_EDNEPEDNI TN",
+          144
+        ],
+        [
+          "candidate_14_EDNEPEDNI TN",
+          133
+        ],
+        [
+          "candidate_10_EDNEPEDNI TN",
+          126
+        ],
+        [
+          "candidate_9_EDNEPEDNI TN",
+          95
+        ],
+        [
+          "candidate_18",
+          0
+        ],
+        [
+          "candidate_20",
+          0
+        ]
+      ],
+      "total_votes": 679749
+    }
+  ],
+  "total_booths": 1872,
+  "total_votes": 2807843
+}

@@ -1,0 +1,36 @@
+{
+  "kanchipuram_area": [
+    {
+      "ac_number": "028",
+      "name": "Alandur",
+      "district_code": "dt3",
+      "district_name": "Kanchipuram",
+      "type": "General",
+      "pdf_url": "https://elections.tn.gov.in/Form20_TNLA2021/dt3/AC028.pdf"
+    },
+    {
+      "ac_number": "029",
+      "name": "Sriperumbudur",
+      "district_code": "dt3",
+      "district_name": "Kanchipuram",
+      "type": "SC",
+      "pdf_url": "https://elections.tn.gov.in/Form20_TNLA2021/dt3/AC029.pdf"
+    },
+    {
+      "ac_number": "036",
+      "name": "Uthiramerur",
+      "district_code": "dt3",
+      "district_name": "Kanchipuram",
+      "type": "General",
+      "pdf_url": "https://elections.tn.gov.in/Form20_TNLA2021/dt3/AC036.pdf"
+    },
+    {
+      "ac_number": "037",
+      "name": "Kancheepuram",
+      "district_code": "dt3",
+      "district_name": "Kanchipuram",
+      "type": "General",
+      "pdf_url": "https://elections.tn.gov.in/Form20_TNLA2021/dt3/AC037.pdf"
+    }
+  ]
+}

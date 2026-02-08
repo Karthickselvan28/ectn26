@@ -1,0 +1,132 @@
+{
+  "district": "Kanchipuram",
+  "election_year": 2021,
+  "totals": {
+    "booths": 1872,
+    "total_votes": 920693,
+    "dmk_votes": 423406,
+    "aiadmk_votes": 361168,
+    "others_votes": 136119,
+    "other_parties": {
+      "DESIYA KATCHI MAKKAL": 384,
+      "I ILANGYAR TAMILNADU": 1096,
+      "NTK": 63616,
+      "MDMK": 43918,
+      "SIYAL MAKKAL ANAITHU": 148,
+      "HARTIYA MANAVADHIKAA": 59,
+      "OF DEMOCRATIC INDIA": 1759,
+      "NAL DEMOCRATIC SOUTH": 50,
+      "LE) REPUBLICAN INDIA": 34,
+      "INDEPENDENT": 3617,
+      "BSP": 2587,
+      "GAM MUNNETTRA MAKKAL": 3125,
+      "SAKTHI MAKKAL DESIYA": 134,
+      "AL KAZAGAM MUNNETTRA": 7181,
+      "ATHAWALE) REPUBLICAN": 82,
+      "KAL KAZAGAM MUNETTRA": 2283,
+      "EW PEOPLES GENERATIO": 235,
+      "NT INDEPENDE": 5811
+    },
+    "dmk_won_booths": 1249,
+    "aiadmk_won_booths": 623
+  },
+  "winner": "DMK",
+  "margin": 62238,
+  "areas": [
+    {
+      "ac_number": "028",
+      "name": "Alandur",
+      "data_file": "alandur.json",
+      "booths": 565,
+      "total_votes": 235971,
+      "dmk_votes": 115777,
+      "aiadmk_votes": 75634,
+      "others_votes": 44560,
+      "other_parties": {
+        "DESIYA KATCHI MAKKAL": 261,
+        "I ILANGYAR TAMILNADU": 1096,
+        "NTK": 16469,
+        "MDMK": 21067,
+        "SIYAL MAKKAL ANAITHU": 148,
+        "HARTIYA MANAVADHIKAA": 59,
+        "OF DEMOCRATIC INDIA": 1759,
+        "NAL DEMOCRATIC SOUTH": 50,
+        "LE) REPUBLICAN INDIA": 34,
+        "INDEPENDENT": 3617
+      },
+      "dmk_won_booths": 480,
+      "aiadmk_won_booths": 85,
+      "winner": "DMK",
+      "margin": 40143,
+      "margin_pct": 17.01
+    },
+    {
+      "ac_number": "029",
+      "name": "Sriperumbudur",
+      "data_file": "sriperumbudur.json",
+      "booths": 512,
+      "total_votes": 253457,
+      "dmk_votes": 114554,
+      "aiadmk_votes": 104017,
+      "others_votes": 34886,
+      "other_parties": {
+        "BSP": 802,
+        "MDMK": 8838,
+        "NTK": 21998,
+        "GAM MUNNETTRA MAKKAL": 3125,
+        "DESIYA KATCHI MAKKAL": 123
+      },
+      "dmk_won_booths": 301,
+      "aiadmk_won_booths": 211,
+      "winner": "DMK",
+      "margin": 10537,
+      "margin_pct": 4.16
+    },
+    {
+      "ac_number": "036",
+      "name": "Uthiramerur",
+      "data_file": "uthiramerur.json",
+      "booths": 359,
+      "total_votes": 204682,
+      "dmk_votes": 92161,
+      "aiadmk_votes": 91127,
+      "others_votes": 21394,
+      "other_parties": {
+        "BSP": 600,
+        "NTK": 11320,
+        "SAKTHI MAKKAL DESIYA": 134,
+        "MDMK": 2077,
+        "AL KAZAGAM MUNNETTRA": 7181,
+        "ATHAWALE) REPUBLICAN": 82
+      },
+      "dmk_won_booths": 192,
+      "aiadmk_won_booths": 167,
+      "winner": "DMK",
+      "margin": 1034,
+      "margin_pct": 0.51
+    },
+    {
+      "ac_number": "037",
+      "name": "Kancheepuram",
+      "data_file": "kancheepuram.json",
+      "booths": 436,
+      "total_votes": 226583,
+      "dmk_votes": 100914,
+      "aiadmk_votes": 90390,
+      "others_votes": 35279,
+      "other_parties": {
+        "BSP": 1185,
+        "MDMK": 11936,
+        "NTK": 13829,
+        "KAL KAZAGAM MUNETTRA": 2283,
+        "EW PEOPLES GENERATIO": 235,
+        "NT INDEPENDE": 5811
+      },
+      "dmk_won_booths": 276,
+      "aiadmk_won_booths": 160,
+      "winner": "DMK",
+      "margin": 10524,
+      "margin_pct": 4.64
+    }
+  ]
+}

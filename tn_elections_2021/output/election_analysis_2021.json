@@ -1,0 +1,181 @@
+{
+  "election": "Tamil Nadu Legislative Assembly 2021",
+  "region": "Kanchipuram Area",
+  "constituencies_analyzed": 4,
+  "results": [
+    {
+      "constituency_number": "028",
+      "constituency_name": "Alandur",
+      "num_booths": 565,
+      "winner": {
+        "raw_name": "candidate_1_magahzaK artennuM ad",
+        "party": "DMK",
+        "votes": 115777
+      },
+      "runner_up": {
+        "raw_name": "candidate_2_annA magahzaK artenn",
+        "party": "AIADMK",
+        "votes": 75634
+      },
+      "margin": 40143,
+      "party_votes": {
+        "DMK": 115777,
+        "AIADMK": 75634,
+        "Desiya Makkal Katchi": 261,
+        "Other": 2905,
+        "NTK": 16469,
+        "MNM": 21067,
+        "Social Democratic Party": 148,
+        "Bharatiya Manavadika": 59,
+        "Republican Party of India": 34,
+        "Independent": 3617
+      },
+      "total_votes": 235971,
+      "candidate_votes": {
+        "candidate_1_magahzaK artennuM ad": 115777,
+        "candidate_2_annA magahzaK artenn": 75634,
+        "candidate_3_lakkaM ihctaK ayiseD": 261,
+        "candidate_4_udanlimaT raygnalI i": 1096,
+        "candidate_5_ralimaT maaN ihctaK": 16469,
+        "candidate_6_maiaM lakkaM ihdeeN": 21067,
+        "candidate_7_uhtianA lakkaM layis": 148,
+        "candidate_8_aakihdavanaM ayitrah": 59,
+        "candidate_9_aidnI citarcomeD fo ": 1759,
+        "candidate_10_htuoS citarcomeD lan": 50,
+        "candidate_11_aidnI nacilbupeR )el": 34,
+        "candidate_12_tnednepednI": 204,
+        "candidate_13_tnednepednI": 80,
+        "candidate_14_tnednepednI": 109,
+        "candidate_15_tnednepednI": 73,
+        "candidate_16_tnednepednI": 219,
+        "candidate_17_tnednepednI": 262,
+        "candidate_18_tnednepednI": 138,
+        "candidate_19_tnednepednI": 40,
+        "candidate_20_tnednepednI": 41,
+        "candidate_21_tnednepednI": 53,
+        "candidate_22_tnednepednI": 109,
+        "candidate_23_tnednepednI": 25,
+        "candidate_24_tnednepednI": 229,
+        "candidate_25_tnednepednI": 137,
+        "candidate_26_tnednepednI": 1898
+      }
+    },
+    {
+      "constituency_number": "029",
+      "constituency_name": "Sriperumbudur",
+      "num_booths": 512,
+      "winner": {
+        "raw_name": "candidate_1_LANOITAN SSERGNOC NA",
+        "party": "INC (Congress)",
+        "votes": 114554
+      },
+      "runner_up": {
+        "raw_name": "candidate_2_ARTENNUM ANNA MAGAHZ",
+        "party": "AIADMK",
+        "votes": 104017
+      },
+      "margin": 10537,
+      "party_votes": {
+        "INC (Congress)": 114554,
+        "AIADMK": 104017,
+        "BSP": 802,
+        "MNM": 8838,
+        "NTK": 21998,
+        "AMMK": 3125,
+        "Desiya Makkal Katchi": 123
+      },
+      "total_votes": 253457,
+      "candidate_votes": {
+        "candidate_1_LANOITAN SSERGNOC NA": 114554,
+        "candidate_2_ARTENNUM ANNA MAGAHZ": 104017,
+        "candidate_3_JAMAS NAJUHAB YTRAP": 802,
+        "candidate_4_IHDEEN LAKKAM MAIAM": 8838,
+        "candidate_5_RALIMAT IHCTAK MAAN": 21998,
+        "candidate_6_LAKKAM ARTTENNUM MAG": 3125,
+        "candidate_7_LAKKAM IHCTAK AYISED": 123
+      }
+    },
+    {
+      "constituency_number": "036",
+      "constituency_name": "Uthiramerur",
+      "num_booths": 359,
+      "winner": {
+        "raw_name": "candidate_1_ARTENNUM MAGAHZAK AD",
+        "party": "DMK",
+        "votes": 92161
+      },
+      "runner_up": {
+        "raw_name": "candidate_3_ARTENNUM MAGAHZAK AI",
+        "party": "AIADMK",
+        "votes": 91127
+      },
+      "margin": 1034,
+      "party_votes": {
+        "DMK": 92161,
+        "BSP": 600,
+        "AIADMK": 91127,
+        "NTK": 11320,
+        "Desiya Makkal Sakthi": 134,
+        "MNM": 2077,
+        "Other": 7181,
+        "Republican Party (Athawale)": 82
+      },
+      "total_votes": 204682,
+      "candidate_votes": {
+        "candidate_1_ARTENNUM MAGAHZAK AD": 92161,
+        "candidate_2_YTRAP NAJUHAB JAMAS": 600,
+        "candidate_3_ARTENNUM MAGAHZAK AI": 91127,
+        "candidate_4_RALIMAT IHCTAK MAAN": 11320,
+        "candidate_5_AYISED LAKKAM IHTKAS": 134,
+        "candidate_6_LAKKAM IHDEEN MAIAM": 2077,
+        "candidate_7_ARTTENNUM MAGAZAK LA": 7181,
+        "candidate_8_NACILBUPER )ELAWAHTA": 82
+      }
+    },
+    {
+      "constituency_number": "037",
+      "constituency_name": "Kancheepuram",
+      "num_booths": 436,
+      "winner": {
+        "raw_name": "candidate_1_ARTENNUM MAGAHZAK AD",
+        "party": "DMK",
+        "votes": 100914
+      },
+      "runner_up": {
+        "raw_name": "candidate_5_ILATTAP LAKKAM IHCTA",
+        "party": "PMK",
+        "votes": 90390
+      },
+      "margin": 10524,
+      "party_votes": {
+        "DMK": 100914,
+        "BSP": 1185,
+        "MNM": 11936,
+        "NTK": 13829,
+        "PMK": 90390,
+        "AMMK": 2283,
+        "Peoples New Generation": 235,
+        "Independent": 5811
+      },
+      "total_votes": 226583,
+      "candidate_votes": {
+        "candidate_1_ARTENNUM MAGAHZAK AD": 100914,
+        "candidate_2_NAJUHAB JAMAS YTRAP": 1185,
+        "candidate_3_LAKKAM IHDEEN MAIAM": 11936,
+        "candidate_4_RALIMAT IHCTAK MAAN": 13829,
+        "candidate_5_ILATTAP LAKKAM IHCTA": 90390,
+        "candidate_6_ARTTENUM MAGAZAK LAK": 2283,
+        "candidate_7_OITARENEG SELPOEP WE": 235,
+        "candidate_8_EDNEPEDNI TN": 2029,
+        "candidate_9_EDNEPEDNI TN": 95,
+        "candidate_10_EDNEPEDNI TN": 126,
+        "candidate_11_EDNEPEDNI TN": 159,
+        "candidate_12_EDNEPEDNI TN": 414,
+        "candidate_13_EDNEPEDNI TN": 144,
+        "candidate_14_EDNEPEDNI TN": 133,
+        "candidate_15_EDNEPEDNI TN": 195,
+        "candidate_16_EDNEPEDNI TN": 2516
+      }
+    }
+  ]
+}

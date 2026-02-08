@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TN Elections 2021 - Booth Analysis</title>
+
+    <!-- SEO -->
+    <meta name="description"
+        content="Interactive booth-level analysis of Tamil Nadu Assembly Elections 2021. Visualize voting patterns across constituencies.">
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-content">
+            <div>
+                <h1>🗳️ TN Elections 2021</h1>
+                <p class="subtitle" id="header-subtitle">Kanchipuram District</p>
+            </div>
+            <div class="header-actions">
+                <button id="back-btn" class="back-btn" style="display: none;">
+                    ← Back to Overview
+                </button>
+                <div class="constituency-selector" id="area-selector" style="display: none;">
+                    <label for="area-select">Area:</label>
+                    <select id="area-select">
+                        <option value="">Select Area</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- District Overview (Landing Page) -->
+    <div id="district-overview" class="district-overview">
+        <div class="overview-container">
+            <!-- District Summary Card -->
+            <div class="district-summary-card">
+                <h2>Kanchipuram District Summary</h2>
+                <div class="summary-stats">
+                    <div class="stat-item">
+                        <span class="stat-label">Total Booths</span>
+                        <span class="stat-value" id="district-total-booths">-</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-label">Total Votes</span>
+                        <span class="stat-value" id="district-total-votes">-</span>
+                    </div>
+                    <div class="stat-item winner-stat">
+                        <span class="stat-label">Winner</span>
+                        <span class="stat-value" id="district-winner">-</span>
+                    </div>
+                </div>
+                <div class="party-breakdown">
+                    <div class="party-bar">
+                        <div class="party-segment dmk-segment" id="dmk-bar" style="width: 0%">
+                            <span class="party-label">DMK</span>
+                            <span class="party-votes" id="dmk-votes">-</span>
+                        </div>
+                        <div class="party-segment admk-segment" id="admk-bar" style="width: 0%">
+                            <span class="party-label">AIADMK</span>
+                            <span class="party-votes" id="admk-votes">-</span>
+                        </div>
+                        <div class="party-segment others-segment" id="others-bar" style="width: 0%">
+                            <span class="party-label">Others</span>
+                            <span class="party-votes" id="others-votes">-</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Area Cards Grid -->
+            <div class="areas-grid" id="areas-grid">
+                <!-- Area cards will be dynamically inserted here -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Booth Analysis View (Hidden by default) -->
+    <div id="booth-analysis" class="booth-analysis" style="display: none;">
+        <div class="container">
+            <main class="table-panel">
+                <!-- Filters -->
+                <div class="filters-bar">
+                    <div class="filter-group">
+                        <select id="filter-village">
+                            <option value="all">All Villages</option>
+                        </select>
+                    </div>
+                    <input type="text" id="search-input" placeholder="Search booth or location...">
+                </div>
+
+                <!-- Summary Stats - Clickable Cards -->
+                <div class="summary-stats">
+                    <div class="stat-card dmk clickable" data-filter="strong-dmk">
+                        <span class="stat-value" id="dmk-won">-</span>
+                        <span class="stat-label">Strong DMK</span>
+                    </div>
+                    <div class="stat-card aiadmk clickable" data-filter="strong-admk">
+                        <span class="stat-value" id="aiadmk-won">-</span>
+                        <span class="stat-label">Strong ADMK</span>
+                    </div>
+                    <div class="stat-card swing clickable" data-filter="swing">
+                        <span class="stat-value" id="swing-count">-</span>
+                        <span class="stat-label">Swing</span>
+                    </div>
+                    <div class="stat-card">
+                        <span class="stat-value" id="total-booths">-</span>
+                        <span class="stat-label">Total Booths</span>
+                    </div>
+                </div>
+
+                <!-- Data Table -->
+                <div class="table-container">
+                    <table id="booths-table">
+                        <thead>
+                            <tr>
+                                <th data-sort="booth_no">Booth #</th>
+                                <th data-sort="village">Location</th>
+                                <th data-sort="dmk_votes">DMK</th>
+                                <th data-sort="aiadmk_votes">ADMK</th>
+                                <th data-sort="others">Others</th>
+                                <th data-sort="category">Category</th>
+                            </tr>
+                        </thead>
+                        <tbody id="table-body">
+                            <!-- Populated by JavaScript -->
+                        </tbody>
+                    </table>
+                </div>
+
+                <!-- Pagination -->
+                <div class="pagination">
+                    <button id="prev-page" disabled>← Previous</button>
+                    <span id="page-info">Page 1 of 1</span>
+                    <button id="next-page" disabled>Next →</button>
+                </div>
+            </main>
+
+            <!-- Right Panel: Map -->
+            <aside class="map-panel">
+                <div class="map-header">
+                    <h3>📍 Geographic Distribution</h3>
+                    <div class="legend">
+                        <div class="legend-item">
+                            <span class="legend-color dmk"></span>
+                            <span>Strong DMK</span>
+                        </div>
+                        <div class="legend-item">
+                            <span class="legend-color aiadmk"></span>
+                            <span>Strong ADMK</span>
+                        </div>
+                        <div class="legend-item">
+                            <span class="legend-color swing"></span>
+                            <span>Swing</span>
+                        </div>
+                    </div>
+                </div>
+                <div id="map"></div>
+            </aside>
+        </div>
+    </div> <!-- Close booth-analysis -->
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <!-- Geohash library -->
+    <script src="https://cdn.jsdelivr.net/npm/ngeohash@0.6.3/main.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>

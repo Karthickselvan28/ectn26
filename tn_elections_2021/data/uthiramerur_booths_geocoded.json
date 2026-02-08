@@ -1,0 +1,2711 @@
+[
+  {
+    "station_no": 2,
+    "building": "Panchayat Union Primary School,Kolivakkam JVVD Building East Facing",
+    "village": "Kolivakkam",
+    "lat": 12.7843743,
+    "lng": 79.6670244,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 3,
+    "building": "Govt. Higher Secondary School,Iyangarkulam North Facing",
+    "village": "Iyangarkulam",
+    "lat": 12.7860065,
+    "lng": 79.6754105,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 4,
+    "building": "Govt. Higher Secondary School,Iyangarkulam South Facing",
+    "village": "Iyangarkulam",
+    "lat": 12.7860065,
+    "lng": 79.6754105,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 5,
+    "building": "Government Higher Secondary School,Iyangarkulam Western Side North Facing",
+    "village": "Iyangarkulam",
+    "lat": 12.7860065,
+    "lng": 79.6754105,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 6,
+    "building": "Government Higher Secondary School,Iyyangarkulam Western Side South Facing",
+    "village": "Iyyangarkulam",
+    "lat": 12.7843445,
+    "lng": 79.6628408,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 7,
+    "building": "Government Higher Secondary School , Eastern Side South Facing, Iyangarkulam - 631502",
+    "village": "Eastern",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 8,
+    "building": "Panchayat Union Middle School,Valathottam West Facing",
+    "village": "Valathottam",
+    "lat": 12.7804988,
+    "lng": 79.70539649999999,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 9,
+    "building": "Government Adhithiravidar Welfare Primary School,Orikkai East Side West Facing",
+    "village": "Orikkai",
+    "lat": 12.8034161,
+    "lng": 79.7116678,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 10,
+    "building": "Government Adhithiravidar Welfare Primary School, East Side, West Facing Room No: 2, Orikkai - 631502",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 11,
+    "building": "Government Adhithiravidar Welfare Primary School,Orikkai Additional Building South Facing",
+    "village": "Orikkai",
+    "lat": 12.8034161,
+    "lng": 79.7116678,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 12,
+    "building": "Government Adhithiravidar Welfare Primary School, Addl. Building South, Facing East side, Orikkai - 631502",
+    "village": "Addl",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 13,
+    "building": "Government Adhithiravidar Welfare high School, East facing, Room No. 4, Orikkai - 631502",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 14,
+    "building": "Government Adhithiravidar Welfare Primary School, Addl.Building East Facing office room, Orikkai - 631502",
+    "village": "Addl",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 15,
+    "building": "Government Adhithiravidar Welfare high School, East Facing, Orikkai - 631502",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 16,
+    "building": "Government Adhithiravidar Welfare Primary School,Orikkai East Facing",
+    "village": "Orikkai",
+    "lat": 12.8034161,
+    "lng": 79.7116678,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 17,
+    "building": "Panchayat Union Primary School,Chinnyankulam North Facing",
+    "village": "Chinnyankulam",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 18,
+    "building": "Panchayat Union Primary School,Chinnyankulam East Facing",
+    "village": "Chinnyankulam",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 19,
+    "building": "Panchayat Union Middle School , East Side Building Northern Side East Facing 1st std Room, Muthiyalpettai - 631601",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 20,
+    "building": "Panchayat Union Middle School , East Side Building Northern Side East Facing 3rd std Room, Muthiyalpettai - 631601",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 21,
+    "building": "Panchayat Union Middle School , East Side Building Northern Side East Facing 4th std Room, Muthiyalpettai - 631601",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 22,
+    "building": "Panchayat Union Middle School,VIshnu Kanchi South Facing",
+    "village": "VIshnu",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 23,
+    "building": "Panchayat Union Middle School, South Facing 7th std, VIshnu Kanchi - 631501",
+    "village": "South",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 24,
+    "building": "Panchayat Union Middle School, South Facing 8th std, VIshnu Kanchi - 631501",
+    "village": "South",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 25,
+    "building": "Aringar Anna Co operative Training Institute,Vandavasi Salai Opposite Collectorate East Facing",
+    "village": "Vandavasi",
+    "lat": 12.5024906,
+    "lng": 79.6026844,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 26,
+    "building": "Panchayat Union Middle School,Vishnukanchi Thenampakkam South Facing",
+    "village": "Vishnukanchi",
+    "lat": 12.8193353,
+    "lng": 79.7247714,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 27,
+    "building": "Panchayat Union Middle School,Vishnukanchi Thenampakkam North Facing",
+    "village": "Vishnukanchi",
+    "lat": 12.8193353,
+    "lng": 79.7247714,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 28,
+    "building": "Victoria Matriculation Higher Secondary School ,Arasu Nagar Orikkai South Facing Middle Room",
+    "village": "Arasu",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 29,
+    "building": "Victoria Matriculation Higher Secondary School ,Arasu Nagar Orikkai South Facing Middle Room",
+    "village": "Arasu",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 30,
+    "building": "Victoria Matriculation Higher Secondary School ,Arasu Nagar Orikkai South Facing Middle Room",
+    "village": "Arasu",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 31,
+    "building": "Victoria Matriculation Higher Secondary School, South Facing, West Side 9th std, Arasu Nagar, Orikkai - 631501",
+    "village": "South",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 32,
+    "building": "Panchayat Union Middle School,JVVD Building Vishnukanchi Thumbavanam North Facing",
+    "village": "JVVD",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 33,
+    "building": "PANCHAYAT UNION MIDDLE SCHOOL,Thenambakkam West Facing",
+    "village": "Thenambakkam",
+    "lat": 12.8099102,
+    "lng": 79.73578119999999,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 34,
+    "building": "Panchayat Union Middle School, West Facing south side, Thumbavanam - 631502",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 35,
+    "building": "Govt.High School for Disabled,Sadhavaram South Facing",
+    "village": "Sadhavaram",
+    "lat": 12.8114621,
+    "lng": 79.7210577,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 36,
+    "building": "Panchayat Union Primary School,Thenambakam East Facing North Side",
+    "village": "Thenambakam",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 37,
+    "building": "Panchayat union primary school,Erivai.south facing building",
+    "village": "Erivai",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 38,
+    "building": "Panchayat union primary school,Vallupakkam south facing building",
+    "village": "Vallupakkam",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 39,
+    "building": "Arinjar Anna Government Higher Secondaray School,Iyyanpet East Facing",
+    "village": "Iyyanpet",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 40,
+    "building": "Arinjar Anna Government Higher Secondaray School , Block 2 North Facing, Iyyanpet- 631601",
+    "village": "Block",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 41,
+    "building": "Panchayat Union Primary School , East side South Facing, Iyyanpet- 631601",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 42,
+    "building": "Panchayat Union Primary School , South Facing west side, Iyyanpet- 631601",
+    "village": "South",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 43,
+    "building": "Panchayat Union Primary School,Iyyanpet South Facing",
+    "village": "Iyyanpet",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 44,
+    "building": "Arignar Anna Higher Secondary School , West Facing, Iyyanpet- 631601",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 45,
+    "building": "Arignar Anna Higher Secondary School , South Facing 4th std Room, Iyyanpet- 631601",
+    "village": "South",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 46,
+    "building": "Arignar Anna Higher Secondary School , South Facing 3rd std Room, Iyyanpet- 631601",
+    "village": "South",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 47,
+    "building": "Panchayat Union Primary School,Thimmaiyanpet East Facing",
+    "village": "Thimmaiyanpet",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 48,
+    "building": "Panchayat union primary school,Thimmaiyanpet East Facing",
+    "village": "Thimmaiyanpet",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 49,
+    "building": "Panchayat union primary school,Thimmaiyanpet North Facing",
+    "village": "Thimmaiyanpet",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 50,
+    "building": "Panchayat Union Middle School , East side South Facing, Villivalam - 631601",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 51,
+    "building": "Panchayat Union Middle School , South Facing west side, Villivalam - 631601",
+    "village": "South",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 52,
+    "building": "Government Higher Secondary School , West Side AddlBuilding East Facing 3rd std room, Nayaganpet - 631601",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 53,
+    "building": "Government Higher Secondary School , West Side AddlBuilding East Facing 4th std Room, Nayaganpet - 631601",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 54,
+    "building": "Government Higher Secondary School , West Side AddlBuilding East Facing 2nd std Room, Nayaganpet - 631601",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 55,
+    "building": "Panchayat union Primary school , East Side South Facing, Ekanampet - 631601",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 56,
+    "building": "Panchayat union Primary school , West Side South Facing, Ekanampet - 631601",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 57,
+    "building": "Panchayat Union Middle School,Poosivakkam East Facing",
+    "village": "Poosivakkam",
+    "lat": 12.8118175,
+    "lng": 79.7958814,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 58,
+    "building": "Panchayat Union Middle School , AddlBuilding West Facing, Poosivakkam - 631601",
+    "village": "AddlBuilding",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 59,
+    "building": "CSI Primary School , east Side South Facing, Thimmarajampet - 631601",
+    "village": "east",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 60,
+    "building": "CSI Primary School , West Side South Facing, Thimmarajampet - 631601",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 61,
+    "building": "Panchayat Union Primary School , East side North Facing, Seeyamangalam - 631601",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 62,
+    "building": "Panchayat Union Primary School , West side North Facing, Seeyamangalam - 631601",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 63,
+    "building": "Panchayat Union Primary School,Keelotivakkam West Facing",
+    "village": "Keelotivakkam",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 64,
+    "building": "Panchayat Union Middle School,Keelotivakkam West Facing",
+    "village": "Keelotivakkam",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 65,
+    "building": "V.S.Aranganathan Government High School , East side South Facing, Uthukkadu - 631601",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 66,
+    "building": "V.S.Aranganathan Government Higher Secondary School , West side South Facing, Uthukkadu - 631601",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 67,
+    "building": "V.S.Aranganathan High. School,Uthukkadu North Facing",
+    "village": "Uthukkadu",
+    "lat": 12.8247548,
+    "lng": 79.8182128,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 68,
+    "building": "Panchayat Union Primary School,Kidiripet North Facing",
+    "village": "Kidiripet",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 69,
+    "building": "Panchayat Union Elementary School,Kidiripet North Facing",
+    "village": "Kidiripet",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 70,
+    "building": "Panchayat Union Middle school , East Side Building North Facing, Puthagaram - 631561",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 71,
+    "building": "Panchayat Union Middle school , west Side Building North Facing, Puthagaram - 631561",
+    "village": "west",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 72,
+    "building": "Panchayat Union Primary school,Marutham South Facing",
+    "village": "Marutham",
+    "lat": 12.6571086,
+    "lng": 79.7820394,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 73,
+    "building": "R.C.M. Middle School, Computer Room Side,Ottanthangal North Facing",
+    "village": "Computer",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 74,
+    "building": "Panchayath Union Primary school,Naiyakkankuppam East Facing",
+    "village": "Naiyakkankuppam",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 75,
+    "building": "Government Higher Secondaray School , New Building North Facing East side, Thenneri - 631604",
+    "village": "New",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 76,
+    "building": "Government Higher Secondaray School , New Building North Facing west side, Thenneri - 631604",
+    "village": "New",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 77,
+    "building": "GOVT.HIGHER SECONDARY SCHOOL,Thenneri East Facing",
+    "village": "Thenneri",
+    "lat": 12.8494514,
+    "lng": 79.8543266,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 78,
+    "building": "SGRY Builiding,Sooramenikuppam North Facing",
+    "village": "Sooramenikuppam",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 79,
+    "building": "Panchayat Union Primary School,Kattavakkam West Facing",
+    "village": "Kattavakkam",
+    "lat": 12.8181543,
+    "lng": 79.8380778,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 80,
+    "building": "Panchayat Union Primary School,Kattavakkam South Facing",
+    "village": "Kattavakkam",
+    "lat": 12.8181543,
+    "lng": 79.8380778,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 81,
+    "building": "Panchayat Union Middle School,Ayimicheri South Facing",
+    "village": "Ayimicheri",
+    "lat": 12.8743508,
+    "lng": 79.859083,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 82,
+    "building": "Panchayat Union Middle School,Ayimicheri North Facing",
+    "village": "Ayimicheri",
+    "lat": 12.8743508,
+    "lng": 79.859083,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 83,
+    "building": "Panchayat Union Primary School,Thiruvangaranai South Facing",
+    "village": "Thiruvangaranai",
+    "lat": 12.8482879,
+    "lng": 79.8828828,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 84,
+    "building": "Panchayat Union Middle School,Kunnavakkam East Facing",
+    "village": "Kunnavakkam",
+    "lat": 12.670331,
+    "lng": 79.8308115,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 85,
+    "building": "Panchayat Union Middle School,Kunnavakkam North Facing",
+    "village": "Kunnavakkam",
+    "lat": 12.670331,
+    "lng": 79.8308115,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 86,
+    "building": "Panchayat Union Primary School,Agaram South Facing",
+    "village": "Agaram",
+    "lat": 12.8486524,
+    "lng": 79.8860807,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 87,
+    "building": "Panchayat Union Primary School,Agaram West Facing",
+    "village": "Agaram",
+    "lat": 12.8486524,
+    "lng": 79.8860807,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 88,
+    "building": "Panchayat Union Primary School , East side South Facing, Varanavasi - 631604",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 89,
+    "building": "Panchayat Union Primary School , west side South Facing, Varanavasi - 631604",
+    "village": "west",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 90,
+    "building": "Aditravida Middle School, East Facing, Thayampattu - 631604",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 91,
+    "building": "Panchayat Union Primary School,Thollazhi North Facing",
+    "village": "Thollazhi",
+    "lat": 12.8214596,
+    "lng": 79.9108141,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 92,
+    "building": "Panchayat Union Primary School,Venbakkam East Facing",
+    "village": "Venbakkam",
+    "lat": 12.8234834,
+    "lng": 79.9024779,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 93,
+    "building": "Panchayat Union Primary School,Devariyambakkam West Facing",
+    "village": "Devariyambakkam",
+    "lat": 12.8182921,
+    "lng": 79.87244199999999,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 94,
+    "building": "Panchayat Union Middle School, East side North Facing, Ullavoor - 631606",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 95,
+    "building": "Panchayat Union Middle School , West side North Facing, Ullavoor - 631606",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 96,
+    "building": "Panchayat Union Middle School , East side North Facing, Angambakkam - 631605",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 97,
+    "building": "Panchayat Union Middle School , west side North Facing, Angambakkam - 631605",
+    "village": "west",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 98,
+    "building": "Panchayat Union Middle School , East side North Facing, Thammanur - 631605",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 99,
+    "building": "Panchayat Union Middle School , west side North Facing, Thammanur - 631605",
+    "village": "west",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 100,
+    "building": "Panchayat Union Middle School,Thammanur South Facing",
+    "village": "Thammanur",
+    "lat": 12.7701768,
+    "lng": 79.80866209999999,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 101,
+    "building": "Govt. Hr.Sec.School,Avalur North facing",
+    "village": "Avalur",
+    "lat": 12.7817464,
+    "lng": 79.8142658,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 102,
+    "building": "Government Higher Secondary School, North Facing, Avalur - 631605",
+    "village": "North",
+    "lat": 12.9450575,
+    "lng": 80.1502319,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 103,
+    "building": "Govt.Hr.Sec.School,Avalur South Facing",
+    "village": "Avalur",
+    "lat": 12.7817464,
+    "lng": 79.8142658,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 104,
+    "building": "Panchayat Union Middle school, North side West Facing, Pazhayaseevaram - 631606",
+    "village": "North",
+    "lat": 12.9450575,
+    "lng": 80.1502319,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 105,
+    "building": "Panchayat Union Middle school, South side West Facing, Pazhayaseevaram - 631606",
+    "village": "South",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 106,
+    "building": "Panchayat Union Middle school,Pazhayaseevaram East Facing",
+    "village": "Pazhayaseevaram",
+    "lat": 12.7776209,
+    "lng": 79.8696741,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 107,
+    "building": "Panchayat Union Middle school,Pazhayaseevaram West Facing",
+    "village": "Pazhayaseevaram",
+    "lat": 12.7776209,
+    "lng": 79.8696741,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 108,
+    "building": "Panchayat Union Middle School,Sankarapuram South Facing",
+    "village": "Sankarapuram",
+    "lat": 12.7854081,
+    "lng": 79.8322561,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 109,
+    "building": "Panchayat Union Middle School,Sankarapuram North Facing",
+    "village": "Sankarapuram",
+    "lat": 12.7854081,
+    "lng": 79.8322561,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 110,
+    "building": "Panchayat Union Middle school,Sankarapuram North Facing",
+    "village": "Sankarapuram",
+    "lat": 12.7854081,
+    "lng": 79.8322561,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 111,
+    "building": "Panchayat Union Primary School, North side East Facing, Nathanallur - 631605",
+    "village": "North",
+    "lat": 12.9450575,
+    "lng": 80.1502319,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 112,
+    "building": "Panchayat Union Primary School , south side East Facing, Nathanallur - 631605",
+    "village": "south",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 113,
+    "building": "Kannabiran Trust Middle school , East side South Facing, Puliyambakkam - 631605",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 114,
+    "building": "Kannabiran Trust Middle school , west side South Facing, Puliyambakkam - 631605",
+    "village": "west",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 115,
+    "building": "Arinjar Anna Government Higher secondary school,Walajabad West Facing",
+    "village": "Walajabad",
+    "lat": 12.7947909,
+    "lng": 79.82127000000001,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 116,
+    "building": "Arinjar Anna Government Higher secondary school,Walajabad West Facing",
+    "village": "Walajabad",
+    "lat": 12.7947909,
+    "lng": 79.82127000000001,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 117,
+    "building": "Danasekara Sastha Aided Middle School,East Facing, Walajabad East Facing,Walajapath East Facing",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 118,
+    "building": "Danasekara Sastha Aided Middle School,East Facing, Walajabad East Facing,Walajapath East Facing",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 119,
+    "building": "Danasekara sasvatha nithi uthavi school,Walajabath East Facing",
+    "village": "Walajabath",
+    "lat": 12.7947909,
+    "lng": 79.82127000000001,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 120,
+    "building": "W.T. Masilamani Mudaliar Primary school,Walajabad North Facing",
+    "village": "Walajabad",
+    "lat": 12.7947909,
+    "lng": 79.82127000000001,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 121,
+    "building": "W.T. Masilamani Mudaliar Primary school , Anganvadi Maiyam North Facing, Walajabad Raja st - 631605",
+    "village": "Anganvadi",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 122,
+    "building": "RCM. High school , North side East facing, Walajabad Nehru nagar - 631605",
+    "village": "North",
+    "lat": 12.9450575,
+    "lng": 80.1502319,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 123,
+    "building": "RCM. High school , south side East facing, Walajabad Nehru nagar - 631605",
+    "village": "south",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 124,
+    "building": "Panchayat Union Primary School,Vallapakkam South Facing",
+    "village": "Vallapakkam",
+    "lat": 12.7938136,
+    "lng": 79.8318346,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 125,
+    "building": "Panchayat Union Primary School,DharmarajaKoil Street, Walajabad South Facing",
+    "village": "DharmarajaKoil",
+    "lat": 13.012951,
+    "lng": 80.1173571,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 126,
+    "building": "Panchayat Union Primary School,Walajabad south Facing",
+    "village": "Walajabad",
+    "lat": 12.7947909,
+    "lng": 79.82127000000001,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 127,
+    "building": "Panchayat Union Primary school , Additional building North side West Facing, Cherkkadu - 631605",
+    "village": "Additional",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 128,
+    "building": "Panchayat Union Primary school , Additional building South side West Facing, Cherkkadu - 631605",
+    "village": "Additional",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 129,
+    "building": "Panchayat Union Primary school , New Building North Facing, Nelveli - 631603",
+    "village": "New",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 130,
+    "building": "Panchayat Union Middle School , East side South Facing, Kambarajapuram - 631603",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 131,
+    "building": "Panchayat Union Middle School , west side South Facing, Kambarajapuram - 631603",
+    "village": "west",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 132,
+    "building": "Anganwadi Building, East facing, Elayanarvellore - 631603",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 133,
+    "building": "Government Adi Dravidar Welfare Primary School , East Side building South Facing, Asoor - 631605",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 134,
+    "building": "Government Adi Dravidar Welfare Primary School, west side building South Facing, Asoor - 631605",
+    "village": "west",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 135,
+    "building": "Panchayat Union Primary School,Kelperamanallur North Facing",
+    "village": "Kelperamanallur",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 136,
+    "building": "Panchayat Union Primary School , West Facing, Kelperamanallur - 603405",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 137,
+    "building": "Panchayat Union Primary School,Kalur East Facing",
+    "village": "Kalur",
+    "lat": 12.7579039,
+    "lng": 79.74839949999999,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 138,
+    "building": "Panchayat Union Primary School,Kalur East Facing",
+    "village": "Kalur",
+    "lat": 12.7579039,
+    "lng": 79.74839949999999,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 139,
+    "building": "Panchayat Union Primary School,Kalur North Facing",
+    "village": "Kalur",
+    "lat": 12.7579039,
+    "lng": 79.74839949999999,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 140,
+    "building": "Panchayat union middle school, East facing 1st std Room, Bajanai Koil Street, Kurivimalai - 631601",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 141,
+    "building": "Panchayat union middle school, East facing 3rd std room, Bajanai Koil Street, Kurivimalai - 631601",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 142,
+    "building": "Panchayat Union Middle School,Kalakkattur East Facing",
+    "village": "Kalakkattur",
+    "lat": 12.7677039,
+    "lng": 79.7334863,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 143,
+    "building": "Panchayat Union Middle School,,Kalakkattur East Facing",
+    "village": "Kalakkattur",
+    "lat": 12.7677039,
+    "lng": 79.7334863,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 144,
+    "building": "Panchayat Union Middle School,Kalakkattur West Facing",
+    "village": "Kalakkattur",
+    "lat": 12.7677039,
+    "lng": 79.7334863,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 145,
+    "building": "Govt. Higher secondary school,Arpakkam North Facing",
+    "village": "Arpakkam",
+    "lat": 12.7342806,
+    "lng": 79.761016,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 146,
+    "building": "Government Higher Secondary School , East side North Facing, Arpakkam - 631603",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 147,
+    "building": "Government Higher Secondary School, West side North Facing, Arpakkam - 631603",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 148,
+    "building": "Panchayat Union Middle School,MAGARAL south Facing",
+    "village": "MAGARAL",
+    "lat": 12.7190896,
+    "lng": 79.7533061,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 149,
+    "building": "Panchayat Union Middle School,MAGARAL south Facing",
+    "village": "MAGARAL",
+    "lat": 12.7190896,
+    "lng": 79.7533061,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 150,
+    "building": "Panchayat Union Middle School,MAGARAL North Facing",
+    "village": "MAGARAL",
+    "lat": 12.7190896,
+    "lng": 79.7533061,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 151,
+    "building": "Panchayat Union Middle School , North side West Facing, Kavanthandalam - 631603",
+    "village": "North",
+    "lat": 12.9450575,
+    "lng": 80.1502319,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 152,
+    "building": "Panchayat Union Middle School , south side West Facing, Kavanthandalam - 631603",
+    "village": "south",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 153,
+    "building": "Panchayat union primary school, New Building East Side North Facing, Athavapakkam - 631603",
+    "village": "New",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 154,
+    "building": "Panchayat union primary school, New Building West Side North Facing, Athavapakkam - 631603",
+    "village": "New",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 155,
+    "building": "Panchayat union primary school,Kannikulam North Facing",
+    "village": "Kannikulam",
+    "lat": 12.6789239,
+    "lng": 79.7596142,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 156,
+    "building": "Panchayat Union Middle School, East Side, North Facing, Karuveppampoondi - 631603",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 157,
+    "building": "Panchayat Union Middle School, West Side, North Facing, Karuveppampoondi - 631603",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 158,
+    "building": "Panchayat union primary school,Chilambakkam West Facing",
+    "village": "Chilambakkam",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 159,
+    "building": "Panchayat union primary school,Ozhukarai South Facing",
+    "village": "Ozhukarai",
+    "lat": 11.9394227,
+    "lng": 79.7733109,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 160,
+    "building": "Panchayat Union Middle School, North Side, East Facing, Azhisoor-631506",
+    "village": "North",
+    "lat": 12.9450575,
+    "lng": 80.1502319,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 161,
+    "building": "Panchayat Union Middle School, South Side, East Facing, Azhisoor - 631506",
+    "village": "South",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 162,
+    "building": "Panchayat Union Primary School,Anumanthandalam East Facing",
+    "village": "Anumanthandalam",
+    "lat": 12.6587318,
+    "lng": 79.6958116,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 163,
+    "building": "Panchayat Union Primary School,Melpakkam South Facing",
+    "village": "Melpakkam",
+    "lat": 12.632185,
+    "lng": 79.70606389999999,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 164,
+    "building": "Panchayat Union Middle School,Elanagar East Facing",
+    "village": "Elanagar",
+    "lat": 12.6509439,
+    "lng": 79.6881666,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 165,
+    "building": "Panchayat Union Middle School,Elanagar South Facing",
+    "village": "Elanagar",
+    "lat": 12.6509439,
+    "lng": 79.6881666,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 166,
+    "building": "Government Higher secondary school, North Facing, Perunagar - 603403",
+    "village": "North",
+    "lat": 12.9450575,
+    "lng": 80.1502319,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 167,
+    "building": "Government Higher secondary school , West Facing-Class12D Building, Perunagar - 603403",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 168,
+    "building": "Government Higher secondary school, West Facing-Class12C, Perunagar - 603403",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 169,
+    "building": "Government Higher secondary school , west Facing Class 2 , Perunagar - 603403",
+    "village": "west",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 170,
+    "building": "Government Higher secondary school , West Facing class4B sec , Perunagar - 603403",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 171,
+    "building": "Government Higher secondary school , West Facing Class 4A sec , Perunagar - 603403",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 172,
+    "building": "R.C.Middle School, , North Side, West Facing, Manamathi Kandigai - 603403",
+    "village": "North",
+    "lat": 12.9450575,
+    "lng": 80.1502319,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 173,
+    "building": "R.C.Middle School, , South Side, West Facing, Manamathi Kandigai - 603403",
+    "village": "South",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 174,
+    "building": "Panchayat union primary school, North side East Facing , Manampathy - 603403",
+    "village": "North",
+    "lat": 12.9450575,
+    "lng": 80.1502319,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 175,
+    "building": "Panchayat union primary school, south side East Facing , Manampathy - 603403",
+    "village": "south",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 176,
+    "building": "Panchayat union primary school, Main Building East Facing, Manamathi - 603403",
+    "village": "Main",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 177,
+    "building": "Panchayat union primary school,Manampathi West Facing",
+    "village": "Manampathi",
+    "lat": 12.6271946,
+    "lng": 79.6629316,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 178,
+    "building": "Panchayat Union Middle school,Visoor East Facing",
+    "village": "Visoor",
+    "lat": 12.6218685,
+    "lng": 79.6533924,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 179,
+    "building": "Panchayat Union Middle school,Visoor South Facing",
+    "village": "Visoor",
+    "lat": 12.6218685,
+    "lng": 79.6533924,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 180,
+    "building": "Panchayat union primary school,Thandarai East Facing",
+    "village": "Thandarai",
+    "lat": 12.625894,
+    "lng": 79.6807656,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 181,
+    "building": "Panchayat union primary school,Thandarai West Facing",
+    "village": "Thandarai",
+    "lat": 12.625894,
+    "lng": 79.6807656,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 182,
+    "building": "Panchayat Union Primary school , North Side west Facing , Ravathanallur - 603402",
+    "village": "North",
+    "lat": 12.9450575,
+    "lng": 80.1502319,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 183,
+    "building": "Panchayat Union Primary school, West Side, North Facing, Ravathanallur - 603403",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 184,
+    "building": "St.Joseph High School. South Facing Building East Wing ,Ravanathallur Kandigai - 603403",
+    "village": "Ravanathallur",
+    "lat": 12.6395193,
+    "lng": 79.7190585,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 185,
+    "building": "St.Joseph High School. South Facing Building West Wing ,Ravanathallur Kandigai - 603403",
+    "village": "Ravanathallur",
+    "lat": 12.6395193,
+    "lng": 79.7190585,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 186,
+    "building": "Village Service Centre building, West facing south side, Nonampoondi - 603402",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 187,
+    "building": "Village Service Centre building, West facing North side, Nonampoondi - 603402",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 188,
+    "building": "Panchayat union primary school, North Facing, Ammaiyappanallur - 603402",
+    "village": "North",
+    "lat": 12.9450575,
+    "lng": 80.1502319,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 189,
+    "building": "Panchayat Union Middle School,Pennalur South Facing",
+    "village": "Pennalur",
+    "lat": 12.5984057,
+    "lng": 79.7112406,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 190,
+    "building": "Panchayat Union Middle school, , North Side, West Facing, Arasanimangalam - 603406",
+    "village": "North",
+    "lat": 12.9450575,
+    "lng": 80.1502319,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 191,
+    "building": "Panchayat Union Middle school, , South Side, West Facing, Arasanimangalam - 603406",
+    "village": "South",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 192,
+    "building": "Panchayat union primary school, East side South Facing , Menalur - 603406",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 193,
+    "building": "Panchayat union primary school, west side South Facing , Menalur - 603406",
+    "village": "west",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 194,
+    "building": "Panchayat Union Primary School,Kattupakkam West Facing",
+    "village": "Kattupakkam",
+    "lat": 12.5915722,
+    "lng": 79.74524509999999,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 195,
+    "building": "Panchayat union primary school, West Facing North side, Athiyur Melthuli - 603406",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 196,
+    "building": "Panchayat union primary school,Athiyur Melthuli West Facing",
+    "village": "Athiyur",
+    "lat": 12.6574005,
+    "lng": 79.90693499999999,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 197,
+    "building": "Panchayat Union Middle School,Agaramthuli North Facing",
+    "village": "Agaramthuli",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 198,
+    "building": "Government Higher Secondary School, , North Side, East Facing, Kammalampoondi - 603406",
+    "village": "North",
+    "lat": 12.9450575,
+    "lng": 80.1502319,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 199,
+    "building": "Government Higher Secondary School, ,South Side, East Facing, Kammalampoondi - 603406",
+    "village": "South",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 200,
+    "building": "Panchayat Union Primary school,Nanchipuram South Facing",
+    "village": "Nanchipuram",
+    "lat": 12.5737953,
+    "lng": 79.7802877,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 201,
+    "building": "Panchayat Union Primary school,,Kattiyampanthal,South Facing",
+    "village": "Kattiyampanthal",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 202,
+    "building": "Panchayat union Building, South Facing, Sirunkozhi - 603406",
+    "village": "South",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 203,
+    "building": "R.C.Mission School,,Perunkozhi West side South Facing",
+    "village": "Perunkozhi",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 204,
+    "building": "Panchayat union primary school , North Facing, Puliyur - 603406",
+    "village": "North",
+    "lat": 12.9450575,
+    "lng": 80.1502319,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 205,
+    "building": "Panchayat Union Middle School, North side, West Facing, Kavanoor Puducheri 603404",
+    "village": "North",
+    "lat": 12.9450575,
+    "lng": 80.1502319,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 206,
+    "building": "Panchayat Union Middle School, South side, West Facing, Kavanoor Puducheri - 603404",
+    "village": "South",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 207,
+    "building": "R.C primary school,Ongoor South Facing",
+    "village": "Ongoor",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 208,
+    "building": "Panchayat Union Primary school, West Side, North Facing, Neeradi - 603406",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 209,
+    "building": "Panchayat Union Primary school, East Side, North Facing, Neeradi - 603406",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 210,
+    "building": "Panchayat Union Middle School, East side South Facing, Vedapalayam - 603406",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 211,
+    "building": "Panchayat Union Middle School, West side South Facing, Vedapalayam - 603406",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 212,
+    "building": "Panchayat union primary school , North Facing East Wing , Kaliyampoondi - 603406",
+    "village": "North",
+    "lat": 12.9450575,
+    "lng": 80.1502319,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 213,
+    "building": "Panchayat union primary school , North Facing West Wing , Kaliyampoondi - 603406",
+    "village": "North",
+    "lat": 12.9450575,
+    "lng": 80.1502319,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 214,
+    "building": "Panchayat Union Primary school,Andithangal North Facing",
+    "village": "Andithangal",
+    "lat": 12.6458193,
+    "lng": 79.7478651,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 215,
+    "building": "Panchayat Union Primary school,Thinayampoondi West Facing",
+    "village": "Thinayampoondi",
+    "lat": 12.632485,
+    "lng": 79.7315747,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 216,
+    "building": "Balarnesan Middle school , West Side South Facing , Uthiramerur - 603406",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 217,
+    "building": "Balarnesan Middle school , East Side South Facing , Uthiramerur - 603406",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 218,
+    "building": "Panchayat union primary school , North Side East Facing , Uthiramerur - 603406",
+    "village": "North",
+    "lat": 12.9450575,
+    "lng": 80.1502319,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 219,
+    "building": "Panchayat union primary school , South Side East Facing , Uthiramerur - 603406",
+    "village": "South",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 220,
+    "building": "Panchayat union primary school, East Facing , Uthiramerur - 603406",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 221,
+    "building": "Panchayat Union Middle School, North Side, West Facing, Sadukkam, Uthiramerur - 603406",
+    "village": "North",
+    "lat": 12.9450575,
+    "lng": 80.1502319,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 222,
+    "building": "Panchayat Union Middle School, South Side, West Facing, Sadukkam, Uthiramerur - 603406",
+    "village": "South",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 223,
+    "building": "Panchayat union primary school,Kakkanallur West Facing",
+    "village": "Kakkanallur",
+    "lat": 12.6381218,
+    "lng": 79.7491004,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 224,
+    "building": "Panchayat Union Piyars mathiri Middle school, North Side West Facing , Chinnanarasam pettai - 603406",
+    "village": "North",
+    "lat": 12.9450575,
+    "lng": 80.1502319,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 225,
+    "building": "Panchayat Union Piyars mathiri Middle school , South Side West Facing , Chinnanarasam pettai - 603406",
+    "village": "South",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 226,
+    "building": "Panchayat Union Piyars mathiri Middle school , West Facing, Chinnanarasam pettai - 603406",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 227,
+    "building": "Government girls Higher secondary school,Uthiramerur South Facing",
+    "village": "Uthiramerur",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 228,
+    "building": "Government Girls Higher Secondary School, west side North Facing , Uthiramerur - 603406",
+    "village": "west",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 229,
+    "building": "Government Girls Higher Secondary School , East side North Facing , Uthiramerur - 603406",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 230,
+    "building": "Government Boys Higher secondary school , West Side South Facing , Uthiramerur - 603406",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 231,
+    "building": "Government Boys Higher secondary school , East Side South Facing , Uthiramerur - 603406",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 232,
+    "building": "Panchayat Union Primary school, South Facing, Vadanallur - 603406",
+    "village": "South",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 233,
+    "building": "Panchayat Union Middle school, East side South facing, Vadanallur - 603406",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 234,
+    "building": "Panchayat union primary school, West side South Facing, Vadanallur - 603406",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 235,
+    "building": "Panchayat Union Primary school,Kadalmangalam North Facing",
+    "village": "Kadalmangalam",
+    "lat": 12.6432238,
+    "lng": 79.79474479999999,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 236,
+    "building": "Panchayat union primary school, East Side, North Facing, Marthuvampadi - 631603",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 237,
+    "building": "Panchayat union primary school, West Side, North Facing, Marthuvampadi - 631603",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 238,
+    "building": "Panchayat Union Primary school,Thirupulivanam East Facing",
+    "village": "Thirupulivanam",
+    "lat": 12.6635945,
+    "lng": 79.7640274,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 239,
+    "building": "Panchayat Union Primary school,Thirupulivanam West Facing",
+    "village": "Thirupulivanam",
+    "lat": 12.6635945,
+    "lng": 79.7640274,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 240,
+    "building": "Panchayat Union Middle School,Marutham South Facing",
+    "village": "Marutham",
+    "lat": 12.6571086,
+    "lng": 79.7820394,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 241,
+    "building": "Panchayat Union Middle School,Marutham East Facing",
+    "village": "Marutham",
+    "lat": 12.6571086,
+    "lng": 79.7820394,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 242,
+    "building": "Panchayat Union Middle School, North Side, West Facing, Malayankulam - 603106",
+    "village": "North",
+    "lat": 12.9450575,
+    "lng": 80.1502319,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 243,
+    "building": "Panchayat Union Middle School, South Side, West Facing, Malayankulam - 603106",
+    "village": "South",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 244,
+    "building": "Panchayat Union Primary School,Puthali East Facing",
+    "village": "Puthali",
+    "lat": 12.6987207,
+    "lng": 79.79023719999999,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 245,
+    "building": "Panchayat union primary school,Kavampayir North Facing",
+    "village": "Kavampayir",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 246,
+    "building": "Panchayat union primary school,Neiyadupakkam West Facing",
+    "village": "Neiyadupakkam",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 247,
+    "building": "Panchayat Union Middle School,Vayalakkavur North Facing",
+    "village": "Vayalakkavur",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 248,
+    "building": "Panchayat union primary school, East Facing, Pullambakkam - 631603",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 249,
+    "building": "Panchayat Union Primary school, West Side, South Facing, Thirumukkudal - 603106",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 250,
+    "building": "Panchayat Union Primary school, East Side, South Facing, Thirumukkudal - 603106",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 251,
+    "building": "Panchayat union primary school, South Facing, MADUR - 603606",
+    "village": "South",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 252,
+    "building": "Panchayat union primary school,Pazhaveri West Facing",
+    "village": "Pazhaveri",
+    "lat": 12.7496235,
+    "lng": 79.8726326,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 253,
+    "building": "Panchayat Union Primary school, South Facing, Arungundram - 603106",
+    "village": "South",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 254,
+    "building": "Panchayat Union Middle School,Pinayur North Facing",
+    "village": "Pinayur",
+    "lat": 12.7345142,
+    "lng": 79.8772834,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 255,
+    "building": "Panchayat union primary school,Seethanancheri East Facing",
+    "village": "Seethanancheri",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 256,
+    "building": "Panchayat Union Middle School,Sathanancheri North Facing",
+    "village": "Sathanancheri",
+    "lat": 12.7469186,
+    "lng": 79.93574749999999,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 257,
+    "building": "Panchayat Union Middle School,Sathanancheri West Facing",
+    "village": "Sathanancheri",
+    "lat": 12.7469186,
+    "lng": 79.93574749999999,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 258,
+    "building": "Panchayat union primary school, North Side, East Facing, Arumbuliyur - 603106",
+    "village": "North",
+    "lat": 12.9450575,
+    "lng": 80.1502319,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 259,
+    "building": "Panchayat union primary school, South Side, East Facing, Arumbuliyur - 603106",
+    "village": "South",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 260,
+    "building": "Panchayat union primary school,Kaliyapet West Facing",
+    "village": "Kaliyapet",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 261,
+    "building": "Panchayat union primary school,Kaliyapet East Facing",
+    "village": "Kaliyapet",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 262,
+    "building": "Govt. Hr.Sec.School,Orakkatupet East Facing",
+    "village": "Orakkatupet",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 263,
+    "building": "Govt. Hr.Sec.School, North side East Facing, Orakkattupettai - 603106",
+    "village": "North",
+    "lat": 12.9450575,
+    "lng": 80.1502319,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 264,
+    "building": "Govt. Hr.Sec.School, South side East Facing, Orakkattupettai - 603106",
+    "village": "South",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 265,
+    "building": "Panchayat Union Primary school, West Side, North Facing, Thiruvanaikoil - 603106",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 266,
+    "building": "Panchayat Union Primary school, East Side, North Facing, Thiruvanaikoil -603106",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 267,
+    "building": "Panchayat union primary school,Thandarai South Facing",
+    "village": "Thandarai",
+    "lat": 12.625894,
+    "lng": 79.6807656,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 268,
+    "building": "Panchayat union primary school,Porpanthal East Facing",
+    "village": "Porpanthal",
+    "lat": 12.6970569,
+    "lng": 79.897126,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 269,
+    "building": "Panchayat Union Elementary School,,Chithanakaavoor East Facing",
+    "village": "Chithanakaavoor",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 270,
+    "building": "Sarvaseva Middle school,,Karumbakkam East Facing",
+    "village": "Karumbakkam",
+    "lat": 12.7321587,
+    "lng": 79.9083546,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 271,
+    "building": "Panchayat union primary school,Kavanipakkam south Facing",
+    "village": "Kavanipakkam",
+    "lat": 12.7213753,
+    "lng": 79.89340229999999,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 272,
+    "building": "Panchayat Union Elementary School,,Peranakkavoor North Facing",
+    "village": "Peranakkavoor",
+    "lat": 12.7124733,
+    "lng": 79.8896218,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 273,
+    "building": "Panchayat union primary school, New building South Facing, Padur - 631606",
+    "village": "New",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 274,
+    "building": "Panchayat union primary school, New building South Facing, Kattankulam (Amaravathipattinam) - 631606",
+    "village": "New",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 275,
+    "building": "Village Service Centre Panchayat union primary school Campus , West Side, North Facing, Sirumailur - 603106",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 276,
+    "building": "Village Service Centre Panchayat union primary school Campus East Side, North Facing, Sirumailur - 603106",
+    "village": "North",
+    "lat": 12.9450575,
+    "lng": 80.1502319,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 277,
+    "building": "Panchayat Union Middle School, West Side, South Facing, Edamichi - 603106",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 278,
+    "building": "Panchayat Union Middle School, East Side, South Facing, Edamichi - 603106",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 279,
+    "building": "Panchayat Union Primary school, South Facing East side New building, Siruthamur - 603307",
+    "village": "South",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 280,
+    "building": "Panchayat Union Primary school, South Facing, Anambakkam - 603106",
+    "village": "South",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 281,
+    "building": "Panchayat Union Primary school, North Facing, Anambakkam - 603106",
+    "village": "North",
+    "lat": 12.9450575,
+    "lng": 80.1502319,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 282,
+    "building": "Panchayat Union Primary school, South Facing 1 std Room, Anambakkam - 603107",
+    "village": "South",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 283,
+    "building": "Panchayat Union Primary school, East side South Facing, Paleswaram - 603107",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 284,
+    "building": "Panchayat Union Middle School,Kunnavakkam South Facing",
+    "village": "Kunnavakkam",
+    "lat": 12.670331,
+    "lng": 79.8308115,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 285,
+    "building": "Village Panchyat Service Centre,Vadathavur ,South Facing",
+    "village": "Vadathavur",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 286,
+    "building": "Panchayat union primary school,Thotta Naval South Facing",
+    "village": "Thotta",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 287,
+    "building": "Panchayat Union Primary school, West Side, South Facing, Valathodu - 603107",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 288,
+    "building": "Panchayat Union Primary school, East Side, South Facing, Valathodu - 603107",
+    "village": "East",
+    "lat": 12.8087347,
+    "lng": 79.7587251,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 289,
+    "building": "Government Adhidravidar Welfare School,Rettamangalam East Facing",
+    "village": "Rettamangalam",
+    "lat": 12.6371916,
+    "lng": 79.83782819999999,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 290,
+    "building": "Panchayat Union Primary School,Edayampudur East Facing",
+    "village": "Edayampudur",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 291,
+    "building": "Panchayat Union Elementary School,,Pulipakkam South Facing",
+    "village": "Pulipakkam",
+    "lat": 12.6500626,
+    "lng": 79.87885829999999,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 292,
+    "building": "Government Higher Secondary School, 10th Std, North Side, East Facing, Salavakkam - 603107",
+    "village": "North",
+    "lat": 12.9450575,
+    "lng": 80.1502319,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 293,
+    "building": "Government Higher Secondary School, 10th Std, South Side, East Facing, Salavakkam - 603107",
+    "village": "South",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 294,
+    "building": "Govt. Higher Secondary School, North Facing Room No:5, Salavakkam - 603107",
+    "village": "North",
+    "lat": 12.9450575,
+    "lng": 80.1502319,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 295,
+    "building": "Govt. Higher Secondary School, West Facing Room No:2, Salavakkam - 603107",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 296,
+    "building": "Panchayat Union Middle School , West Facing North Wing , Ozhaiyur - 603107",
+    "village": "West",
+    "lat": 12.6039685,
+    "lng": 79.7612784,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 297,
+    "building": "Panchayat Union Middle School,Ozhaiyur West Facing",
+    "village": "Ozhaiyur",
+    "lat": 12.6360534,
+    "lng": 79.857039,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 298,
+    "building": "Panchayat Union Primary School,Annathur East Facing",
+    "village": "Annathur",
+    "lat": 12.6881982,
+    "lng": 79.9087754,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 299,
+    "building": "Panchayat Union Elementary School,,S.Mambakkam North Facing",
+    "village": "S",
+    "lat": 12.5776464,
+    "lng": 79.8082404,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 300,
+    "building": "Panchayat Union Primary school,Kilakkadi East Facing",
+    "village": "Kilakkadi",
+    "lat": 12.6436002,
+    "lng": 79.8919811,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 301,
+    "building": "Panchayat Union Primary School,Sirupinayur West Facing",
+    "village": "Sirupinayur",
+    "lat": 12.6678949,
+    "lng": 79.9256197,
+    "geocode_source": "google",
+    "found": true
+  },
+  {
+    "station_no": 302,
+    "building": "Panchayat Union Middle School,Thiruvanthavar West Facing",
+    "village": "Thiruvanthavar",
+    "lat": 12.6148734,
+    "lng": 79.7593693,
+    "geocode_source": "google",
+    "found": true
+  }
+]
