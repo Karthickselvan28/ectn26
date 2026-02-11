@@ -85,7 +85,6 @@ function showDistrictOverview(fromPopstate = false) {
     document.getElementById('booth-analysis').style.display = 'none';
     document.getElementById('back-btn').style.display = 'none';
     document.getElementById('area-selector').style.display = 'none';
-    document.getElementById('mode-selector').style.display = 'none';
 
     // Reset subtitle
     document.getElementById('header-subtitle').textContent = 'Kanchipuram District';
