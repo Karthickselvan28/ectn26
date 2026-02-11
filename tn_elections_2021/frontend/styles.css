@@ -109,6 +109,37 @@ body {
     background: var(--border-color);
 }
 
+/* Mode Selector */
+.mode-selector {
+    display: flex;
+    background: var(--bg-hover);
+    padding: 0.25rem;
+    border-radius: var(--radius-md);
+    border: 1px solid var(--border-color);
+}
+
+.mode-btn {
+    padding: 0.5rem 1rem;
+    border: none;
+    background: transparent;
+    color: var(--text-secondary);
+    font-size: 0.875rem;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: var(--radius-sm);
+    transition: var(--transition);
+}
+
+.mode-btn.active {
+    background: var(--bg-secondary);
+    color: var(--text-primary);
+    box-shadow: var(--shadow-sm);
+}
+
+.mode-btn:hover:not(.active) {
+    color: var(--text-primary);
+}
+
 /* District Overview */
 .district-overview {
     padding: 2rem;

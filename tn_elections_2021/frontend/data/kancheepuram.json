@@ -7,7 +7,10 @@
     "aiadmk_won": 160,
     "swing": 80,
     "lean": 74,
-    "strong": 282
+    "strong": 282,
+    "avg_dmk_swing": 4.364031746031746,
+    "avg_aiadmk_swing": 2.5316825396825395,
+    "avg_turnout_change": 5.972857142857142
   },
   "booths": [
     {
@@ -32,7 +35,12 @@
       "village": "",
       "building": "",
       "lat": null,
-      "lng": null
+      "lng": null,
+      "comparison": {
+        "dmk_swing": 8.38,
+        "aiadmk_swing": 6.85,
+        "turnout_change": 2.14
+      }
     },
     {
       "booth_no": "2",
@@ -56,7 +64,12 @@
       "village": "",
       "building": "",
       "lat": null,
-      "lng": null
+      "lng": null,
+      "comparison": {
+        "dmk_swing": 0.96,
+        "aiadmk_swing": -15.94,
+        "turnout_change": -0.85
+      }
     },
     {
       "booth_no": "3",
@@ -80,7 +93,12 @@
       "village": "Damal Colony",
       "building": "Community Hall, Damal Colony, East Facing",
       "lat": 12.8786388,
-      "lng": 79.6068501
+      "lng": 79.6068501,
+      "comparison": {
+        "dmk_swing": 1.74,
+        "aiadmk_swing": 36.78,
+        "turnout_change": 3.03
+      }
     },
     {
       "booth_no": "4",
@@ -104,7 +122,12 @@
       "village": "Damal South Facing",
       "building": "Government Higher Secondary School, Damal South Facing",
       "lat": 12.8227048,
-      "lng": 79.6965056
+      "lng": 79.6965056,
+      "comparison": {
+        "dmk_swing": -0.82,
+        "aiadmk_swing": 70.07,
+        "turnout_change": 4.41
+      }
     },
     {
       "booth_no": "5",
@@ -128,7 +151,12 @@
       "village": "Damal North Facing East Side",
       "building": "Government Higher Secondary School, Damal North Facing East Side",
       "lat": 12.8227048,
-      "lng": 79.6965056
+      "lng": 79.6965056,
+      "comparison": {
+        "dmk_swing": -3.88,
+        "aiadmk_swing": 37.01,
+        "turnout_change": 3.49
+      }
     },
     {
       "booth_no": "6",
@@ -152,7 +180,12 @@
       "village": "Damal East West building South Facing",
       "building": "Government Higher Secondary School, Damal East West building South Facing",
       "lat": 12.8227048,
-      "lng": 79.6965056
+      "lng": 79.6965056,
+      "comparison": {
+        "dmk_swing": -3.22,
+        "aiadmk_swing": 26.57,
+        "turnout_change": -2.53
+      }
     },
     {
       "booth_no": "7",
@@ -176,7 +209,12 @@
       "village": "North Facing New Building",
       "building": "Panchayat Union Middle school, North Facing New Building 6th Std, Damal - 631551",
       "lat": 12.8857439,
-      "lng": 79.5900949
+      "lng": 79.5900949,
+      "comparison": {
+        "dmk_swing": -4.34,
+        "aiadmk_swing": 34.67,
+        "turnout_change": 3.34
+      }
     },
     {
       "booth_no": "8",
@@ -200,7 +238,12 @@
       "village": "North Facing New Building",
       "building": "Panchayat Union Middle school, North Facing New Building 7th Std, Damal- 631551",
       "lat": 12.8857439,
-      "lng": 79.5900949
+      "lng": 79.5900949,
+      "comparison": {
+        "dmk_swing": -3.02,
+        "aiadmk_swing": 30.25,
+        "turnout_change": -3.49
+      }
     },
     {
       "booth_no": "9",
@@ -224,7 +267,12 @@
       "village": "Kilar North Building",
       "building": "Panchayat Union Middle School ,Kilar North Building, North Facing",
       "lat": 12.8205083,
-      "lng": 79.7029088
+      "lng": 79.7029088,
+      "comparison": {
+        "dmk_swing": 2.49,
+        "aiadmk_swing": -12.69,
+        "turnout_change": 10.38
+      }
     },
     {
       "booth_no": "10",
@@ -248,7 +296,12 @@
       "village": "Kilar",
       "building": "Panchayat Union Middle School ,Kilar, South Side Building East wing North facing",
       "lat": 12.8680754,
-      "lng": 79.57368919999999
+      "lng": 79.57368919999999,
+      "comparison": {
+        "dmk_swing": 17.47,
+        "aiadmk_swing": -22.53,
+        "turnout_change": 4.02
+      }
     },
     {
       "booth_no": "11",
@@ -272,7 +325,12 @@
       "village": "Musaravakkam North Facing East Wing South Building",
       "building": "Govt. Higher secondary school ,Musaravakkam North Facing East Wing South Building",
       "lat": 12.8602313,
-      "lng": 79.6132008
+      "lng": 79.6132008,
+      "comparison": {
+        "dmk_swing": 17.91,
+        "aiadmk_swing": -12.38,
+        "turnout_change": 5.63
+      }
     },
     {
       "booth_no": "12",
@@ -296,7 +354,12 @@
       "village": "Musaravakkam north facing west side",
       "building": "Govt. Higher secondary school ,Musaravakkam north facing west side",
       "lat": 12.8602313,
-      "lng": 79.6132008
+      "lng": 79.6132008,
+      "comparison": {
+        "dmk_swing": 1.47,
+        "aiadmk_swing": 45.63,
+        "turnout_change": -1.41
+      }
     },
     {
       "booth_no": "13",
@@ -320,7 +383,12 @@
       "village": "Musaravakkam",
       "building": "Panchayat Union Middle School, Musaravakkam ,North Facing West side",
       "lat": 12.8562754,
-      "lng": 79.6042487
+      "lng": 79.6042487,
+      "comparison": {
+        "dmk_swing": -1.92,
+        "aiadmk_swing": 24.5,
+        "turnout_change": -3.64
+      }
     },
     {
       "booth_no": "14",
@@ -344,7 +412,12 @@
       "village": "Musaravakkam",
       "building": "Panchayat Union Middle School, Musaravakkam ,North Facing East side",
       "lat": 12.8562754,
-      "lng": 79.6042487
+      "lng": 79.6042487,
+      "comparison": {
+        "dmk_swing": 2.11,
+        "aiadmk_swing": 41.02,
+        "turnout_change": 3.78
+      }
     },
     {
       "booth_no": "15",
@@ -368,7 +441,12 @@
       "village": "Musaravakkam South Facing",
       "building": "Panchayat Union Middle School, Musaravakkam South Facing",
       "lat": 12.8562754,
-      "lng": 79.6042487
+      "lng": 79.6042487,
+      "comparison": {
+        "dmk_swing": 7.67,
+        "aiadmk_swing": 10.55,
+        "turnout_change": 2.46
+      }
     },
     {
       "booth_no": "16",
@@ -392,7 +470,12 @@
       "village": "Perumbakkam",
       "building": "Panchayat Union Middle School ,Perumbakkam , South facing east side",
       "lat": 12.8923157,
-      "lng": 80.1888917
+      "lng": 80.1888917,
+      "comparison": {
+        "dmk_swing": 7.58,
+        "aiadmk_swing": -17.62,
+        "turnout_change": 12.48
+      }
     },
     {
       "booth_no": "17",
@@ -416,7 +499,12 @@
       "village": "Perumbakkam",
       "building": "Panchayat Union Middle School ,Perumbakkam , South facing east side",
       "lat": 12.8923157,
-      "lng": 80.1888917
+      "lng": 80.1888917,
+      "comparison": {
+        "dmk_swing": 3.09,
+        "aiadmk_swing": 23.93,
+        "turnout_change": 4.17
+      }
     },
     {
       "booth_no": "18",
@@ -440,7 +528,12 @@
       "village": "Perumbakkam",
       "building": "Panchayat Union Middle School ,Perumbakkam , North Facing",
       "lat": 12.8923157,
-      "lng": 80.1888917
+      "lng": 80.1888917,
+      "comparison": {
+        "dmk_swing": 18.58,
+        "aiadmk_swing": -20.57,
+        "turnout_change": 9.68
+      }
     },
     {
       "booth_no": "19",
@@ -464,7 +557,12 @@
       "village": "Vishar North Facing",
       "building": "Panchayat Union Primary School ,Vishar North Facing",
       "lat": 12.8522689,
-      "lng": 79.7326447
+      "lng": 79.7326447,
+      "comparison": {
+        "dmk_swing": -16.91,
+        "aiadmk_swing": 30.71,
+        "turnout_change": 1.29
+      }
     },
     {
       "booth_no": "20",
@@ -488,7 +586,12 @@
       "village": "Vishar East Facing",
       "building": "Panchayat Union Primary School ,Vishar East Facing",
       "lat": 12.8522689,
-      "lng": 79.7326447
+      "lng": 79.7326447,
+      "comparison": {
+        "dmk_swing": 7.23,
+        "aiadmk_swing": -12.59,
+        "turnout_change": 5.59
+      }
     },
     {
       "booth_no": "21",
@@ -512,7 +615,12 @@
       "village": "Melottivakkam South Facing",
       "building": "Government ADW High School ,Melottivakkam South Facing",
       "lat": 12.8597658,
-      "lng": 79.6531187
+      "lng": 79.6531187,
+      "comparison": {
+        "dmk_swing": -0.79,
+        "aiadmk_swing": 28.13,
+        "turnout_change": -15.72
+      }
     },
     {
       "booth_no": "22",
@@ -536,7 +644,12 @@
       "village": "Melottivakkam West Facing",
       "building": "Government ADW Primary School ,Melottivakkam West Facing",
       "lat": 12.8597658,
-      "lng": 79.6531187
+      "lng": 79.6531187,
+      "comparison": {
+        "dmk_swing": 4.75,
+        "aiadmk_swing": -3.02,
+        "turnout_change": 8.03
+      }
     },
     {
       "booth_no": "23",
@@ -560,7 +673,12 @@
       "village": "Melottivakkam West Facing",
       "building": "Government ADW Primary School ,Melottivakkam West Facing",
       "lat": 12.8597658,
-      "lng": 79.6531187
+      "lng": 79.6531187,
+      "comparison": {
+        "dmk_swing": 4.03,
+        "aiadmk_swing": 2.85,
+        "turnout_change": 9.09
+      }
     },
     {
       "booth_no": "24",
@@ -584,7 +702,12 @@
       "village": "East Facing",
       "building": "Panchayat Union Primary School, East Facing 3rd Std A Section, Thirupukuzhi - 631551",
       "lat": 12.8707386,
-      "lng": 79.6202998
+      "lng": 79.6202998,
+      "comparison": {
+        "dmk_swing": 6.39,
+        "aiadmk_swing": 1.96,
+        "turnout_change": 10.55
+      }
     },
     {
       "booth_no": "25",
@@ -608,7 +731,12 @@
       "village": "East Facing",
       "building": "Panchayat Union Primary School, East Facing 5th Std,Thirupukuzhi-631551",
       "lat": 12.8707386,
-      "lng": 79.6202998
+      "lng": 79.6202998,
+      "comparison": {
+        "dmk_swing": 7.82,
+        "aiadmk_swing": -9.48,
+        "turnout_change": -1.08
+      }
     },
     {
       "booth_no": "26",
@@ -632,7 +760,12 @@
       "village": "East Facing",
       "building": "Panchayat Union Primary School, East Facing 4th Std, Thirupukuzhi-631551",
       "lat": 12.8707386,
-      "lng": 79.6202998
+      "lng": 79.6202998,
+      "comparison": {
+        "dmk_swing": 15.29,
+        "aiadmk_swing": -3.27,
+        "turnout_change": 10.26
+      }
     },
     {
       "booth_no": "27",
@@ -656,7 +789,12 @@
       "village": "East Facing",
       "building": "Panchayat Union Primary School , East Facing 2nd Std A, Thirupukuzhi- 631551",
       "lat": 12.8707386,
-      "lng": 79.6202998
+      "lng": 79.6202998,
+      "comparison": {
+        "dmk_swing": -4.45,
+        "aiadmk_swing": 58.6,
+        "turnout_change": -1.34
+      }
     },
     {
       "booth_no": "28",
@@ -680,7 +818,12 @@
       "village": "South Facing",
       "building": "Panchayat Union Primary School, South Facing 3rd Std B, Thirupukuzhi -631551",
       "lat": 12.8707386,
-      "lng": 79.6202998
+      "lng": 79.6202998,
+      "comparison": {
+        "dmk_swing": 3.52,
+        "aiadmk_swing": 26.14,
+        "turnout_change": 2.45
+      }
     },
     {
       "booth_no": "29",
@@ -704,7 +847,12 @@
       "village": "South Facing",
       "building": "Panchayat Union Primary School, South Facing 3rd Std B, Thirupukuzhi -631551",
       "lat": 12.8707386,
-      "lng": 79.6202998
+      "lng": 79.6202998,
+      "comparison": {
+        "dmk_swing": 1.43,
+        "aiadmk_swing": 16.8,
+        "turnout_change": 3.86
+      }
     },
     {
       "booth_no": "30",
@@ -728,7 +876,12 @@
       "village": "South Facing",
       "building": "Panchayat Union Primary School, South Facing 2nd Std B, Thirupukuzhi -631551",
       "lat": 12.8707386,
-      "lng": 79.6202998
+      "lng": 79.6202998,
+      "comparison": {
+        "dmk_swing": 16.03,
+        "aiadmk_swing": 21.29,
+        "turnout_change": 16.52
+      }
     },
     {
       "booth_no": "31",
@@ -752,7 +905,12 @@
       "village": "South Facing",
       "building": "Panchayat Union Primary School, South Facing 2nd Std B, Thirupukuzhi -631551",
       "lat": 12.8707386,
-      "lng": 79.6202998
+      "lng": 79.6202998,
+      "comparison": {
+        "dmk_swing": -0.26,
+        "aiadmk_swing": 46.21,
+        "turnout_change": 6.78
+      }
     },
     {
       "booth_no": "32",
@@ -776,7 +934,12 @@
       "village": "Muttavakkam East Facing",
       "building": "Panchayat union Middle school ,Muttavakkam East Facing",
       "lat": 12.8887187,
-      "lng": 79.61968
+      "lng": 79.61968,
+      "comparison": {
+        "dmk_swing": 6.06,
+        "aiadmk_swing": 28.93,
+        "turnout_change": 4.23
+      }
     },
     {
       "booth_no": "33",
@@ -800,7 +963,12 @@
       "village": "Muttavakkam",
       "building": "Panchayat union Middle school ,Muttavakkam, South Facing",
       "lat": 12.8887187,
-      "lng": 79.61968
+      "lng": 79.61968,
+      "comparison": {
+        "dmk_swing": 9.6,
+        "aiadmk_swing": 29.52,
+        "turnout_change": 7.04
+      }
     },
     {
       "booth_no": "34",
@@ -824,7 +992,12 @@
       "village": "Thaipakkam West Facing",
       "building": "Panchayat union primary school ,Thaipakkam West Facing",
       "lat": 12.8880981,
-      "lng": 79.613011
+      "lng": 79.613011,
+      "comparison": {
+        "dmk_swing": -0.12,
+        "aiadmk_swing": 58.13,
+        "turnout_change": 1.5
+      }
     },
     {
       "booth_no": "35",
@@ -848,7 +1021,12 @@
       "village": "Vathiyur East Facing",
       "building": "Panchayat Union Middle School ,Vathiyur East Facing",
       "lat": 12.8205083,
-      "lng": 79.7029088
+      "lng": 79.7029088,
+      "comparison": {
+        "dmk_swing": -1.76,
+        "aiadmk_swing": 8.47,
+        "turnout_change": 8.46
+      }
     },
     {
       "booth_no": "36",
@@ -872,7 +1050,12 @@
       "village": "Vathiyur South Side Building North Facing",
       "building": "Panchayat Union Middle School ,Vathiyur South Side Building North Facing",
       "lat": 12.8937103,
-      "lng": 79.6291561
+      "lng": 79.6291561,
+      "comparison": {
+        "dmk_swing": 4.08,
+        "aiadmk_swing": 42.14,
+        "turnout_change": 0.46
+      }
     },
     {
       "booth_no": "37",
@@ -896,7 +1079,12 @@
       "village": "Kooram SSA Building East Facing",
       "building": "Panchayat Union Middle school ,Kooram SSA Building East Facing",
       "lat": 12.8205083,
-      "lng": 79.7029088
+      "lng": 79.7029088,
+      "comparison": {
+        "dmk_swing": 10.67,
+        "aiadmk_swing": 16.58,
+        "turnout_change": 2.03
+      }
     },
     {
       "booth_no": "38",
@@ -920,7 +1108,12 @@
       "village": "Kooram SSA Building East West Building West wing South Facing",
       "building": "Panchayat Union Middle school ,Kooram SSA Building East West Building West wing South Facing",
       "lat": 12.8205083,
-      "lng": 79.7029088
+      "lng": 79.7029088,
+      "comparison": {
+        "dmk_swing": 6.55,
+        "aiadmk_swing": 4.84,
+        "turnout_change": 11.02
+      }
     },
     {
       "booth_no": "39",
@@ -944,7 +1137,12 @@
       "village": "Kooram SSA Building East West Building West wing South Facing",
       "building": "Panchayat Union Middle school ,Kooram SSA Building East West Building West wing South Facing",
       "lat": 12.8205083,
-      "lng": 79.7029088
+      "lng": 79.7029088,
+      "comparison": {
+        "dmk_swing": 4.29,
+        "aiadmk_swing": 10.18,
+        "turnout_change": 5.33
+      }
     },
     {
       "booth_no": "40",
@@ -968,7 +1166,12 @@
       "village": "South Facing",
       "building": "Panchayat union primary school, South Facing, Ariyaperumbakkam-631551",
       "lat": 12.8861955,
-      "lng": 79.6544208
+      "lng": 79.6544208,
+      "comparison": {
+        "dmk_swing": 3.58,
+        "aiadmk_swing": 27.71,
+        "turnout_change": 5.41
+      }
     },
     {
       "booth_no": "41",
@@ -992,7 +1195,12 @@
       "village": "Ariyaperumbakkam South Side Building West Facing",
       "building": "Panchayat union primary school ,Ariyaperumbakkam South Side Building West Facing",
       "lat": 12.8861955,
-      "lng": 79.6544208
+      "lng": 79.6544208,
+      "comparison": {
+        "dmk_swing": 6.81,
+        "aiadmk_swing": -19.33,
+        "turnout_change": 2.91
+      }
     },
     {
       "booth_no": "42",
@@ -1016,7 +1224,12 @@
       "village": "Sirunaiperugal East Facing",
       "building": "Panchayat union primary school ,Sirunaiperugal East Facing",
       "lat": 12.8747074,
-      "lng": 79.62634249999999
+      "lng": 79.62634249999999,
+      "comparison": {
+        "dmk_swing": 9.62,
+        "aiadmk_swing": 0.82,
+        "turnout_change": 7.79
+      }
     },
     {
       "booth_no": "43",
@@ -1040,7 +1253,12 @@
       "village": "Sirunaiperugal East Facing",
       "building": "Panchayat union primary school ,Sirunaiperugal East Facing",
       "lat": 12.8747074,
-      "lng": 79.62634249999999
+      "lng": 79.62634249999999,
+      "comparison": {
+        "dmk_swing": 11.07,
+        "aiadmk_swing": 4.95,
+        "turnout_change": 8.55
+      }
     },
     {
       "booth_no": "44",
@@ -1064,7 +1282,12 @@
       "village": "East Facing",
       "building": "Panchayat Union Middle school, East Facing, Rcc Roof Building 5th std, Keezhambi -631502",
       "lat": 12.8291068,
-      "lng": 79.76045599999999
+      "lng": 79.76045599999999,
+      "comparison": {
+        "dmk_swing": -4.49,
+        "aiadmk_swing": 20.13,
+        "turnout_change": 8.08
+      }
     },
     {
       "booth_no": "45",
@@ -1088,7 +1311,12 @@
       "village": "East Facing RCC Building",
       "building": "Panchayat Union Middle school ,East Facing RCC Building 4th Std, Keezhambi- 631502",
       "lat": 12.8291068,
-      "lng": 79.76045599999999
+      "lng": 79.76045599999999,
+      "comparison": {
+        "dmk_swing": 9.92,
+        "aiadmk_swing": -15.21,
+        "turnout_change": 6.09
+      }
     },
     {
       "booth_no": "46",
@@ -1112,7 +1340,12 @@
       "village": "East Facing RCC Building",
       "building": "Panchayat Union Middle school ,East Facing RCC Building 4th Std, Keezhambi- 631502",
       "lat": 12.8291068,
-      "lng": 79.76045599999999
+      "lng": 79.76045599999999,
+      "comparison": {
+        "dmk_swing": 12.7,
+        "aiadmk_swing": -12.72,
+        "turnout_change": 3.79
+      }
     },
     {
       "booth_no": "47",
@@ -1136,7 +1369,12 @@
       "village": "East side",
       "building": "Panchayat Union Middle school, East side, West Facing (New RCC Building) 6th Std, Keezhambi-631502",
       "lat": 12.8291068,
-      "lng": 79.76045599999999
+      "lng": 79.76045599999999,
+      "comparison": {
+        "dmk_swing": 6.24,
+        "aiadmk_swing": 14.18,
+        "turnout_change": 3.11
+      }
     },
     {
       "booth_no": "48",
@@ -1160,7 +1398,12 @@
       "village": "East side",
       "building": "Panchayat Union Middle school, East side, West Facing (New RCC Building) 6th Std, Keezhambi-631502",
       "lat": 12.8291068,
-      "lng": 79.76045599999999
+      "lng": 79.76045599999999,
+      "comparison": {
+        "dmk_swing": 9.46,
+        "aiadmk_swing": -17.68,
+        "turnout_change": 5.28
+      }
     },
     {
       "booth_no": "49",
@@ -1184,7 +1427,12 @@
       "village": "Keezhambi",
       "building": "Panchayat Union Middle school ,Keezhambi, East Facing",
       "lat": 12.8205083,
-      "lng": 79.7029088
+      "lng": 79.7029088,
+      "comparison": {
+        "dmk_swing": 0.11,
+        "aiadmk_swing": 1.7,
+        "turnout_change": 6.92
+      }
     },
     {
       "booth_no": "50",
@@ -1208,7 +1456,12 @@
       "village": "Keezhambi",
       "building": "Panchayat Union Middle school ,Keezhambi, East Facing",
       "lat": 12.8205083,
-      "lng": 79.7029088
+      "lng": 79.7029088,
+      "comparison": {
+        "dmk_swing": -3.1,
+        "aiadmk_swing": 12.33,
+        "turnout_change": 13.52
+      }
     },
     {
       "booth_no": "51",
@@ -1232,7 +1485,12 @@
       "village": "Mettukuppam North Facing",
       "building": "Panchayat Union Middle School ,Mettukuppam North Facing (SSA Building)",
       "lat": 12.8205083,
-      "lng": 79.7029088
+      "lng": 79.7029088,
+      "comparison": {
+        "dmk_swing": 9.17,
+        "aiadmk_swing": 1.84,
+        "turnout_change": 1.97
+      }
     },
     {
       "booth_no": "52",
@@ -1256,7 +1514,12 @@
       "village": "Melkathirpur North Facing East Side",
       "building": "Panchayat Union Primary School ,Melkathirpur North Facing East Side",
       "lat": 12.8435004,
-      "lng": 79.70563039999999
+      "lng": 79.70563039999999,
+      "comparison": {
+        "dmk_swing": -3.62,
+        "aiadmk_swing": -0.99,
+        "turnout_change": -17.0
+      }
     },
     {
       "booth_no": "53",
@@ -1280,7 +1543,12 @@
       "village": "Melkathirpur North Facing East Side",
       "building": "Panchayat Union Primary School ,Melkathirpur North Facing East Side",
       "lat": 12.8435004,
-      "lng": 79.70563039999999
+      "lng": 79.70563039999999,
+      "comparison": {
+        "dmk_swing": -0.32,
+        "aiadmk_swing": -1.69,
+        "turnout_change": -6.9
+      }
     },
     {
       "booth_no": "54",
@@ -1304,7 +1572,12 @@
       "village": "Thiruparuthikundram East west building East Facing South Side",
       "building": "Panchayat Union Primary School ,Thiruparuthikundram East west building East Facing South Side",
       "lat": 12.8277962,
-      "lng": 79.6852904
+      "lng": 79.6852904,
+      "comparison": {
+        "dmk_swing": -3.93,
+        "aiadmk_swing": -3.3,
+        "turnout_change": -10.75
+      }
     },
     {
       "booth_no": "55",
@@ -1328,7 +1601,12 @@
       "village": "Thiruparuthikundram East west building North Facing",
       "building": "Panchayat Union Primary School ,Thiruparuthikundram East west building North Facing",
       "lat": 12.8277962,
-      "lng": 79.6852904
+      "lng": 79.6852904,
+      "comparison": {
+        "dmk_swing": -4.6,
+        "aiadmk_swing": 1.06,
+        "turnout_change": 21.28
+      }
     },
     {
       "booth_no": "56",
@@ -1352,7 +1630,12 @@
       "village": "Keelkadirpur new building east side East Facing",
       "building": "Panchayat Union Middle School ,Keelkadirpur new building east side East Facing",
       "lat": 12.8205083,
-      "lng": 79.7029088
+      "lng": 79.7029088,
+      "comparison": {
+        "dmk_swing": -1.8,
+        "aiadmk_swing": -0.08,
+        "turnout_change": 6.15
+      }
     },
     {
       "booth_no": "57",
@@ -1376,7 +1659,12 @@
       "village": "Keelkadirpur new building east side East Facing",
       "building": "Panchayat Union Middle School ,Keelkadirpur new building east side East Facing",
       "lat": 12.8205083,
-      "lng": 79.7029088
+      "lng": 79.7029088,
+      "comparison": {
+        "dmk_swing": 0.06,
+        "aiadmk_swing": 2.84,
+        "turnout_change": 43.93
+      }
     },
     {
       "booth_no": "58",
@@ -1400,7 +1688,12 @@
       "village": "Mettupallayam West Facing room",
       "building": "Panchayat Union Primary School, Mettupallayam West Facing room-1",
       "lat": 12.8490907,
-      "lng": 79.7075748
+      "lng": 79.7075748,
+      "comparison": {
+        "dmk_swing": -0.64,
+        "aiadmk_swing": 0.36,
+        "turnout_change": -4.95
+      }
     },
     {
       "booth_no": "59",
@@ -1424,7 +1717,12 @@
       "village": "Mettupallayam West Facing room",
       "building": "Panchayat Union Primary School, Mettupallayam West Facing room-1",
       "lat": 12.8490907,
-      "lng": 79.7075748
+      "lng": 79.7075748,
+      "comparison": {
+        "dmk_swing": -2.17,
+        "aiadmk_swing": -5.12,
+        "turnout_change": 9.07
+      }
     },
     {
       "booth_no": "60",
@@ -1448,7 +1746,12 @@
       "village": "Vippedu East Facing",
       "building": "Roman Katholikka High School , Vippedu East Facing",
       "lat": 12.888592,
-      "lng": 80.13797360000001
+      "lng": 80.13797360000001,
+      "comparison": {
+        "dmk_swing": 5.14,
+        "aiadmk_swing": -1.88,
+        "turnout_change": -4.53
+      }
     },
     {
       "booth_no": "61",
@@ -1472,7 +1775,12 @@
       "village": "East Facing",
       "building": "Roman Kaththolic High school, East Facing 8th Std, Vippedu-631502",
       "lat": 12.814649,
-      "lng": 79.6516606
+      "lng": 79.6516606,
+      "comparison": {
+        "dmk_swing": 0.49,
+        "aiadmk_swing": -0.02,
+        "turnout_change": -6.84
+      }
     },
     {
       "booth_no": "62",
@@ -1496,7 +1804,12 @@
       "village": "Venkatapuram New Building South Facing west side",
       "building": "Panchayat Union Primary School ,Venkatapuram New Building South Facing west side",
       "lat": 12.8093245,
-      "lng": 79.6664894
+      "lng": 79.6664894,
+      "comparison": {
+        "dmk_swing": -2.83,
+        "aiadmk_swing": 0.3,
+        "turnout_change": -6.77
+      }
     },
     {
       "booth_no": "63",
@@ -1520,7 +1833,12 @@
       "village": "Venkatapuram New Building South Facing west side",
       "building": "Panchayat Union Primary School ,Venkatapuram New Building South Facing west side",
       "lat": 12.8093245,
-      "lng": 79.6664894
+      "lng": 79.6664894,
+      "comparison": {
+        "dmk_swing": -1.97,
+        "aiadmk_swing": -4.14,
+        "turnout_change": 2.96
+      }
     },
     {
       "booth_no": "64",
@@ -1544,7 +1862,12 @@
       "village": "Sevilimedu TNHB quarters South Facing",
       "building": "Govt. High school ,Sevilimedu TNHB quarters South Facing",
       "lat": 12.8211214,
-      "lng": 79.6974007
+      "lng": 79.6974007,
+      "comparison": {
+        "dmk_swing": -5.97,
+        "aiadmk_swing": 7.02,
+        "turnout_change": 1.44
+      }
     },
     {
       "booth_no": "65",
@@ -1568,7 +1891,12 @@
       "village": "Sevilimedu",
       "building": "Govt High School, Sevilimedu, TNHB Qtrs New Building, North Facing South wing east side",
       "lat": 12.8678565,
-      "lng": 79.69704399999999
+      "lng": 79.69704399999999,
+      "comparison": {
+        "dmk_swing": 5.79,
+        "aiadmk_swing": -5.36,
+        "turnout_change": 1.74
+      }
     },
     {
       "booth_no": "66",
@@ -1592,7 +1920,12 @@
       "village": "Sevilimedu",
       "building": "Govt High School, Sevilimedu, TNHB Qtrs New Building, North Facing South wing east side",
       "lat": 12.8678565,
-      "lng": 79.69704399999999
+      "lng": 79.69704399999999,
+      "comparison": {
+        "dmk_swing": -1.72,
+        "aiadmk_swing": 40.26,
+        "turnout_change": 3.03
+      }
     },
     {
       "booth_no": "67",
@@ -1616,7 +1949,12 @@
       "village": "Sevilimedu Additional Building",
       "building": "Swamy Vivekanandha Matriculation Highr Secondary School, Sevilimedu Additional Building, East Facing South Wing Room No.56",
       "lat": 12.8103064,
-      "lng": 79.6870988
+      "lng": 79.6870988,
+      "comparison": {
+        "dmk_swing": -4.94,
+        "aiadmk_swing": 33.89,
+        "turnout_change": 7.97
+      }
     },
     {
       "booth_no": "68",
@@ -1640,7 +1978,12 @@
       "village": "Sevilimedu East Facing North wing Room",
       "building": "Swamy Vivekanandha Matriculation Highr Secondary School, Sevilimedu East Facing North wing Room.no. 57",
       "lat": 12.8061465,
-      "lng": 79.68648499999999
+      "lng": 79.68648499999999,
+      "comparison": {
+        "dmk_swing": 0.11,
+        "aiadmk_swing": 29.02,
+        "turnout_change": 8.54
+      }
     },
     {
       "booth_no": "69",
@@ -1664,7 +2007,12 @@
       "village": "Sevilimedu East Facing North wing Room",
       "building": "Swamy Vivekanandha Matriculation Highr Secondary School, Sevilimedu East Facing North wing Room.no. 57",
       "lat": 12.8061465,
-      "lng": 79.68648499999999
+      "lng": 79.68648499999999,
+      "comparison": {
+        "dmk_swing": 1.21,
+        "aiadmk_swing": 29.91,
+        "turnout_change": -3.15
+      }
     },
     {
       "booth_no": "70",
@@ -1688,7 +2036,12 @@
       "village": "Sevilimedu East Facing North wing Room",
       "building": "Swamy Vivekanandha Matriculation Highr Secondary School, Sevilimedu East Facing North wing Room.no. 59",
       "lat": 12.8076011,
-      "lng": 79.6766861
+      "lng": 79.6766861,
+      "comparison": {
+        "dmk_swing": 23.35,
+        "aiadmk_swing": -32.54,
+        "turnout_change": 7.86
+      }
     },
     {
       "booth_no": "71",
@@ -1712,7 +2065,12 @@
       "village": "Sevilimedu East Facing North wing Room",
       "building": "Swamy Vivekanandha Matriculation Highr Secondary School, Sevilimedu East Facing North wing Room.no. 59",
       "lat": 12.8076011,
-      "lng": 79.6766861
+      "lng": 79.6766861,
+      "comparison": {
+        "dmk_swing": 26.11,
+        "aiadmk_swing": -31.42,
+        "turnout_change": 5.51
+      }
     },
     {
       "booth_no": "72",
@@ -1736,7 +2094,12 @@
       "village": "TNHB Qtrs",
       "building": "Panchayat Union Middle School, TNHB Qtrs, Sevilimedu East Facing Room No 1",
       "lat": 12.8205083,
-      "lng": 79.7029088
+      "lng": 79.7029088,
+      "comparison": {
+        "dmk_swing": 0.01,
+        "aiadmk_swing": 2.66,
+        "turnout_change": 6.17
+      }
     },
     {
       "booth_no": "73",
@@ -1760,7 +2123,12 @@
       "village": "TNHB Qtrs",
       "building": "Panchayat Union Middle School, TNHB Qtrs, Sevilimedu East Facing Room No 1",
       "lat": 12.8205083,
-      "lng": 79.7029088
+      "lng": 79.7029088,
+      "comparison": {
+        "dmk_swing": 3.12,
+        "aiadmk_swing": -6.29,
+        "turnout_change": -2.88
+      }
     },
     {
       "booth_no": "74",
@@ -1784,7 +2152,12 @@
       "village": "TNHB Qtrs",
       "building": "Panchayat Union Middle School, TNHB Qtrs, Sevilimedu West Facing North Side Room No 10",
       "lat": 12.8205083,
-      "lng": 79.7029088
+      "lng": 79.7029088,
+      "comparison": {
+        "dmk_swing": 13.04,
+        "aiadmk_swing": -13.25,
+        "turnout_change": 1.16
+      }
     },
     {
       "booth_no": "75",
@@ -1808,7 +2181,12 @@
       "village": "TNHB Qtrs",
       "building": "Panchayat Union Middle School, TNHB Qtrs, Sevilimedu West Facing Room No 7",
       "lat": 12.8205083,
-      "lng": 79.7029088
+      "lng": 79.7029088,
+      "comparison": {
+        "dmk_swing": 19.42,
+        "aiadmk_swing": -14.27,
+        "turnout_change": 3.19
+      }
     },
     {
       "booth_no": "76",
@@ -1832,7 +2210,12 @@
       "village": "TNHB Qtrs",
       "building": "Panchayat Union Middle School, TNHB Qtrs, Sevilimedu West Facing Room No 7",
       "lat": 12.8205083,
-      "lng": 79.7029088
+      "lng": 79.7029088,
+      "comparison": {
+        "dmk_swing": 1.47,
+        "aiadmk_swing": 2.0,
+        "turnout_change": 3.61
+      }
     },
     {
       "booth_no": "77",
@@ -1856,7 +2239,12 @@
       "village": "Sevilimedu",
       "building": "Govt High School, Sevilimedu, TNHB Qtrs New Building West Facing",
       "lat": 12.8678565,
-      "lng": 79.69704399999999
+      "lng": 79.69704399999999,
+      "comparison": {
+        "dmk_swing": 4.5,
+        "aiadmk_swing": -3.73,
+        "turnout_change": -0.91
+      }
     },
     {
       "booth_no": "78",
@@ -1880,7 +2268,12 @@
       "village": "TNHB Qtrs",
       "building": "Panchayat Union Middle School, TNHB Qtrs, Sevilimedu WEST Facing West Side",
       "lat": 12.8205083,
-      "lng": 79.7029088
+      "lng": 79.7029088,
+      "comparison": {
+        "dmk_swing": 6.05,
+        "aiadmk_swing": 0.83,
+        "turnout_change": 7.54
+      }
     },
     {
       "booth_no": "79",
@@ -1904,7 +2297,12 @@
       "village": "",
       "building": "Government High School TNHB Quarters Sevilimedu JVVT Building West Facing North Side",
       "lat": 12.8227048,
-      "lng": 79.6965056
+      "lng": 79.6965056,
+      "comparison": {
+        "dmk_swing": 2.01,
+        "aiadmk_swing": -6.94,
+        "turnout_change": 2.74
+      }
     },
     {
       "booth_no": "80",
@@ -1928,7 +2326,12 @@
       "village": "",
       "building": "Government High School TNHB Quarters Sevilimedu JVVT Building West Facing North Side",
       "lat": 12.8227048,
-      "lng": 79.6965056
+      "lng": 79.6965056,
+      "comparison": {
+        "dmk_swing": -2.96,
+        "aiadmk_swing": 1.44,
+        "turnout_change": -1.38
+      }
     },
     {
       "booth_no": "81",
@@ -1952,7 +2355,12 @@
       "village": "Sevilimedu South Facing",
       "building": "Infant Jesus Matriculation Higher Secondary School, Sevilimedu South Facing",
       "lat": 12.8184252,
-      "lng": 79.70186079999999
+      "lng": 79.70186079999999,
+      "comparison": {
+        "dmk_swing": -6.76,
+        "aiadmk_swing": 23.2,
+        "turnout_change": -21.32
+      }
     },
     {
       "booth_no": "82",
@@ -1976,7 +2384,12 @@
       "village": "South Facing Room No",
       "building": "Infant Jesus Matriculation Higher Secondary School, South Facing Room No.9, Sevilimedu-631502",
       "lat": 12.8080139,
-      "lng": 79.6742838
+      "lng": 79.6742838,
+      "comparison": {
+        "dmk_swing": 17.13,
+        "aiadmk_swing": -11.84,
+        "turnout_change": -67.23
+      }
     },
     {
       "booth_no": "83",
@@ -2000,7 +2413,12 @@
       "village": "",
       "building": "Infant Jesus Matriculation on Higher Secondary School Sevilimedu South Facing Room No. 8",
       "lat": 12.8184252,
-      "lng": 79.70186079999999
+      "lng": 79.70186079999999,
+      "comparison": {
+        "dmk_swing": 0.37,
+        "aiadmk_swing": 9.28,
+        "turnout_change": 18.45
+      }
     },
     {
       "booth_no": "84",
@@ -2024,7 +2442,12 @@
       "village": "",
       "building": "Infant Jesus Matriculation on Higher Secondary School Sevilimedu South Facing Room No. 8",
       "lat": 12.8184252,
-      "lng": 79.70186079999999
+      "lng": 79.70186079999999,
+      "comparison": {
+        "dmk_swing": 6.34,
+        "aiadmk_swing": -12.64,
+        "turnout_change": -22.77
+      }
     },
     {
       "booth_no": "85",
@@ -2048,7 +2471,12 @@
       "village": "Sevilimedu North Facing",
       "building": "Panchayat Union Elementary School ,Sevilimedu North Facing",
       "lat": 12.6272922,
-      "lng": 79.66381779999999
+      "lng": 79.66381779999999,
+      "comparison": {
+        "dmk_swing": -7.73,
+        "aiadmk_swing": 9.92,
+        "turnout_change": 4.0
+      }
     },
     {
       "booth_no": "86",
@@ -2072,7 +2500,12 @@
       "village": "Sevilimedu East Facing North side",
       "building": "Panchayat Union Elementary School ,Sevilimedu East Facing North side",
       "lat": 12.6272922,
-      "lng": 79.66381779999999
+      "lng": 79.66381779999999,
+      "comparison": {
+        "dmk_swing": -5.47,
+        "aiadmk_swing": 6.77,
+        "turnout_change": -1.87
+      }
     },
     {
       "booth_no": "87",
@@ -2096,7 +2529,12 @@
       "village": "Sevilimedu East Facing North side",
       "building": "Panchayat Union Elementary School ,Sevilimedu East Facing North side",
       "lat": 12.6272922,
-      "lng": 79.66381779999999
+      "lng": 79.66381779999999,
+      "comparison": {
+        "dmk_swing": 12.69,
+        "aiadmk_swing": 1.52,
+        "turnout_change": 14.84
+      }
     },
     {
       "booth_no": "88",
@@ -2120,7 +2558,12 @@
       "village": "Sevilimedu South Facing",
       "building": "Panchayat Union Elementary School ,Sevilimedu South Facing",
       "lat": 12.6272922,
-      "lng": 79.66381779999999
+      "lng": 79.66381779999999,
+      "comparison": {
+        "dmk_swing": -10.22,
+        "aiadmk_swing": 8.11,
+        "turnout_change": -38.41
+      }
     },
     {
       "booth_no": "89",
@@ -2144,7 +2587,12 @@
       "village": "Sevilimedu North Facing",
       "building": "Panchayat Union Elementary School ,Sevilimedu North Facing",
       "lat": 12.6272922,
-      "lng": 79.66381779999999
+      "lng": 79.66381779999999,
+      "comparison": {
+        "dmk_swing": 9.58,
+        "aiadmk_swing": -10.27,
+        "turnout_change": 99.34
+      }
     },
     {
       "booth_no": "90",
@@ -2168,7 +2616,12 @@
       "village": "Sevilimedu West Facing South Wing",
       "building": "Swamy Vivekanandha Matriculation Highr Secondary School, Sevilimedu West Facing South Wing. Room-62",
       "lat": 12.8080812,
-      "lng": 79.6850571
+      "lng": 79.6850571,
+      "comparison": {
+        "dmk_swing": 25.76,
+        "aiadmk_swing": -14.5,
+        "turnout_change": -21.29
+      }
     },
     {
       "booth_no": "91",
@@ -2192,7 +2645,12 @@
       "village": "West Facing South Wing",
       "building": "Swamy Vivekanandha Matriculation Highr Secondary School, West Facing South Wing 9th Std, Sevilimedu -631502",
       "lat": 12.8096976,
-      "lng": 79.6852117
+      "lng": 79.6852117,
+      "comparison": {
+        "dmk_swing": 4.35,
+        "aiadmk_swing": 10.01,
+        "turnout_change": 32.68
+      }
     },
     {
       "booth_no": "92",
@@ -2216,7 +2674,12 @@
       "village": "",
       "building": "Infant Jesus Matriculation Higher Secondary School Sevilimedu North Facing Room No 38",
       "lat": 12.8184252,
-      "lng": 79.70186079999999
+      "lng": 79.70186079999999,
+      "comparison": {
+        "dmk_swing": -3.74,
+        "aiadmk_swing": 2.65,
+        "turnout_change": -12.89
+      }
     },
     {
       "booth_no": "93",
@@ -2240,7 +2703,12 @@
       "village": "",
       "building": "Infant Jesus Matriculation Higher Secondary School Sevilimedu North Facing Room No 38",
       "lat": 12.8184252,
-      "lng": 79.70186079999999
+      "lng": 79.70186079999999,
+      "comparison": {
+        "dmk_swing": 11.87,
+        "aiadmk_swing": -5.27,
+        "turnout_change": 70.94
+      }
     },
     {
       "booth_no": "94",
@@ -2264,7 +2732,12 @@
       "village": "",
       "building": "Infant Jesus Matriculation Higher Secondary School Sevilimedu South Facing",
       "lat": 12.8184252,
-      "lng": 79.70186079999999
+      "lng": 79.70186079999999,
+      "comparison": {
+        "dmk_swing": -6.06,
+        "aiadmk_swing": 10.91,
+        "turnout_change": -45.31
+      }
     },
     {
       "booth_no": "95",
@@ -2288,7 +2761,12 @@
       "village": "Olimugamadpet West Facing",
       "building": "Municipal Middle School, Olimugamadpet West Facing,North East Side Building",
       "lat": 12.6280641,
-      "lng": 79.6620238
+      "lng": 79.6620238,
+      "comparison": {
+        "dmk_swing": 3.52,
+        "aiadmk_swing": 12.42,
+        "turnout_change": -31.62
+      }
     },
     {
       "booth_no": "96",
@@ -2312,7 +2790,12 @@
       "village": "Olimohammedpettai South facing North building",
       "building": "Municipal Middle School , Olimohammedpettai South facing North building",
       "lat": 12.8551184,
-      "lng": 79.69358299999999
+      "lng": 79.69358299999999,
+      "comparison": {
+        "dmk_swing": -7.89,
+        "aiadmk_swing": 10.19,
+        "turnout_change": 13.03
+      }
     },
     {
       "booth_no": "97",
@@ -2336,7 +2819,12 @@
       "village": "Olimugamad North Block West Facing",
       "building": "Municipal Middle school SSA Building ,Olimugamad North Block West Facing",
       "lat": 13.0538267,
-      "lng": 80.17055160000001
+      "lng": 80.17055160000001,
+      "comparison": {
+        "dmk_swing": -5.2,
+        "aiadmk_swing": 6.17,
+        "turnout_change": 46.52
+      }
     },
     {
       "booth_no": "98",
@@ -2360,7 +2848,12 @@
       "village": "Olimugamadpet South Facing Middle Room",
       "building": "Municipal Middle School, Olimugamadpet South Facing Middle Room",
       "lat": 12.8091235,
-      "lng": 79.7612413
+      "lng": 79.7612413,
+      "comparison": {
+        "dmk_swing": -0.79,
+        "aiadmk_swing": 6.07,
+        "turnout_change": 37.53
+      }
     },
     {
       "booth_no": "99",
@@ -2384,7 +2877,12 @@
       "village": "Olimugamadpet East Facing South Side",
       "building": "Municipal Middle School, Olimugamadpet East Facing South Side",
       "lat": 12.8087347,
-      "lng": 79.7587251
+      "lng": 79.7587251,
+      "comparison": {
+        "dmk_swing": -1.98,
+        "aiadmk_swing": 10.24,
+        "turnout_change": -47.89
+      }
     },
     {
       "booth_no": "100",
@@ -2408,7 +2906,12 @@
       "village": "Olimugamadpet East Facing South Side",
       "building": "Municipal Middle School, Olimugamadpet East Facing South Side",
       "lat": 12.8087347,
-      "lng": 79.7587251
+      "lng": 79.7587251,
+      "comparison": {
+        "dmk_swing": -6.76,
+        "aiadmk_swing": 10.23,
+        "turnout_change": -35.88
+      }
     },
     {
       "booth_no": "101",
@@ -2432,7 +2935,12 @@
       "village": "BIG Kancheepuram",
       "building": "Municipal Middle School Ekambara West Mada St ,BIG Kancheepuram, East side West Facing",
       "lat": 12.8471802,
-      "lng": 79.6981267
+      "lng": 79.6981267,
+      "comparison": {
+        "dmk_swing": 5.54,
+        "aiadmk_swing": 3.77,
+        "turnout_change": 120.65
+      }
     },
     {
       "booth_no": "102",
@@ -2456,7 +2964,12 @@
       "village": "Kancheepuram West Facing Middle Room",
       "building": "Municipal Middle School Ekambara West Mada St, Kancheepuram West Facing Middle Room",
       "lat": 12.8471802,
-      "lng": 79.6981267
+      "lng": 79.6981267,
+      "comparison": {
+        "dmk_swing": 5.3,
+        "aiadmk_swing": 1.92,
+        "turnout_change": -29.86
+      }
     },
     {
       "booth_no": "103",
@@ -2480,7 +2993,12 @@
       "village": "Kancheepuram West Facing Middle Room",
       "building": "Municipal Middle School Ekambara West Mada St, Kancheepuram West Facing Middle Room",
       "lat": 12.8471802,
-      "lng": 79.6981267
+      "lng": 79.6981267,
+      "comparison": {
+        "dmk_swing": 3.87,
+        "aiadmk_swing": 10.81,
+        "turnout_change": 4.31
+      }
     },
     {
       "booth_no": "104",
@@ -2504,7 +3022,12 @@
       "village": "Kancheepuram North Facing East side",
       "building": "Municipal Middle School Ekambara West Mada St, Kancheepuram North Facing East side",
       "lat": 12.9140197,
-      "lng": 80.1273214
+      "lng": 80.1273214,
+      "comparison": {
+        "dmk_swing": 0.49,
+        "aiadmk_swing": 11.14,
+        "turnout_change": -33.56
+      }
     },
     {
       "booth_no": "105",
@@ -2528,7 +3051,12 @@
       "village": "Kancheepuram North Facing East side",
       "building": "Municipal Middle School Ekambara West Mada St, Kancheepuram North Facing East side",
       "lat": 12.9140197,
-      "lng": 80.1273214
+      "lng": 80.1273214,
+      "comparison": {
+        "dmk_swing": -2.46,
+        "aiadmk_swing": 7.38,
+        "turnout_change": 17.21
+      }
     },
     {
       "booth_no": "106",
@@ -2552,7 +3080,12 @@
       "village": "Kancheepuram",
       "building": "Municipal Middle School Ekambara West Mada St ,Kancheepuram.",
       "lat": 12.8471802,
-      "lng": 79.6981267
+      "lng": 79.6981267,
+      "comparison": {
+        "dmk_swing": 4.92,
+        "aiadmk_swing": -2.15,
+        "turnout_change": -15.53
+      }
     },
     {
       "booth_no": "107",
@@ -2576,7 +3109,12 @@
       "village": "North Facing",
       "building": "Royal Metriculation Higher Secondary , North Facing 12th Std (Private Building), Kancheepuram-631502",
       "lat": 12.8371787,
-      "lng": 79.7041698
+      "lng": 79.7041698,
+      "comparison": {
+        "dmk_swing": 6.93,
+        "aiadmk_swing": 4.53,
+        "turnout_change": -22.92
+      }
     },
     {
       "booth_no": "108",
@@ -2600,7 +3138,12 @@
       "village": "North Facing",
       "building": "Royal Metriculation Higher Secondary , North Facing 12th Std (Private Building), Kancheepuram-631502",
       "lat": 12.8371787,
-      "lng": 79.7041698
+      "lng": 79.7041698,
+      "comparison": {
+        "dmk_swing": -8.13,
+        "aiadmk_swing": 11.4,
+        "turnout_change": 42.16
+      }
     },
     {
       "booth_no": "109",
@@ -2624,7 +3167,12 @@
       "village": "North Facing",
       "building": "Royal Metriculation Higher Secondary School , North Facing 11th Std (Private Building), Kancheepuram-631502",
       "lat": 12.840286,
-      "lng": 79.6980787
+      "lng": 79.6980787,
+      "comparison": {
+        "dmk_swing": 7.96,
+        "aiadmk_swing": -4.87,
+        "turnout_change": 21.03
+      }
     },
     {
       "booth_no": "110",
@@ -2648,7 +3196,12 @@
       "village": "Egambaranatha sannathi Street",
       "building": "Narayanaguru Matriculation Higher Secondary School, Egambaranatha sannathi Street, Periya Kancheepuram North Facing Room No.1",
       "lat": 12.8402399,
-      "lng": 79.7029578
+      "lng": 79.7029578,
+      "comparison": {
+        "dmk_swing": -14.05,
+        "aiadmk_swing": 10.19,
+        "turnout_change": -18.51
+      }
     },
     {
       "booth_no": "111",
@@ -2672,7 +3225,12 @@
       "village": "Egambaranatha sannathi Street",
       "building": "Narayanaguru Matriculation Higher Secondary School, Egambaranatha sannathi Street, Periya Kancheepuram North Facing Room No.1",
       "lat": 12.8402399,
-      "lng": 79.7029578
+      "lng": 79.7029578,
+      "comparison": {
+        "dmk_swing": -5.05,
+        "aiadmk_swing": -3.58,
+        "turnout_change": -26.11
+      }
     },
     {
       "booth_no": "112",
@@ -2696,7 +3254,12 @@
       "village": "Kancheepuram",
       "building": "Dharga Muslim Municipal Primary school ,Kancheepuram. Eastern side East Facing",
       "lat": 12.8431184,
-      "lng": 79.6914279
+      "lng": 79.6914279,
+      "comparison": {
+        "dmk_swing": -7.8,
+        "aiadmk_swing": 4.92,
+        "turnout_change": -10.22
+      }
     },
     {
       "booth_no": "113",
@@ -2720,7 +3283,12 @@
       "village": "Kancheepuram North Facing East Side",
       "building": "PTVS High School ,Kancheepuram North Facing East Side",
       "lat": 12.8405519,
-      "lng": 79.7067919
+      "lng": 79.7067919,
+      "comparison": {
+        "dmk_swing": -1.89,
+        "aiadmk_swing": -8.78,
+        "turnout_change": 159.67
+      }
     },
     {
       "booth_no": "114",
@@ -2744,7 +3312,12 @@
       "village": "Kancheepuram North Facing East Side",
       "building": "PTVS High School ,Kancheepuram North Facing East Side",
       "lat": 12.8405519,
-      "lng": 79.7067919
+      "lng": 79.7067919,
+      "comparison": {
+        "dmk_swing": 4.87,
+        "aiadmk_swing": -9.52,
+        "turnout_change": -72.09
+      }
     },
     {
       "booth_no": "115",
@@ -2768,7 +3341,12 @@
       "village": "Kancheepuram West Building East Facing",
       "building": "PTVS High School ,Kancheepuram West Building East Facing",
       "lat": 12.8405519,
-      "lng": 79.7067919
+      "lng": 79.7067919,
+      "comparison": {
+        "dmk_swing": 2.11,
+        "aiadmk_swing": -2.8,
+        "turnout_change": 2.93
+      }
     },
     {
       "booth_no": "116",
@@ -2792,7 +3370,12 @@
       "village": "North Facing",
       "building": "Royal Metriculation Higher Secondary School, North Facing 1st Std B Section (Private Building), Kancheepuram-631502",
       "lat": 12.840286,
-      "lng": 79.6980787
+      "lng": 79.6980787,
+      "comparison": {
+        "dmk_swing": 1.47,
+        "aiadmk_swing": 14.52,
+        "turnout_change": -21.69
+      }
     },
     {
       "booth_no": "117",
@@ -2816,7 +3399,12 @@
       "village": "North Facing",
       "building": "Royal Metriculation Higher Secondary School, North Facing 1st Std B Section (Private Building), Kancheepuram-631502",
       "lat": 12.840286,
-      "lng": 79.6980787
+      "lng": 79.6980787,
+      "comparison": {
+        "dmk_swing": 21.82,
+        "aiadmk_swing": -8.81,
+        "turnout_change": -42.43
+      }
     },
     {
       "booth_no": "118",
@@ -2840,7 +3428,12 @@
       "village": "North Facing",
       "building": "Royal Metriculation Higher Secondary School, North Facing 2nd Std A Section (Private Building), Kancheepuram-631502",
       "lat": 12.840286,
-      "lng": 79.6980787
+      "lng": 79.6980787,
+      "comparison": {
+        "dmk_swing": 1.76,
+        "aiadmk_swing": 4.65,
+        "turnout_change": -27.0
+      }
     },
     {
       "booth_no": "119",
@@ -2864,7 +3457,12 @@
       "village": "North Facing",
       "building": "Royal Metriculation Higher Secondary School, North Facing 2nd Std B Section (Private Building), Kancheepuram-631502",
       "lat": 12.8322441,
-      "lng": 79.7050076
+      "lng": 79.7050076,
+      "comparison": {
+        "dmk_swing": 0.2,
+        "aiadmk_swing": 15.58,
+        "turnout_change": -7.05
+      }
     },
     {
       "booth_no": "120",
@@ -2888,7 +3486,12 @@
       "village": "Damalwar St Kancheepuram",
       "building": "Saint Joseph Primary school ,Damalwar St Kancheepuram. 1st Class A sec West Facing",
       "lat": 12.8431184,
-      "lng": 79.6914279
+      "lng": 79.6914279,
+      "comparison": {
+        "dmk_swing": 5.73,
+        "aiadmk_swing": 7.73,
+        "turnout_change": 5.93
+      }
     },
     {
       "booth_no": "121",
@@ -2912,7 +3515,12 @@
       "village": "Damalwar St",
       "building": "Saint Joseph Primary school ,Damalwar St, Kancheepuram .5th Class A sec West Facing",
       "lat": 12.8431184,
-      "lng": 79.6914279
+      "lng": 79.6914279,
+      "comparison": {
+        "dmk_swing": -7.99,
+        "aiadmk_swing": 8.24,
+        "turnout_change": 2.11
+      }
     },
     {
       "booth_no": "122",
@@ -2936,7 +3544,12 @@
       "village": "Damalwar St",
       "building": "Saint Joseph Primary school ,Damalwar St, Kancheepuram .5th th Class B sec West Facing",
       "lat": 12.8431184,
-      "lng": 79.6914279
+      "lng": 79.6914279,
+      "comparison": {
+        "dmk_swing": -9.56,
+        "aiadmk_swing": 25.98,
+        "turnout_change": 124.07
+      }
     },
     {
       "booth_no": "123",
@@ -2960,7 +3573,12 @@
       "village": "",
       "building": "Mariya Auxiliyam Girls Higher Secondary School West facing Room No.33",
       "lat": 12.8216022,
-      "lng": 79.721211
+      "lng": 79.721211,
+      "comparison": {
+        "dmk_swing": 9.0,
+        "aiadmk_swing": -16.08,
+        "turnout_change": -51.05
+      }
     },
     {
       "booth_no": "124",
@@ -2984,7 +3602,12 @@
       "village": "",
       "building": "Mariya Auxiliyam Girls Higher Secondary School West facing Room No.33",
       "lat": 12.8216022,
-      "lng": 79.721211
+      "lng": 79.721211,
+      "comparison": {
+        "dmk_swing": -4.07,
+        "aiadmk_swing": 3.52,
+        "turnout_change": -18.78
+      }
     },
     {
       "booth_no": "125",
@@ -3008,7 +3631,12 @@
       "village": "",
       "building": "Mariya Auxiliyam Girls Higher Secondary School Room No. 3 North Facing",
       "lat": 12.8216022,
-      "lng": 79.721211
+      "lng": 79.721211,
+      "comparison": {
+        "dmk_swing": 7.11,
+        "aiadmk_swing": -16.94,
+        "turnout_change": -57.47
+      }
     },
     {
       "booth_no": "126",
@@ -3032,7 +3660,12 @@
       "village": "",
       "building": "Mariya Auxiliyam Girls Higher Secondary School Room No. 3 North Facing",
       "lat": 12.8216022,
-      "lng": 79.721211
+      "lng": 79.721211,
+      "comparison": {
+        "dmk_swing": 12.91,
+        "aiadmk_swing": -21.7,
+        "turnout_change": 189.78
+      }
     },
     {
       "booth_no": "127",
@@ -3056,7 +3689,12 @@
       "village": "",
       "building": "Mariya Auxiliyam Girls Higher Secondary School North Facig Room No. 1",
       "lat": 12.8208387,
-      "lng": 79.7191012
+      "lng": 79.7191012,
+      "comparison": {
+        "dmk_swing": 6.86,
+        "aiadmk_swing": -14.39,
+        "turnout_change": -6.48
+      }
     },
     {
       "booth_no": "128",
@@ -3080,7 +3718,12 @@
       "village": "",
       "building": "Mariya Auxiliyam Girls Higher Secondary School North Facig Room No. 1",
       "lat": 12.8208387,
-      "lng": 79.7191012
+      "lng": 79.7191012,
+      "comparison": {
+        "dmk_swing": 2.39,
+        "aiadmk_swing": -5.37,
+        "turnout_change": -17.21
+      }
     },
     {
       "booth_no": "129",
@@ -3104,7 +3747,12 @@
       "village": "Damalwar St",
       "building": "Saint Joseph Primary school ,Damalwar St, Kanchipuram West Facing",
       "lat": 12.8431184,
-      "lng": 79.6914279
+      "lng": 79.6914279,
+      "comparison": {
+        "dmk_swing": -4.73,
+        "aiadmk_swing": 1.0,
+        "turnout_change": -44.97
+      }
     },
     {
       "booth_no": "130",
@@ -3128,7 +3776,12 @@
       "village": "West Facing North Side",
       "building": "Saint Joseph Primary school, West Facing North Side, Damalwar St Kancheepuram- 631502",
       "lat": 12.8371787,
-      "lng": 79.7041698
+      "lng": 79.7041698,
+      "comparison": {
+        "dmk_swing": -2.73,
+        "aiadmk_swing": -6.66,
+        "turnout_change": 7.86
+      }
     },
     {
       "booth_no": "131",
@@ -3152,7 +3805,12 @@
       "village": "Kancheepuram",
       "building": "PTVS Matriculation Higher Secondary School , Kancheepuram.West Facing Damalwar St,",
       "lat": 12.8397882,
-      "lng": 79.7185405
+      "lng": 79.7185405,
+      "comparison": {
+        "dmk_swing": 2.79,
+        "aiadmk_swing": -3.28,
+        "turnout_change": 54.56
+      }
     },
     {
       "booth_no": "132",
@@ -3176,7 +3834,12 @@
       "village": "Kancheepuram Sengazhuneeroadi veedi East Facing Room No",
       "building": "PTVS Matriculation School ,Kancheepuram Sengazhuneeroadi veedi East Facing Room No. 5",
       "lat": 12.8143827,
-      "lng": 79.7220583
+      "lng": 79.7220583,
+      "comparison": {
+        "dmk_swing": 20.19,
+        "aiadmk_swing": -26.64,
+        "turnout_change": -3.38
+      }
     },
     {
       "booth_no": "133",
@@ -3200,7 +3863,12 @@
       "village": "Kancheepuram Sengazhuneeroadi veedi East Facing Room No",
       "building": "PTVS Matriculation School ,Kancheepuram Sengazhuneeroadi veedi East Facing Room No. 5",
       "lat": 12.8143827,
-      "lng": 79.7220583
+      "lng": 79.7220583,
+      "comparison": {
+        "dmk_swing": 17.01,
+        "aiadmk_swing": -22.81,
+        "turnout_change": -17.71
+      }
     },
     {
       "booth_no": "134",
@@ -3224,7 +3892,12 @@
       "village": "Kancheepuram Sounth Facing",
       "building": "PTVS High School Sengazhuneeroadi veedi, Kancheepuram Sounth Facing",
       "lat": 12.8405519,
-      "lng": 79.7067919
+      "lng": 79.7067919,
+      "comparison": {
+        "dmk_swing": -6.62,
+        "aiadmk_swing": -2.48,
+        "turnout_change": -0.66
+      }
     },
     {
       "booth_no": "135",
@@ -3248,7 +3921,12 @@
       "village": "",
       "building": "PTVS Matriculation Higher Secondary School Dharmaraja Koil Street Kancheepuram North Facing Room No.7",
       "lat": 12.8164691,
-      "lng": 79.7246183
+      "lng": 79.7246183,
+      "comparison": {
+        "dmk_swing": -5.93,
+        "aiadmk_swing": 0.35,
+        "turnout_change": -40.8
+      }
     },
     {
       "booth_no": "136",
@@ -3272,7 +3950,12 @@
       "village": "",
       "building": "PTVS Matriculation Higher Secondary School Dharmaraja Koil Street Kancheepuram North Facing Room No.7",
       "lat": 12.8164691,
-      "lng": 79.7246183
+      "lng": 79.7246183,
+      "comparison": {
+        "dmk_swing": -6.77,
+        "aiadmk_swing": 1.89,
+        "turnout_change": 20.05
+      }
     },
     {
       "booth_no": "137",
@@ -3296,7 +3979,12 @@
       "village": "",
       "building": "PTVS Matriculation Higher Secondary School Dharmaraja Koil Street Kancheepuram North Facing Room No. 9",
       "lat": 12.8164691,
-      "lng": 79.7246183
+      "lng": 79.7246183,
+      "comparison": {
+        "dmk_swing": 10.88,
+        "aiadmk_swing": -14.16,
+        "turnout_change": 26.3
+      }
     },
     {
       "booth_no": "138",
@@ -3320,7 +4008,12 @@
       "village": "South Facing East Side",
       "building": "Vaikundam Municipal Middle Vaikunda Perumal Koil mada Street, South Facing East Side",
       "lat": 12.8371145,
-      "lng": 79.7101732
+      "lng": 79.7101732,
+      "comparison": {
+        "dmk_swing": -2.12,
+        "aiadmk_swing": -2.52,
+        "turnout_change": -6.14
+      }
     },
     {
       "booth_no": "139",
@@ -3344,7 +4037,12 @@
       "village": "South Facing East Side",
       "building": "Vaikundam Municipal Middle Vaikunda Perumal Koil mada Street, South Facing East Side",
       "lat": 12.8371145,
-      "lng": 79.7101732
+      "lng": 79.7101732,
+      "comparison": {
+        "dmk_swing": -6.0,
+        "aiadmk_swing": 3.08,
+        "turnout_change": -17.84
+      }
     },
     {
       "booth_no": "140",
@@ -3368,7 +4066,12 @@
       "village": "Vaikundaperumal Mada Street West Facing North Side",
       "building": "Vaikundam Municipal middle school . ICDS Centre, Vaikundaperumal Mada Street West Facing North Side",
       "lat": 12.8375862,
-      "lng": 79.7096043
+      "lng": 79.7096043,
+      "comparison": {
+        "dmk_swing": -4.59,
+        "aiadmk_swing": -1.58,
+        "turnout_change": 42.34
+      }
     },
     {
       "booth_no": "141",
@@ -3392,7 +4095,12 @@
       "village": "Vaikundaperumal Mada Street West Facing North Side",
       "building": "Vaikundam Municipal middle school . ICDS Centre, Vaikundaperumal Mada Street West Facing North Side",
       "lat": 12.8375862,
-      "lng": 79.7096043
+      "lng": 79.7096043,
+      "comparison": {
+        "dmk_swing": 2.07,
+        "aiadmk_swing": 7.0,
+        "turnout_change": -32.9
+      }
     },
     {
       "booth_no": "142",
@@ -3416,7 +4124,12 @@
       "village": "",
       "building": "Vaikundaperumal Municipal Middle School . Vaikundaperumal Mada Street. West Facing North side",
       "lat": 12.8371145,
-      "lng": 79.7101732
+      "lng": 79.7101732,
+      "comparison": {
+        "dmk_swing": 11.94,
+        "aiadmk_swing": -8.7,
+        "turnout_change": -35.45
+      }
     },
     {
       "booth_no": "143",
@@ -3440,7 +4153,12 @@
       "village": "",
       "building": "Vaikundaperumal Municipal Middle School . Vaikundaperumal Mada Street. West Facing North side",
       "lat": 12.8371145,
-      "lng": 79.7101732
+      "lng": 79.7101732,
+      "comparison": {
+        "dmk_swing": 7.84,
+        "aiadmk_swing": -4.91,
+        "turnout_change": -34.39
+      }
     },
     {
       "booth_no": "144",
@@ -3464,7 +4182,12 @@
       "village": "Kancheepuram South Facing East side",
       "building": "PTVS High School Sengazhuneeroadi veedi, Kancheepuram South Facing East side",
       "lat": 12.8405519,
-      "lng": 79.7067919
+      "lng": 79.7067919,
+      "comparison": {
+        "dmk_swing": 8.62,
+        "aiadmk_swing": -9.17,
+        "turnout_change": -43.35
+      }
     },
     {
       "booth_no": "145",
@@ -3488,7 +4211,12 @@
       "village": "Kancheepuram South Facing East side",
       "building": "PTVS High School Sengazhuneeroadi veedi, Kancheepuram South Facing East side",
       "lat": 12.8405519,
-      "lng": 79.7067919
+      "lng": 79.7067919,
+      "comparison": {
+        "dmk_swing": -0.62,
+        "aiadmk_swing": 0.22,
+        "turnout_change": 60.29
+      }
     },
     {
       "booth_no": "146",
@@ -3512,7 +4240,12 @@
       "village": "Kancheepuram Sengazhuneeroadi veedi North Facing Room No",
       "building": "PTVS MatriculationSchool ,Kancheepuram Sengazhuneeroadi veedi North Facing Room No. 11",
       "lat": 12.823058,
-      "lng": 79.7167738
+      "lng": 79.7167738,
+      "comparison": {
+        "dmk_swing": 10.88,
+        "aiadmk_swing": -0.96,
+        "turnout_change": 42.29
+      }
     },
     {
       "booth_no": "147",
@@ -3536,7 +4269,12 @@
       "village": "Kancheepuram Sengazhuneeroadi veedi North Facing Room No",
       "building": "PTVS MatriculationSchool ,Kancheepuram Sengazhuneeroadi veedi North Facing Room No. 11",
       "lat": 12.823058,
-      "lng": 79.7167738
+      "lng": 79.7167738,
+      "comparison": {
+        "dmk_swing": 10.21,
+        "aiadmk_swing": -1.53,
+        "turnout_change": 75.28
+      }
     },
     {
       "booth_no": "148",
@@ -3560,7 +4298,12 @@
       "village": "Mahanadu Dharmaraja Street East Facing",
       "building": "C.M. Suburaya Mudaliyar High school, Mahanadu Dharmaraja Street East Facing , East side",
       "lat": 12.8379991,
-      "lng": 80.057441
+      "lng": 80.057441,
+      "comparison": {
+        "dmk_swing": 14.84,
+        "aiadmk_swing": 0.92,
+        "turnout_change": -18.09
+      }
     },
     {
       "booth_no": "149",
@@ -3584,7 +4327,12 @@
       "village": "Kancheepuram",
       "building": "C.M. Suburaya Mudaliyar High school Mahanadu Dharmaraja Street ,Kancheepuram, East Facing South Side Main Building",
       "lat": 12.857341,
-      "lng": 79.6084722
+      "lng": 79.6084722,
+      "comparison": {
+        "dmk_swing": 2.25,
+        "aiadmk_swing": 4.66,
+        "turnout_change": 32.27
+      }
     },
     {
       "booth_no": "150",
@@ -3608,7 +4356,12 @@
       "village": "Kancheepuram",
       "building": "C.M. Suburaya Mudaliyar High school Mahanadu Dharmaraja Street ,Kancheepuram, East Facing South Side Main Building",
       "lat": 12.857341,
-      "lng": 79.6084722
+      "lng": 79.6084722,
+      "comparison": {
+        "dmk_swing": -0.23,
+        "aiadmk_swing": -3.33,
+        "turnout_change": -8.05
+      }
     },
     {
       "booth_no": "151",
@@ -3632,7 +4385,12 @@
       "village": "Kancheepuram Raguram illam",
       "building": "Sri S.S.K.V. girls higher secondary school ,Kancheepuram Raguram illam, West Facing North side",
       "lat": 12.8401702,
-      "lng": 79.7018281
+      "lng": 79.7018281,
+      "comparison": {
+        "dmk_swing": -1.56,
+        "aiadmk_swing": 10.55,
+        "turnout_change": -24.59
+      }
     },
     {
       "booth_no": "152",
@@ -3656,7 +4414,12 @@
       "village": "Kancheepuram Raguram illam",
       "building": "Sri S.S.K.V. girls higher secondary school ,Kancheepuram Raguram illam, West Facing North side",
       "lat": 12.8401702,
-      "lng": 79.7018281
+      "lng": 79.7018281,
+      "comparison": {
+        "dmk_swing": -23.29,
+        "aiadmk_swing": 25.47,
+        "turnout_change": 3.26
+      }
     },
     {
       "booth_no": "153",
@@ -3680,7 +4443,12 @@
       "village": "Kancheepuram Raguram illam",
       "building": "Sri S.S.K.V. girls higher secondary school ,Kancheepuram Raguram illam, West Facing South side",
       "lat": 12.8401702,
-      "lng": 79.7018281
+      "lng": 79.7018281,
+      "comparison": {
+        "dmk_swing": -5.89,
+        "aiadmk_swing": 11.48,
+        "turnout_change": -6.77
+      }
     },
     {
       "booth_no": "154",
@@ -3704,7 +4472,12 @@
       "village": "Kancheepuram Raguram illam",
       "building": "Sri S.S.K.V. girls higher secondary school ,Kancheepuram Raguram illam, West Facing South side",
       "lat": 12.8401702,
-      "lng": 79.7018281
+      "lng": 79.7018281,
+      "comparison": {
+        "dmk_swing": 15.67,
+        "aiadmk_swing": -24.53,
+        "turnout_change": 8.76
+      }
     },
     {
       "booth_no": "155",
@@ -3728,7 +4501,12 @@
       "village": "Egambaranatha sannathi Street",
       "building": "Narayanaguru Matriculation Higher Secondary School, Egambaranatha sannathi Street, Periya Kancheepuram South Facing West wing",
       "lat": 12.8402399,
-      "lng": 79.7029578
+      "lng": 79.7029578,
+      "comparison": {
+        "dmk_swing": -1.69,
+        "aiadmk_swing": -1.71,
+        "turnout_change": 30.28
+      }
     },
     {
       "booth_no": "156",
@@ -3752,7 +4530,12 @@
       "village": "Egambaranatha sannathi theru Periya Kancheepuram North Facing",
       "building": "Narayanaguru Matriculation Higher Secondary School, Egambaranatha sannathi theru Periya Kancheepuram North Facing,",
       "lat": 12.8402399,
-      "lng": 79.7029578
+      "lng": 79.7029578,
+      "comparison": {
+        "dmk_swing": -4.68,
+        "aiadmk_swing": 10.03,
+        "turnout_change": -17.53
+      }
     },
     {
       "booth_no": "157",
@@ -3776,7 +4559,12 @@
       "village": "Egambaranatha sannathi theru PeriyaKancheepuram South Facing",
       "building": "Narayanaguru Matriculation Higher Secondary School, Egambaranatha sannathi theru PeriyaKancheepuram South Facing",
       "lat": 12.8865945,
-      "lng": 79.5918932
+      "lng": 79.5918932,
+      "comparison": {
+        "dmk_swing": 5.11,
+        "aiadmk_swing": -6.46,
+        "turnout_change": -42.17
+      }
     },
     {
       "booth_no": "158",
@@ -3800,7 +4588,12 @@
       "village": "Uperikulam DR",
       "building": "K.V.K. Naickar Municipal Middle school ,Uperikulam DR.P.S.Srinivas Branch, South Side North Facing",
       "lat": 12.6295764,
-      "lng": 79.6629759
+      "lng": 79.6629759,
+      "comparison": {
+        "dmk_swing": -7.36,
+        "aiadmk_swing": -5.85,
+        "turnout_change": 9.07
+      }
     },
     {
       "booth_no": "159",
@@ -3824,7 +4617,12 @@
       "village": "Egambaranatha sannathi theru PeriyaKancheepuram South Facing",
       "building": "Narayanaguru Matriculation Higher Secondary School, Egambaranatha sannathi theru PeriyaKancheepuram South Facing",
       "lat": 12.8865945,
-      "lng": 79.5918932
+      "lng": 79.5918932,
+      "comparison": {
+        "dmk_swing": -13.87,
+        "aiadmk_swing": 5.55,
+        "turnout_change": -4.52
+      }
     },
     {
       "booth_no": "160",
@@ -3848,7 +4646,12 @@
       "village": "Uperikulam",
       "building": "K.V.K. Naickar Municipal Middle school ,Uperikulam.Dr.PSS Branch.North Facing Middle Room",
       "lat": 12.8371443,
-      "lng": 79.6984064
+      "lng": 79.6984064,
+      "comparison": {
+        "dmk_swing": -3.65,
+        "aiadmk_swing": -3.16,
+        "turnout_change": -58.5
+      }
     },
     {
       "booth_no": "161",
@@ -3872,7 +4675,12 @@
       "village": "Uperikulam",
       "building": "K.V.K. Naickar Municipal Middle school ,Uperikulam.Dr.PSS Branch.North Facing Middle Room",
       "lat": 12.8371443,
-      "lng": 79.6984064
+      "lng": 79.6984064,
+      "comparison": {
+        "dmk_swing": -22.11,
+        "aiadmk_swing": 13.13,
+        "turnout_change": -12.57
+      }
     },
     {
       "booth_no": "162",
@@ -3896,7 +4704,12 @@
       "village": "Uperikulam",
       "building": "K.V.K. Naickar Municipal Middle school ,Uperikulam.Dr.PSS Branch.West Faicng North Side",
       "lat": 12.8372508,
-      "lng": 79.7041749
+      "lng": 79.7041749,
+      "comparison": {
+        "dmk_swing": 2.75,
+        "aiadmk_swing": -10.24,
+        "turnout_change": 19.21
+      }
     },
     {
       "booth_no": "163",
@@ -3920,7 +4733,12 @@
       "village": "Uperikulam",
       "building": "K.V.K. Naickar Municipal Middle school ,Uperikulam.Dr.PSS Branch.West Faicng North Side",
       "lat": 12.8372508,
-      "lng": 79.7041749
+      "lng": 79.7041749,
+      "comparison": {
+        "dmk_swing": 6.29,
+        "aiadmk_swing": -8.97,
+        "turnout_change": -45.57
+      }
     },
     {
       "booth_no": "164",
@@ -3944,7 +4762,12 @@
       "village": "Kanchipuram North Facing East Side",
       "building": "Kailasanathar Koil Municipal Primary School Backside,Kanchipuram North Facing East Side",
       "lat": 12.8417796,
-      "lng": 79.6906607
+      "lng": 79.6906607,
+      "comparison": {
+        "dmk_swing": 1.49,
+        "aiadmk_swing": -13.26,
+        "turnout_change": -8.02
+      }
     },
     {
       "booth_no": "165",
@@ -3968,7 +4791,12 @@
       "village": "Kanchipuram North Facing East Side",
       "building": "Kailasanathar Koil Municipal Primary School Backside,Kanchipuram North Facing East Side",
       "lat": 12.8417796,
-      "lng": 79.6906607
+      "lng": 79.6906607,
+      "comparison": {
+        "dmk_swing": -9.03,
+        "aiadmk_swing": -2.34,
+        "turnout_change": -31.4
+      }
     },
     {
       "booth_no": "166",
@@ -3992,7 +4820,12 @@
       "village": "Kanchipuram north face",
       "building": "ICDS Centre Kailasanathar Koil Backside,Kanchipuram north face",
       "lat": 12.8417796,
-      "lng": 79.6906607
+      "lng": 79.6906607,
+      "comparison": {
+        "dmk_swing": -13.53,
+        "aiadmk_swing": 2.0,
+        "turnout_change": 38.73
+      }
     },
     {
       "booth_no": "167",
@@ -4016,7 +4849,12 @@
       "village": "Pillaiyarpalayam",
       "building": "Global Matriculation Higher Secondary School, Pillaiyarpalayam, Kancheepuram East Facing",
       "lat": 12.8350239,
-      "lng": 79.69353009999999
+      "lng": 79.69353009999999,
+      "comparison": {
+        "dmk_swing": 9.71,
+        "aiadmk_swing": -10.27,
+        "turnout_change": -76.19
+      }
     },
     {
       "booth_no": "168",
@@ -4040,7 +4878,12 @@
       "village": "Pillaiyarpalayam",
       "building": "Global Matriculation Higher Secondary School, Pillaiyarpalayam, Kancheepuram North Facing",
       "lat": 12.8350239,
-      "lng": 79.69353009999999
+      "lng": 79.69353009999999,
+      "comparison": {
+        "dmk_swing": 29.74,
+        "aiadmk_swing": -39.73,
+        "turnout_change": 16.84
+      }
     },
     {
       "booth_no": "169",
@@ -4064,7 +4907,12 @@
       "village": "Pillaiyarpalayam",
       "building": "Global Matriculation Higher Secondary School, Pillaiyarpalayam, Kancheepuram West Facing",
       "lat": 12.8350239,
-      "lng": 79.69353009999999
+      "lng": 79.69353009999999,
+      "comparison": {
+        "dmk_swing": 15.55,
+        "aiadmk_swing": -15.58,
+        "turnout_change": 19.75
+      }
     },
     {
       "booth_no": "170",
@@ -4088,7 +4936,12 @@
       "village": "Kancheepuram North Facing",
       "building": "Chairman Saminathan Mudaliyar Municipal Higher secondary school ,Kancheepuram North Facing .R.NO.1",
       "lat": 12.8208387,
-      "lng": 79.7191012
+      "lng": 79.7191012,
+      "comparison": {
+        "dmk_swing": 15.99,
+        "aiadmk_swing": -11.3,
+        "turnout_change": 189.56
+      }
     },
     {
       "booth_no": "171",
@@ -4112,7 +4965,12 @@
       "village": "Kancheepuram North Facing",
       "building": "Chairman Saminathan Mudaliyar Municipal Higher secondary school ,Kancheepuram North Facing .R.NO.1",
       "lat": 12.8208387,
-      "lng": 79.7191012
+      "lng": 79.7191012,
+      "comparison": {
+        "dmk_swing": 7.94,
+        "aiadmk_swing": -7.92,
+        "turnout_change": -23.79
+      }
     },
     {
       "booth_no": "172",
@@ -4136,7 +4994,12 @@
       "village": "Kancheepuram North Facing East Side",
       "building": "Chairman Saminathan Mudaliyar Municipal Higher secondary school Pillayarpalayam Branch School ,Kancheepuram North Facing East Side 3 Room Building",
       "lat": 12.8352333,
-      "lng": 79.6956453
+      "lng": 79.6956453,
+      "comparison": {
+        "dmk_swing": 14.75,
+        "aiadmk_swing": -9.62,
+        "turnout_change": 31.19
+      }
     },
     {
       "booth_no": "173",
@@ -4160,7 +5023,12 @@
       "village": "Kancheepuram Nadu st",
       "building": "Mel Pillaiyar palayam Municipal Middle school ,Kancheepuram Nadu st, East Facing North Side",
       "lat": 12.8346912,
-      "lng": 79.6884965
+      "lng": 79.6884965,
+      "comparison": {
+        "dmk_swing": 14.95,
+        "aiadmk_swing": -9.48,
+        "turnout_change": 34.46
+      }
     },
     {
       "booth_no": "174",
@@ -4184,7 +5052,12 @@
       "village": "Kancheepuram Nadu st",
       "building": "Mel Pillaiyar palayam Municipal Middle school ,Kancheepuram Nadu st, East Facing North Side",
       "lat": 12.8346912,
-      "lng": 79.6884965
+      "lng": 79.6884965,
+      "comparison": {
+        "dmk_swing": 2.14,
+        "aiadmk_swing": -9.97,
+        "turnout_change": -45.9
+      }
     },
     {
       "booth_no": "175",
@@ -4208,7 +5081,12 @@
       "village": "Kancheepuram Nadu st",
       "building": "Mel Pillaiyar palayam Municipal Middle school ,Kancheepuram Nadu st, New Building West Facing South Side",
       "lat": 12.8346912,
-      "lng": 79.6884965
+      "lng": 79.6884965,
+      "comparison": {
+        "dmk_swing": 1.4,
+        "aiadmk_swing": -7.3,
+        "turnout_change": -31.52
+      }
     },
     {
       "booth_no": "176",
@@ -4232,7 +5110,12 @@
       "village": "Kancheepuram Nadu st",
       "building": "Mel Pillaiyar palayam Municipal Middle school ,Kancheepuram Nadu st, New Building west Facing",
       "lat": 12.8346912,
-      "lng": 79.6884965
+      "lng": 79.6884965,
+      "comparison": {
+        "dmk_swing": -20.95,
+        "aiadmk_swing": 25.96,
+        "turnout_change": 4.91
+      }
     },
     {
       "booth_no": "177",
@@ -4256,7 +5139,12 @@
       "village": "Kancheepuram Nadu st",
       "building": "Mel Pillaiyar palayam Municipal Middle school ,Kancheepuram Nadu st, West Facing",
       "lat": 12.8346912,
-      "lng": 79.6884965
+      "lng": 79.6884965,
+      "comparison": {
+        "dmk_swing": -7.02,
+        "aiadmk_swing": 11.19,
+        "turnout_change": 17.9
+      }
     },
     {
       "booth_no": "178",
@@ -4280,7 +5168,12 @@
       "village": "Kancheepuram Nadu st",
       "building": "Mel Pillaiyar palayam Municipal Middle school ,Kancheepuram Nadu st, West Facing",
       "lat": 12.8346912,
-      "lng": 79.6884965
+      "lng": 79.6884965,
+      "comparison": {
+        "dmk_swing": -3.33,
+        "aiadmk_swing": 4.47,
+        "turnout_change": -60.17
+      }
     },
     {
       "booth_no": "179",
@@ -4304,7 +5197,12 @@
       "village": "Kanchipuram New Building East side North Face",
       "building": "Chairman Saminathan Mudaliyar Municipal Higher Secondary school ,Kanchipuram New Building East side North Face",
       "lat": 12.9612794,
-      "lng": 80.1697804
+      "lng": 80.1697804,
+      "comparison": {
+        "dmk_swing": 1.87,
+        "aiadmk_swing": -5.06,
+        "turnout_change": -7.79
+      }
     },
     {
       "booth_no": "180",
@@ -4328,7 +5226,12 @@
       "village": "New Building East side North Face Room No",
       "building": "Chairman Saminathan Mudaliyar Municipal primary school, New Building East side North Face Room No 2, Kanchipuram -631502",
       "lat": 12.8176903,
-      "lng": 79.7212658
+      "lng": 79.7212658,
+      "comparison": {
+        "dmk_swing": 15.22,
+        "aiadmk_swing": -17.86,
+        "turnout_change": -26.32
+      }
     },
     {
       "booth_no": "181",
@@ -4352,7 +5255,12 @@
       "village": "Kanchipuram New Building west side",
       "building": "Chairman Saminathan Mudaliyar Municipal Higher Secondary School ,Kanchipuram New Building west side",
       "lat": 12.9612794,
-      "lng": 80.1697804
+      "lng": 80.1697804,
+      "comparison": {
+        "dmk_swing": 3.97,
+        "aiadmk_swing": -11.27,
+        "turnout_change": -25.0
+      }
     },
     {
       "booth_no": "182",
@@ -4376,7 +5284,12 @@
       "village": "Kanchipuram New Building East side West facing Room No",
       "building": "Chairman Saminathan Mudaliyar Municipal Higher Secondary School ,Kanchipuram New Building East side West facing Room No. 8",
       "lat": 12.9612794,
-      "lng": 80.1697804
+      "lng": 80.1697804,
+      "comparison": {
+        "dmk_swing": 3.43,
+        "aiadmk_swing": -2.56,
+        "turnout_change": 57.45
+      }
     },
     {
       "booth_no": "183",
@@ -4400,7 +5313,12 @@
       "village": "Kancheepuram South Facing Room No",
       "building": "Chairman Saminathan Mudaliyar Municipal Higher secondary school (Branch School) ,Kancheepuram South Facing Room No. 10",
       "lat": 12.8214099,
-      "lng": 79.72584069999999
+      "lng": 79.72584069999999,
+      "comparison": {
+        "dmk_swing": 11.69,
+        "aiadmk_swing": -12.22,
+        "turnout_change": 58.75
+      }
     },
     {
       "booth_no": "184",
@@ -4424,7 +5342,12 @@
       "village": "Kancheepuram South Facing Room No",
       "building": "Chairman Saminathan Mudaliyar Municipal Higher secondary school (Branch School) ,Kancheepuram South Facing Room No. 10",
       "lat": 12.8214099,
-      "lng": 79.72584069999999
+      "lng": 79.72584069999999,
+      "comparison": {
+        "dmk_swing": 18.4,
+        "aiadmk_swing": -23.48,
+        "turnout_change": -39.09
+      }
     },
     {
       "booth_no": "185",
@@ -4448,7 +5371,12 @@
       "village": "Pillaiyarpalayam Kancheepuram East Facing South Side",
       "building": "Mel Pillaiyarpalayam Municipal Middle School,Pillaiyarpalayam Kancheepuram East Facing South Side",
       "lat": 12.8371443,
-      "lng": 79.6984064
+      "lng": 79.6984064,
+      "comparison": {
+        "dmk_swing": 0.17,
+        "aiadmk_swing": -6.26,
+        "turnout_change": -5.82
+      }
     },
     {
       "booth_no": "186",
@@ -4472,7 +5400,12 @@
       "village": "New building North Facing Block West room",
       "building": "Chairman Saminathan Mudaliyar Municipal primary school ,New building North Facing Block West room",
       "lat": 12.6295764,
-      "lng": 79.6629759
+      "lng": 79.6629759,
+      "comparison": {
+        "dmk_swing": 2.23,
+        "aiadmk_swing": -13.27,
+        "turnout_change": 20.68
+      }
     },
     {
       "booth_no": "187",
@@ -4496,7 +5429,12 @@
       "village": "Kancheepuram North Facing East wing",
       "building": "Chairman Saminathan Mudaliyar Municipal primary school, Kancheepuram North Facing East wing",
       "lat": 12.8371787,
-      "lng": 79.7041698
+      "lng": 79.7041698,
+      "comparison": {
+        "dmk_swing": 13.81,
+        "aiadmk_swing": -11.57,
+        "turnout_change": -5.51
+      }
     },
     {
       "booth_no": "188",
@@ -4520,7 +5458,12 @@
       "village": "",
       "building": "Chairman Saminathan Mudaliyar Municipal Higher secondary school Pillayarpalayam Branch School Kancheepuram East Facing West Side Building North Side",
       "lat": 12.8350239,
-      "lng": 79.69353009999999
+      "lng": 79.69353009999999,
+      "comparison": {
+        "dmk_swing": 3.96,
+        "aiadmk_swing": -13.49,
+        "turnout_change": -14.47
+      }
     },
     {
       "booth_no": "189",
@@ -4544,7 +5487,12 @@
       "village": "Pillaiyarpalayam Kanchipuram South Facing",
       "building": "Chairman Saminathan Mudaliyar Municipal Higher Secondary school , Pillaiyarpalayam Kanchipuram South Facing",
       "lat": 12.8350239,
-      "lng": 79.69353009999999
+      "lng": 79.69353009999999,
+      "comparison": {
+        "dmk_swing": 14.71,
+        "aiadmk_swing": -15.55,
+        "turnout_change": -39.32
+      }
     },
     {
       "booth_no": "190",
@@ -4568,7 +5516,12 @@
       "village": "Kanchipuram New Building East side North Face",
       "building": "Chairman Saminathan Mudaliyar Municipal primary school ,Kanchipuram New Building East side North Face",
       "lat": 12.8371787,
-      "lng": 79.7041698
+      "lng": 79.7041698,
+      "comparison": {
+        "dmk_swing": 10.72,
+        "aiadmk_swing": -21.73,
+        "turnout_change": -1.19
+      }
     },
     {
       "booth_no": "191",
@@ -4592,7 +5545,12 @@
       "village": "Kancheepuram",
       "building": "Sri S.S.K.V. girls higher secondary school ,Kancheepuram , West Facing V.R. Block South Side",
       "lat": 12.8401702,
-      "lng": 79.7018281
+      "lng": 79.7018281,
+      "comparison": {
+        "dmk_swing": 20.45,
+        "aiadmk_swing": -23.2,
+        "turnout_change": -46.18
+      }
     },
     {
       "booth_no": "192",
@@ -4616,7 +5574,12 @@
       "village": "Kancheepuram West facing",
       "building": "Sri S.S.K.V.Girls Higher Secondary school, Kancheepuram West facing",
       "lat": 12.8401702,
-      "lng": 79.7018281
+      "lng": 79.7018281,
+      "comparison": {
+        "dmk_swing": -3.0,
+        "aiadmk_swing": -2.75,
+        "turnout_change": 29.07
+      }
     },
     {
       "booth_no": "193",
@@ -4640,7 +5603,12 @@
       "village": "Kancheepuram North facing V",
       "building": "Sri S.S.K.V. girls higher secondary school ,Kancheepuram North facing V.R. Block",
       "lat": 12.8401702,
-      "lng": 79.7018281
+      "lng": 79.7018281,
+      "comparison": {
+        "dmk_swing": 8.21,
+        "aiadmk_swing": -8.57,
+        "turnout_change": 22.7
+      }
     },
     {
       "booth_no": "194",
@@ -4664,7 +5632,12 @@
       "village": "Kancheepuram North facing V",
       "building": "Sri S.S.K.V. girls higher secondary school ,Kancheepuram North facing V.R. Block",
       "lat": 12.8401702,
-      "lng": 79.7018281
+      "lng": 79.7018281,
+      "comparison": {
+        "dmk_swing": 16.8,
+        "aiadmk_swing": -16.2,
+        "turnout_change": -32.01
+      }
     },
     {
       "booth_no": "195",
@@ -4688,7 +5661,12 @@
       "village": "Kanchipuram West Facing North Side",
       "building": "Okkapiranthankulam Municipal primary school ,Kanchipuram West Facing North Side",
       "lat": 12.8431184,
-      "lng": 79.6914279
+      "lng": 79.6914279,
+      "comparison": {
+        "dmk_swing": 2.12,
+        "aiadmk_swing": -5.66,
+        "turnout_change": -27.15
+      }
     },
     {
       "booth_no": "196",
@@ -4712,7 +5690,12 @@
       "village": "Kanchipuram West Facing North Side",
       "building": "Okkapiranthankulam Municipal primary school ,Kanchipuram West Facing North Side",
       "lat": 12.8431184,
-      "lng": 79.6914279
+      "lng": 79.6914279,
+      "comparison": {
+        "dmk_swing": 3.97,
+        "aiadmk_swing": -6.32,
+        "turnout_change": -31.69
+      }
     },
     {
       "booth_no": "197",
@@ -4736,7 +5719,12 @@
       "village": "Kanchipuram West Facing South Side",
       "building": "Okkapiranthankulam Municipal primary school ,Kanchipuram West Facing South Side",
       "lat": 12.8431184,
-      "lng": 79.6914279
+      "lng": 79.6914279,
+      "comparison": {
+        "dmk_swing": 9.85,
+        "aiadmk_swing": -10.47,
+        "turnout_change": 41.08
+      }
     },
     {
       "booth_no": "198",
@@ -4760,7 +5748,12 @@
       "village": "Kanchipuram West Facing South Side",
       "building": "Okkapiranthankulam Municipal primary school ,Kanchipuram West Facing South Side",
       "lat": 12.8431184,
-      "lng": 79.6914279
+      "lng": 79.6914279,
+      "comparison": {
+        "dmk_swing": 11.41,
+        "aiadmk_swing": -10.62,
+        "turnout_change": -12.07
+      }
     },
     {
       "booth_no": "199",
@@ -4784,7 +5777,12 @@
       "village": "South Facing North Building East Side",
       "building": "Pachaiyappan Higher secondary school , South Facing North Building East Side",
       "lat": 12.5776464,
-      "lng": 79.8082404
+      "lng": 79.8082404,
+      "comparison": {
+        "dmk_swing": 8.46,
+        "aiadmk_swing": -15.54,
+        "turnout_change": 58.06
+      }
     },
     {
       "booth_no": "200",
@@ -4808,7 +5806,12 @@
       "village": "South Facing North Building East Side",
       "building": "Pachaiyappan Higher secondary school , South Facing North Building East Side",
       "lat": 12.5776464,
-      "lng": 79.8082404
+      "lng": 79.8082404,
+      "comparison": {
+        "dmk_swing": 13.97,
+        "aiadmk_swing": -20.89,
+        "turnout_change": -16.32
+      }
     },
     {
       "booth_no": "201",
@@ -4832,7 +5835,12 @@
       "village": "Room No",
       "building": "Pachaiyappan Higher secondary school ,Room No.89, Kanchipuram north block east Facing",
       "lat": 12.8296257,
-      "lng": 79.7032634
+      "lng": 79.7032634,
+      "comparison": {
+        "dmk_swing": 3.76,
+        "aiadmk_swing": -7.37,
+        "turnout_change": 21.28
+      }
     },
     {
       "booth_no": "202",
@@ -4856,7 +5864,12 @@
       "village": "Kachipuram Near PTA Block West Building West Facing",
       "building": "Anderson Higher secondary school ,Kachipuram Near PTA Block West Building West Facing",
       "lat": 12.8342214,
-      "lng": 79.7020361
+      "lng": 79.7020361,
+      "comparison": {
+        "dmk_swing": -0.83,
+        "aiadmk_swing": -3.15,
+        "turnout_change": -41.51
+      }
     },
     {
       "booth_no": "203",
@@ -4880,7 +5893,12 @@
       "village": "Kachipuram Near West Building North",
       "building": "Anderson Higher secondary school ,Kachipuram Near West Building North, West Facing",
       "lat": 12.8342214,
-      "lng": 79.7020361
+      "lng": 79.7020361,
+      "comparison": {
+        "dmk_swing": 13.54,
+        "aiadmk_swing": -12.71,
+        "turnout_change": 13.44
+      }
     },
     {
       "booth_no": "204",
@@ -4904,7 +5922,12 @@
       "village": "Kachipuram Near West Facing Building North wing",
       "building": "Anderson Higher secondary school ,Kachipuram Near West Facing Building North wing,",
       "lat": 12.8342214,
-      "lng": 79.7020361
+      "lng": 79.7020361,
+      "comparison": {
+        "dmk_swing": -5.83,
+        "aiadmk_swing": 2.05,
+        "turnout_change": 21.76
+      }
     },
     {
       "booth_no": "205",
@@ -4928,7 +5951,12 @@
       "village": "Kancheepuram South Facing",
       "building": "Anderson Higher Secondary School,Kancheepuram South Facing",
       "lat": 12.8342214,
-      "lng": 79.7020361
+      "lng": 79.7020361,
+      "comparison": {
+        "dmk_swing": 12.69,
+        "aiadmk_swing": -7.03,
+        "turnout_change": 53.88
+      }
     },
     {
       "booth_no": "206",
@@ -4952,7 +5980,12 @@
       "village": "Near Millinium Block South Facing",
       "building": "Anderson Higher secondary school, Near Millinium Block South Facing 7th Std, Kanchipuram-631502",
       "lat": 12.8342214,
-      "lng": 79.7020361
+      "lng": 79.7020361,
+      "comparison": {
+        "dmk_swing": 0.43,
+        "aiadmk_swing": 5.1,
+        "turnout_change": 1.59
+      }
     },
     {
       "booth_no": "207",
@@ -4976,7 +6009,12 @@
       "village": "Millinium Block South Facing",
       "building": "Anderson Higher secondary school, Millinium Block South Facing 8th Std, Kanchipuram-631502",
       "lat": 12.8342214,
-      "lng": 79.7020361
+      "lng": 79.7020361,
+      "comparison": {
+        "dmk_swing": 9.52,
+        "aiadmk_swing": -11.09,
+        "turnout_change": -38.19
+      }
     },
     {
       "booth_no": "208",
@@ -5000,7 +6038,12 @@
       "village": "Center Roon North part kanchipuram East Facing North Side",
       "building": "R.B.A.N.M. Government Girls Higher secondary school ,Center Roon North part kanchipuram East Facing North Side 1st Room",
       "lat": 12.8408823,
-      "lng": 79.7124992
+      "lng": 79.7124992,
+      "comparison": {
+        "dmk_swing": -0.18,
+        "aiadmk_swing": -2.67,
+        "turnout_change": 11.55
+      }
     },
     {
       "booth_no": "209",
@@ -5024,7 +6067,12 @@
       "village": "Center Roon North part kanchipuram East Facing North Side",
       "building": "R.B.A.N.M. Government Girls Higher secondary school ,Center Roon North part kanchipuram East Facing North Side 1st Room",
       "lat": 12.8408823,
-      "lng": 79.7124992
+      "lng": 79.7124992,
+      "comparison": {
+        "dmk_swing": 15.64,
+        "aiadmk_swing": -7.93,
+        "turnout_change": 37.4
+      }
     },
     {
       "booth_no": "210",
@@ -5048,7 +6096,12 @@
       "village": "Vaikundapuram St",
       "building": "Dr.P.S. Srinivasan Municiple Higher secondary school ,Vaikundapuram St, Kanchipuram West Facing",
       "lat": 12.8336815,
-      "lng": 79.7082559
+      "lng": 79.7082559,
+      "comparison": {
+        "dmk_swing": 3.91,
+        "aiadmk_swing": -4.7,
+        "turnout_change": 8.93
+      }
     },
     {
       "booth_no": "211",
@@ -5072,7 +6125,12 @@
       "village": "Center Roon North part kanchipuram East Facing",
       "building": "R.B.A.N.M. Government Girls Higher secondary school ,Center Roon North part kanchipuram East Facing",
       "lat": 12.8338941,
-      "lng": 79.7037458
+      "lng": 79.7037458,
+      "comparison": {
+        "dmk_swing": -16.05,
+        "aiadmk_swing": 10.74,
+        "turnout_change": 0.13
+      }
     },
     {
       "booth_no": "212",
@@ -5096,7 +6154,12 @@
       "village": "East Facing",
       "building": "R.B.A.N.M. Government Girls Higher secondary school North part, East Facing, Kanchipuram 631502",
       "lat": 12.8338941,
-      "lng": 79.7037458
+      "lng": 79.7037458,
+      "comparison": {
+        "dmk_swing": 2.23,
+        "aiadmk_swing": -5.02,
+        "turnout_change": -19.36
+      }
     },
     {
       "booth_no": "213",
@@ -5120,7 +6183,12 @@
       "village": "East Facing",
       "building": "R.B.A.N.M. Government Girls Higher secondary school Left Side North part, East Facing, Kanchipuram -631502",
       "lat": 12.8338941,
-      "lng": 79.7037458
+      "lng": 79.7037458,
+      "comparison": {
+        "dmk_swing": -8.82,
+        "aiadmk_swing": 8.61,
+        "turnout_change": -10.25
+      }
     },
     {
       "booth_no": "214",
@@ -5144,7 +6212,12 @@
       "village": "Center Room North part kanchipuram East Facing North Side",
       "building": "R.B.A.N.M. Government Girls Higher secondary school ,Center Room North part kanchipuram East Facing North Side 4th Room",
       "lat": 12.8408823,
-      "lng": 79.7124992
+      "lng": 79.7124992,
+      "comparison": {
+        "dmk_swing": 1.87,
+        "aiadmk_swing": 4.26,
+        "turnout_change": -10.05
+      }
     },
     {
       "booth_no": "215",
@@ -5168,7 +6241,12 @@
       "village": "Center Room North part kanchipuram East Facing North Side",
       "building": "R.B.A.N.M. Government Girls Higher secondary school ,Center Room North part kanchipuram East Facing North Side 4th Room",
       "lat": 12.8408823,
-      "lng": 79.7124992
+      "lng": 79.7124992,
+      "comparison": {
+        "dmk_swing": -4.14,
+        "aiadmk_swing": 0.21,
+        "turnout_change": 63.87
+      }
     },
     {
       "booth_no": "216",
@@ -5192,7 +6270,12 @@
       "village": "Shekpettai Kanchipuram East Facing",
       "building": "Peraringnar Anna Memorial Hall Rani Annadurai Girls Higher Secondary School ,Shekpettai Kanchipuram East Facing",
       "lat": 12.8408823,
-      "lng": 79.7124992
+      "lng": 79.7124992,
+      "comparison": {
+        "dmk_swing": 21.47,
+        "aiadmk_swing": -16.14,
+        "turnout_change": 69.39
+      }
     },
     {
       "booth_no": "217",
@@ -5216,7 +6299,12 @@
       "village": "Shekpettai Kanchipuram East Facing",
       "building": "Peraringnar Anna Memorial Hall Rani Annadurai Girls Higher Secondary School ,Shekpettai Kanchipuram East Facing",
       "lat": 12.8408823,
-      "lng": 79.7124992
+      "lng": 79.7124992,
+      "comparison": {
+        "dmk_swing": -7.12,
+        "aiadmk_swing": 6.42,
+        "turnout_change": -31.75
+      }
     },
     {
       "booth_no": "218",
@@ -5240,7 +6328,12 @@
       "village": "KPM",
       "building": "Dr. P.S. Srinivasan Higher Secondary school Vaikuntapuram Street, KPM. Bharathiyar Centurian New Building South Block West Facing",
       "lat": 12.844282,
-      "lng": 79.69683909999999
+      "lng": 79.69683909999999,
+      "comparison": {
+        "dmk_swing": -9.47,
+        "aiadmk_swing": 12.28,
+        "turnout_change": 34.15
+      }
     },
     {
       "booth_no": "219",
@@ -5264,7 +6357,12 @@
       "village": "Bharathiyar Centurian New Building South Block West Side",
       "building": "Doctor P.S. Srinivasan Higher Secondary school Vaikuntapuram Street, Bharathiyar Centurian New Building South Block West Side, Kancheepuram- 631502",
       "lat": 12.8169484,
-      "lng": 79.6955838
+      "lng": 79.6955838,
+      "comparison": {
+        "dmk_swing": 34.83,
+        "aiadmk_swing": -12.64,
+        "turnout_change": 24.6
+      }
     },
     {
       "booth_no": "220",
@@ -5288,7 +6386,12 @@
       "village": "Reddypettai",
       "building": "Reddypettai Municipal Primary School,Reddypettai, Kancheepuram South Facing",
       "lat": 12.8431184,
-      "lng": 79.6914279
+      "lng": 79.6914279,
+      "comparison": {
+        "dmk_swing": 1.53,
+        "aiadmk_swing": -3.68,
+        "turnout_change": 22.46
+      }
     },
     {
       "booth_no": "221",
@@ -5312,7 +6415,12 @@
       "village": "Reddypettai",
       "building": "Reddypettai Municipal Primary school,Reddypettai, Kancheepuram South Facing Middle Room",
       "lat": 12.8431184,
-      "lng": 79.6914279
+      "lng": 79.6914279,
+      "comparison": {
+        "dmk_swing": -0.43,
+        "aiadmk_swing": -12.7,
+        "turnout_change": -40.98
+      }
     },
     {
       "booth_no": "222",
@@ -5336,7 +6444,12 @@
       "village": "Reddypettai",
       "building": "Reddypettai Municipal Primary school,Reddypettai, Kancheepuram South Facing Middle Room",
       "lat": 12.8431184,
-      "lng": 79.6914279
+      "lng": 79.6914279,
+      "comparison": {
+        "dmk_swing": -5.77,
+        "aiadmk_swing": 13.3,
+        "turnout_change": 107.07
+      }
     },
     {
       "booth_no": "223",
@@ -5360,7 +6473,12 @@
       "village": "Hostpital Road",
       "building": "Veterinary Office department ,Hostpital Road, 3rd Building Kanchipuram South Facing East wing",
       "lat": 12.835695,
-      "lng": 79.707589
+      "lng": 79.707589,
+      "comparison": {
+        "dmk_swing": 4.93,
+        "aiadmk_swing": -20.12,
+        "turnout_change": -4.86
+      }
     },
     {
       "booth_no": "224",
@@ -5384,7 +6502,12 @@
       "village": "Kanchipuram South Facing Middle Room",
       "building": "Veterinary Office Department,Kanchipuram South Facing Middle Room",
       "lat": 12.824048,
-      "lng": 79.6898404
+      "lng": 79.6898404,
+      "comparison": {
+        "dmk_swing": -11.33,
+        "aiadmk_swing": 15.5,
+        "turnout_change": -27.26
+      }
     },
     {
       "booth_no": "225",
@@ -5408,7 +6531,12 @@
       "village": "Gandhi Road",
       "building": "Municipal Primary School ,Gandhi Road,kancheepuram North Facing East Side",
       "lat": 12.829251,
-      "lng": 79.7065287
+      "lng": 79.7065287,
+      "comparison": {
+        "dmk_swing": -7.74,
+        "aiadmk_swing": 3.31,
+        "turnout_change": 35.04
+      }
     },
     {
       "booth_no": "226",
@@ -5432,7 +6560,12 @@
       "village": "Gandhi Road",
       "building": "Municipal Primary School ,Gandhi Road,kancheepuram North Facing East Side",
       "lat": 12.829251,
-      "lng": 79.7065287
+      "lng": 79.7065287,
+      "comparison": {
+        "dmk_swing": -7.5,
+        "aiadmk_swing": 1.56,
+        "turnout_change": -6.64
+      }
     },
     {
       "booth_no": "227",
@@ -5456,7 +6589,12 @@
       "village": "Gandhi Road",
       "building": "Municipal Primary School ,Gandhi Road, kancheepuram East Facing South Side",
       "lat": 12.829251,
-      "lng": 79.7065287
+      "lng": 79.7065287,
+      "comparison": {
+        "dmk_swing": -19.59,
+        "aiadmk_swing": 31.65,
+        "turnout_change": -17.2
+      }
     },
     {
       "booth_no": "228",
@@ -5480,7 +6618,12 @@
       "village": "Gandhi Road",
       "building": "Municipal Primary School ,Gandhi Road, kancheepuram East Facing South Side",
       "lat": 12.829251,
-      "lng": 79.7065287
+      "lng": 79.7065287,
+      "comparison": {
+        "dmk_swing": 12.53,
+        "aiadmk_swing": -39.2,
+        "turnout_change": -2.72
+      }
     },
     {
       "booth_no": "229",
@@ -5504,7 +6647,12 @@
       "village": "Kanchipuram",
       "building": "Nutrious meal centre ,Kanchipuram 31-32 East Facing North Building",
       "lat": 12.8092632,
-      "lng": 79.75765249999999
+      "lng": 79.75765249999999,
+      "comparison": {
+        "dmk_swing": 35.64,
+        "aiadmk_swing": -36.48,
+        "turnout_change": 1.82
+      }
     },
     {
       "booth_no": "230",
@@ -5528,7 +6676,12 @@
       "village": "Gandhi Road",
       "building": "Municipal Primary school ,Gandhi Road, Kanchipuram North Side Building East Building",
       "lat": 12.829251,
-      "lng": 79.7065287
+      "lng": 79.7065287,
+      "comparison": {
+        "dmk_swing": 13.25,
+        "aiadmk_swing": -6.87,
+        "turnout_change": -9.38
+      }
     },
     {
       "booth_no": "231",
@@ -5552,7 +6705,12 @@
       "village": "Kanchipuram East Face",
       "building": "Pachaiyappan Higher secondary school, Kanchipuram East Face",
       "lat": 12.8296257,
-      "lng": 79.7032634
+      "lng": 79.7032634,
+      "comparison": {
+        "dmk_swing": -14.02,
+        "aiadmk_swing": 11.39,
+        "turnout_change": -16.37
+      }
     },
     {
       "booth_no": "232",
@@ -5576,7 +6734,12 @@
       "village": "Room No",
       "building": "Pachaiyappan Higher secondary school ,Room No.8, Kanchipuram North Face",
       "lat": 12.8296257,
-      "lng": 79.7032634
+      "lng": 79.7032634,
+      "comparison": {
+        "dmk_swing": -17.15,
+        "aiadmk_swing": 25.98,
+        "turnout_change": 111.98
+      }
     },
     {
       "booth_no": "233",
@@ -5600,7 +6763,12 @@
       "village": "Kancheepuram North East Building South Facing",
       "building": "Pachaiyappan Higher Secondary School,Kancheepuram North East Building South Facing",
       "lat": 12.8296257,
-      "lng": 79.7032634
+      "lng": 79.7032634,
+      "comparison": {
+        "dmk_swing": 22.55,
+        "aiadmk_swing": 4.18,
+        "turnout_change": -15.45
+      }
     },
     {
       "booth_no": "234",
@@ -5624,7 +6792,12 @@
       "village": "Karukinil Amarnthaval Koil St Kanchipuram East Facing South Wing",
       "building": "Thiyagi Middle school ,Karukinil Amarnthaval Koil St Kanchipuram East Facing South Wing",
       "lat": 12.8276798,
-      "lng": 79.7020849
+      "lng": 79.7020849,
+      "comparison": {
+        "dmk_swing": 18.09,
+        "aiadmk_swing": -2.57,
+        "turnout_change": 33.27
+      }
     },
     {
       "booth_no": "235",
@@ -5648,7 +6821,12 @@
       "village": "Karukinil Amarnthaval Koil St Kanchipuram North wing West Facing",
       "building": "Thiyagi Middle school ,Karukinil Amarnthaval Koil St Kanchipuram North wing West Facing",
       "lat": 12.8276798,
-      "lng": 79.7020849
+      "lng": 79.7020849,
+      "comparison": {
+        "dmk_swing": -10.66,
+        "aiadmk_swing": 12.44,
+        "turnout_change": 33.01
+      }
     },
     {
       "booth_no": "236",
@@ -5672,7 +6850,12 @@
       "village": "Karukinil Amarnthaval Koil Street",
       "building": "Thiyagi Middle school ,Karukinil Amarnthaval Koil Street, North Wing West Facing 8MW, Kanchipuram-631502",
       "lat": 12.8276798,
-      "lng": 79.7020849
+      "lng": 79.7020849,
+      "comparison": {
+        "dmk_swing": 7.14,
+        "aiadmk_swing": 2.69,
+        "turnout_change": 2.26
+      }
     },
     {
       "booth_no": "237",
@@ -5696,7 +6879,12 @@
       "village": "Karukinil Amarnthaval Koil St Kanchipuram West Facing",
       "building": "Thiyagi Middle school ,Karukinil Amarnthaval Koil St Kanchipuram West Facing",
       "lat": 12.8276798,
-      "lng": 79.7020849
+      "lng": 79.7020849,
+      "comparison": {
+        "dmk_swing": -5.87,
+        "aiadmk_swing": 10.94,
+        "turnout_change": -0.1
+      }
     },
     {
       "booth_no": "238",
@@ -5720,7 +6908,12 @@
       "village": "Karukinil Amarnthaval Koil St",
       "building": "Thiyagi Middle school ,Karukinil Amarnthaval Koil St, Kanchipuram North Wing South Facing",
       "lat": 12.8276798,
-      "lng": 79.7020849
+      "lng": 79.7020849,
+      "comparison": {
+        "dmk_swing": 31.27,
+        "aiadmk_swing": 6.6,
+        "turnout_change": -19.49
+      }
     },
     {
       "booth_no": "239",
@@ -5744,7 +6937,12 @@
       "village": "Karukinil Amarnthaval Koil Street",
       "building": "Thiyagi Middle school ,Karukinil Amarnthaval Koil Street, North Wing South Facing 7th Std, Kanchipuram -631502",
       "lat": 12.827731,
-      "lng": 79.69940609999999
+      "lng": 79.69940609999999,
+      "comparison": {
+        "dmk_swing": 37.75,
+        "aiadmk_swing": -8.14,
+        "turnout_change": 15.38
+      }
     },
     {
       "booth_no": "240",
@@ -5768,7 +6966,12 @@
       "village": "Near A",
       "building": "Victoria Matriculation Higher Secondary School ,M.M.Avenue, Near A.K.G.Kalyanamandapam. Kanchipuram North Facing Room No. 1",
       "lat": 12.8186828,
-      "lng": 79.7062109
+      "lng": 79.7062109,
+      "comparison": {
+        "dmk_swing": 45.38,
+        "aiadmk_swing": -19.07,
+        "turnout_change": -56.86
+      }
     },
     {
       "booth_no": "241",
@@ -5792,7 +6995,12 @@
       "village": "Near A",
       "building": "Victoria Matriculation Higher Secondary School ,M.M.Avenue, Near A.K.G.Kalyanamandapam. Kanchipuram North Facing Room No. 1",
       "lat": 12.8186828,
-      "lng": 79.7062109
+      "lng": 79.7062109,
+      "comparison": {
+        "dmk_swing": -5.13,
+        "aiadmk_swing": 27.77,
+        "turnout_change": -35.69
+      }
     },
     {
       "booth_no": "242",
@@ -5816,7 +7024,12 @@
       "village": "Near A",
       "building": "Victoria Matriculation Higher Secondary School ,M.M.Avenue, Near A.K.G.Kalyanamandapam. Kanchipuram North Facing Room No. 2",
       "lat": 12.8186828,
-      "lng": 79.7062109
+      "lng": 79.7062109,
+      "comparison": {
+        "dmk_swing": 2.66,
+        "aiadmk_swing": -1.94,
+        "turnout_change": -3.41
+      }
     },
     {
       "booth_no": "243",
@@ -5840,7 +7053,12 @@
       "village": "Near A",
       "building": "Victoria Matriculation Higher Secondary School ,M.M.Avenue, Near A.K.G.Kalyanamandapam. Kanchipuram North Facing Room No. 2",
       "lat": 12.8186828,
-      "lng": 79.7062109
+      "lng": 79.7062109,
+      "comparison": {
+        "dmk_swing": 36.06,
+        "aiadmk_swing": -0.11,
+        "turnout_change": -31.16
+      }
     },
     {
       "booth_no": "244",
@@ -5864,7 +7082,12 @@
       "village": "Near A",
       "building": "Victoria Matriculation Higher Secondary School ,M.M.Avenue, Near A.K.G.Kalyanamandapam. Kanchipuram East Face",
       "lat": 12.8186828,
-      "lng": 79.7062109
+      "lng": 79.7062109,
+      "comparison": {
+        "dmk_swing": 31.36,
+        "aiadmk_swing": 21.54,
+        "turnout_change": 19.24
+      }
     },
     {
       "booth_no": "245",
@@ -5888,7 +7111,12 @@
       "village": "Near A",
       "building": "Victoria Matriculation Higher Secondary School ,M.M.Avenue, Near A.K.G.Kalyanamandapam. Kanchipuram North Facing Room No. 5",
       "lat": 12.8186828,
-      "lng": 79.7062109
+      "lng": 79.7062109,
+      "comparison": {
+        "dmk_swing": 8.53,
+        "aiadmk_swing": -6.8,
+        "turnout_change": 2.72
+      }
     },
     {
       "booth_no": "246",
@@ -5912,7 +7140,12 @@
       "village": "Near A",
       "building": "Victoria Matriculation Higher Secondary School ,M.M.Avenue, Near A.K.G.Kalyanamandapam. Kanchipuram North Facing Room No. 5",
       "lat": 12.8186828,
-      "lng": 79.7062109
+      "lng": 79.7062109,
+      "comparison": {
+        "dmk_swing": -1.95,
+        "aiadmk_swing": 1.49,
+        "turnout_change": -32.03
+      }
     },
     {
       "booth_no": "247",
@@ -5936,7 +7169,12 @@
       "village": "School Street Kanchipuram South Facing",
       "building": "CSI Middle school ,School Street Kanchipuram South Facing",
       "lat": 12.837284,
-      "lng": 79.7041744
+      "lng": 79.7041744,
+      "comparison": {
+        "dmk_swing": 5.94,
+        "aiadmk_swing": 25.07,
+        "turnout_change": -3.26
+      }
     },
     {
       "booth_no": "248",
@@ -5960,7 +7198,12 @@
       "village": "School Mettu Street Kanchipuram East Facing South Side",
       "building": "CSI Middle school ,School Mettu Street Kanchipuram East Facing South Side",
       "lat": 12.8408823,
-      "lng": 79.7124992
+      "lng": 79.7124992,
+      "comparison": {
+        "dmk_swing": -0.18,
+        "aiadmk_swing": 23.79,
+        "turnout_change": 4.48
+      }
     },
     {
       "booth_no": "249",
@@ -5984,7 +7227,12 @@
       "village": "School Mettu Street Kanchipuram East Facing South Side",
       "building": "CSI Middle school ,School Mettu Street Kanchipuram East Facing South Side",
       "lat": 12.8408823,
-      "lng": 79.7124992
+      "lng": 79.7124992,
+      "comparison": {
+        "dmk_swing": 15.47,
+        "aiadmk_swing": 17.06,
+        "turnout_change": 44.35
+      }
     },
     {
       "booth_no": "250",
@@ -6008,7 +7256,12 @@
       "village": "Near Rangasamy Kanchipuram North Facing",
       "building": "Victoria Nursary school ,M.M.Avenue, Near Rangasamy Kanchipuram North Facing",
       "lat": 12.8244918,
-      "lng": 79.7083796
+      "lng": 79.7083796,
+      "comparison": {
+        "dmk_swing": 19.47,
+        "aiadmk_swing": 12.24,
+        "turnout_change": 60.76
+      }
     },
     {
       "booth_no": "251",
@@ -6032,7 +7285,12 @@
       "village": "Kanchipuram Thumbavanam Street South Face",
       "building": "Chairman Thangavelu Municipal High school ,Kanchipuram Thumbavanam Street South Face",
       "lat": 12.8225287,
-      "lng": 79.7087915
+      "lng": 79.7087915,
+      "comparison": {
+        "dmk_swing": -13.71,
+        "aiadmk_swing": 19.59,
+        "turnout_change": 19.88
+      }
     },
     {
       "booth_no": "252",
@@ -6056,7 +7314,12 @@
       "village": "Thumbavanam Street North Facing West Side",
       "building": "Chairman Thangavelu Mudhaliyar High School, Thumbavanam Street North Facing West Side",
       "lat": 12.8225287,
-      "lng": 79.7087915
+      "lng": 79.7087915,
+      "comparison": {
+        "dmk_swing": -38.16,
+        "aiadmk_swing": 41.68,
+        "turnout_change": 3.26
+      }
     },
     {
       "booth_no": "253",
@@ -6080,7 +7343,12 @@
       "village": "Thumbavanam Street North Facing West Side",
       "building": "Chairman Thangavelu Mudhaliyar High School, Thumbavanam Street North Facing West Side",
       "lat": 12.8225287,
-      "lng": 79.7087915
+      "lng": 79.7087915,
+      "comparison": {
+        "dmk_swing": 33.48,
+        "aiadmk_swing": 9.71,
+        "turnout_change": 18.75
+      }
     },
     {
       "booth_no": "254",
@@ -6104,7 +7372,12 @@
       "village": "Kanchipuram Thumbavanam Street South Face",
       "building": "Chairman Thangavelu Municipal High school ,Kanchipuram Thumbavanam Street South Face",
       "lat": 12.8225287,
-      "lng": 79.7087915
+      "lng": 79.7087915,
+      "comparison": {
+        "dmk_swing": 42.52,
+        "aiadmk_swing": -11.57,
+        "turnout_change": 76.24
+      }
     },
     {
       "booth_no": "255",
@@ -6128,7 +7401,12 @@
       "village": "Thumbavanam Street South Facing West Side",
       "building": "Chairman Thangavelu Mudhaliyar High School, Thumbavanam Street South Facing West Side",
       "lat": 12.8225287,
-      "lng": 79.7087915
+      "lng": 79.7087915,
+      "comparison": {
+        "dmk_swing": -28.9,
+        "aiadmk_swing": 32.58,
+        "turnout_change": -20.72
+      }
     },
     {
       "booth_no": "256",
@@ -6152,7 +7430,12 @@
       "village": "Thumbavanam Street South Facing West Side",
       "building": "Chairman Thangavelu Mudhaliyar High School, Thumbavanam Street South Facing West Side",
       "lat": 12.8225287,
-      "lng": 79.7087915
+      "lng": 79.7087915,
+      "comparison": {
+        "dmk_swing": -8.15,
+        "aiadmk_swing": 34.16,
+        "turnout_change": 128.68
+      }
     },
     {
       "booth_no": "257",
@@ -6176,7 +7459,12 @@
       "village": "Narayanapalayam St Kanchipuram East Facing South Side",
       "building": "Thiru. Muthu chettiyar Municipal Middle school ,Narayanapalayam St Kanchipuram East Facing South Side",
       "lat": 12.8408823,
-      "lng": 79.7124992
+      "lng": 79.7124992,
+      "comparison": {
+        "dmk_swing": -6.04,
+        "aiadmk_swing": 26.21,
+        "turnout_change": 58.05
+      }
     },
     {
       "booth_no": "258",
@@ -6200,7 +7488,12 @@
       "village": "Narayanapalayam St Kanchipuram East Facing South Side",
       "building": "Thiru. Muthu chettiyar Municipal Middle school ,Narayanapalayam St Kanchipuram East Facing South Side",
       "lat": 12.8408823,
-      "lng": 79.7124992
+      "lng": 79.7124992,
+      "comparison": {
+        "dmk_swing": -6.59,
+        "aiadmk_swing": 37.95,
+        "turnout_change": -51.0
+      }
     },
     {
       "booth_no": "259",
@@ -6224,7 +7517,12 @@
       "village": "Narayanapalayam St Kanchipuram East Facing",
       "building": "Thiru. Muthu chettiyar Municipal Middle school ,Narayanapalayam St Kanchipuram East Facing",
       "lat": 12.8408823,
-      "lng": 79.7124992
+      "lng": 79.7124992,
+      "comparison": {
+        "dmk_swing": 0.79,
+        "aiadmk_swing": -9.77,
+        "turnout_change": 135.33
+      }
     },
     {
       "booth_no": "260",
@@ -6248,7 +7546,12 @@
       "village": "Narayanapalayam Street",
       "building": "Thiru. Muthu chettiyar Municipal Middle school ,Narayanapalayam Street, East Facing Room No.3, Kanchipuram -631502",
       "lat": 12.8212542,
-      "lng": 79.7060214
+      "lng": 79.7060214,
+      "comparison": {
+        "dmk_swing": 25.63,
+        "aiadmk_swing": -16.44,
+        "turnout_change": 118.16
+      }
     },
     {
       "booth_no": "261",
@@ -6272,7 +7575,12 @@
       "village": "Kanchipuram West Facing",
       "building": "Pachaiyappan Womens college ,Kanchipuram West Facing",
       "lat": 12.812994,
-      "lng": 79.70152440000001
+      "lng": 79.70152440000001,
+      "comparison": {
+        "dmk_swing": -14.35,
+        "aiadmk_swing": 22.22,
+        "turnout_change": 176.69
+      }
     },
     {
       "booth_no": "262",
@@ -6296,7 +7604,12 @@
       "village": "Vegavathi Nadhi Road Kancheepuram West Facing Room No",
       "building": "Pachaiyappas Womens College,Vegavathi Nadhi Road Kancheepuram West Facing Room No. 8",
       "lat": 12.8680754,
-      "lng": 79.57368919999999
+      "lng": 79.57368919999999,
+      "comparison": {
+        "dmk_swing": -2.74,
+        "aiadmk_swing": 7.52,
+        "turnout_change": -23.68
+      }
     },
     {
       "booth_no": "263",
@@ -6320,7 +7633,12 @@
       "village": "Vegavathi Nadhi Road Kancheepuram West Facing Room No",
       "building": "Pachaiyappas Womens College,Vegavathi Nadhi Road Kancheepuram West Facing Room No. 8",
       "lat": 12.8680754,
-      "lng": 79.57368919999999
+      "lng": 79.57368919999999,
+      "comparison": {
+        "dmk_swing": 48.44,
+        "aiadmk_swing": -12.38,
+        "turnout_change": 6.94
+      }
     },
     {
       "booth_no": "264",
@@ -6344,7 +7662,12 @@
       "village": "Vegavathi Nadhi Road Kancheepuram North Facing Room No",
       "building": "Pachaiyappas Womens College, Vegavathi Nadhi Road Kancheepuram North Facing Room No 12",
       "lat": 12.8680754,
-      "lng": 79.57368919999999
+      "lng": 79.57368919999999,
+      "comparison": {
+        "dmk_swing": 25.08,
+        "aiadmk_swing": 18.35,
+        "turnout_change": -51.03
+      }
     },
     {
       "booth_no": "265",
@@ -6368,7 +7691,12 @@
       "village": "Vegavathi Nadhi Road Kancheepuram East Facing Room No",
       "building": "Pachaiyappas Womens College, Vegavathi Nadhi Road Kancheepuram East Facing Room No.6",
       "lat": 12.8680754,
-      "lng": 79.57368919999999
+      "lng": 79.57368919999999,
+      "comparison": {
+        "dmk_swing": 29.46,
+        "aiadmk_swing": 6.44,
+        "turnout_change": -8.98
+      }
     },
     {
       "booth_no": "266",
@@ -6392,7 +7720,12 @@
       "village": "Vegavathi Nadhi Road Kancheepuram East Facing Room No",
       "building": "Pachaiyappas Womens College, Vegavathi Nadhi Road Kancheepuram East Facing Room No.6",
       "lat": 12.8680754,
-      "lng": 79.57368919999999
+      "lng": 79.57368919999999,
+      "comparison": {
+        "dmk_swing": 29.35,
+        "aiadmk_swing": 27.48,
+        "turnout_change": 38.73
+      }
     },
     {
       "booth_no": "267",
@@ -6416,7 +7749,12 @@
       "village": "Vegavathi Nadhi Road Kancheepuram East Facing North Side",
       "building": "Pachaiyappas Womens College, Vegavathi Nadhi Road Kancheepuram East Facing North Side",
       "lat": 12.8680754,
-      "lng": 79.57368919999999
+      "lng": 79.57368919999999,
+      "comparison": {
+        "dmk_swing": 25.98,
+        "aiadmk_swing": -4.26,
+        "turnout_change": -51.37
+      }
     },
     {
       "booth_no": "268",
@@ -6440,7 +7778,12 @@
       "village": "Vegavathi Nadhi Road Kancheepuram East Facing North Side",
       "building": "Pachaiyappas Womens College, Vegavathi Nadhi Road Kancheepuram East Facing North Side",
       "lat": 12.8680754,
-      "lng": 79.57368919999999
+      "lng": 79.57368919999999,
+      "comparison": {
+        "dmk_swing": 10.78,
+        "aiadmk_swing": -0.45,
+        "turnout_change": -60.45
+      }
     },
     {
       "booth_no": "269",
@@ -6464,7 +7807,12 @@
       "village": "Kanchipuram North Facing",
       "building": "Pachaiyappan Branch Middle school ,Kanchipuram North Facing",
       "lat": 12.8371443,
-      "lng": 79.6984064
+      "lng": 79.6984064,
+      "comparison": {
+        "dmk_swing": 37.45,
+        "aiadmk_swing": -1.8,
+        "turnout_change": -63.34
+      }
     },
     {
       "booth_no": "270",
@@ -6488,7 +7836,12 @@
       "village": "Kumar St",
       "building": "Municipal Primary School ,Kumar St, Chinna Kanchipuram East Face",
       "lat": 12.8217337,
-      "lng": 79.7113145
+      "lng": 79.7113145,
+      "comparison": {
+        "dmk_swing": 23.49,
+        "aiadmk_swing": 0.87,
+        "turnout_change": 114.49
+      }
     },
     {
       "booth_no": "271",
@@ -6512,7 +7865,12 @@
       "village": "Yadothakari Mada St",
       "building": "Yathothakari Municipal Primary school ,Yadothakari Mada St, Chinna Kanchipuram South Facing East Side",
       "lat": 12.8246169,
-      "lng": 79.7134552
+      "lng": 79.7134552,
+      "comparison": {
+        "dmk_swing": -14.2,
+        "aiadmk_swing": 41.03,
+        "turnout_change": -9.26
+      }
     },
     {
       "booth_no": "272",
@@ -6536,7 +7894,12 @@
       "village": "Yadothakari Mada St",
       "building": "Yathothakari Municipal Primary school ,Yadothakari Mada St, Chinna Kanchipuram South Facing East Side",
       "lat": 12.8246169,
-      "lng": 79.7134552
+      "lng": 79.7134552,
+      "comparison": {
+        "dmk_swing": -2.17,
+        "aiadmk_swing": 27.75,
+        "turnout_change": -19.96
+      }
     },
     {
       "booth_no": "273",
@@ -6560,7 +7923,12 @@
       "village": "Yadothakari Mada St",
       "building": "Yathothakari Municipal Primary school ,Yadothakari Mada St, Chinna Kanchipuram East facing North Side",
       "lat": 12.8246169,
-      "lng": 79.7134552
+      "lng": 79.7134552,
+      "comparison": {
+        "dmk_swing": -5.17,
+        "aiadmk_swing": 38.1,
+        "turnout_change": -18.59
+      }
     },
     {
       "booth_no": "274",
@@ -6584,7 +7952,12 @@
       "village": "Yadothakari Mada St",
       "building": "Yathothakari Municipal Primary school ,Yadothakari Mada St, Chinna Kanchipuram East facing North Side",
       "lat": 12.8246169,
-      "lng": 79.7134552
+      "lng": 79.7134552,
+      "comparison": {
+        "dmk_swing": -12.2,
+        "aiadmk_swing": 36.97,
+        "turnout_change": 40.78
+      }
     },
     {
       "booth_no": "275",
@@ -6608,7 +7981,12 @@
       "village": "Chinna kancheepuram South Facing",
       "building": "CSI Primary School, T.K.Nambi Street, Chinna kancheepuram South Facing",
       "lat": 12.8230616,
-      "lng": 79.7146034
+      "lng": 79.7146034,
+      "comparison": {
+        "dmk_swing": -11.62,
+        "aiadmk_swing": 17.35,
+        "turnout_change": -15.7
+      }
     },
     {
       "booth_no": "276",
@@ -6632,7 +8010,12 @@
       "village": "Kanchipuram ICDS Centre",
       "building": "Municipal Primary school Yathothakari Mada veethy ,Kanchipuram ICDS Centre, South Facing",
       "lat": 12.8246169,
-      "lng": 79.7134552
+      "lng": 79.7134552,
+      "comparison": {
+        "dmk_swing": 0.59,
+        "aiadmk_swing": 7.5,
+        "turnout_change": 86.03
+      }
     },
     {
       "booth_no": "277",
@@ -6656,7 +8039,12 @@
       "village": "Kanchipuram East Side South Facing",
       "building": "Yagasalai Municipal Middle school ,Kanchipuram East Side South Facing",
       "lat": 12.8408823,
-      "lng": 79.7124992
+      "lng": 79.7124992,
+      "comparison": {
+        "dmk_swing": -19.84,
+        "aiadmk_swing": 27.24,
+        "turnout_change": 67.2
+      }
     },
     {
       "booth_no": "278",
@@ -6680,7 +8068,12 @@
       "village": "Kanchipuram North Side South Facing",
       "building": "Yagasalai Municipal Middle school ,Kanchipuram North Side South Facing",
       "lat": 12.8408823,
-      "lng": 79.7124992
+      "lng": 79.7124992,
+      "comparison": {
+        "dmk_swing": -7.65,
+        "aiadmk_swing": 24.58,
+        "turnout_change": -45.13
+      }
     },
     {
       "booth_no": "279",
@@ -6704,7 +8097,12 @@
       "village": "Kanchipuram North Side South Facing",
       "building": "Yagasalai Municipal Middle school ,Kanchipuram North Side South Facing",
       "lat": 12.8408823,
-      "lng": 79.7124992
+      "lng": 79.7124992,
+      "comparison": {
+        "dmk_swing": 0.12,
+        "aiadmk_swing": -2.46,
+        "turnout_change": 5.66
+      }
     },
     {
       "booth_no": "280",
@@ -6728,7 +8126,12 @@
       "village": "Kanchipuram South facing",
       "building": "Yagasalai Municipal Middle school ,Kanchipuram South facing",
       "lat": 12.8408823,
-      "lng": 79.7124992
+      "lng": 79.7124992,
+      "comparison": {
+        "dmk_swing": -8.85,
+        "aiadmk_swing": 7.49,
+        "turnout_change": 39.27
+      }
     },
     {
       "booth_no": "281",
@@ -6752,7 +8155,12 @@
       "village": "North Facing",
       "building": "Pachaiyappas Branch Middle School, North Facing, East Side",
       "lat": 12.8207385,
-      "lng": 79.716719
+      "lng": 79.716719,
+      "comparison": {
+        "dmk_swing": 11.47,
+        "aiadmk_swing": 16.62,
+        "turnout_change": 6.24
+      }
     },
     {
       "booth_no": "282",
@@ -6776,7 +8184,12 @@
       "village": "North Facing",
       "building": "Pachaiyappas Branch Middle School, North Facing, East Side",
       "lat": 12.8207385,
-      "lng": 79.716719
+      "lng": 79.716719,
+      "comparison": {
+        "dmk_swing": 23.87,
+        "aiadmk_swing": -1.98,
+        "turnout_change": -22.09
+      }
     },
     {
       "booth_no": "283",
@@ -6800,7 +8213,12 @@
       "village": "Room No",
       "building": "B.Missirilal Sowkar Government Girls Higher secondary school ,Room No.14, Kanchipuram, New Building East Facing West Side",
       "lat": 12.8135675,
-      "lng": 79.7275324
+      "lng": 79.7275324,
+      "comparison": {
+        "dmk_swing": 7.35,
+        "aiadmk_swing": -10.49,
+        "turnout_change": -1.27
+      }
     },
     {
       "booth_no": "284",
@@ -6824,7 +8242,12 @@
       "village": "Room No",
       "building": "B.Missirilal Sowkar Government Girls Higher secondary school ,Room No.14, Kanchipuram, New Building East Facing West Side",
       "lat": 12.8135675,
-      "lng": 79.7275324
+      "lng": 79.7275324,
+      "comparison": {
+        "dmk_swing": 3.3,
+        "aiadmk_swing": -4.75,
+        "turnout_change": -10.9
+      }
     },
     {
       "booth_no": "285",
@@ -6848,7 +8271,12 @@
       "village": "Room No",
       "building": "B.Missirilal Sowkar Government Girls Higher secondary school ,Room No.14, Kanchipuram New Building West Facing",
       "lat": 12.8135675,
-      "lng": 79.7275324
+      "lng": 79.7275324,
+      "comparison": {
+        "dmk_swing": 2.38,
+        "aiadmk_swing": -7.64,
+        "turnout_change": -23.63
+      }
     },
     {
       "booth_no": "286",
@@ -6872,7 +8300,12 @@
       "village": "Room No",
       "building": "B.Missirilal Sowkar Government Girls Higher secondary school ,Room No.14, Kanchipuram New Building West Facing",
       "lat": 12.8135675,
-      "lng": 79.7275324
+      "lng": 79.7275324,
+      "comparison": {
+        "dmk_swing": -7.33,
+        "aiadmk_swing": -1.14,
+        "turnout_change": 45.37
+      }
     },
     {
       "booth_no": "287",
@@ -6896,7 +8329,12 @@
       "village": "Kanchipuram Main Building East Facing Western wing North side",
       "building": "Municipal Sri Krishna nithi nadum Middle school ,Kanchipuram Main Building East Facing Western wing North side",
       "lat": 12.5105436,
-      "lng": 79.6090218
+      "lng": 79.6090218,
+      "comparison": {
+        "dmk_swing": 12.24,
+        "aiadmk_swing": -14.29,
+        "turnout_change": 108.33
+      }
     },
     {
       "booth_no": "288",
@@ -6920,7 +8358,12 @@
       "village": "Main Building East Facing Western wing North side",
       "building": "Municipal Sri Krishna nithi nadum Middle school, Main Building East Facing Western wing North side 6th Std, Kanchipuram - 631502",
       "lat": 12.8371787,
-      "lng": 79.7041698
+      "lng": 79.7041698,
+      "comparison": {
+        "dmk_swing": -4.54,
+        "aiadmk_swing": -8.04,
+        "turnout_change": 22.05
+      }
     },
     {
       "booth_no": "289",
@@ -6944,7 +8387,12 @@
       "village": "Kanchipuram",
       "building": "Municipal Sri Krishna nithi nadum Middle school ,Kanchipuram, New Building, West Facing South Side",
       "lat": 12.8196761,
-      "lng": 79.7204591
+      "lng": 79.7204591,
+      "comparison": {
+        "dmk_swing": -17.14,
+        "aiadmk_swing": 31.09,
+        "turnout_change": -24.15
+      }
     },
     {
       "booth_no": "290",
@@ -6968,7 +8416,12 @@
       "village": "Kanchipuram",
       "building": "Municipal Sri Krishna nithi nadum Middle school ,Kanchipuram, New Building, West Facing South Side",
       "lat": 12.8196761,
-      "lng": 79.7204591
+      "lng": 79.7204591,
+      "comparison": {
+        "dmk_swing": -8.74,
+        "aiadmk_swing": 23.83,
+        "turnout_change": 16.86
+      }
     },
     {
       "booth_no": "291",
@@ -6992,7 +8445,12 @@
       "village": "Kanchipuram Main Building East Facing Western wing North side",
       "building": "Municipal Sri Krishna nithi nadum Middle school ,Kanchipuram Main Building East Facing Western wing North side",
       "lat": 12.5105436,
-      "lng": 79.6090218
+      "lng": 79.6090218,
+      "comparison": {
+        "dmk_swing": -4.13,
+        "aiadmk_swing": -0.83,
+        "turnout_change": -77.59
+      }
     },
     {
       "booth_no": "292",
@@ -7016,7 +8474,12 @@
       "village": "Kancheepuram Main Building East Facing West wing South side",
       "building": "Municipal Sri Krishna Aided Middle school ,Kancheepuram Main Building East Facing West wing South side",
       "lat": 12.8181162,
-      "lng": 79.72397099999999
+      "lng": 79.72397099999999,
+      "comparison": {
+        "dmk_swing": 5.29,
+        "aiadmk_swing": -7.07,
+        "turnout_change": 43.77
+      }
     },
     {
       "booth_no": "293",
@@ -7040,7 +8503,12 @@
       "village": "Kanchipuram South side building North Facing East Side",
       "building": "B.Missirilal Sowkar Government Girls Higher secondary school ,Kanchipuram South side building North Facing East Side",
       "lat": 12.8853219,
-      "lng": 80.013119
+      "lng": 80.013119,
+      "comparison": {
+        "dmk_swing": 2.08,
+        "aiadmk_swing": -5.55,
+        "turnout_change": 106.61
+      }
     },
     {
       "booth_no": "294",
@@ -7064,7 +8532,12 @@
       "village": "Kanchipuram South side building North Facing East Side",
       "building": "B.Missirilal Sowkar Government Girls Higher secondary school ,Kanchipuram South side building North Facing East Side",
       "lat": 12.8853219,
-      "lng": 80.013119
+      "lng": 80.013119,
+      "comparison": {
+        "dmk_swing": 19.89,
+        "aiadmk_swing": -29.11,
+        "turnout_change": 73.49
+      }
     },
     {
       "booth_no": "295",
@@ -7088,7 +8561,12 @@
       "village": "Kanchipuram East Facing South Side Commerce Hall",
       "building": "B.Missirilal Sowkar Government Girls Higher secondary school ,Kanchipuram East Facing South Side Commerce Hall",
       "lat": 12.8372508,
-      "lng": 79.7041749
+      "lng": 79.7041749,
+      "comparison": {
+        "dmk_swing": 26.27,
+        "aiadmk_swing": -20.68,
+        "turnout_change": -28.02
+      }
     },
     {
       "booth_no": "296",
@@ -7112,7 +8590,12 @@
       "village": "Kanchipuram East Facing South Side Commerce Hall",
       "building": "B.Missirilal Sowkar Government Girls Higher secondary school ,Kanchipuram East Facing South Side Commerce Hall",
       "lat": 12.8372508,
-      "lng": 79.7041749
+      "lng": 79.7041749,
+      "comparison": {
+        "dmk_swing": 13.21,
+        "aiadmk_swing": -8.1,
+        "turnout_change": -57.6
+      }
     },
     {
       "booth_no": "297",
@@ -7136,7 +8619,12 @@
       "village": "Kanchipuram New building West Facing",
       "building": "B.Missirilal Sowkar Government Girls Higher secondary school ,Kanchipuram New building West Facing",
       "lat": 12.8853219,
-      "lng": 80.013119
+      "lng": 80.013119,
+      "comparison": {
+        "dmk_swing": 32.41,
+        "aiadmk_swing": -31.83,
+        "turnout_change": -16.67
+      }
     },
     {
       "booth_no": "298",
@@ -7160,7 +8648,12 @@
       "village": "Kanchipuram New building West Facing",
       "building": "B.Missirilal Sowkar Government Girls Higher secondary school ,Kanchipuram New building West Facing",
       "lat": 12.8853219,
-      "lng": 80.013119
+      "lng": 80.013119,
+      "comparison": {
+        "dmk_swing": 10.41,
+        "aiadmk_swing": -15.51,
+        "turnout_change": -26.67
+      }
     },
     {
       "booth_no": "299",
@@ -7184,7 +8677,12 @@
       "village": "Kanchipuram East Facing South side",
       "building": "North mada Municipal Primary school ,Kanchipuram East Facing South side",
       "lat": 12.8408823,
-      "lng": 79.7124992
+      "lng": 79.7124992,
+      "comparison": {
+        "dmk_swing": 7.64,
+        "aiadmk_swing": -15.12,
+        "turnout_change": 5.67
+      }
     },
     {
       "booth_no": "300",
@@ -7208,7 +8706,12 @@
       "village": "Kanchipuram East Facing North side",
       "building": "North mada Municipal Primary school ,Kanchipuram East Facing North side",
       "lat": 12.8408823,
-      "lng": 79.7124992
+      "lng": 79.7124992,
+      "comparison": {
+        "dmk_swing": 4.25,
+        "aiadmk_swing": -7.84,
+        "turnout_change": 18.86
+      }
     },
     {
       "booth_no": "301",
@@ -7232,7 +8735,12 @@
       "village": "Kanchipuram East Facing North side",
       "building": "North mada Municipal Primary school ,Kanchipuram East Facing North side",
       "lat": 12.8408823,
-      "lng": 79.7124992
+      "lng": 79.7124992,
+      "comparison": {
+        "dmk_swing": 27.52,
+        "aiadmk_swing": -33.94,
+        "turnout_change": -27.84
+      }
     },
     {
       "booth_no": "302",
@@ -7256,7 +8764,12 @@
       "village": "Kanchipuram East Facing",
       "building": "North mada Municipal Primary school ,Kanchipuram East Facing",
       "lat": 12.8408823,
-      "lng": 79.7124992
+      "lng": 79.7124992,
+      "comparison": {
+        "dmk_swing": 23.95,
+        "aiadmk_swing": -24.84,
+        "turnout_change": -43.2
+      }
     },
     {
       "booth_no": "303",
@@ -7280,7 +8793,12 @@
       "village": "Kanchipuram Pattala St North Face",
       "building": "Municipal Primary school ,Kanchipuram Pattala St North Face",
       "lat": 12.8183138,
-      "lng": 79.7292805
+      "lng": 79.7292805,
+      "comparison": {
+        "dmk_swing": 6.5,
+        "aiadmk_swing": -0.83,
+        "turnout_change": -39.19
+      }
     },
     {
       "booth_no": "304",
@@ -7304,7 +8822,12 @@
       "village": "Pattala St",
       "building": "Municipal Middle school , Pattala St, Kanchipuram East Facing",
       "lat": 12.8408823,
-      "lng": 79.7124992
+      "lng": 79.7124992,
+      "comparison": {
+        "dmk_swing": 3.17,
+        "aiadmk_swing": 5.86,
+        "turnout_change": 99.78
+      }
     },
     {
       "booth_no": "305",
@@ -7328,7 +8851,12 @@
       "village": "Kanchipuram Pattala St East Face North Side",
       "building": "Municipal Primary school ,Kanchipuram Pattala St East Face North Side",
       "lat": 12.8183138,
-      "lng": 79.7292805
+      "lng": 79.7292805,
+      "comparison": {
+        "dmk_swing": -11.36,
+        "aiadmk_swing": 16.62,
+        "turnout_change": 57.75
+      }
     },
     {
       "booth_no": "306",
@@ -7352,7 +8880,12 @@
       "village": "Putheri Periya Mettu Street",
       "building": "Panchayat Union Primary School ,Putheri Periya Mettu Street (East Side Building) North Facing",
       "lat": 12.8401541,
-      "lng": 79.678418
+      "lng": 79.678418,
+      "comparison": {
+        "dmk_swing": 8.23,
+        "aiadmk_swing": -6.88,
+        "turnout_change": 32.62
+      }
     },
     {
       "booth_no": "307",
@@ -7376,7 +8909,12 @@
       "village": "Putheri Periya Mettu Street West Side Building East facing",
       "building": "Panchayat Union Primary School ,Putheri Periya Mettu Street West Side Building East facing",
       "lat": 12.8401541,
-      "lng": 79.678418
+      "lng": 79.678418,
+      "comparison": {
+        "dmk_swing": 9.38,
+        "aiadmk_swing": -3.69,
+        "turnout_change": 54.92
+      }
     },
     {
       "booth_no": "308",
@@ -7400,7 +8938,12 @@
       "village": "Mettu colony Putheri East facing",
       "building": "Panchayat Union Primary School, Mettu colony Putheri East facing",
       "lat": 12.9262752,
-      "lng": 79.695529
+      "lng": 79.695529,
+      "comparison": {
+        "dmk_swing": -4.02,
+        "aiadmk_swing": -2.88,
+        "turnout_change": -15.82
+      }
     },
     {
       "booth_no": "309",
@@ -7424,7 +8967,12 @@
       "village": "Putheri West Building East Facing",
       "building": "Panchayat Union Anganvadi Maiyam, Putheri West Building East Facing",
       "lat": 12.8326798,
-      "lng": 79.6823902
+      "lng": 79.6823902,
+      "comparison": {
+        "dmk_swing": 15.68,
+        "aiadmk_swing": -7.33,
+        "turnout_change": 46.68
+      }
     },
     {
       "booth_no": "310",
@@ -7448,7 +8996,12 @@
       "village": "",
       "building": "Panchayat Union Middle school ,J.J Nagar Sirukaveripakkam East Part South facing",
       "lat": 12.8205083,
-      "lng": 79.7029088
+      "lng": 79.7029088,
+      "comparison": {
+        "dmk_swing": 26.03,
+        "aiadmk_swing": 9.73,
+        "turnout_change": 14.81
+      }
     },
     {
       "booth_no": "311",
@@ -7472,7 +9025,12 @@
       "village": "Sirukaveripakkam North Side South facing",
       "building": "Panchayat Union Middle school ,Sirukaveripakkam North Side South facing",
       "lat": 12.8205083,
-      "lng": 79.7029088
+      "lng": 79.7029088,
+      "comparison": {
+        "dmk_swing": 6.01,
+        "aiadmk_swing": -9.28,
+        "turnout_change": 25.99
+      }
     },
     {
       "booth_no": "312",
@@ -7496,7 +9054,12 @@
       "village": "Sirukaveripakkam West Part South facing",
       "building": "Panchayat Union Middle school ,Sirukaveripakkam West Part South facing",
       "lat": 12.8205083,
-      "lng": 79.7029088
+      "lng": 79.7029088,
+      "comparison": {
+        "dmk_swing": 3.53,
+        "aiadmk_swing": 5.94,
+        "turnout_change": -8.8
+      }
     },
     {
       "booth_no": "313",
@@ -7520,7 +9083,12 @@
       "village": "North Facing",
       "building": "Panchayat Union Middle School , North Facing 6th Std, Sirukaveripakkam-631502",
       "lat": 12.8205083,
-      "lng": 79.7029088
+      "lng": 79.7029088,
+      "comparison": {
+        "dmk_swing": 14.98,
+        "aiadmk_swing": 3.01,
+        "turnout_change": -2.94
+      }
     },
     {
       "booth_no": "314",
@@ -7544,7 +9112,12 @@
       "village": "North Facing",
       "building": "Panchayat Union Middle School, North Facing 7th Std, Sirukaveripakkam -631502",
       "lat": 12.8205083,
-      "lng": 79.7029088
+      "lng": 79.7029088,
+      "comparison": {
+        "dmk_swing": 2.34,
+        "aiadmk_swing": 8.33,
+        "turnout_change": -47.2
+      }
     },
     {
       "booth_no": "315",
@@ -7568,7 +9141,12 @@
       "village": "North Facing",
       "building": "Panchayat Union Middle School, North Facing 8th Std, Sirukaveripakkam-631502",
       "lat": 12.8205083,
-      "lng": 79.7029088
+      "lng": 79.7029088,
+      "comparison": {
+        "dmk_swing": 2.48,
+        "aiadmk_swing": 31.45,
+        "turnout_change": 40.95
+      }
     },
     {
       "booth_no": "316",

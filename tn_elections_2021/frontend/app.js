@@ -85,6 +85,7 @@ function showDistrictOverview(fromPopstate = false) {
     document.getElementById('booth-analysis').style.display = 'none';
     document.getElementById('back-btn').style.display = 'none';
     document.getElementById('area-selector').style.display = 'none';
+    document.getElementById('mode-selector').style.display = 'none';
 
     // Reset subtitle
     document.getElementById('header-subtitle').textContent = 'Kanchipuram District';
@@ -370,6 +371,10 @@ function computeGeohashAreas() {
         } else {
             area.category = 'swing';
         }
+
+        // Add average swings for comparison mode
+        area.avg_dmk_swing = area.booths.reduce((sum, b) => sum + (b.comparison?.dmk_swing || 0), 0) / area.booths.length;
+        area.avg_aiadmk_swing = area.booths.reduce((sum, b) => sum + (b.comparison?.aiadmk_swing || 0), 0) / area.booths.length;
     });
 }
 
@@ -393,26 +398,37 @@ function renderGeohashAreas() {
         if (!area) return;
 
         const bounds = area.bounds;
+        const color = COLORS[area.category.replace('strong-', '')];
         const polygon = L.rectangle(
             [[bounds[0], bounds[1]], [bounds[2], bounds[3]]],
             {
-                className: `geohash - area ${area.category} `,
-                color: COLORS[area.category.replace('strong-', '')],
-                fillColor: COLORS[area.category.replace('strong-', '')],
+                className: `geohash-area ${area.category}`,
+                color: color,
+                fillColor: color,
                 fillOpacity: 0.3,
                 weight: 2
             }
         );
 
-        polygon.bindPopup(`
-        < div style = "font-size: 0.875rem;" >
-                <strong>${getCategoryLabel(area.category)}</strong><br>
+        let popupContent = `
+            <div style="font-size: 0.875rem;">
+                <strong>2021: ${getCategoryLabel(area.category)}</strong><br>
                 Booths: ${area.booths.length}<br>
                 DMK: ${area.dmk_votes.toLocaleString()}<br>
                 ADMK: ${area.aiadmk_votes.toLocaleString()}<br>
-                Others: ${area.others_votes.toLocaleString()}
-            </div>
-        `);
+        `;
+
+        if (area.avg_dmk_swing !== undefined) {
+            popupContent += `
+                 <hr style="margin: 5px 0; border: 0; border-top: 1px solid var(--border-color);">
+                 <strong>16-21 Comparison:</strong><br>
+                 Avg DMK Swing: <span style="color: ${area.avg_dmk_swing > 0 ? 'var(--dmk-color)' : 'inherit'}">${area.avg_dmk_swing > 0 ? '+' : ''}${area.avg_dmk_swing.toFixed(2)}%</span><br>
+                 Avg Turnout Δ: ${area.avg_turnout_change > 0 ? '+' : ''}${area.avg_turnout_change.toFixed(2)}%
+             `;
+        }
+        popupContent += '</div>';
+
+        polygon.bindPopup(popupContent);
 
         polygon.on('click', () => filterByGeohash(hash));
 
@@ -477,15 +493,17 @@ function renderTable() {
         if (booth.lat && booth.lng) {
             locationHTML += `<br><small style="color: var(--text-muted);">📍 ${booth.lat.toFixed(4)}, ${booth.lng.toFixed(4)}</small>`;
         }
-        if (booth.building) {
-            locationHTML += `<br><small style="color: var(--text-muted);">🏫 ${booth.building.substring(0, 40)}${booth.building.length > 40 ? '...' : ''}</small>`;
-        }
+
+        // Unified Table Row
+        const comp = booth.comparison || {};
+        const dmkSwing = comp.dmk_swing !== undefined ? ` <small style="color: ${comp.dmk_swing > 0 ? 'var(--dmk-color)' : 'var(--text-muted)'}">(${comp.dmk_swing > 0 ? '+' : ''}${comp.dmk_swing}%)</small>` : '';
+        const admkSwing = comp.aiadmk_swing !== undefined ? ` <small style="color: ${comp.aiadmk_swing > 0 ? 'var(--aiadmk-color)' : 'var(--text-muted)'}">(${comp.aiadmk_swing > 0 ? '+' : ''}${comp.aiadmk_swing}%)</small>` : '';
 
         row.innerHTML = `
             <td><strong>${booth.booth_no}</strong></td>
             <td>${locationHTML}</td>
-            <td class="vote-count">${(booth.dmk_votes || 0).toLocaleString()}</td>
-            <td class="vote-count">${(booth.aiadmk_votes || 0).toLocaleString()}</td>
+            <td class="vote-count">${(booth.dmk_votes || 0).toLocaleString()}${dmkSwing}</td>
+            <td class="vote-count">${(booth.aiadmk_votes || 0).toLocaleString()}${admkSwing}</td>
             <td class="vote-count">${(booth.others_votes || 0).toLocaleString()}</td>
             <td><span class="category-badge ${booth.category_simple}">${getCategoryLabel(booth.category_simple)}</span></td>
         `;
@@ -569,7 +587,6 @@ function applyFilters() {
 // Stats Update
 // ===========================
 function updateStats() {
-    // Stats should always show total counts from allBooths, not filtered
     const strongDmk = allBooths.filter(b => b.category_simple === 'strong-dmk').length;
     const strongAdmk = allBooths.filter(b => b.category_simple === 'strong-admk').length;
     const swing = allBooths.filter(b => b.category_simple === 'swing').length;
@@ -577,6 +594,18 @@ function updateStats() {
     document.getElementById('dmk-won').textContent = strongDmk;
     document.getElementById('aiadmk-won').textContent = strongAdmk;
     document.getElementById('swing-count').textContent = swing;
+
+    // Unified Labels with Swing Context
+    const summary = currentConstituency?.summary || {};
+    if (summary.avg_dmk_swing !== undefined) {
+        document.querySelectorAll('.stat-card.dmk .stat-label')[0].innerHTML = `Strong DMK <small style="display:block; opacity:0.8;">Avg Swing: ${summary.avg_dmk_swing > 0 ? '+' : ''}${summary.avg_dmk_swing.toFixed(1)}%</small>`;
+        document.querySelectorAll('.stat-card.aiadmk .stat-label')[0].innerHTML = `Strong ADMK <small style="display:block; opacity:0.8;">Avg Swing: ${summary.avg_aiadmk_swing > 0 ? '+' : ''}${summary.avg_aiadmk_swing.toFixed(1)}%</small>`;
+        document.querySelectorAll('.stat-card.swing .stat-label')[0].innerHTML = `Swing <small style="display:block; opacity:0.8;">Turnout: ${summary.avg_turnout_change > 0 ? '+' : ''}${summary.avg_turnout_change.toFixed(1)}%</small>`;
+    } else {
+        document.querySelectorAll('.stat-card.dmk .stat-label')[0].textContent = 'Strong DMK';
+        document.querySelectorAll('.stat-card.aiadmk .stat-label')[0].textContent = 'Strong ADMK';
+        document.querySelectorAll('.stat-card.swing .stat-label')[0].textContent = 'Swing';
+    }
 
     // Total booths always shows constituency total
     document.getElementById('total-booths').textContent = currentConstituency?.summary.total_booths || allBooths.length;

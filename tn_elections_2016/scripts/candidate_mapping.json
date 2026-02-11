@@ -1,0 +1,49 @@
+{
+    "AC036": {
+        "name": "Uthiramerur",
+        "2016": {
+            "AIADMK": "candidate_2",
+            "DMK": "candidate_3",
+            "PMK": "candidate_8"
+        },
+        "2021": {
+            "AIADMK": "candidate_3_ARTENNUM MAGAHZAK AI",
+            "DMK": "candidate_1_ARTENNUM MAGAHZAK AD"
+        }
+    },
+    "AC037": {
+        "name": "Kancheepuram",
+        "2016": {
+            "DMK": "candidate_1",
+            "AIADMK": "candidate_4",
+            "PMK": "candidate_8"
+        },
+        "2021": {
+            "DMK": "candidate_1_ARTENNUM MAGAHZAK AD",
+            "AIADMK": "candidate_5_ILATTAP LAKKAM IHCTA"
+        }
+    },
+    "AC029": {
+        "name": "Sriperumbudur",
+        "2016": {
+            "INC": "candidate_2",
+            "AIADMK": "candidate_3",
+            "PMK": "candidate_6"
+        },
+        "2021": {
+            "DMK": "candidate_1_LANOITAN SSERGNOC NA",
+            "AIADMK": "candidate_2_ARTENNUM ANNA MAGAHZ"
+        }
+    },
+    "AC028": {
+        "name": "Alandur",
+        "2016": {
+            "DMK": "candidate_1",
+            "AIADMK": "candidate_2"
+        },
+        "2021": {
+            "DMK": "candidate_1_magahzaK artennuM ad",
+            "AIADMK": "candidate_2_annA magahzaK artenn"
+        }
+    }
+}

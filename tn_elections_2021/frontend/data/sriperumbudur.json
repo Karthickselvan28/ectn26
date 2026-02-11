@@ -7,7 +7,10 @@
     "aiadmk_won": 211,
     "swing": 109,
     "lean": 108,
-    "strong": 295
+    "strong": 295,
+    "avg_dmk_swing": 4.955666666666667,
+    "avg_aiadmk_swing": -2.751242424242424,
+    "avg_turnout_change": 11.205303030303034
   },
   "booths": [
     {
@@ -31,7 +34,12 @@
       "village": "",
       "building": "",
       "lat": null,
-      "lng": null
+      "lng": null,
+      "comparison": {
+        "dmk_swing": 12.39,
+        "aiadmk_swing": -18.16,
+        "turnout_change": -0.34
+      }
     },
     {
       "booth_no": "2",
@@ -54,7 +62,12 @@
       "village": "",
       "building": "",
       "lat": null,
-      "lng": null
+      "lng": null,
+      "comparison": {
+        "dmk_swing": 12.73,
+        "aiadmk_swing": 3.06,
+        "turnout_change": 6.53
+      }
     },
     {
       "booth_no": "3",
@@ -77,7 +90,12 @@
       "village": "East Facing",
       "building": "Panchayat Union Primary School, East Facing, South Wing, Pitchivakkam-631553",
       "lat": 13.0080754,
-      "lng": 79.7581834
+      "lng": 79.7581834,
+      "comparison": {
+        "dmk_swing": 10.22,
+        "aiadmk_swing": 21.95,
+        "turnout_change": 4.02
+      }
     },
     {
       "booth_no": "4",
@@ -100,7 +118,12 @@
       "village": "North Building",
       "building": "Panchayat Union Primary School, North Building, South Facing, Pattumudayar Kuppam-631553",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 9.88,
+        "aiadmk_swing": 26.87,
+        "turnout_change": 0.81
+      }
     },
     {
       "booth_no": "5",
@@ -123,7 +146,12 @@
       "village": "New Building",
       "building": "Panchayat Union Primary School, New Building, South Facing, East Room, Sivapuram - 631553",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 6.77,
+        "aiadmk_swing": 21.28,
+        "turnout_change": 2.15
+      }
     },
     {
       "booth_no": "6",
@@ -146,7 +174,12 @@
       "village": "New Building",
       "building": "Panchayat Union Primary School, New Building, South Facing, East Room, Sivapuram - 631553",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 6.19,
+        "aiadmk_swing": 14.31,
+        "turnout_change": -6.72
+      }
     },
     {
       "booth_no": "7",
@@ -169,7 +202,12 @@
       "village": "South Facing",
       "building": "Panchayat Union Middle School, South Facing, North Building, West Side, Orakada Magadevi Mangalam-631553",
       "lat": 12.8897441,
-      "lng": 79.7933838
+      "lng": 79.7933838,
+      "comparison": {
+        "dmk_swing": -5.76,
+        "aiadmk_swing": 24.19,
+        "turnout_change": 3.34
+      }
     },
     {
       "booth_no": "8",
@@ -192,7 +230,12 @@
       "village": "South Facing",
       "building": "Panchayat Union Middle School, South Facing, North Building, West Side, Orakada Magadevi Mangalam-631553",
       "lat": 12.8897441,
-      "lng": 79.7933838
+      "lng": 79.7933838,
+      "comparison": {
+        "dmk_swing": 5.68,
+        "aiadmk_swing": -7.26,
+        "turnout_change": -0.5
+      }
     },
     {
       "booth_no": "9",
@@ -215,7 +258,12 @@
       "village": "South Facing",
       "building": "Panchayat Union Primary School, South Facing, West Side, New Building, Kandivakkam-631553",
       "lat": 13.0060871,
-      "lng": 79.7891626
+      "lng": 79.7891626,
+      "comparison": {
+        "dmk_swing": 1.01,
+        "aiadmk_swing": -10.59,
+        "turnout_change": 2.44
+      }
     },
     {
       "booth_no": "10",
@@ -238,7 +286,12 @@
       "village": "South Facing",
       "building": "Panchayat Union Primary School, South Facing, East Side, New Building, Kandivakkam-631553",
       "lat": 13.0060871,
-      "lng": 79.7891626
+      "lng": 79.7891626,
+      "comparison": {
+        "dmk_swing": 1.87,
+        "aiadmk_swing": 4.6,
+        "turnout_change": -4.3
+      }
     },
     {
       "booth_no": "11",
@@ -261,7 +314,12 @@
       "village": "North Building",
       "building": "R.C.M. High School, North Building, South Facing, West Side, Chellampattadai- 631553",
       "lat": 12.9924975,
-      "lng": 79.8087025
+      "lng": 79.8087025,
+      "comparison": {
+        "dmk_swing": 7.5,
+        "aiadmk_swing": -7.54,
+        "turnout_change": 29.8
+      }
     },
     {
       "booth_no": "12",
@@ -284,7 +342,12 @@
       "village": "North Building",
       "building": "R.C.M. High School, North Building, South Facing, East Side, Chellampattadai-631553",
       "lat": 12.9924975,
-      "lng": 79.8087025
+      "lng": 79.8087025,
+      "comparison": {
+        "dmk_swing": 3.61,
+        "aiadmk_swing": 44.72,
+        "turnout_change": 3.41
+      }
     },
     {
       "booth_no": "13",
@@ -307,7 +370,12 @@
       "village": "West Building",
       "building": "Government High School, West Building, East Facing, Center Room, Edaiyarpakkam- 631553",
       "lat": 12.9863456,
-      "lng": 79.8021806
+      "lng": 79.8021806,
+      "comparison": {
+        "dmk_swing": 6.68,
+        "aiadmk_swing": 13.05,
+        "turnout_change": 2.94
+      }
     },
     {
       "booth_no": "14",
@@ -330,7 +398,12 @@
       "village": "West Building",
       "building": "Government High School, West Building, East Facing, Center Room, Edaiyarpakkam- 631553",
       "lat": 12.9863456,
-      "lng": 79.8021806
+      "lng": 79.8021806,
+      "comparison": {
+        "dmk_swing": 2.5,
+        "aiadmk_swing": 39.78,
+        "turnout_change": -2.94
+      }
     },
     {
       "booth_no": "15",
@@ -353,7 +426,12 @@
       "village": "West Building",
       "building": "Government High School, West Building, East Facing, North Side Room, Edaiyarpakkam-631553",
       "lat": 12.9863456,
-      "lng": 79.8021806
+      "lng": 79.8021806,
+      "comparison": {
+        "dmk_swing": -0.78,
+        "aiadmk_swing": 6.65,
+        "turnout_change": -0.39
+      }
     },
     {
       "booth_no": "16",
@@ -376,7 +454,12 @@
       "village": "East Building",
       "building": "Panchayat Union Primary School, East Building, West Facing, Gunagarambakkam- 631553",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": -4.3,
+        "aiadmk_swing": 2.77,
+        "turnout_change": 7.35
+      }
     },
     {
       "booth_no": "17",
@@ -399,7 +482,12 @@
       "village": "New Building",
       "building": "Panchayat Union Primary School, New Building, West Facing, South Side, Gunagarambakkam-631553",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 7.1,
+        "aiadmk_swing": 17.81,
+        "turnout_change": 3.59
+      }
     },
     {
       "booth_no": "18",
@@ -422,7 +510,12 @@
       "village": "North West Building",
       "building": "Panchayat Union Middle School, North West Building, South Facing, Eganapuram- 631553",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": 11.14,
+        "aiadmk_swing": -9.75,
+        "turnout_change": 9.02
+      }
     },
     {
       "booth_no": "19",
@@ -445,7 +538,12 @@
       "village": "Southwest Building",
       "building": "Panchayat Union Middle School, Southwest Building, North Facing, Eganapuram- 631553",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": -19.25,
+        "aiadmk_swing": 17.36,
+        "turnout_change": -35.98
+      }
     },
     {
       "booth_no": "20",
@@ -468,7 +566,12 @@
       "village": "New Building",
       "building": "Panchayat Union Primary School, New Building, South Facing, Akkamapuram - 631563",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": -0.3,
+        "aiadmk_swing": 30.38,
+        "turnout_change": 5.72
+      }
     },
     {
       "booth_no": "21",
@@ -491,7 +594,12 @@
       "village": "North Building",
       "building": "Panchayat Union Primary School, North Building, West Facing, South Side, Singlipadi-631553",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": -4.19,
+        "aiadmk_swing": 28.32,
+        "turnout_change": -8.52
+      }
     },
     {
       "booth_no": "22",
@@ -514,7 +622,12 @@
       "village": "East Building West Facing Kannanthangal",
       "building": "Panchayt Union Primary School, East Building West Facing Kannanthangal",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 3.16,
+        "aiadmk_swing": 21.88,
+        "turnout_change": 28.99
+      }
     },
     {
       "booth_no": "23",
@@ -537,7 +650,12 @@
       "village": "New Building",
       "building": "Panchayat Union Primary School, New Building, South Building, North Facing, West Wing, Maduramangalam.",
       "lat": 12.9521654,
-      "lng": 79.8142658
+      "lng": 79.8142658,
+      "comparison": {
+        "dmk_swing": 26.66,
+        "aiadmk_swing": -6.33,
+        "turnout_change": 53.87
+      }
     },
     {
       "booth_no": "24",
@@ -560,7 +678,12 @@
       "village": "New Building",
       "building": "Panchayat Union Primary School, New Building, South Building, North Facing, East Wing, Maduramangalam-602108",
       "lat": 12.9521654,
-      "lng": 79.8142658
+      "lng": 79.8142658,
+      "comparison": {
+        "dmk_swing": -0.15,
+        "aiadmk_swing": 21.82,
+        "turnout_change": 2.48
+      }
     },
     {
       "booth_no": "25",
@@ -583,7 +706,12 @@
       "village": "South Side Building",
       "building": "Panchayat Union Primary School, South Side Building, North Facing, East Wing, Kaandhur-602108",
       "lat": 12.9450007,
-      "lng": 79.85157009999999
+      "lng": 79.85157009999999,
+      "comparison": {
+        "dmk_swing": -2.66,
+        "aiadmk_swing": 48.19,
+        "turnout_change": 10.57
+      }
     },
     {
       "booth_no": "26",
@@ -606,7 +734,12 @@
       "village": "North Building",
       "building": "Panchayat Union Primary School, North Building, South Facing, New Building, Kandhur-602108",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 5.38,
+        "aiadmk_swing": 20.13,
+        "turnout_change": -41.0
+      }
     },
     {
       "booth_no": "27",
@@ -629,7 +762,12 @@
       "village": "West Builing",
       "building": "Panchayat Union Primary School, West Builing, East Facing, Mel Maduramangalam",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": -0.3,
+        "aiadmk_swing": 16.86,
+        "turnout_change": 37.32
+      }
     },
     {
       "booth_no": "28",
@@ -652,7 +790,12 @@
       "village": "West Builing",
       "building": "Panchayat Union Primary School, West Builing, East Facing, Mel Maduramangalam",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 6.37,
+        "aiadmk_swing": 11.24,
+        "turnout_change": -51.5
+      }
     },
     {
       "booth_no": "29",
@@ -675,7 +818,12 @@
       "village": "North Building",
       "building": "Panchayat union Primary School, North Building, South Facing, Ramanujapuram.",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 16.66,
+        "aiadmk_swing": 7.71,
+        "turnout_change": 423.74
+      }
     },
     {
       "booth_no": "30",
@@ -698,7 +846,12 @@
       "village": "North Building",
       "building": "Panchayat union Primary School, North Building, South Facing, Ramanujapuram.",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": -26.21,
+        "aiadmk_swing": 21.36,
+        "turnout_change": -60.95
+      }
     },
     {
       "booth_no": "31",
@@ -721,7 +874,12 @@
       "village": "East Facing",
       "building": "Government High School, East Facing, West Building, Keeranallur-602108",
       "lat": 12.9677068,
-      "lng": 79.9429916
+      "lng": 79.9429916,
+      "comparison": {
+        "dmk_swing": 13.74,
+        "aiadmk_swing": -11.92,
+        "turnout_change": -3.57
+      }
     },
     {
       "booth_no": "32",
@@ -744,7 +902,12 @@
       "village": "East Building",
       "building": "Panchayat Union Primary School, East Building, West Facing, South Side, Selvazhimangalam-602106",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 4.62,
+        "aiadmk_swing": -6.21,
+        "turnout_change": 28.34
+      }
     },
     {
       "booth_no": "33",
@@ -767,7 +930,12 @@
       "village": "East Building",
       "building": "Panchayat Union Primary School , East Building, West Facing, Senthamangalam.",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 13.49,
+        "aiadmk_swing": -14.1,
+        "turnout_change": -25.13
+      }
     },
     {
       "booth_no": "34",
@@ -790,7 +958,12 @@
       "village": "East Building",
       "building": "Panchayat Union Primary School, East Building, West Facing, Pappankuzhi- 602106",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 5.88,
+        "aiadmk_swing": -13.64,
+        "turnout_change": -15.74
+      }
     },
     {
       "booth_no": "35",
@@ -813,7 +986,12 @@
       "village": "West Building",
       "building": "Panchayat Union Middle School, West Building(new building), East Facing, Podavoor",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": 1.81,
+        "aiadmk_swing": -11.96,
+        "turnout_change": 133.41
+      }
     },
     {
       "booth_no": "36",
@@ -836,7 +1014,12 @@
       "village": "West Building",
       "building": "Panchayat Union Middle School, West Building(new building), East Facing, Podavoor",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": 12.14,
+        "aiadmk_swing": -13.11,
+        "turnout_change": -28.06
+      }
     },
     {
       "booth_no": "37",
@@ -859,7 +1042,12 @@
       "village": "South Building",
       "building": "Government Higher Secondary School, South Building, North Facing, East Side, Molachur-602106",
       "lat": 12.9677068,
-      "lng": 79.9429916
+      "lng": 79.9429916,
+      "comparison": {
+        "dmk_swing": -6.26,
+        "aiadmk_swing": 13.91,
+        "turnout_change": 0.72
+      }
     },
     {
       "booth_no": "38",
@@ -882,7 +1070,12 @@
       "village": "East Building",
       "building": "Government Higher Secondary School, East Building, West Facing, South Wing, Molachur-602106",
       "lat": 12.9677068,
-      "lng": 79.9429916
+      "lng": 79.9429916,
+      "comparison": {
+        "dmk_swing": 1.88,
+        "aiadmk_swing": 0.26,
+        "turnout_change": -12.14
+      }
     },
     {
       "booth_no": "39",
@@ -905,7 +1098,12 @@
       "village": "East Building",
       "building": "Government Higher Secondary School, East Building, West Facing, North Wing, Molachur-602106",
       "lat": 12.9677068,
-      "lng": 79.9429916
+      "lng": 79.9429916,
+      "comparison": {
+        "dmk_swing": 25.32,
+        "aiadmk_swing": 16.1,
+        "turnout_change": -27.19
+      }
     },
     {
       "booth_no": "40",
@@ -928,7 +1126,12 @@
       "village": "North Building",
       "building": "Government Higher Secondary School, North Building, South Facing, West Wing, Molachur-602106",
       "lat": 12.9677068,
-      "lng": 79.9429916
+      "lng": 79.9429916,
+      "comparison": {
+        "dmk_swing": -6.77,
+        "aiadmk_swing": 14.96,
+        "turnout_change": 341.6
+      }
     },
     {
       "booth_no": "41",
@@ -951,7 +1154,12 @@
       "village": "North Building",
       "building": "Government Higher Secondary School, North Building, South Facing, Center Wing, Molachur-602106",
       "lat": 12.9677068,
-      "lng": 79.9429916
+      "lng": 79.9429916,
+      "comparison": {
+        "dmk_swing": 6.74,
+        "aiadmk_swing": 4.79,
+        "turnout_change": -70.46
+      }
     },
     {
       "booth_no": "42",
@@ -974,7 +1182,12 @@
       "village": "East side Building",
       "building": "Panchayat Union Primay School, East side Building, West facing, North wing, Molachur-602106",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": -3.04,
+        "aiadmk_swing": 23.25,
+        "turnout_change": -9.75
+      }
     },
     {
       "booth_no": "43",
@@ -997,7 +1210,12 @@
       "village": "East side Building",
       "building": "Panchayat Union Primay School, East side Building, West facing, North wing, Molachur-602106",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 7.37,
+        "aiadmk_swing": 11.62,
+        "turnout_change": 63.75
+      }
     },
     {
       "booth_no": "44",
@@ -1020,7 +1238,12 @@
       "village": "North Facing",
       "building": "Panchayat Union Primary School, North Facing, South Building, West Side, Molachur-602106",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 10.54,
+        "aiadmk_swing": 21.03,
+        "turnout_change": -9.36
+      }
     },
     {
       "booth_no": "45",
@@ -1043,7 +1266,12 @@
       "village": "North Facing",
       "building": "Panchayat Union Primary School, North Facing, South Building, East Side, Molachur-602106",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 2.4,
+        "aiadmk_swing": 27.42,
+        "turnout_change": -9.4
+      }
     },
     {
       "booth_no": "46",
@@ -1066,7 +1294,12 @@
       "village": "New Building",
       "building": "Panchayat Union Primary School, New Building, West Facing, South Side, Sogandy-602106",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": -12.15,
+        "aiadmk_swing": 23.43,
+        "turnout_change": 11.19
+      }
     },
     {
       "booth_no": "47",
@@ -1089,7 +1322,12 @@
       "village": "New Building",
       "building": "Panchayat Union Primary School, New Building, West Facing, North Side, Sogandy - 602106",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 7.69,
+        "aiadmk_swing": 7.65,
+        "turnout_change": 12.1
+      }
     },
     {
       "booth_no": "48",
@@ -1112,7 +1350,12 @@
       "village": "Southwest Building",
       "building": "Panchayat Union Primary School, Southwest Building, North Facing, Santhavellore-602106",
       "lat": 12.9149212,
-      "lng": 79.8611832
+      "lng": 79.8611832,
+      "comparison": {
+        "dmk_swing": 15.75,
+        "aiadmk_swing": 16.04,
+        "turnout_change": -19.66
+      }
     },
     {
       "booth_no": "49",
@@ -1135,7 +1378,12 @@
       "village": "Southwest Building",
       "building": "Panchayat Union Primary School, Southwest Building, North Facing, Santhavellore-602106",
       "lat": 12.9149212,
-      "lng": 79.8611832
+      "lng": 79.8611832,
+      "comparison": {
+        "dmk_swing": 6.45,
+        "aiadmk_swing": 9.14,
+        "turnout_change": 31.52
+      }
     },
     {
       "booth_no": "50",
@@ -1158,7 +1406,12 @@
       "village": "Southwest New Building",
       "building": "Panchayat Union Primary School, Southwest New Building, North Facing, Santhavellore-602106",
       "lat": 12.9149212,
-      "lng": 79.8611832
+      "lng": 79.8611832,
+      "comparison": {
+        "dmk_swing": 8.45,
+        "aiadmk_swing": 11.62,
+        "turnout_change": 19.44
+      }
     },
     {
       "booth_no": "51",
@@ -1181,7 +1434,12 @@
       "village": "West New Building",
       "building": "Panchayat Union Primary School, West New Building, East Facing, Santhavellore- 602106",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 10.39,
+        "aiadmk_swing": -2.13,
+        "turnout_change": -17.71
+      }
     },
     {
       "booth_no": "52",
@@ -1204,7 +1462,12 @@
       "village": "West Building",
       "building": "Panchayat Union Middle School, West Building, East Facing West Block (near old police station) (Bye Pass Road), Santhavellore-602106",
       "lat": 12.9088681,
-      "lng": 79.8601375
+      "lng": 79.8601375,
+      "comparison": {
+        "dmk_swing": 11.69,
+        "aiadmk_swing": -11.88,
+        "turnout_change": 130.87
+      }
     },
     {
       "booth_no": "53",
@@ -1227,7 +1490,12 @@
       "village": "West Building",
       "building": "Panchayat Union Middle School, West Building, East Facing West Block (near old police station) (Bye Pass Road), Santhavellore-602106",
       "lat": 12.9088681,
-      "lng": 79.8601375
+      "lng": 79.8601375,
+      "comparison": {
+        "dmk_swing": 16.5,
+        "aiadmk_swing": 1.73,
+        "turnout_change": -25.2
+      }
     },
     {
       "booth_no": "54",
@@ -1250,7 +1518,12 @@
       "village": "West Building",
       "building": "Panchayat Union Primary School, West Building, East Facing, Kunnam-631604",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": -2.76,
+        "aiadmk_swing": 6.52,
+        "turnout_change": 50.0
+      }
     },
     {
       "booth_no": "55",
@@ -1273,7 +1546,12 @@
       "village": "East Building",
       "building": "Panchayat Union Primary School, East Building, North Facing, Kunnam-631604",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 4.31,
+        "aiadmk_swing": -2.94,
+        "turnout_change": -24.0
+      }
     },
     {
       "booth_no": "56",
@@ -1296,7 +1574,12 @@
       "village": "East Building",
       "building": "Panchayat Union Middle School, East Building, North Facing, East Side, Echoor- 631604",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": 3.14,
+        "aiadmk_swing": 0.56,
+        "turnout_change": -17.11
+      }
     },
     {
       "booth_no": "57",
@@ -1319,7 +1602,12 @@
       "village": "East Building",
       "building": "Panchayat Union Middle School, East Building, North Facing, East Side, Echoor- 631604",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": -8.77,
+        "aiadmk_swing": 19.78,
+        "turnout_change": 98.23
+      }
     },
     {
       "booth_no": "58",
@@ -1342,7 +1630,12 @@
       "village": "Center Wing",
       "building": "Panchayat Union Middle School, Center Wing, East Building, North Facing, Echoor- 631604",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": -5.9,
+        "aiadmk_swing": 9.68,
+        "turnout_change": -31.81
+      }
     },
     {
       "booth_no": "59",
@@ -1365,7 +1658,12 @@
       "village": "New Building",
       "building": "Panchayat Union Primary School, New Building, North Facing, Sirumangadu- 602106",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 11.28,
+        "aiadmk_swing": -3.84,
+        "turnout_change": 35.06
+      }
     },
     {
       "booth_no": "60",
@@ -1388,7 +1686,12 @@
       "village": "Old Building",
       "building": "Panchayat Union Middle School, Old Building,East Facing, Thirumangalam- 602106",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": 5.1,
+        "aiadmk_swing": 6.14,
+        "turnout_change": 12.88
+      }
     },
     {
       "booth_no": "61",
@@ -1411,7 +1714,12 @@
       "village": "Old Building",
       "building": "Panchayat Union Middle School, Old Building,East Facing, Thirumangalam- 602106",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": -6.07,
+        "aiadmk_swing": 21.18,
+        "turnout_change": -24.49
+      }
     },
     {
       "booth_no": "62",
@@ -1434,7 +1742,12 @@
       "village": "West Facing",
       "building": "Panchayat Union Middle School, West Facing, North Side, Main Building, Thirumangalam-602106",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": -1.05,
+        "aiadmk_swing": 4.75,
+        "turnout_change": -5.29
+      }
     },
     {
       "booth_no": "63",
@@ -1457,7 +1770,12 @@
       "village": "West Facing",
       "building": "Panchayat Union Middle School, West Facing, North Side, Main Building, Thirumangalam-602106",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": -0.29,
+        "aiadmk_swing": 1.4,
+        "turnout_change": 8.55
+      }
     },
     {
       "booth_no": "64",
@@ -1480,7 +1798,12 @@
       "village": "South Building",
       "building": "Panchayat Union Middle School, South Building, West Facing, North Side, Thirumangalam-602106",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": -1.55,
+        "aiadmk_swing": 14.11,
+        "turnout_change": -17.05
+      }
     },
     {
       "booth_no": "65",
@@ -1503,7 +1826,12 @@
       "village": "West Building",
       "building": "Panchayat Union Middle School,West Building, East facing Vadamangalam.",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": 4.35,
+        "aiadmk_swing": -0.97,
+        "turnout_change": -20.47
+      }
     },
     {
       "booth_no": "66",
@@ -1526,7 +1854,12 @@
       "village": "West Building",
       "building": "Panchayat Union Middle School,West Building, East facing Vadamangalam.",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": -0.26,
+        "aiadmk_swing": 6.74,
+        "turnout_change": 40.26
+      }
     },
     {
       "booth_no": "67",
@@ -1549,7 +1882,12 @@
       "village": "East Facing",
       "building": "Panchayat Union Primary School, East Facing, Araneri-602105",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": -17.87,
+        "aiadmk_swing": 15.43,
+        "turnout_change": 20.26
+      }
     },
     {
       "booth_no": "68",
@@ -1572,7 +1910,12 @@
       "village": "North Building",
       "building": "Panchayat Union Middle School, North Building, West Facing, Mambakkam- 602106",
       "lat": 12.9624975,
-      "lng": 79.94527479999999
+      "lng": 79.94527479999999,
+      "comparison": {
+        "dmk_swing": -3.85,
+        "aiadmk_swing": 17.97,
+        "turnout_change": 5.06
+      }
     },
     {
       "booth_no": "69",
@@ -1595,7 +1938,12 @@
       "village": "South Building",
       "building": "Panchayat Union Middle School, South Building, West Facing, Mambakkam- 602106",
       "lat": 12.9624975,
-      "lng": 79.94527479999999
+      "lng": 79.94527479999999,
+      "comparison": {
+        "dmk_swing": 22.75,
+        "aiadmk_swing": 1.39,
+        "turnout_change": -29.69
+      }
     },
     {
       "booth_no": "70",
@@ -1618,7 +1966,12 @@
       "village": "East Building",
       "building": "Panchayat Union Middle School, East Building, West Facing, Ponthur-602105",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": 7.2,
+        "aiadmk_swing": -6.12,
+        "turnout_change": -0.71
+      }
     },
     {
       "booth_no": "71",
@@ -1641,7 +1994,12 @@
       "village": "West Building",
       "building": "Panchayat Union Middle School, West Building, East Facing, Ponthur-602105",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": -2.1,
+        "aiadmk_swing": 9.56,
+        "turnout_change": 32.48
+      }
     },
     {
       "booth_no": "72",
@@ -1664,7 +2022,12 @@
       "village": "West Building",
       "building": "Panchayat Union Middle School, West Building, East Facing, Ponthur-602105",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": 8.33,
+        "aiadmk_swing": -6.53,
+        "turnout_change": 21.98
+      }
     },
     {
       "booth_no": "73",
@@ -1687,7 +2050,12 @@
       "village": "West Building",
       "building": "Panchayat Union Primary School (West), West Building, East Facing, Sriperumbudur-602105",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 11.34,
+        "aiadmk_swing": -1.04,
+        "turnout_change": 41.16
+      }
     },
     {
       "booth_no": "74",
@@ -1710,7 +2078,12 @@
       "village": "New Building",
       "building": "Panchayat Union Primary School (West), New Building, South Facing, North Side, Sriperumbudur-602105",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": -0.69,
+        "aiadmk_swing": 0.73,
+        "turnout_change": 36.91
+      }
     },
     {
       "booth_no": "75",
@@ -1733,7 +2106,12 @@
       "village": "New Building",
       "building": "Panchayat Union Primary School (West), New Building, South Facing, North Side, Sriperumbudur-602105",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 13.24,
+        "aiadmk_swing": 1.25,
+        "turnout_change": -1.39
+      }
     },
     {
       "booth_no": "76",
@@ -1756,7 +2134,12 @@
       "village": "West Block",
       "building": "Government Girls Higher Secondary School, West Block, East Facing, South Side, Sriperumbudur-602105",
       "lat": 12.9677068,
-      "lng": 79.9429916
+      "lng": 79.9429916,
+      "comparison": {
+        "dmk_swing": 2.35,
+        "aiadmk_swing": 0.73,
+        "turnout_change": -36.84
+      }
     },
     {
       "booth_no": "77",
@@ -1779,7 +2162,12 @@
       "village": "West Block",
       "building": "Government Girls Higher Secondary School, West Block, East Facing, North Side, Sriperumbudur-602105",
       "lat": 12.9677068,
-      "lng": 79.9429916
+      "lng": 79.9429916,
+      "comparison": {
+        "dmk_swing": 3.82,
+        "aiadmk_swing": -10.03,
+        "turnout_change": -15.34
+      }
     },
     {
       "booth_no": "78",
@@ -1802,7 +2190,12 @@
       "village": "East Block",
       "building": "Government Girls Higher Secondary School, East Block, West Facing, South Side, Sriperumbudur-602105",
       "lat": 12.9677068,
-      "lng": 79.9429916
+      "lng": 79.9429916,
+      "comparison": {
+        "dmk_swing": 4.62,
+        "aiadmk_swing": -5.51,
+        "turnout_change": -24.22
+      }
     },
     {
       "booth_no": "79",
@@ -1825,7 +2218,12 @@
       "village": "East Block",
       "building": "Government Girls Higher Secondary School, East Block, West Facing, Center Room, Sriperumbudur-602105",
       "lat": 12.9677068,
-      "lng": 79.9429916
+      "lng": 79.9429916,
+      "comparison": {
+        "dmk_swing": 7.31,
+        "aiadmk_swing": -6.66,
+        "turnout_change": 0.78
+      }
     },
     {
       "booth_no": "80",
@@ -1848,7 +2246,12 @@
       "village": "East Block",
       "building": "Government Girls Higher Secondary School, East Block, West Facing, North Side, Sriperumbudur-602105",
       "lat": 12.9677068,
-      "lng": 79.9429916
+      "lng": 79.9429916,
+      "comparison": {
+        "dmk_swing": 15.71,
+        "aiadmk_swing": -15.54,
+        "turnout_change": 20.42
+      }
     },
     {
       "booth_no": "81",
@@ -1871,7 +2274,12 @@
       "village": "Thirumangai Alwar Street",
       "building": "CSI Primary School,Thirumangai Alwar Street, East Facing, Section A Sriperumbudur",
       "lat": 12.9039983,
-      "lng": 80.0841838
+      "lng": 80.0841838,
+      "comparison": {
+        "dmk_swing": 8.42,
+        "aiadmk_swing": -11.64,
+        "turnout_change": 19.79
+      }
     },
     {
       "booth_no": "82",
@@ -1894,7 +2302,12 @@
       "village": "Thirumangai Alwar Street",
       "building": "CSI Primary School,Thirumangai Alwar Street, East Facing, Section B Sriperumbudur",
       "lat": 12.9039983,
-      "lng": 80.0841838
+      "lng": 80.0841838,
+      "comparison": {
+        "dmk_swing": 12.97,
+        "aiadmk_swing": -15.42,
+        "turnout_change": 74.69
+      }
     },
     {
       "booth_no": "83",
@@ -1917,7 +2330,12 @@
       "village": "Thirumangai Alwar Street",
       "building": "CSI Primary School,Thirumangai Alwar Street, East Facing, Section C Sriperumbudur",
       "lat": 12.9039983,
-      "lng": 80.0841838
+      "lng": 80.0841838,
+      "comparison": {
+        "dmk_swing": 5.06,
+        "aiadmk_swing": -4.32,
+        "turnout_change": -27.09
+      }
     },
     {
       "booth_no": "84",
@@ -1940,7 +2358,12 @@
       "village": "Thirumangai Alwar Street",
       "building": "CSI Primary School, Thirumangai Alwar Street, South Facing, Section D, Sriperumbudur-602105",
       "lat": 12.9039983,
-      "lng": 80.0841838
+      "lng": 80.0841838,
+      "comparison": {
+        "dmk_swing": 22.57,
+        "aiadmk_swing": -17.13,
+        "turnout_change": 8.49
+      }
     },
     {
       "booth_no": "85",
@@ -1963,7 +2386,12 @@
       "village": "South Facing",
       "building": "CSI High School, South Facing, West Side, Govinda mettu street ,Sriperumbudur- 602105",
       "lat": 12.9674908,
-      "lng": 79.9435121
+      "lng": 79.9435121,
+      "comparison": {
+        "dmk_swing": 15.24,
+        "aiadmk_swing": -8.68,
+        "turnout_change": 13.05
+      }
     },
     {
       "booth_no": "86",
@@ -1986,7 +2414,12 @@
       "village": "South Facing",
       "building": "CSI High School, South Facing, East Side, Govinda mettu street ,Sriperumbudur- 602105",
       "lat": 12.9674908,
-      "lng": 79.9435121
+      "lng": 79.9435121,
+      "comparison": {
+        "dmk_swing": -1.89,
+        "aiadmk_swing": -4.99,
+        "turnout_change": -27.42
+      }
     },
     {
       "booth_no": "87",
@@ -2009,7 +2442,12 @@
       "village": "South Facing",
       "building": "CSI High School, South Facing, East Side, Govinda mettu street ,Sriperumbudur- 602105",
       "lat": 12.9674908,
-      "lng": 79.9435121
+      "lng": 79.9435121,
+      "comparison": {
+        "dmk_swing": 13.93,
+        "aiadmk_swing": -15.52,
+        "turnout_change": -28.9
+      }
     },
     {
       "booth_no": "88",
@@ -2032,7 +2470,12 @@
       "village": "East facing Sivanthangal",
       "building": "Panchayt Union Primary School, East facing Sivanthangal",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 0.93,
+        "aiadmk_swing": -6.41,
+        "turnout_change": -28.94
+      }
     },
     {
       "booth_no": "89",
@@ -2055,7 +2498,12 @@
       "village": "East facing Sivanthangal",
       "building": "Panchayt Union Primary School, East facing Sivanthangal",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 4.01,
+        "aiadmk_swing": -13.6,
+        "turnout_change": 84.48
+      }
     },
     {
       "booth_no": "90",
@@ -2078,7 +2526,12 @@
       "village": "NGO Qtrs",
       "building": "Panchayat Union Middle School, NGO Qtrs., North facing, South Building, East side, Sriperumbudur-602105",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": -3.71,
+        "aiadmk_swing": 0.1,
+        "turnout_change": 44.62
+      }
     },
     {
       "booth_no": "91",
@@ -2101,7 +2554,12 @@
       "village": "NGO Qtrs",
       "building": "Panchayat Union Middle School, NGO Qtrs., North facing, South Building, West side, Sriperumbudur-602105",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": -8.79,
+        "aiadmk_swing": 22.51,
+        "turnout_change": 65.26
+      }
     },
     {
       "booth_no": "92",
@@ -2124,7 +2582,12 @@
       "village": "West Facing",
       "building": "J J Government Boys Higher Secondary School, West Facing, North Side, Sriperumbudur-602105",
       "lat": 13.104103,
-      "lng": 80.13228099999999
+      "lng": 80.13228099999999,
+      "comparison": {
+        "dmk_swing": 11.88,
+        "aiadmk_swing": 0.47,
+        "turnout_change": -9.47
+      }
     },
     {
       "booth_no": "93",
@@ -2147,7 +2610,12 @@
       "village": "East Facing",
       "building": "Panchayat Union Primary School, East Facing, Bootheripandai, Sriperumbudur- 602105",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 8.74,
+        "aiadmk_swing": 22.68,
+        "turnout_change": -13.9
+      }
     },
     {
       "booth_no": "94",
@@ -2170,7 +2638,12 @@
       "village": "West Facing",
       "building": "J J Government Boys Higher Secondary School, West Facing, North Side, Center Room, Sriperumbudur-602105",
       "lat": 13.104103,
-      "lng": 80.13228099999999
+      "lng": 80.13228099999999,
+      "comparison": {
+        "dmk_swing": 21.59,
+        "aiadmk_swing": -26.07,
+        "turnout_change": -26.97
+      }
     },
     {
       "booth_no": "95",
@@ -2193,7 +2666,12 @@
       "village": "West Facing",
       "building": "J J Government Boys Higher Secondary School, West Facing, South Side (Next Staff Room), Sriperumbudur-602105",
       "lat": 13.104103,
-      "lng": 80.13228099999999
+      "lng": 80.13228099999999,
+      "comparison": {
+        "dmk_swing": 3.76,
+        "aiadmk_swing": -8.87,
+        "turnout_change": -11.08
+      }
     },
     {
       "booth_no": "96",
@@ -2216,7 +2694,12 @@
       "village": "West Facing",
       "building": "J J Government Boys Higher Secondary School, West Facing, South side, PET Room, Sriperumbudur-602105",
       "lat": 13.104103,
-      "lng": 80.13228099999999
+      "lng": 80.13228099999999,
+      "comparison": {
+        "dmk_swing": 9.47,
+        "aiadmk_swing": 2.74,
+        "turnout_change": 16.6
+      }
     },
     {
       "booth_no": "97",
@@ -2239,7 +2722,12 @@
       "village": "West Facing",
       "building": "J J Government Boys Higher Secondary School, West Facing, South side, PET Room, Sriperumbudur-602105",
       "lat": 13.104103,
-      "lng": 80.13228099999999
+      "lng": 80.13228099999999,
+      "comparison": {
+        "dmk_swing": 20.9,
+        "aiadmk_swing": -6.21,
+        "turnout_change": 55.99
+      }
     },
     {
       "booth_no": "98",
@@ -2262,7 +2750,12 @@
       "village": "North Building",
       "building": "Panchayat Union Middle School (South), North Building, South Facing, Sriperumbudur-602105",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": -2.28,
+        "aiadmk_swing": -0.53,
+        "turnout_change": 42.66
+      }
     },
     {
       "booth_no": "99",
@@ -2285,7 +2778,12 @@
       "village": "North Building",
       "building": "Panchayat Union Middle School (South), North Building, South Facing, Sriperumbudur-602105",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": -0.97,
+        "aiadmk_swing": 0.52,
+        "turnout_change": 10.29
+      }
     },
     {
       "booth_no": "100",
@@ -2308,7 +2806,12 @@
       "village": "West Building",
       "building": "Panchayat Union Middle School (South), West Building, East Facing, Sriperumbudur-602105",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": -1.51,
+        "aiadmk_swing": 6.11,
+        "turnout_change": 3.24
+      }
     },
     {
       "booth_no": "101",
@@ -2331,7 +2834,12 @@
       "village": "West Building",
       "building": "Panchayat Union Middle School (South), West Building, East Facing, Sriperumbudur-602105",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": -3.85,
+        "aiadmk_swing": 1.46,
+        "turnout_change": 9.95
+      }
     },
     {
       "booth_no": "102",
@@ -2354,7 +2862,12 @@
       "village": "North Facing",
       "building": "Government Adhidravidar Welfare Middle School, North Facing , Killoy-602105",
       "lat": 12.9624975,
-      "lng": 79.94527479999999
+      "lng": 79.94527479999999,
+      "comparison": {
+        "dmk_swing": 6.92,
+        "aiadmk_swing": -5.46,
+        "turnout_change": 27.2
+      }
     },
     {
       "booth_no": "103",
@@ -2377,7 +2890,12 @@
       "village": "North Facing",
       "building": "Government Adhidravidar Welfare Middle School, North Facing , Killoy-602105",
       "lat": 12.9624975,
-      "lng": 79.94527479999999
+      "lng": 79.94527479999999,
+      "comparison": {
+        "dmk_swing": 15.06,
+        "aiadmk_swing": -12.59,
+        "turnout_change": 35.5
+      }
     },
     {
       "booth_no": "104",
@@ -2400,7 +2918,12 @@
       "village": "North Building",
       "building": "Panchayat Union Middle School, North Building, West Facing Ayakolathur",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": 5.71,
+        "aiadmk_swing": -17.22,
+        "turnout_change": -18.06
+      }
     },
     {
       "booth_no": "105",
@@ -2423,7 +2946,12 @@
       "village": "East Facing",
       "building": "Govt High School, East Facing, South Wing, New Building, Sengadu-602002",
       "lat": 13.027902,
-      "lng": 79.9110611
+      "lng": 79.9110611,
+      "comparison": {
+        "dmk_swing": -3.25,
+        "aiadmk_swing": -18.56,
+        "turnout_change": -14.6
+      }
     },
     {
       "booth_no": "106",
@@ -2446,7 +2974,12 @@
       "village": "East Facing",
       "building": "Govt High School, East Facing, South Wing, New Building, Sengadu-602002",
       "lat": 13.027902,
-      "lng": 79.9110611
+      "lng": 79.9110611,
+      "comparison": {
+        "dmk_swing": -1.42,
+        "aiadmk_swing": -7.56,
+        "turnout_change": -8.67
+      }
     },
     {
       "booth_no": "107",
@@ -2469,7 +3002,12 @@
       "village": "East Facing",
       "building": "Govt High School, East Facing, North Wing, New Building, Sengadu-602002",
       "lat": 13.027902,
-      "lng": 79.9110611
+      "lng": 79.9110611,
+      "comparison": {
+        "dmk_swing": 1.04,
+        "aiadmk_swing": -14.43,
+        "turnout_change": -50.76
+      }
     },
     {
       "booth_no": "108",
@@ -2492,7 +3030,12 @@
       "village": "Tiled Building",
       "building": "T.E.L.C. Primary School ,Tiled Building, East Building, West Facing, Mannur.",
       "lat": 13.0216903,
-      "lng": 79.9573793
+      "lng": 79.9573793,
+      "comparison": {
+        "dmk_swing": 6.34,
+        "aiadmk_swing": -16.41,
+        "turnout_change": 20.07
+      }
     },
     {
       "booth_no": "109",
@@ -2515,7 +3058,12 @@
       "village": "West RCC Building",
       "building": "T E L C Primary School, West RCC Building, East Facing, Mannur-602105",
       "lat": 13.0216903,
-      "lng": 79.9573793
+      "lng": 79.9573793,
+      "comparison": {
+        "dmk_swing": 10.64,
+        "aiadmk_swing": -18.58,
+        "turnout_change": 45.99
+      }
     },
     {
       "booth_no": "110",
@@ -2538,7 +3086,12 @@
       "village": "North Wing",
       "building": "Panchayat Union Middle School, North Wing, South Facing, East Side, Nemili- 602105",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": -2.93,
+        "aiadmk_swing": -16.34,
+        "turnout_change": 31.31
+      }
     },
     {
       "booth_no": "111",
@@ -2561,7 +3114,12 @@
       "village": "North Building",
       "building": "Panchayat Union Middle School, North Building, South Facing, Centre Wing, Nemili-602105",
       "lat": 12.9624975,
-      "lng": 79.94527479999999
+      "lng": 79.94527479999999,
+      "comparison": {
+        "dmk_swing": 0.4,
+        "aiadmk_swing": -13.26,
+        "turnout_change": 108.05
+      }
     },
     {
       "booth_no": "112",
@@ -2584,7 +3142,12 @@
       "village": "South Building",
       "building": "St. Anne's Primary School, South Building, North Facing, East Side, Valarpuram- 602105",
       "lat": 13.0212081,
-      "lng": 79.9729133
+      "lng": 79.9729133,
+      "comparison": {
+        "dmk_swing": 19.05,
+        "aiadmk_swing": -26.48,
+        "turnout_change": -76.07
+      }
     },
     {
       "booth_no": "113",
@@ -2607,7 +3170,12 @@
       "village": "South Building",
       "building": "St. Anne's Primary School, South Building, North Facing, East Side, Valarpuram- 602105",
       "lat": 13.0212081,
-      "lng": 79.9729133
+      "lng": 79.9729133,
+      "comparison": {
+        "dmk_swing": -1.06,
+        "aiadmk_swing": -27.43,
+        "turnout_change": 21.32
+      }
     },
     {
       "booth_no": "114",
@@ -2630,7 +3198,12 @@
       "village": "South Building",
       "building": "St. Anne's Primary School, South Building, North Facing, West Side, Valarpuram- 602105",
       "lat": 13.0212081,
-      "lng": 79.9729133
+      "lng": 79.9729133,
+      "comparison": {
+        "dmk_swing": -9.33,
+        "aiadmk_swing": -5.33,
+        "turnout_change": 30.97
+      }
     },
     {
       "booth_no": "115",
@@ -2653,7 +3226,12 @@
       "village": "North Building",
       "building": "Government High School, North Building, East Facing, South Side, Mevalurkuppam - 602105",
       "lat": 13.0040626,
-      "lng": 79.99372489999999
+      "lng": 79.99372489999999,
+      "comparison": {
+        "dmk_swing": -2.27,
+        "aiadmk_swing": -14.5,
+        "turnout_change": -19.94
+      }
     },
     {
       "booth_no": "116",
@@ -2676,7 +3254,12 @@
       "village": "North Building",
       "building": "Government High School, North Building, East Facing, South Side, Mevalurkuppam - 602105",
       "lat": 13.0040626,
-      "lng": 79.99372489999999
+      "lng": 79.99372489999999,
+      "comparison": {
+        "dmk_swing": -1.64,
+        "aiadmk_swing": -16.66,
+        "turnout_change": 9.93
+      }
     },
     {
       "booth_no": "117",
@@ -2699,7 +3282,12 @@
       "village": "North Building",
       "building": "Government High School, North Building, East facing, North side, Mevalurkuppam - 602105",
       "lat": 13.0040626,
-      "lng": 79.99372489999999
+      "lng": 79.99372489999999,
+      "comparison": {
+        "dmk_swing": -11.68,
+        "aiadmk_swing": -13.91,
+        "turnout_change": 13.26
+      }
     },
     {
       "booth_no": "118",
@@ -2722,7 +3310,12 @@
       "village": "South Building",
       "building": "Government High School, South Building, East facing, Mevalurkuppam - 602105",
       "lat": 13.0040626,
-      "lng": 79.99372489999999
+      "lng": 79.99372489999999,
+      "comparison": {
+        "dmk_swing": -17.31,
+        "aiadmk_swing": 4.92,
+        "turnout_change": -36.42
+      }
     },
     {
       "booth_no": "119",
@@ -2745,7 +3338,12 @@
       "village": "East Building",
       "building": "Panchayat Union Primary School, East Building, West Facing, Thandalam-602105",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": -13.78,
+        "aiadmk_swing": -0.17,
+        "turnout_change": 55.18
+      }
     },
     {
       "booth_no": "120",
@@ -2768,7 +3366,12 @@
       "village": "West Building",
       "building": "Panchayat Union Primary School, West Building, East Facing, Thandalam-602105",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": -14.75,
+        "aiadmk_swing": -0.92,
+        "turnout_change": 28.27
+      }
     },
     {
       "booth_no": "121",
@@ -2791,7 +3394,12 @@
       "village": "West Building",
       "building": "Panchayat Union Primary School , West Building, East Facing, Keevalur.",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": -21.57,
+        "aiadmk_swing": 0.14,
+        "turnout_change": -9.6
+      }
     },
     {
       "booth_no": "122",
@@ -2814,7 +3422,12 @@
       "village": "South Facing",
       "building": "Panchayat Union Primary School, South Facing, North Block, West Side, Katrambakkam-602117",
       "lat": 12.9859588,
-      "lng": 80.0166926
+      "lng": 80.0166926,
+      "comparison": {
+        "dmk_swing": -24.17,
+        "aiadmk_swing": -19.72,
+        "turnout_change": 45.8
+      }
     },
     {
       "booth_no": "123",
@@ -2837,7 +3450,12 @@
       "village": "South Facing",
       "building": "Panchayat Union Primary School, South Facing, North Block, West Side, Katrambakkam-602117",
       "lat": 12.9859588,
-      "lng": 80.0166926
+      "lng": 80.0166926,
+      "comparison": {
+        "dmk_swing": 1.88,
+        "aiadmk_swing": -4.9,
+        "turnout_change": 21.17
+      }
     },
     {
       "booth_no": "124",
@@ -2860,7 +3478,12 @@
       "village": "South Facing",
       "building": "Panchayat Union Primary School, South Facing, North Block, East Side, Katrambakkam-602117",
       "lat": 12.9859588,
-      "lng": 80.0166926
+      "lng": 80.0166926,
+      "comparison": {
+        "dmk_swing": 6.94,
+        "aiadmk_swing": -25.33,
+        "turnout_change": -20.97
+      }
     },
     {
       "booth_no": "125",
@@ -2883,7 +3506,12 @@
       "village": "South Facing",
       "building": "Panchayat Union Primary School, South Facing, North Block, East Side, Katrambakkam-602117",
       "lat": 12.9859588,
-      "lng": 80.0166926
+      "lng": 80.0166926,
+      "comparison": {
+        "dmk_swing": 7.1,
+        "aiadmk_swing": -20.65,
+        "turnout_change": -31.67
+      }
     },
     {
       "booth_no": "126",
@@ -2906,7 +3534,12 @@
       "village": "East Facing",
       "building": "Panchayat Union Primary School, East Facing, South Side Building, Katrambakkam-602117",
       "lat": 12.9859588,
-      "lng": 80.0166926
+      "lng": 80.0166926,
+      "comparison": {
+        "dmk_swing": -0.56,
+        "aiadmk_swing": -4.08,
+        "turnout_change": 3.25
+      }
     },
     {
       "booth_no": "127",
@@ -2929,7 +3562,12 @@
       "village": "East Facing",
       "building": "Panchayat Union Primary School, East Facing, South Side Building, Katrambakkam-602117",
       "lat": 12.9859588,
-      "lng": 80.0166926
+      "lng": 80.0166926,
+      "comparison": {
+        "dmk_swing": 5.26,
+        "aiadmk_swing": -20.73,
+        "turnout_change": -40.64
+      }
     },
     {
       "booth_no": "128",
@@ -2952,7 +3590,12 @@
       "village": "West Building",
       "building": "Panchayat Union Middle School, West Building, East Facing, Irrunkattukottai",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": 4.48,
+        "aiadmk_swing": -8.65,
+        "turnout_change": 55.04
+      }
     },
     {
       "booth_no": "129",
@@ -2975,7 +3618,12 @@
       "village": "West Building",
       "building": "Panchayat Union Middle School, West Building, East Facing, Irrunkattukottai",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": 5.65,
+        "aiadmk_swing": -15.94,
+        "turnout_change": -14.62
+      }
     },
     {
       "booth_no": "130",
@@ -2998,7 +3646,12 @@
       "village": "South Building",
       "building": "Panchayat Union Middle School, South Building, North Facing (Adjoining Building), Irungattukottai-602117",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": -0.15,
+        "aiadmk_swing": -9.57,
+        "turnout_change": -30.38
+      }
     },
     {
       "booth_no": "131",
@@ -3021,7 +3674,12 @@
       "village": "West Building",
       "building": "Panchayat Union Middle School, West Building, Center Portion, East Facing, Pennalur-602117",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": -2.92,
+        "aiadmk_swing": -3.85,
+        "turnout_change": -19.81
+      }
     },
     {
       "booth_no": "132",
@@ -3044,7 +3702,12 @@
       "village": "West Building",
       "building": "Panchayat Union Middle School, West Building, Center Portion, East Facing, Pennalur-602117",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": -19.26,
+        "aiadmk_swing": 19.95,
+        "turnout_change": -19.31
+      }
     },
     {
       "booth_no": "133",
@@ -3067,7 +3730,12 @@
       "village": "West Building",
       "building": "Panchayat Union Middle School,West Building, East facing South Side, Pennalur",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": -1.19,
+        "aiadmk_swing": 13.52,
+        "turnout_change": 121.6
+      }
     },
     {
       "booth_no": "134",
@@ -3090,7 +3758,12 @@
       "village": "West Building",
       "building": "Panchayat Union Primary School,West Building, East facing,Amarambedu",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 11.72,
+        "aiadmk_swing": 7.46,
+        "turnout_change": -31.03
+      }
     },
     {
       "booth_no": "135",
@@ -3113,7 +3786,12 @@
       "village": "West Building",
       "building": "Panchayat Union Primary School,West Building, East facing,Amarambedu",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 6.4,
+        "aiadmk_swing": 1.78,
+        "turnout_change": -18.0
+      }
     },
     {
       "booth_no": "136",
@@ -3136,7 +3814,12 @@
       "village": "East Facing",
       "building": "S R N M Matriculation School, East Facing, East Wing, Nanthambakkam-600069",
       "lat": 12.9803409,
-      "lng": 80.0621266
+      "lng": 80.0621266,
+      "comparison": {
+        "dmk_swing": -5.13,
+        "aiadmk_swing": 8.95,
+        "turnout_change": 55.89
+      }
     },
     {
       "booth_no": "137",
@@ -3159,7 +3842,12 @@
       "village": "East Facing",
       "building": "S R N M Matriculation School, East Facing, East Wing, Nanthambakkam-600069",
       "lat": 12.9803409,
-      "lng": 80.0621266
+      "lng": 80.0621266,
+      "comparison": {
+        "dmk_swing": -7.14,
+        "aiadmk_swing": 5.87,
+        "turnout_change": 54.74
+      }
     },
     {
       "booth_no": "138",
@@ -3182,7 +3870,12 @@
       "village": "South Facing",
       "building": "Panchayat Union Primary School, South Facing, East Wing, Nandambakkam",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 10.58,
+        "aiadmk_swing": -13.67,
+        "turnout_change": 64.8
+      }
     },
     {
       "booth_no": "139",
@@ -3205,7 +3898,12 @@
       "village": "West Facing",
       "building": "Panchayat Union Primary School,West Facing,North Wing Periyar Nagar Nandambakkam",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 35.06,
+        "aiadmk_swing": -21.55,
+        "turnout_change": 15.36
+      }
     },
     {
       "booth_no": "140",
@@ -3228,7 +3926,12 @@
       "village": "North Facing",
       "building": "S R N M Matriculation School, North Facing, North Wing, Periyar Nagar ,Nanthambakkam-600069",
       "lat": 12.9803409,
-      "lng": 80.0621266
+      "lng": 80.0621266,
+      "comparison": {
+        "dmk_swing": 21.97,
+        "aiadmk_swing": -19.41,
+        "turnout_change": -9.62
+      }
     },
     {
       "booth_no": "141",
@@ -3251,7 +3954,12 @@
       "village": "North Facing",
       "building": "S R N M Matriculation School, North Facing, North Wing, Periyar Nagar ,Nanthambakkam-600069",
       "lat": 12.9803409,
-      "lng": 80.0621266
+      "lng": 80.0621266,
+      "comparison": {
+        "dmk_swing": 5.23,
+        "aiadmk_swing": -1.41,
+        "turnout_change": -27.37
+      }
     },
     {
       "booth_no": "142",
@@ -3274,7 +3982,12 @@
       "village": "South Facing",
       "building": "Panchayat Union Primary School, South Facing, North Wing Naidu Street, Nandambakkam",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 18.43,
+        "aiadmk_swing": -4.53,
+        "turnout_change": -47.25
+      }
     },
     {
       "booth_no": "143",
@@ -3297,7 +4010,12 @@
       "village": "South Facing",
       "building": "Panchayat Union Primary School, South Facing, North Wing Naidu Street, Nandambakkam",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 14.89,
+        "aiadmk_swing": -10.12,
+        "turnout_change": -30.84
+      }
     },
     {
       "booth_no": "144",
@@ -3320,7 +4038,12 @@
       "village": "South Facing",
       "building": "Panchayat Union Primary School, South Facing, North Wing, (4th C Section), Naidu Street, Nandambakkam-600069",
       "lat": 13.0334073,
-      "lng": 80.1739343
+      "lng": 80.1739343,
+      "comparison": {
+        "dmk_swing": 20.3,
+        "aiadmk_swing": -0.8,
+        "turnout_change": 106.9
+      }
     },
     {
       "booth_no": "145",
@@ -3343,7 +4066,12 @@
       "village": "South Facing",
       "building": "Panchayat Union Primary School, South Facing, North Wing, (4th C Section), Naidu Street, Nandambakkam-600069",
       "lat": 13.0334073,
-      "lng": 80.1739343
+      "lng": 80.1739343,
+      "comparison": {
+        "dmk_swing": 30.34,
+        "aiadmk_swing": -23.48,
+        "turnout_change": 39.14
+      }
     },
     {
       "booth_no": "146",
@@ -3366,7 +4094,12 @@
       "village": "North facing",
       "building": "SRNM Matriculation School, North facing, North wing, Nandambakkam-600069",
       "lat": 12.9803409,
-      "lng": 80.0621266
+      "lng": 80.0621266,
+      "comparison": {
+        "dmk_swing": 6.63,
+        "aiadmk_swing": -3.87,
+        "turnout_change": 62.89
+      }
     },
     {
       "booth_no": "147",
@@ -3389,7 +4122,12 @@
       "village": "West Facing",
       "building": "Panchayat Union Primary School,West Facing, North wing, Naidu Street, Nandambakkam",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 9.11,
+        "aiadmk_swing": -6.66,
+        "turnout_change": 70.27
+      }
     },
     {
       "booth_no": "148",
@@ -3412,7 +4150,12 @@
       "village": "West Facing",
       "building": "Panchayat Union Primary School,West Facing,South Wing, Nandambakkam",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 1.05,
+        "aiadmk_swing": -7.9,
+        "turnout_change": 47.21
+      }
     },
     {
       "booth_no": "149",
@@ -3435,7 +4178,12 @@
       "village": "West Facing",
       "building": "Panchayat Union Primary School,West Facing,South Wing, Nandambakkam",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 9.2,
+        "aiadmk_swing": -5.48,
+        "turnout_change": 3.86
+      }
     },
     {
       "booth_no": "150",
@@ -3458,7 +4206,12 @@
       "village": "North Facing",
       "building": "S R N M Matriculation School, North Facing, North Wing, East Side, Nanthambakkam-600069",
       "lat": 12.9803409,
-      "lng": 80.0621266
+      "lng": 80.0621266,
+      "comparison": {
+        "dmk_swing": -8.3,
+        "aiadmk_swing": 17.39,
+        "turnout_change": 70.29
+      }
     },
     {
       "booth_no": "151",
@@ -3481,7 +4234,12 @@
       "village": "North Facing",
       "building": "S R N M Matriculation School, North Facing, North Wing, East Side, Nanthambakkam-600069",
       "lat": 12.9803409,
-      "lng": 80.0621266
+      "lng": 80.0621266,
+      "comparison": {
+        "dmk_swing": -3.73,
+        "aiadmk_swing": 8.95,
+        "turnout_change": 49.82
+      }
     },
     {
       "booth_no": "152",
@@ -3504,7 +4262,12 @@
       "village": "West Facing",
       "building": "Panchayat Union Primary School, West Facing, East Wing, Naidu Street, Nandambakkam-600069",
       "lat": 12.9823761,
-      "lng": 80.06026450000002
+      "lng": 80.06026450000002,
+      "comparison": {
+        "dmk_swing": -4.63,
+        "aiadmk_swing": -3.51,
+        "turnout_change": -48.73
+      }
     },
     {
       "booth_no": "153",
@@ -3527,7 +4290,12 @@
       "village": "Naidu Street",
       "building": "Panchayat Union Primary School, Naidu Street, South Facing, North Wing (1st B Section), Nandambakkam-600069",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": -3.83,
+        "aiadmk_swing": -1.74,
+        "turnout_change": -19.24
+      }
     },
     {
       "booth_no": "154",
@@ -3550,7 +4318,12 @@
       "village": "Naidu Street",
       "building": "Panchayat Union Primary School, Naidu Street, South Facing, North Wing (1st B Section), Nandambakkam-600069",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 2.62,
+        "aiadmk_swing": -12.82,
+        "turnout_change": 6.62
+      }
     },
     {
       "booth_no": "155",
@@ -3573,7 +4346,12 @@
       "village": "New Building",
       "building": "Government Adhidravidar Welfare School, New Building, West Wing, North Facing, Nanthambakkam Colony-600069",
       "lat": 12.9980561,
-      "lng": 80.09659420000001
+      "lng": 80.09659420000001,
+      "comparison": {
+        "dmk_swing": -0.84,
+        "aiadmk_swing": -5.71,
+        "turnout_change": 99.24
+      }
     },
     {
       "booth_no": "156",
@@ -3596,7 +4374,12 @@
       "village": "East Facing",
       "building": "Government Adhidravidar Welfare School, East Facing, North South Wing, Nanthambakkam Colony-600069",
       "lat": 12.9980561,
-      "lng": 80.09659420000001
+      "lng": 80.09659420000001,
+      "comparison": {
+        "dmk_swing": 10.81,
+        "aiadmk_swing": -20.63,
+        "turnout_change": 1.28
+      }
     },
     {
       "booth_no": "157",
@@ -3619,7 +4402,12 @@
       "village": "West Facing",
       "building": "Panchayat Union Elementary School, West Facing, South Side, New Building, Sirukalathur-600069",
       "lat": 12.9686628,
-      "lng": 80.05628639999999
+      "lng": 80.05628639999999,
+      "comparison": {
+        "dmk_swing": -4.48,
+        "aiadmk_swing": -10.27,
+        "turnout_change": 24.3
+      }
     },
     {
       "booth_no": "158",
@@ -3642,7 +4430,12 @@
       "village": "Road Side West Facing",
       "building": "Panchayat Union Elementary School, Road Side West Facing, North Side, Sirukalathur- 600069",
       "lat": 12.9686628,
-      "lng": 80.05628639999999
+      "lng": 80.05628639999999,
+      "comparison": {
+        "dmk_swing": -13.02,
+        "aiadmk_swing": 1.8,
+        "turnout_change": 5.51
+      }
     },
     {
       "booth_no": "159",
@@ -3665,7 +4458,12 @@
       "village": "Road Side West Facing",
       "building": "Panchayat Union Elementary School, Road Side West Facing, North Side, Sirukalathur- 600069",
       "lat": 12.9686628,
-      "lng": 80.05628639999999
+      "lng": 80.05628639999999,
+      "comparison": {
+        "dmk_swing": 5.2,
+        "aiadmk_swing": -17.38,
+        "turnout_change": -30.23
+      }
     },
     {
       "booth_no": "160",
@@ -3688,7 +4486,12 @@
       "village": "West Facing",
       "building": "Government High School, West Facing, North South Wing, Kaladipettai Sirukalathur-600069",
       "lat": 12.9677068,
-      "lng": 79.9429916
+      "lng": 79.9429916,
+      "comparison": {
+        "dmk_swing": 15.82,
+        "aiadmk_swing": -11.03,
+        "turnout_change": 60.68
+      }
     },
     {
       "booth_no": "161",
@@ -3711,7 +4514,12 @@
       "village": "North Facing",
       "building": "Govt High School,North Facing, East Wing Sirukalathur",
       "lat": 12.8854767,
-      "lng": 79.926266
+      "lng": 79.926266,
+      "comparison": {
+        "dmk_swing": -2.49,
+        "aiadmk_swing": -7.78,
+        "turnout_change": 31.93
+      }
     },
     {
       "booth_no": "162",
@@ -3734,7 +4542,12 @@
       "village": "North Facing",
       "building": "Govt High School,North Facing, East Wing Sirukalathur",
       "lat": 12.8854767,
-      "lng": 79.926266
+      "lng": 79.926266,
+      "comparison": {
+        "dmk_swing": 18.63,
+        "aiadmk_swing": -6.89,
+        "turnout_change": -13.7
+      }
     },
     {
       "booth_no": "163",
@@ -3757,7 +4570,12 @@
       "village": "North Facing",
       "building": "Government High School, North Facing, East Wing, Kaladipettai Sirukalathur- 600069",
       "lat": 12.9686628,
-      "lng": 80.05628639999999
+      "lng": 80.05628639999999,
+      "comparison": {
+        "dmk_swing": 26.06,
+        "aiadmk_swing": -14.58,
+        "turnout_change": -51.61
+      }
     },
     {
       "booth_no": "164",
@@ -3780,7 +4598,12 @@
       "village": "North Facing",
       "building": "Panchayat Building, North Facing, North Wing, Malayambakkam-600123",
       "lat": 12.9882537,
-      "lng": 80.0479039
+      "lng": 80.0479039,
+      "comparison": {
+        "dmk_swing": 16.32,
+        "aiadmk_swing": -9.27,
+        "turnout_change": 68.66
+      }
     },
     {
       "booth_no": "165",
@@ -3803,7 +4626,12 @@
       "village": "north face",
       "building": "Panchayat Union Primary School,north face, West Wing Malayambakkam",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 48.99,
+        "aiadmk_swing": -35.53,
+        "turnout_change": 43.42
+      }
     },
     {
       "booth_no": "166",
@@ -3826,7 +4654,12 @@
       "village": "North Facing",
       "building": "Panchayat Union Primary School, North Facing, West Wing, Malayambakkam- 600123",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 47.77,
+        "aiadmk_swing": -34.94,
+        "turnout_change": 11.65
+      }
     },
     {
       "booth_no": "167",
@@ -3849,7 +4682,12 @@
       "village": "North Side",
       "building": "Panchayat Union Middle School, North Side, West Facing, Malayambakkam- 600123",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": 35.13,
+        "aiadmk_swing": -16.17,
+        "turnout_change": 28.12
+      }
     },
     {
       "booth_no": "168",
@@ -3872,7 +4710,12 @@
       "village": "North Side",
       "building": "Panchayat Union Middle School, North Side, West Facing, Malayambakkam- 600123",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": 18.31,
+        "aiadmk_swing": -18.28,
+        "turnout_change": 65.52
+      }
     },
     {
       "booth_no": "169",
@@ -3895,7 +4738,12 @@
       "village": "West Facing",
       "building": "Panchayat Union Primary School, West Facing, North Wing, Malayambakkam",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 63.46,
+        "aiadmk_swing": -42.47,
+        "turnout_change": -6.67
+      }
     },
     {
       "booth_no": "170",
@@ -3918,7 +4766,12 @@
       "village": "West Facing",
       "building": "Panchayat Union Primary School, West Facing, North Wing, Malayambakkam- 600123",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 13.78,
+        "aiadmk_swing": -11.3,
+        "turnout_change": -24.28
+      }
     },
     {
       "booth_no": "171",
@@ -3941,7 +4794,12 @@
       "village": "North Facing",
       "building": "Panchayat Union Primary School, North Facing, West Wing, Malayambakkam- 600123",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 6.76,
+        "aiadmk_swing": -4.37,
+        "turnout_change": 61.95
+      }
     },
     {
       "booth_no": "172",
@@ -3964,7 +4822,12 @@
       "village": "North Facing",
       "building": "Panchayat Union Primary School, North Facing, East Wing Malayambakkam.",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": -2.79,
+        "aiadmk_swing": 7.82,
+        "turnout_change": -47.15
+      }
     },
     {
       "booth_no": "173",
@@ -3987,7 +4850,12 @@
       "village": "North Building",
       "building": "Panchayat Union Primary School, North Building, South Wing, East Facing, South Side, Malayambakkam-600069",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 1.02,
+        "aiadmk_swing": 4.36,
+        "turnout_change": -20.78
+      }
     },
     {
       "booth_no": "174",
@@ -4010,7 +4878,12 @@
       "village": "North Building",
       "building": "Panchayat Union Primary School, North Building, South Wing, East Facing, North Side, Malayambakkam-600069",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 9.31,
+        "aiadmk_swing": -16.38,
+        "turnout_change": 10.1
+      }
     },
     {
       "booth_no": "175",
@@ -4033,7 +4906,12 @@
       "village": "South Wing",
       "building": "Panchayat Union Primary School, South Wing, New Building, East Facing, Kollacheri-600069",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 5.57,
+        "aiadmk_swing": -14.5,
+        "turnout_change": 40.03
+      }
     },
     {
       "booth_no": "176",
@@ -4056,7 +4934,12 @@
       "village": "North Wing",
       "building": "Panchayat Union Primary School, North Wing, East Facing, Kollacheri-600069",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 0.85,
+        "aiadmk_swing": 6.18,
+        "turnout_change": -38.77
+      }
     },
     {
       "booth_no": "177",
@@ -4079,7 +4962,12 @@
       "village": "North Wing",
       "building": "Panchayat Union Primary School, North Wing, East Facing, Kollacheri-600069",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": -1.96,
+        "aiadmk_swing": -2.41,
+        "turnout_change": 41.55
+      }
     },
     {
       "booth_no": "178",
@@ -4102,7 +4990,12 @@
       "village": "Anganwadi Centre",
       "building": "Panchayat Union Primary School, Anganwadi Centre, North Facing, South Wing, Kollacheri-600069",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 8.25,
+        "aiadmk_swing": -16.9,
+        "turnout_change": 66.82
+      }
     },
     {
       "booth_no": "179",
@@ -4125,7 +5018,12 @@
       "village": "Anganwadi Centre",
       "building": "Panchayat Union Primary School, Anganwadi Centre, North Facing, South Wing, Kollacheri-600069",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 9.58,
+        "aiadmk_swing": -11.33,
+        "turnout_change": 68.88
+      }
     },
     {
       "booth_no": "180",
@@ -4148,7 +5046,12 @@
       "village": "Anganwadi Centre",
       "building": "Panchayat Union Primary School, Anganwadi Centre, South Facing, North Wing, Kollacheri-600069",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 11.82,
+        "aiadmk_swing": -24.8,
+        "turnout_change": 46.78
+      }
     },
     {
       "booth_no": "181",
@@ -4171,7 +5074,12 @@
       "village": "Anganwadi Centre",
       "building": "Panchayat Union Primary School, Anganwadi Centre, South Facing, North Wing, Kollacheri-600069",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 11.98,
+        "aiadmk_swing": -25.83,
+        "turnout_change": -13.95
+      }
     },
     {
       "booth_no": "182",
@@ -4194,7 +5102,12 @@
       "village": "South Facing",
       "building": "Panchayat Union Middle School, South Facing, North Wing, Kozhumanivakkam- 600122",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": 6.16,
+        "aiadmk_swing": -13.99,
+        "turnout_change": -13.7
+      }
     },
     {
       "booth_no": "183",
@@ -4217,7 +5130,12 @@
       "village": "South Facing",
       "building": "Panchayat Union Middle School, South Facing, North Wing, Kozhumanivakkam- 600122",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": -27.14,
+        "aiadmk_swing": 27.55,
+        "turnout_change": 5.78
+      }
     },
     {
       "booth_no": "184",
@@ -4240,7 +5158,12 @@
       "village": "South Facing",
       "building": "Panchayat Union Middle School, South Facing, North Wing (5th Class Room), Kozhumanivakkam-600122",
       "lat": 13.0229597,
-      "lng": 80.09958329999999
+      "lng": 80.09958329999999,
+      "comparison": {
+        "dmk_swing": 4.07,
+        "aiadmk_swing": -1.55,
+        "turnout_change": -12.27
+      }
     },
     {
       "booth_no": "185",
@@ -4263,7 +5186,12 @@
       "village": "North Facing",
       "building": "Panchayat Union Middle School, North Facing, South Wing, Kozhumanivakkam- 600122",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": -1.46,
+        "aiadmk_swing": -9.86,
+        "turnout_change": -31.93
+      }
     },
     {
       "booth_no": "186",
@@ -4286,7 +5214,12 @@
       "village": "West Facing",
       "building": "Padma Subramaniam Bala Bhavan Matriculation Higher Secondary School, West Facing, North Side, Mangadu-600122",
       "lat": 13.0325631,
-      "lng": 80.108958
+      "lng": 80.108958,
+      "comparison": {
+        "dmk_swing": -9.37,
+        "aiadmk_swing": -2.02,
+        "turnout_change": 95.96
+      }
     },
     {
       "booth_no": "187",
@@ -4309,7 +5242,12 @@
       "village": "West Facing",
       "building": "Padma Subramaniam Bala Bhavan Matriculation Higher Secondary School, West Facing, South Side, Mangadu-600122",
       "lat": 13.0325631,
-      "lng": 80.108958
+      "lng": 80.108958,
+      "comparison": {
+        "dmk_swing": 6.41,
+        "aiadmk_swing": -9.88,
+        "turnout_change": 3.6
+      }
     },
     {
       "booth_no": "188",
@@ -4332,7 +5270,12 @@
       "village": "South Facing",
       "building": "Government High School, South Facing, East West wing, Mangadu-600122",
       "lat": 13.0317462,
-      "lng": 80.1119385
+      "lng": 80.1119385,
+      "comparison": {
+        "dmk_swing": -2.06,
+        "aiadmk_swing": -1.0,
+        "turnout_change": 7.31
+      }
     },
     {
       "booth_no": "189",
@@ -4355,7 +5298,12 @@
       "village": "South Facing",
       "building": "Government High School, South Facing, East West wing, Mangadu-600122",
       "lat": 13.0317462,
-      "lng": 80.1119385
+      "lng": 80.1119385,
+      "comparison": {
+        "dmk_swing": 2.64,
+        "aiadmk_swing": -1.61,
+        "turnout_change": -6.75
+      }
     },
     {
       "booth_no": "190",
@@ -4378,7 +5326,12 @@
       "village": "South Side",
       "building": "Panchayat Union Middle School, South Side, East Portion, North Facing, Mangadu- 600122",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": 10.2,
+        "aiadmk_swing": -6.96,
+        "turnout_change": 17.75
+      }
     },
     {
       "booth_no": "191",
@@ -4401,7 +5354,12 @@
       "village": "South Side",
       "building": "Panchayat Union Middle School, South Side, East Portion, North Facing, Mangadu- 600122",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": -9.96,
+        "aiadmk_swing": 8.26,
+        "turnout_change": 31.59
+      }
     },
     {
       "booth_no": "192",
@@ -4424,7 +5382,12 @@
       "village": "South Side",
       "building": "Panchayat Union Middle School, South Side, East Portion, West Side, Mangadu- 600122",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": -2.86,
+        "aiadmk_swing": -11.74,
+        "turnout_change": -11.82
+      }
     },
     {
       "booth_no": "193",
@@ -4447,7 +5410,12 @@
       "village": "South Side",
       "building": "Panchayat Union Middle School, South Side, East Portion, West Side, Mangadu- 600122",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": -2.42,
+        "aiadmk_swing": -6.81,
+        "turnout_change": -11.84
+      }
     },
     {
       "booth_no": "194",
@@ -4470,7 +5438,12 @@
       "village": "South Side",
       "building": "Panchayat Union Middle School, South Side, Center Portion, North Facing, Mangadu-600122",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": 17.04,
+        "aiadmk_swing": -18.15,
+        "turnout_change": 61.09
+      }
     },
     {
       "booth_no": "195",
@@ -4493,7 +5466,12 @@
       "village": "South Side",
       "building": "Panchayat Union Middle School, South Side, Center Portion, North Facing, Mangadu-600122",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": 6.76,
+        "aiadmk_swing": -22.45,
+        "turnout_change": -9.64
+      }
     },
     {
       "booth_no": "196",
@@ -4516,7 +5494,12 @@
       "village": "West Facing",
       "building": "Nav Bharath Matric Higher Secondary School, West Facing, East Wing, Mangadu- 600122",
       "lat": 13.0379331,
-      "lng": 80.1136035
+      "lng": 80.1136035,
+      "comparison": {
+        "dmk_swing": 6.97,
+        "aiadmk_swing": -8.64,
+        "turnout_change": 14.45
+      }
     },
     {
       "booth_no": "197",
@@ -4539,7 +5522,12 @@
       "village": "West Facing",
       "building": "Nav Bharath Matric Higher Secondary School, West Facing, East Wing, Mangadu- 600122",
       "lat": 13.0379331,
-      "lng": 80.1136035
+      "lng": 80.1136035,
+      "comparison": {
+        "dmk_swing": 11.81,
+        "aiadmk_swing": -22.16,
+        "turnout_change": -31.46
+      }
     },
     {
       "booth_no": "198",
@@ -4562,7 +5550,12 @@
       "village": "West Side",
       "building": "Government High School, West Side, East Wing, Mangadu-600122",
       "lat": 13.0317462,
-      "lng": 80.1119385
+      "lng": 80.1119385,
+      "comparison": {
+        "dmk_swing": 9.44,
+        "aiadmk_swing": -16.15,
+        "turnout_change": -27.36
+      }
     },
     {
       "booth_no": "199",
@@ -4585,7 +5578,12 @@
       "village": "West Side",
       "building": "Government High School, West Side, East Wing, Mangadu-600122",
       "lat": 13.0317462,
-      "lng": 80.1119385
+      "lng": 80.1119385,
+      "comparison": {
+        "dmk_swing": 11.32,
+        "aiadmk_swing": -21.1,
+        "turnout_change": 23.58
+      }
     },
     {
       "booth_no": "200",
@@ -4608,7 +5606,12 @@
       "village": "West Facing",
       "building": "Nav Bharath Matric Higher Secondary School, West Facing, East Wing, Center Portion, Mangadu-600122",
       "lat": 13.0239864,
-      "lng": 80.11446590000001
+      "lng": 80.11446590000001,
+      "comparison": {
+        "dmk_swing": 18.96,
+        "aiadmk_swing": -27.19,
+        "turnout_change": -18.26
+      }
     },
     {
       "booth_no": "201",
@@ -4631,7 +5634,12 @@
       "village": "West Facing",
       "building": "Nav Bharath Matric Higher Secondary School, West Facing, East Wing, Center Portion, Mangadu-600122",
       "lat": 13.0239864,
-      "lng": 80.11446590000001
+      "lng": 80.11446590000001,
+      "comparison": {
+        "dmk_swing": -4.94,
+        "aiadmk_swing": -7.99,
+        "turnout_change": 18.48
+      }
     },
     {
       "booth_no": "202",
@@ -4654,7 +5662,12 @@
       "village": "North Facing",
       "building": "Maharishi Vidya Mandhir Higher Secondary School, North Facing, South Wing, Mangadu - 600122",
       "lat": 13.0304891,
-      "lng": 80.1243721
+      "lng": 80.1243721,
+      "comparison": {
+        "dmk_swing": 17.93,
+        "aiadmk_swing": -22.58,
+        "turnout_change": 1.84
+      }
     },
     {
       "booth_no": "203",
@@ -4677,7 +5690,12 @@
       "village": "North Facing",
       "building": "Maharishi Vidya Mandhir Higher Secondary School, North Facing, South Wing, Mangadu - 600122",
       "lat": 13.0304891,
-      "lng": 80.1243721
+      "lng": 80.1243721,
+      "comparison": {
+        "dmk_swing": 5.02,
+        "aiadmk_swing": -7.59,
+        "turnout_change": 10.75
+      }
     },
     {
       "booth_no": "204",
@@ -4700,7 +5718,12 @@
       "village": "West Facing",
       "building": "Nav Bharath Matric Higher Secondary School, West Facing, East Wing, Mangadu- 600122",
       "lat": 13.0379331,
-      "lng": 80.1136035
+      "lng": 80.1136035,
+      "comparison": {
+        "dmk_swing": 11.73,
+        "aiadmk_swing": -14.64,
+        "turnout_change": 2.49
+      }
     },
     {
       "booth_no": "205",
@@ -4723,7 +5746,12 @@
       "village": "East Side",
       "building": "Government High School, East Side, North Facing, Mangadu-600122",
       "lat": 13.0317462,
-      "lng": 80.1119385
+      "lng": 80.1119385,
+      "comparison": {
+        "dmk_swing": 11.98,
+        "aiadmk_swing": -11.22,
+        "turnout_change": -26.06
+      }
     },
     {
       "booth_no": "206",
@@ -4746,7 +5774,12 @@
       "village": "East Side",
       "building": "Government High School, East Side, North Facing, Mangadu-600122",
       "lat": 13.0317462,
-      "lng": 80.1119385
+      "lng": 80.1119385,
+      "comparison": {
+        "dmk_swing": -6.54,
+        "aiadmk_swing": 6.83,
+        "turnout_change": 9.61
+      }
     },
     {
       "booth_no": "207",
@@ -4769,7 +5802,12 @@
       "village": "North Facing",
       "building": "Government High School, North Facing, West Wing, Mangadu-600122",
       "lat": 13.0317462,
-      "lng": 80.1119385
+      "lng": 80.1119385,
+      "comparison": {
+        "dmk_swing": 0.5,
+        "aiadmk_swing": 1.91,
+        "turnout_change": 7.41
+      }
     },
     {
       "booth_no": "208",
@@ -4792,7 +5830,12 @@
       "village": "North Facing",
       "building": "Padma Subramaniam Bala Bhavan Matriculation Higher Secondary School, North Facing, South Wing, Mangadu- 600122",
       "lat": 13.0325631,
-      "lng": 80.108958
+      "lng": 80.108958,
+      "comparison": {
+        "dmk_swing": -0.33,
+        "aiadmk_swing": 3.03,
+        "turnout_change": 12.6
+      }
     },
     {
       "booth_no": "209",
@@ -4815,7 +5858,12 @@
       "village": "North Facing",
       "building": "Padma Subramaniam Bala Bhavan Matriculation Higher Secondary School, North Facing, South Wing, Mangadu- 600122",
       "lat": 13.0325631,
-      "lng": 80.108958
+      "lng": 80.108958,
+      "comparison": {
+        "dmk_swing": -5.19,
+        "aiadmk_swing": -0.95,
+        "turnout_change": 6.19
+      }
     },
     {
       "booth_no": "210",
@@ -4838,7 +5886,12 @@
       "village": "East Facing",
       "building": "St. Anns Matriculation High School, East Facing, North Wing, Mangadu-600122",
       "lat": 13.0371674,
-      "lng": 80.10637799999999
+      "lng": 80.10637799999999,
+      "comparison": {
+        "dmk_swing": -5.16,
+        "aiadmk_swing": -2.07,
+        "turnout_change": -23.72
+      }
     },
     {
       "booth_no": "211",
@@ -4861,7 +5914,12 @@
       "village": "North Facing",
       "building": "St.Anns Matriculation high School, North Facing, South Wing, Raghunathapuram, Mangadu-600122",
       "lat": 13.0371674,
-      "lng": 80.10637799999999
+      "lng": 80.10637799999999,
+      "comparison": {
+        "dmk_swing": -7.55,
+        "aiadmk_swing": 0.46,
+        "turnout_change": -13.55
+      }
     },
     {
       "booth_no": "212",
@@ -4884,7 +5942,12 @@
       "village": "North Facing",
       "building": "St.Anns Matriculation high School, North Facing, South Wing, Raghunathapuram, Mangadu-600122",
       "lat": 13.0371674,
-      "lng": 80.10637799999999
+      "lng": 80.10637799999999,
+      "comparison": {
+        "dmk_swing": 17.35,
+        "aiadmk_swing": -22.26,
+        "turnout_change": -22.15
+      }
     },
     {
       "booth_no": "213",
@@ -4907,7 +5970,12 @@
       "village": "North Facing",
       "building": "St. Anns Matriculation High School, North Facing, South Wing, Mangadu-600122",
       "lat": 13.0371674,
-      "lng": 80.10637799999999
+      "lng": 80.10637799999999,
+      "comparison": {
+        "dmk_swing": 1.17,
+        "aiadmk_swing": -14.53,
+        "turnout_change": -16.33
+      }
     },
     {
       "booth_no": "214",
@@ -4930,7 +5998,12 @@
       "village": "North Facing",
       "building": "St. Anns Matriculation High School, North Facing, South Wing, Mangadu-600122",
       "lat": 13.0371674,
-      "lng": 80.10637799999999
+      "lng": 80.10637799999999,
+      "comparison": {
+        "dmk_swing": 0.51,
+        "aiadmk_swing": -10.56,
+        "turnout_change": -27.24
+      }
     },
     {
       "booth_no": "215",
@@ -4953,7 +6026,12 @@
       "village": "South Facing",
       "building": "Kundrathur Panchayat Union Elementary School, South Facing, West Wing, Mangadu-600122",
       "lat": 12.8881339,
-      "lng": 79.98238820000002
+      "lng": 79.98238820000002,
+      "comparison": {
+        "dmk_swing": 6.04,
+        "aiadmk_swing": -15.32,
+        "turnout_change": 24.77
+      }
     },
     {
       "booth_no": "216",
@@ -4976,7 +6054,12 @@
       "village": "North Facing",
       "building": "Panchayat Union Middle School, North Facing, West Wing, Mangadu-600122",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": -1.53,
+        "aiadmk_swing": -4.49,
+        "turnout_change": -13.51
+      }
     },
     {
       "booth_no": "217",
@@ -4999,7 +6082,12 @@
       "village": "North Facing",
       "building": "Panchayat Union Middle School, North Facing, West Wing, Mangadu-600122",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": 28.4,
+        "aiadmk_swing": -27.08,
+        "turnout_change": -1.59
+      }
     },
     {
       "booth_no": "218",
@@ -5022,7 +6110,12 @@
       "village": "North Facing",
       "building": "Padma Subramaniam Bala Bhavan Matriculation Higher Secondary School, North Facing, West Wing, Mangadu- 600122",
       "lat": 13.0325631,
-      "lng": 80.108958
+      "lng": 80.108958,
+      "comparison": {
+        "dmk_swing": 17.45,
+        "aiadmk_swing": -28.14,
+        "turnout_change": -5.67
+      }
     },
     {
       "booth_no": "219",
@@ -5045,7 +6138,12 @@
       "village": "North Facing",
       "building": "Padma Subramaniam Bala Bhavan Matriculation Higher Secondary School, North Facing, West Wing, Mangadu- 600122",
       "lat": 13.0325631,
-      "lng": 80.108958
+      "lng": 80.108958,
+      "comparison": {
+        "dmk_swing": 15.5,
+        "aiadmk_swing": -17.22,
+        "turnout_change": 29.13
+      }
     },
     {
       "booth_no": "220",
@@ -5068,7 +6166,12 @@
       "village": "North Facing",
       "building": "St. Anns Matriculation High School, North Facing, South Wing, Mangadu-600122",
       "lat": 13.0371674,
-      "lng": 80.10637799999999
+      "lng": 80.10637799999999,
+      "comparison": {
+        "dmk_swing": 17.42,
+        "aiadmk_swing": -17.83,
+        "turnout_change": 92.14
+      }
     },
     {
       "booth_no": "221",
@@ -5091,7 +6194,12 @@
       "village": "West Facing",
       "building": "St.Anns Matriculation high School, West Facing, East wing, Raghunathapuram, Mangadu-600122",
       "lat": 13.0371674,
-      "lng": 80.10637799999999
+      "lng": 80.10637799999999,
+      "comparison": {
+        "dmk_swing": 5.24,
+        "aiadmk_swing": -7.46,
+        "turnout_change": -23.59
+      }
     },
     {
       "booth_no": "222",
@@ -5114,7 +6222,12 @@
       "village": "North Facing",
       "building": "Padma Subramaniam Bala Bhavan Matriculation Higher Secondary School, North Facing, West Wing, Mangadu- 600122",
       "lat": 13.0325631,
-      "lng": 80.108958
+      "lng": 80.108958,
+      "comparison": {
+        "dmk_swing": 3.6,
+        "aiadmk_swing": -7.86,
+        "turnout_change": 89.11
+      }
     },
     {
       "booth_no": "223",
@@ -5137,7 +6250,12 @@
       "village": "South Facing",
       "building": "Velammal Vidyalaya, South Facing, North Wing, Room No. 29, Mangadu - 600122",
       "lat": 13.0271245,
-      "lng": 80.1159853
+      "lng": 80.1159853,
+      "comparison": {
+        "dmk_swing": -9.41,
+        "aiadmk_swing": 6.18,
+        "turnout_change": -21.24
+      }
     },
     {
       "booth_no": "224",
@@ -5160,7 +6278,12 @@
       "village": "South Facing",
       "building": "Velammal Vidyalaya, South Facing, North Wing, Room No. 29, Mangadu - 600122",
       "lat": 13.0271245,
-      "lng": 80.1159853
+      "lng": 80.1159853,
+      "comparison": {
+        "dmk_swing": 3.23,
+        "aiadmk_swing": 4.27,
+        "turnout_change": 46.63
+      }
     },
     {
       "booth_no": "225",
@@ -5183,7 +6306,12 @@
       "village": "South Facing",
       "building": "Velammal Vidyalaya, South Facing, North Wing, Room No. 6, Mangadu - 600122",
       "lat": 13.0271245,
-      "lng": 80.1159853
+      "lng": 80.1159853,
+      "comparison": {
+        "dmk_swing": 16.68,
+        "aiadmk_swing": -11.52,
+        "turnout_change": 9.95
+      }
     },
     {
       "booth_no": "226",
@@ -5206,7 +6334,12 @@
       "village": "South Facing",
       "building": "Velammal Vidyalaya, South Facing, North Wing, Room No. 6, Mangadu - 600122",
       "lat": 13.0271245,
-      "lng": 80.1159853
+      "lng": 80.1159853,
+      "comparison": {
+        "dmk_swing": 16.34,
+        "aiadmk_swing": -11.21,
+        "turnout_change": 17.91
+      }
     },
     {
       "booth_no": "227",
@@ -5229,7 +6362,12 @@
       "village": "East Facing",
       "building": "Velammal Vidyalaya, East Facing, West Wing, Room No. 7, Mangadu - 600122",
       "lat": 13.0271245,
-      "lng": 80.1159853
+      "lng": 80.1159853,
+      "comparison": {
+        "dmk_swing": 10.0,
+        "aiadmk_swing": -2.23,
+        "turnout_change": -19.6
+      }
     },
     {
       "booth_no": "228",
@@ -5252,7 +6390,12 @@
       "village": "East Facing",
       "building": "Velammal Vidyalaya, East Facing, West Wing, Room No. 7, Mangadu - 600122",
       "lat": 13.0271245,
-      "lng": 80.1159853
+      "lng": 80.1159853,
+      "comparison": {
+        "dmk_swing": -1.47,
+        "aiadmk_swing": -0.84,
+        "turnout_change": -7.9
+      }
     },
     {
       "booth_no": "229",
@@ -5275,7 +6418,12 @@
       "village": "West Facing",
       "building": "Government High School (Muslim), West Facing, East Wing, Mangadu-600122",
       "lat": 13.0317462,
-      "lng": 80.1119385
+      "lng": 80.1119385,
+      "comparison": {
+        "dmk_swing": -21.48,
+        "aiadmk_swing": 5.89,
+        "turnout_change": 35.13
+      }
     },
     {
       "booth_no": "230",
@@ -5298,7 +6446,12 @@
       "village": "West Facing",
       "building": "Government High School (Muslim), West Facing, East Wing, Mangadu-600122",
       "lat": 13.0317462,
-      "lng": 80.1119385
+      "lng": 80.1119385,
+      "comparison": {
+        "dmk_swing": -4.75,
+        "aiadmk_swing": 3.51,
+        "turnout_change": 39.15
+      }
     },
     {
       "booth_no": "231",
@@ -5321,7 +6474,12 @@
       "village": "East Facing",
       "building": "Government High School (Hindu), East Facing, West Wing, Pattu Mangadu-600122",
       "lat": 13.0317462,
-      "lng": 80.1119385
+      "lng": 80.1119385,
+      "comparison": {
+        "dmk_swing": 9.74,
+        "aiadmk_swing": -10.99,
+        "turnout_change": 29.15
+      }
     },
     {
       "booth_no": "232",
@@ -5344,7 +6502,12 @@
       "village": "East Facing",
       "building": "Government High School (Hindu), East Facing, West Wing, Pattu Mangadu-600122",
       "lat": 13.0317462,
-      "lng": 80.1119385
+      "lng": 80.1119385,
+      "comparison": {
+        "dmk_swing": -11.67,
+        "aiadmk_swing": 12.01,
+        "turnout_change": -14.38
+      }
     },
     {
       "booth_no": "233",
@@ -5367,7 +6530,12 @@
       "village": "East Facing",
       "building": "Government High School (Muslim), East Facing, West Wing, Pattu Mangadu-600122",
       "lat": 13.0317462,
-      "lng": 80.1119385
+      "lng": 80.1119385,
+      "comparison": {
+        "dmk_swing": -15.08,
+        "aiadmk_swing": 10.39,
+        "turnout_change": -16.45
+      }
     },
     {
       "booth_no": "234",
@@ -5390,7 +6558,12 @@
       "village": "East Facing",
       "building": "Government High School (Muslim), East Facing, West Wing, Pattu Mangadu-600122",
       "lat": 13.0317462,
-      "lng": 80.1119385
+      "lng": 80.1119385,
+      "comparison": {
+        "dmk_swing": -8.65,
+        "aiadmk_swing": -0.67,
+        "turnout_change": 0.53
+      }
     },
     {
       "booth_no": "235",
@@ -5413,7 +6586,12 @@
       "village": "East Facing",
       "building": "Panchayat Union Primary School (Muslim), East Facing, North Wing, Pattu Mangadu- 600122",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": -5.15,
+        "aiadmk_swing": 16.71,
+        "turnout_change": -21.71
+      }
     },
     {
       "booth_no": "236",
@@ -5436,7 +6614,12 @@
       "village": "East Facing",
       "building": "Panchayat Union Primary School (Muslim), East Facing, North Wing, Pattu Mangadu- 600122",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": -0.52,
+        "aiadmk_swing": -4.49,
+        "turnout_change": -46.33
+      }
     },
     {
       "booth_no": "237",
@@ -5459,7 +6642,12 @@
       "village": "South Building",
       "building": "Panchayat Union Primary School (Muslim), South Building, EastFacing South Wing, Pattu Mangadu-600122",
       "lat": 13.025323,
-      "lng": 80.1145605
+      "lng": 80.1145605,
+      "comparison": {
+        "dmk_swing": 1.35,
+        "aiadmk_swing": 17.76,
+        "turnout_change": 265.53
+      }
     },
     {
       "booth_no": "238",
@@ -5482,7 +6670,12 @@
       "village": "West Facing",
       "building": "Government High School (Muslim), West Facing, East Wing, Pattu Mangadu-600122",
       "lat": 13.0317462,
-      "lng": 80.1119385
+      "lng": 80.1119385,
+      "comparison": {
+        "dmk_swing": 0.19,
+        "aiadmk_swing": 18.42,
+        "turnout_change": 16.45
+      }
     },
     {
       "booth_no": "239",
@@ -5505,7 +6698,12 @@
       "village": "West Facing",
       "building": "Government High School (Muslim), West Facing, East Wing, Pattu Mangadu-600122",
       "lat": 13.0317462,
-      "lng": 80.1119385
+      "lng": 80.1119385,
+      "comparison": {
+        "dmk_swing": 12.32,
+        "aiadmk_swing": -7.47,
+        "turnout_change": -32.19
+      }
     },
     {
       "booth_no": "240",
@@ -5528,7 +6726,12 @@
       "village": "West Facing",
       "building": "Government High School (Muslim), West Facing, East Wing, Pattu Mangadu-600122",
       "lat": 13.0317462,
-      "lng": 80.1119385
+      "lng": 80.1119385,
+      "comparison": {
+        "dmk_swing": 16.2,
+        "aiadmk_swing": -15.04,
+        "turnout_change": 181.31
+      }
     },
     {
       "booth_no": "241",
@@ -5551,7 +6754,12 @@
       "village": "West Facing",
       "building": "Panchayat Union Middle School, West Facing, East Wing, South Side, Sikkarayapuram-600069",
       "lat": 13.0150295,
-      "lng": 80.102987
+      "lng": 80.102987,
+      "comparison": {
+        "dmk_swing": 25.04,
+        "aiadmk_swing": -11.84,
+        "turnout_change": 21.12
+      }
     },
     {
       "booth_no": "242",
@@ -5574,7 +6782,12 @@
       "village": "West Facing",
       "building": "Panchayat Union Middle School, West Facing, East Wing, South Side, Sikkarayapuram-600069",
       "lat": 13.0150295,
-      "lng": 80.102987
+      "lng": 80.102987,
+      "comparison": {
+        "dmk_swing": 18.16,
+        "aiadmk_swing": -10.4,
+        "turnout_change": 53.46
+      }
     },
     {
       "booth_no": "243",
@@ -5597,7 +6810,12 @@
       "village": "West Facing",
       "building": "Panchayat Union Middle School, West Facing, East Wing, North Side, Sikkarayapuram-600069",
       "lat": 13.0150295,
-      "lng": 80.102987
+      "lng": 80.102987,
+      "comparison": {
+        "dmk_swing": -5.47,
+        "aiadmk_swing": 15.4,
+        "turnout_change": -5.36
+      }
     },
     {
       "booth_no": "244",
@@ -5620,7 +6838,12 @@
       "village": "East Facing",
       "building": "Mangadu Public School, East Facing, West Wing, Sikkarayapuram-600069",
       "lat": 13.0148554,
-      "lng": 80.10903259999999
+      "lng": 80.10903259999999,
+      "comparison": {
+        "dmk_swing": 30.12,
+        "aiadmk_swing": -14.17,
+        "turnout_change": -20.99
+      }
     },
     {
       "booth_no": "245",
@@ -5643,7 +6866,12 @@
       "village": "East Facing",
       "building": "Mangadu Public School, East Facing, West Wing, Sikkarayapuram-600069",
       "lat": 13.0148554,
-      "lng": 80.10903259999999
+      "lng": 80.10903259999999,
+      "comparison": {
+        "dmk_swing": 9.67,
+        "aiadmk_swing": -9.55,
+        "turnout_change": 25.43
+      }
     },
     {
       "booth_no": "246",
@@ -5666,7 +6894,12 @@
       "village": "East Facing",
       "building": "Mangadu Public School, East Facing, West Wing, Sikkarayapuram-600069",
       "lat": 13.0148554,
-      "lng": 80.10903259999999
+      "lng": 80.10903259999999,
+      "comparison": {
+        "dmk_swing": -15.52,
+        "aiadmk_swing": 3.78,
+        "turnout_change": -11.43
+      }
     },
     {
       "booth_no": "247",
@@ -5689,7 +6922,12 @@
       "village": "East Facing",
       "building": "Mangadu Public School, East Facing, West Wing, Sikkarayapuram-600069",
       "lat": 13.0148554,
-      "lng": 80.10903259999999
+      "lng": 80.10903259999999,
+      "comparison": {
+        "dmk_swing": -13.36,
+        "aiadmk_swing": 2.29,
+        "turnout_change": -52.85
+      }
     },
     {
       "booth_no": "248",
@@ -5712,7 +6950,12 @@
       "village": "West Facing",
       "building": "Panchayat Union Middle School, West Facing, East Wing, Sikkarayapuram- 600069",
       "lat": 13.0150295,
-      "lng": 80.102987
+      "lng": 80.102987,
+      "comparison": {
+        "dmk_swing": -14.61,
+        "aiadmk_swing": 8.68,
+        "turnout_change": 8.93
+      }
     },
     {
       "booth_no": "249",
@@ -5735,7 +6978,12 @@
       "village": "West Facing",
       "building": "Panchayat Union Middle School, West Facing, East Wing, Sikkarayapuram- 600069",
       "lat": 13.0150295,
-      "lng": 80.102987
+      "lng": 80.102987,
+      "comparison": {
+        "dmk_swing": 27.08,
+        "aiadmk_swing": -15.23,
+        "turnout_change": -37.07
+      }
     },
     {
       "booth_no": "250",
@@ -5758,7 +7006,12 @@
       "village": "West Facing",
       "building": "Panchayat Union Middle School, West Facing, East Wing, Sikkarayapuram- 600069",
       "lat": 13.0150295,
-      "lng": 80.102987
+      "lng": 80.102987,
+      "comparison": {
+        "dmk_swing": 10.82,
+        "aiadmk_swing": -9.45,
+        "turnout_change": 15.36
+      }
     },
     {
       "booth_no": "251",
@@ -5781,7 +7034,12 @@
       "village": "West Facing",
       "building": "Panchayat Union Middle School, West Facing, East Wing, Sikkarayapuram- 600069",
       "lat": 13.0150295,
-      "lng": 80.102987
+      "lng": 80.102987,
+      "comparison": {
+        "dmk_swing": -8.27,
+        "aiadmk_swing": -6.36,
+        "turnout_change": -56.77
+      }
     },
     {
       "booth_no": "252",
@@ -5804,7 +7062,12 @@
       "village": "East Side Building",
       "building": "Panchayat Union Middle School, East Side Building, North facing, South wing, Sikkarayapuram-600069",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": 12.37,
+        "aiadmk_swing": -11.79,
+        "turnout_change": 13.8
+      }
     },
     {
       "booth_no": "253",
@@ -5827,7 +7090,12 @@
       "village": "East Side Building",
       "building": "Panchayat Union Middle School, East Side Building, North facing, South wing, Sikkarayapuram-600069",
       "lat": 12.9758941,
-      "lng": 80.04278819999999
+      "lng": 80.04278819999999,
+      "comparison": {
+        "dmk_swing": 24.54,
+        "aiadmk_swing": -9.46,
+        "turnout_change": 29.36
+      }
     },
     {
       "booth_no": "254",
@@ -5850,7 +7118,12 @@
       "village": "North facing",
       "building": "Panchayat Union Middle School, North facing, south wing, Sikkarayapuram- 600069",
       "lat": 13.0150295,
-      "lng": 80.102987
+      "lng": 80.102987,
+      "comparison": {
+        "dmk_swing": -7.04,
+        "aiadmk_swing": 5.31,
+        "turnout_change": 50.27
+      }
     },
     {
       "booth_no": "255",
@@ -5873,7 +7146,12 @@
       "village": "North facing",
       "building": "Panchayat Union Middle School, North facing, south wing, Sikkarayapuram- 600069",
       "lat": 13.0150295,
-      "lng": 80.102987
+      "lng": 80.102987,
+      "comparison": {
+        "dmk_swing": -1.79,
+        "aiadmk_swing": 3.08,
+        "turnout_change": -0.46
+      }
     },
     {
       "booth_no": "256",
@@ -5896,7 +7174,12 @@
       "village": "North Facing",
       "building": "Panchayat Union Primary School, North Facing, South Wing, West Side, Karaima Nagar, Kundrathur-600069",
       "lat": 12.9884248,
-      "lng": 80.117679
+      "lng": 80.117679,
+      "comparison": {
+        "dmk_swing": 17.74,
+        "aiadmk_swing": -20.65,
+        "turnout_change": -20.33
+      }
     },
     {
       "booth_no": "257",
@@ -5919,7 +7202,12 @@
       "village": "North Facing",
       "building": "Panchayat Union Primary School, North Facing, South Wing, West Side, Karaima Nagar, Kundrathur-600069",
       "lat": 12.9884248,
-      "lng": 80.117679
+      "lng": 80.117679,
+      "comparison": {
+        "dmk_swing": -0.14,
+        "aiadmk_swing": -6.74,
+        "turnout_change": 13.0
+      }
     },
     {
       "booth_no": "258",
@@ -5942,7 +7230,12 @@
       "village": "North Facing",
       "building": "Panchayat Union Primary School, North Facing, South Wing, East Side, Karaima Nagar, Kundrathur-600069",
       "lat": 12.9884248,
-      "lng": 80.117679
+      "lng": 80.117679,
+      "comparison": {
+        "dmk_swing": -2.59,
+        "aiadmk_swing": 8.95,
+        "turnout_change": 35.35
+      }
     },
     {
       "booth_no": "259",
@@ -5965,7 +7258,12 @@
       "village": "North Facing",
       "building": "Panchayat Union Primary School, North Facing, South Wing, East Side, Karaima Nagar, Kundrathur-600069",
       "lat": 12.9884248,
-      "lng": 80.117679
+      "lng": 80.117679,
+      "comparison": {
+        "dmk_swing": -7.84,
+        "aiadmk_swing": 0.9,
+        "turnout_change": -12.85
+      }
     },
     {
       "booth_no": "260",
@@ -5988,7 +7286,12 @@
       "village": "East Facing",
       "building": "Peace On Green Earth Public School, East Facing, West Side, Karaima Nagar, Kundrathur-600069",
       "lat": 12.9840539,
-      "lng": 80.11667210000002
+      "lng": 80.11667210000002,
+      "comparison": {
+        "dmk_swing": 8.37,
+        "aiadmk_swing": -10.29,
+        "turnout_change": -3.71
+      }
     },
     {
       "booth_no": "261",
@@ -6011,7 +7314,12 @@
       "village": "North Facing",
       "building": "Sivanthi Public School, North Facing, South Wing, Karaima Nagar, Kundrathur- 600069",
       "lat": 12.9880192,
-      "lng": 80.1059915
+      "lng": 80.1059915,
+      "comparison": {
+        "dmk_swing": 8.86,
+        "aiadmk_swing": -12.87,
+        "turnout_change": -1.13
+      }
     },
     {
       "booth_no": "262",
@@ -6034,7 +7342,12 @@
       "village": "North Facing",
       "building": "Sivanthi Public School, North Facing, South Wing, Karaima Nagar, Kundrathur- 600069",
       "lat": 12.9880192,
-      "lng": 80.1059915
+      "lng": 80.1059915,
+      "comparison": {
+        "dmk_swing": -7.46,
+        "aiadmk_swing": 9.75,
+        "turnout_change": 44.36
+      }
     },
     {
       "booth_no": "263",
@@ -6057,7 +7370,12 @@
       "village": "North Facing",
       "building": "Sivanthi Public School, North Facing, South Wing, Karaima Nagar, Kundrathur- 600069",
       "lat": 12.9880192,
-      "lng": 80.1059915
+      "lng": 80.1059915,
+      "comparison": {
+        "dmk_swing": 13.95,
+        "aiadmk_swing": 2.85,
+        "turnout_change": 0.35
+      }
     },
     {
       "booth_no": "264",
@@ -6080,7 +7398,12 @@
       "village": "East Facing",
       "building": "Sivanthi Public School, East Facing, West Wing, Karaima Nagar, Kundrathur-600069",
       "lat": 12.9880192,
-      "lng": 80.1059915
+      "lng": 80.1059915,
+      "comparison": {
+        "dmk_swing": 22.5,
+        "aiadmk_swing": -23.98,
+        "turnout_change": -30.42
+      }
     },
     {
       "booth_no": "265",
@@ -6103,7 +7426,12 @@
       "village": "North Facing",
       "building": "Government Girls Higher Secondary School, North Facing, East Wing, Thiurnageswaram Kundrathur-600069",
       "lat": 12.9677068,
-      "lng": 79.9429916
+      "lng": 79.9429916,
+      "comparison": {
+        "dmk_swing": 38.36,
+        "aiadmk_swing": -41.65,
+        "turnout_change": -3.23
+      }
     },
     {
       "booth_no": "266",
@@ -6126,7 +7454,12 @@
       "village": "South Facing",
       "building": "Little Flower Matriculation Higher Secondary School, South Facing, West Wing, Manikkam Nagar, Kundrathur- 600069",
       "lat": 12.9900795,
-      "lng": 80.0979385
+      "lng": 80.0979385,
+      "comparison": {
+        "dmk_swing": 18.44,
+        "aiadmk_swing": -21.77,
+        "turnout_change": 4.94
+      }
     },
     {
       "booth_no": "267",
@@ -6149,7 +7482,12 @@
       "village": "South Facing",
       "building": "Little Flower Matriculation Higher Secondary School, South Facing, West Wing, Manikkam Nagar, Kundrathur- 600069",
       "lat": 12.9900795,
-      "lng": 80.0979385
+      "lng": 80.0979385,
+      "comparison": {
+        "dmk_swing": -21.58,
+        "aiadmk_swing": 17.3,
+        "turnout_change": 26.09
+      }
     },
     {
       "booth_no": "268",
@@ -6172,7 +7510,12 @@
       "village": "South Facing",
       "building": "Little Flower Matriculation Higher Secondary School, South Facing, East Wing, Manikkam Nagar, Kundrathur- 600069",
       "lat": 12.9900795,
-      "lng": 80.0979385
+      "lng": 80.0979385,
+      "comparison": {
+        "dmk_swing": -17.78,
+        "aiadmk_swing": 13.66,
+        "turnout_change": 2.64
+      }
     },
     {
       "booth_no": "269",
@@ -6195,7 +7538,12 @@
       "village": "South Facing",
       "building": "Little Flower Matriculation Higher Secondary School, South Facing, East Wing, Manikkam Nagar, Kundrathur- 600069",
       "lat": 12.9900795,
-      "lng": 80.0979385
+      "lng": 80.0979385,
+      "comparison": {
+        "dmk_swing": 3.5,
+        "aiadmk_swing": 4.8,
+        "turnout_change": -15.2
+      }
     },
     {
       "booth_no": "270",
@@ -6218,7 +7566,12 @@
       "village": "North Facing",
       "building": "Government Girls Higher Secondary School, North Facing, East Wing, Venkatapuram,Kundrathur-600069",
       "lat": 12.9677068,
-      "lng": 79.9429916
+      "lng": 79.9429916,
+      "comparison": {
+        "dmk_swing": 13.54,
+        "aiadmk_swing": -4.3,
+        "turnout_change": 19.31
+      }
     },
     {
       "booth_no": "271",
@@ -6241,7 +7594,12 @@
       "village": "North Facing",
       "building": "Government Girls Higher Secondary School, North Facing, East Wing, Room No. 3, Manancheri Kundrathur,600069",
       "lat": 12.998455,
-      "lng": 80.1006305
+      "lng": 80.1006305,
+      "comparison": {
+        "dmk_swing": 2.72,
+        "aiadmk_swing": 6.39,
+        "turnout_change": 5.19
+      }
     },
     {
       "booth_no": "272",
@@ -6264,7 +7622,12 @@
       "village": "North Wing",
       "building": "Panchayat Union Elementary School, North Wing, East Facing, East Side, Melandai Street, Kundrathur-600069",
       "lat": 13.0286324,
-      "lng": 80.1075625
+      "lng": 80.1075625,
+      "comparison": {
+        "dmk_swing": -8.44,
+        "aiadmk_swing": 1.85,
+        "turnout_change": -10.65
+      }
     },
     {
       "booth_no": "273",
@@ -6287,7 +7650,12 @@
       "village": "North Wing",
       "building": "Panchayat Union Elementary School, North Wing, East Facing, East Side, Melandai Street, Kundrathur-600069",
       "lat": 13.0286324,
-      "lng": 80.1075625
+      "lng": 80.1075625,
+      "comparison": {
+        "dmk_swing": 12.28,
+        "aiadmk_swing": -18.36,
+        "turnout_change": -17.53
+      }
     },
     {
       "booth_no": "274",
@@ -6310,7 +7678,12 @@
       "village": "North Wing",
       "building": "Panchayat Union Elementary School, North Wing, East Facing, East Side, Melandai Street, Kundrathur-600069",
       "lat": 13.0286324,
-      "lng": 80.1075625
+      "lng": 80.1075625,
+      "comparison": {
+        "dmk_swing": 5.74,
+        "aiadmk_swing": -12.85,
+        "turnout_change": -1.35
+      }
     },
     {
       "booth_no": "275",
@@ -6333,7 +7706,12 @@
       "village": "North Wing",
       "building": "Panchayat Union Elementary School, North Wing, East Facing, East Side, Melandai Street, Kundrathur-600069",
       "lat": 13.0286324,
-      "lng": 80.1075625
+      "lng": 80.1075625,
+      "comparison": {
+        "dmk_swing": 7.72,
+        "aiadmk_swing": -6.52,
+        "turnout_change": -46.3
+      }
     },
     {
       "booth_no": "276",
@@ -6356,7 +7734,12 @@
       "village": "East Facing",
       "building": "Little Flower Matriculation Higher Secondary School, East Facing, South Wing, Manickam Nagar Main Road, Kundrathur-600069",
       "lat": 12.9900795,
-      "lng": 80.0979385
+      "lng": 80.0979385,
+      "comparison": {
+        "dmk_swing": 19.11,
+        "aiadmk_swing": -18.55,
+        "turnout_change": -2.22
+      }
     },
     {
       "booth_no": "277",
@@ -6379,7 +7762,12 @@
       "village": "East Facing",
       "building": "Little Flower Matriculation Higher Secondary School, East Facing, South Wing, Manickam Nagar Main Road, Kundrathur-600069",
       "lat": 12.9900795,
-      "lng": 80.0979385
+      "lng": 80.0979385,
+      "comparison": {
+        "dmk_swing": 18.56,
+        "aiadmk_swing": -12.58,
+        "turnout_change": -20.8
+      }
     },
     {
       "booth_no": "278",
@@ -6402,7 +7790,12 @@
       "village": "North Facing",
       "building": "Little Flower Matriculation Higher Secondary School, North Facing, South Wing, Manickam Nagar Main Road, Kundrathur-600069",
       "lat": 12.9900795,
-      "lng": 80.0979385
+      "lng": 80.0979385,
+      "comparison": {
+        "dmk_swing": 8.44,
+        "aiadmk_swing": -7.69,
+        "turnout_change": 35.55
+      }
     },
     {
       "booth_no": "279",
@@ -6425,7 +7818,12 @@
       "village": "North Facing",
       "building": "Little Flower Matriculation Higher Secondary School, North Facing, South Wing, Room No. 2, Manickam Nagar Main Road, Kundrathur-600069",
       "lat": 12.9900795,
-      "lng": 80.0979385
+      "lng": 80.0979385,
+      "comparison": {
+        "dmk_swing": 0.54,
+        "aiadmk_swing": -3.84,
+        "turnout_change": -58.69
+      }
     },
     {
       "booth_no": "280",
@@ -6448,7 +7846,12 @@
       "village": "North Facing",
       "building": "Little Flower Matriculation Higher Secondary School, North Facing, South Wing, Room No. 2, Manickam Nagar Main Road, Kundrathur-600069",
       "lat": 12.9900795,
-      "lng": 80.0979385
+      "lng": 80.0979385,
+      "comparison": {
+        "dmk_swing": -5.33,
+        "aiadmk_swing": -0.51,
+        "turnout_change": -21.86
+      }
     },
     {
       "booth_no": "281",
@@ -6471,7 +7874,12 @@
       "village": "North Facing",
       "building": "Panchayat Union Primary School (Mixed), North Facing, South Wing, Room No. 3, Kundrathur-600069",
       "lat": 12.9988844,
-      "lng": 80.0933477
+      "lng": 80.0933477,
+      "comparison": {
+        "dmk_swing": 16.43,
+        "aiadmk_swing": -20.27,
+        "turnout_change": 57.14
+      }
     },
     {
       "booth_no": "282",
@@ -6494,7 +7902,12 @@
       "village": "Room No",
       "building": "Panchayat Union Primary School (Mixed), Room No. 4, Main Building, Kundrathur- 600069",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 18.41,
+        "aiadmk_swing": -19.71,
+        "turnout_change": -13.46
+      }
     },
     {
       "booth_no": "283",
@@ -6517,7 +7930,12 @@
       "village": "Room No",
       "building": "Panchayat Union Primary School (Mixed), Room No. 5, Main Building, Kundrathur- 600069",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 22.1,
+        "aiadmk_swing": -15.53,
+        "turnout_change": -3.89
+      }
     },
     {
       "booth_no": "284",
@@ -6540,7 +7958,12 @@
       "village": "Room No",
       "building": "Panchayat Union Primary School (Mixed), Room No. 5, Main Building, Kundrathur- 600069",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": -1.14,
+        "aiadmk_swing": 6.06,
+        "turnout_change": 86.35
+      }
     },
     {
       "booth_no": "285",
@@ -6563,7 +7986,12 @@
       "village": "Room No",
       "building": "Panchayat Union Primary School (Mixed), Room No. 6, Main Building, Kundrathur- 600069",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 1.83,
+        "aiadmk_swing": 2.4,
+        "turnout_change": -3.44
+      }
     },
     {
       "booth_no": "286",
@@ -6586,7 +8014,12 @@
       "village": "North Facing",
       "building": "Mukkula Nammalvar Chetty Vivekananda Matriculation Higher Secondary School, North Facing, North Wing, Kundrathur- 600069",
       "lat": 12.997668,
-      "lng": 80.0972003
+      "lng": 80.0972003,
+      "comparison": {
+        "dmk_swing": -6.16,
+        "aiadmk_swing": 6.53,
+        "turnout_change": -33.8
+      }
     },
     {
       "booth_no": "287",
@@ -6609,7 +8042,12 @@
       "village": "North Facing",
       "building": "Mukkula Nammalvar Chetty Vivekananda Matriculation Higher Secondary School, North Facing, North Wing, Kundrathur- 600069",
       "lat": 12.997668,
-      "lng": 80.0972003
+      "lng": 80.0972003,
+      "comparison": {
+        "dmk_swing": 11.63,
+        "aiadmk_swing": -6.33,
+        "turnout_change": -37.71
+      }
     },
     {
       "booth_no": "288",
@@ -6632,7 +8070,12 @@
       "village": "Room No",
       "building": "Panchayat Union Primary School (Mixed), Room No. 9, Kundrathur-600069",
       "lat": 12.9988844,
-      "lng": 80.0933477
+      "lng": 80.0933477,
+      "comparison": {
+        "dmk_swing": 9.55,
+        "aiadmk_swing": -6.8,
+        "turnout_change": 4.39
+      }
     },
     {
       "booth_no": "289",
@@ -6655,7 +8098,12 @@
       "village": "North Facing",
       "building": "Mukkula Nammalvar Chetty Vivekananda Matriculation Higher Secondary School, North Facing, South Wing, Kundrathur- 600069",
       "lat": 12.997668,
-      "lng": 80.0972003
+      "lng": 80.0972003,
+      "comparison": {
+        "dmk_swing": 7.97,
+        "aiadmk_swing": -5.18,
+        "turnout_change": -31.68
+      }
     },
     {
       "booth_no": "290",
@@ -6678,7 +8126,12 @@
       "village": "East Facing",
       "building": "Little Flower Matriculation Higher Secondary School, East Facing, North Wing, Manikkam Nagar, Kundrathur- 600069",
       "lat": 12.9900795,
-      "lng": 80.0979385
+      "lng": 80.0979385,
+      "comparison": {
+        "dmk_swing": 3.84,
+        "aiadmk_swing": -2.96,
+        "turnout_change": -0.31
+      }
     },
     {
       "booth_no": "291",
@@ -6701,7 +8154,12 @@
       "village": "East Facing",
       "building": "Little Flower Matriculation Higher Secondary School, East Facing, North Wing, Manikkam Nagar, Kundrathur- 600069",
       "lat": 12.9900795,
-      "lng": 80.0979385
+      "lng": 80.0979385,
+      "comparison": {
+        "dmk_swing": -3.31,
+        "aiadmk_swing": 2.26,
+        "turnout_change": -0.6
+      }
     },
     {
       "booth_no": "292",
@@ -6724,7 +8182,12 @@
       "village": "South Side",
       "building": "Government Girls Higher Secondary School, South Side, Kundrathur-600069",
       "lat": 12.9677068,
-      "lng": 79.9429916
+      "lng": 79.9429916,
+      "comparison": {
+        "dmk_swing": 0.83,
+        "aiadmk_swing": 0.07,
+        "turnout_change": -28.35
+      }
     },
     {
       "booth_no": "293",
@@ -6747,7 +8210,12 @@
       "village": "South Side",
       "building": "Government Girls Higher Secondary School, South Side, Kundrathur-600069",
       "lat": 12.9677068,
-      "lng": 79.9429916
+      "lng": 79.9429916,
+      "comparison": {
+        "dmk_swing": 9.31,
+        "aiadmk_swing": 0.01,
+        "turnout_change": -18.52
+      }
     },
     {
       "booth_no": "294",
@@ -6770,7 +8238,12 @@
       "village": "North Facing",
       "building": "Government Girls Higher Secondary School, North Facing, West Wing building,Room No 22, Kundrathur-600069",
       "lat": 12.8853219,
-      "lng": 80.013119
+      "lng": 80.013119,
+      "comparison": {
+        "dmk_swing": 1.31,
+        "aiadmk_swing": 7.49,
+        "turnout_change": 19.47
+      }
     },
     {
       "booth_no": "295",
@@ -6793,7 +8266,12 @@
       "village": "North Facing",
       "building": "Government Girls Higher Secondary School, North Facing, West Wing building,Room No 22, Kundrathur-600069",
       "lat": 12.8853219,
-      "lng": 80.013119
+      "lng": 80.013119,
+      "comparison": {
+        "dmk_swing": 4.22,
+        "aiadmk_swing": 14.88,
+        "turnout_change": 52.37
+      }
     },
     {
       "booth_no": "296",
@@ -6816,7 +8294,12 @@
       "village": "East Facing",
       "building": "Government Girls Higher Secondary School, East Facing,South Wing building,Room No 23, Kundrathur-600069",
       "lat": 12.8853219,
-      "lng": 80.013119
+      "lng": 80.013119,
+      "comparison": {
+        "dmk_swing": -1.94,
+        "aiadmk_swing": 10.94,
+        "turnout_change": 22.11
+      }
     },
     {
       "booth_no": "297",
@@ -6839,7 +8322,12 @@
       "village": "East Facing",
       "building": "Government Girls Higher Secondary School, East Facing,South Wing building,Room No 23, Kundrathur-600069",
       "lat": 12.8853219,
-      "lng": 80.013119
+      "lng": 80.013119,
+      "comparison": {
+        "dmk_swing": 12.42,
+        "aiadmk_swing": 11.21,
+        "turnout_change": 32.14
+      }
     },
     {
       "booth_no": "298",
@@ -6862,7 +8350,12 @@
       "village": "East Facing",
       "building": "Government Girls Higher Secondary School, East Facing, North Wing, Kundrathur-600069",
       "lat": 12.9677068,
-      "lng": 79.9429916
+      "lng": 79.9429916,
+      "comparison": {
+        "dmk_swing": 0.88,
+        "aiadmk_swing": 1.59,
+        "turnout_change": 27.21
+      }
     },
     {
       "booth_no": "299",
@@ -6885,7 +8378,12 @@
       "village": "South Facing",
       "building": "Government Girls Higher Secondary School, South Facing, west Wing, Kundrathur-600069",
       "lat": 12.9677068,
-      "lng": 79.9429916
+      "lng": 79.9429916,
+      "comparison": {
+        "dmk_swing": 15.38,
+        "aiadmk_swing": -16.58,
+        "turnout_change": 7.36
+      }
     },
     {
       "booth_no": "300",
@@ -6908,7 +8406,12 @@
       "village": "South Facing",
       "building": "Government Girls Higher Secondary School, South Facing, west Wing, Kundrathur-600069",
       "lat": 12.9677068,
-      "lng": 79.9429916
+      "lng": 79.9429916,
+      "comparison": {
+        "dmk_swing": 0.76,
+        "aiadmk_swing": 3.1,
+        "turnout_change": 49.45
+      }
     },
     {
       "booth_no": "301",
@@ -6931,7 +8434,12 @@
       "village": "South Facing",
       "building": "Government Girls Higher Secondary School, South Facing, East Wing, Kundrathur-600069",
       "lat": 12.9677068,
-      "lng": 79.9429916
+      "lng": 79.9429916,
+      "comparison": {
+        "dmk_swing": 4.49,
+        "aiadmk_swing": 6.5,
+        "turnout_change": 12.36
+      }
     },
     {
       "booth_no": "302",
@@ -6954,7 +8462,12 @@
       "village": "South Facing",
       "building": "Government Girls Higher Secondary School, South Facing, East Wing, Kundrathur-600069",
       "lat": 12.9677068,
-      "lng": 79.9429916
+      "lng": 79.9429916,
+      "comparison": {
+        "dmk_swing": -0.24,
+        "aiadmk_swing": 4.93,
+        "turnout_change": 23.2
+      }
     },
     {
       "booth_no": "303",
@@ -6977,7 +8490,12 @@
       "village": "New Building",
       "building": "Panchayat Union Primary School , New Building, North Facing, South Wing, Room No 7, Natham Kundrathur,-600069",
       "lat": 12.987057,
-      "lng": 80.09683199999999
+      "lng": 80.09683199999999,
+      "comparison": {
+        "dmk_swing": -1.97,
+        "aiadmk_swing": -6.48,
+        "turnout_change": 39.66
+      }
     },
     {
       "booth_no": "304",
@@ -7000,7 +8518,12 @@
       "village": "New Building",
       "building": "Panchayat Union Primary School , New Building, North Facing, South Wing, Room No 7, Natham Kundrathur,-600069",
       "lat": 12.987057,
-      "lng": 80.09683199999999
+      "lng": 80.09683199999999,
+      "comparison": {
+        "dmk_swing": -1.9,
+        "aiadmk_swing": 5.83,
+        "turnout_change": 41.12
+      }
     },
     {
       "booth_no": "305",
@@ -7023,7 +8546,12 @@
       "village": "New Building",
       "building": "Panchayat Union Primary School , New Building, North Facing, South Wing, Natham Kundrathur,-600069",
       "lat": 12.987057,
-      "lng": 80.09683199999999
+      "lng": 80.09683199999999,
+      "comparison": {
+        "dmk_swing": -9.98,
+        "aiadmk_swing": 6.52,
+        "turnout_change": 76.59
+      }
     },
     {
       "booth_no": "306",
@@ -7046,7 +8574,12 @@
       "village": "West Facing",
       "building": "Government Arts and Science College, West Facing, South Wing, B.Com, I Year, Kundrathur - 600069",
       "lat": 12.997668,
-      "lng": 80.0972003
+      "lng": 80.0972003,
+      "comparison": {
+        "dmk_swing": 4.24,
+        "aiadmk_swing": -8.79,
+        "turnout_change": -34.94
+      }
     },
     {
       "booth_no": "307",
@@ -7069,7 +8602,12 @@
       "village": "West Facing",
       "building": "Government Arts and Science College, West Facing, South Wing, B.B.A., I Year, Kundrathur - 600069",
       "lat": 12.997668,
-      "lng": 80.0972003
+      "lng": 80.0972003,
+      "comparison": {
+        "dmk_swing": -4.96,
+        "aiadmk_swing": 0.69,
+        "turnout_change": 37.19
+      }
     },
     {
       "booth_no": "308",
@@ -7092,7 +8630,12 @@
       "village": "West Facing",
       "building": "Government Arts and Science College, West Facing, South Wing, B.B.A., I Year, Kundrathur - 600069",
       "lat": 12.997668,
-      "lng": 80.0972003
+      "lng": 80.0972003,
+      "comparison": {
+        "dmk_swing": -11.58,
+        "aiadmk_swing": 10.49,
+        "turnout_change": -14.9
+      }
     },
     {
       "booth_no": "309",
@@ -7115,7 +8658,12 @@
       "village": "West Facing",
       "building": "Government Arts and Science College, West Facing, South Wing, Kundrathur - 600069",
       "lat": 12.997668,
-      "lng": 80.0972003
+      "lng": 80.0972003,
+      "comparison": {
+        "dmk_swing": 1.34,
+        "aiadmk_swing": 1.12,
+        "turnout_change": 214.93
+      }
     },
     {
       "booth_no": "310",
@@ -7138,7 +8686,12 @@
       "village": "West Facing",
       "building": "Government Arts and Science College, West Facing, South Wing, Kundrathur - 600069",
       "lat": 12.997668,
-      "lng": 80.0972003
+      "lng": 80.0972003,
+      "comparison": {
+        "dmk_swing": 0.35,
+        "aiadmk_swing": 2.9,
+        "turnout_change": 65.71
+      }
     },
     {
       "booth_no": "311",
@@ -7161,7 +8714,12 @@
       "village": "West Facing",
       "building": "Government Arts and Science College, West Facing, South Wing, Computer Lab, Kundrathur - 600069",
       "lat": 12.997668,
-      "lng": 80.0972003
+      "lng": 80.0972003,
+      "comparison": {
+        "dmk_swing": 5.01,
+        "aiadmk_swing": 0.66,
+        "turnout_change": 19.85
+      }
     },
     {
       "booth_no": "312",
@@ -7184,7 +8742,12 @@
       "village": "West Facing",
       "building": "Government Arts and Science College, West Facing, South Wing, Computer Lab, Kundrathur - 600069",
       "lat": 12.997668,
-      "lng": 80.0972003
+      "lng": 80.0972003,
+      "comparison": {
+        "dmk_swing": 2.92,
+        "aiadmk_swing": 7.31,
+        "turnout_change": 36.24
+      }
     },
     {
       "booth_no": "313",
@@ -7207,7 +8770,12 @@
       "village": "West Facing",
       "building": "Government Arts and Science College, West Facing, South Wing, Professors Room, Kundrathur - 600069",
       "lat": 12.997668,
-      "lng": 80.0972003
+      "lng": 80.0972003,
+      "comparison": {
+        "dmk_swing": 15.29,
+        "aiadmk_swing": -6.61,
+        "turnout_change": 10.7
+      }
     },
     {
       "booth_no": "314",
@@ -7230,7 +8798,12 @@
       "village": "West Facing",
       "building": "Government Arts and Science College, West Facing, South Wing, Professors Room, Kundrathur - 600069",
       "lat": 12.997668,
-      "lng": 80.0972003
+      "lng": 80.0972003,
+      "comparison": {
+        "dmk_swing": 21.76,
+        "aiadmk_swing": -27.85,
+        "turnout_change": -23.95
+      }
     },
     {
       "booth_no": "315",
@@ -7253,7 +8826,12 @@
       "village": "West Facing",
       "building": "Government Sekkizhar Higher Secondary School, West Facing, South Wing, Kundrathur-600069",
       "lat": 13.0028064,
-      "lng": 80.1003534
+      "lng": 80.1003534,
+      "comparison": {
+        "dmk_swing": 18.39,
+        "aiadmk_swing": -21.08,
+        "turnout_change": -4.82
+      }
     },
     {
       "booth_no": "316",
@@ -7276,7 +8854,12 @@
       "village": "West Facing",
       "building": "Government Sekkizhar Higher Secondary School, West Facing, South Wing, Kundrathur-600069",
       "lat": 13.0028064,
-      "lng": 80.1003534
+      "lng": 80.1003534,
+      "comparison": {
+        "dmk_swing": 7.24,
+        "aiadmk_swing": -9.86,
+        "turnout_change": 33.29
+      }
     },
     {
       "booth_no": "317",
@@ -7299,7 +8882,12 @@
       "village": "South Facing",
       "building": "Government Arts and Science College, South Facing, North Wing, Kundrathur - 600069",
       "lat": 12.997668,
-      "lng": 80.0972003
+      "lng": 80.0972003,
+      "comparison": {
+        "dmk_swing": 2.2,
+        "aiadmk_swing": -7.98,
+        "turnout_change": -3.25
+      }
     },
     {
       "booth_no": "318",
@@ -7322,7 +8910,12 @@
       "village": "South Facing",
       "building": "Government Arts and Science College, South Facing, North Wing, East Side, Kundrathur - 600069",
       "lat": 12.997668,
-      "lng": 80.0972003
+      "lng": 80.0972003,
+      "comparison": {
+        "dmk_swing": 2.09,
+        "aiadmk_swing": -0.93,
+        "turnout_change": -37.88
+      }
     },
     {
       "booth_no": "319",
@@ -7345,7 +8938,12 @@
       "village": "South Facing",
       "building": "Government Arts and Science College, South Facing, North Wing, East Side, Kundrathur - 600069",
       "lat": 12.997668,
-      "lng": 80.0972003
+      "lng": 80.0972003,
+      "comparison": {
+        "dmk_swing": -3.36,
+        "aiadmk_swing": 10.34,
+        "turnout_change": -1.11
+      }
     },
     {
       "booth_no": "320",
@@ -7368,7 +8966,12 @@
       "village": "South Facing",
       "building": "Government Sekkizhar Higher Secondary School, South Facing, North Wing, Kundrathur-600069",
       "lat": 13.0028064,
-      "lng": 80.1003534
+      "lng": 80.1003534,
+      "comparison": {
+        "dmk_swing": 1.97,
+        "aiadmk_swing": 2.12,
+        "turnout_change": -23.59
+      }
     },
     {
       "booth_no": "321",
@@ -7391,7 +8994,12 @@
       "village": "South Facing",
       "building": "Government Sekkizhar Higher Secondary School, South Facing, North Wing, Kundrathur-600069",
       "lat": 13.0028064,
-      "lng": 80.1003534
+      "lng": 80.1003534,
+      "comparison": {
+        "dmk_swing": -5.06,
+        "aiadmk_swing": 6.0,
+        "turnout_change": -32.97
+      }
     },
     {
       "booth_no": "322",
@@ -7414,7 +9022,12 @@
       "village": "South Facing",
       "building": "Panchayat Union Primary School , South Facing, North Wing, Thirumudivakkam- 600132",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 6.01,
+        "aiadmk_swing": 0.87,
+        "turnout_change": 60.65
+      }
     },
     {
       "booth_no": "323",
@@ -7437,7 +9050,12 @@
       "village": "South Facing",
       "building": "Panchayat Union Primary School , South Facing, North Wing, Thirumudivakkam- 600132",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 9.44,
+        "aiadmk_swing": -4.0,
+        "turnout_change": -8.47
+      }
     },
     {
       "booth_no": "324",
@@ -7460,7 +9078,12 @@
       "village": "South Facing",
       "building": "Panchayat Union Primary School, South Facing, North Wing, New Building, Thirumudivakkam-600132",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 2.09,
+        "aiadmk_swing": -0.79,
+        "turnout_change": -35.38
+      }
     },
     {
       "booth_no": "325",
@@ -7483,7 +9106,12 @@
       "village": "South Facing",
       "building": "Panchayat Union Primary School, South Facing, North Wing, New Building, Thirumudivakkam-600132",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 12.75,
+        "aiadmk_swing": -14.81,
+        "turnout_change": -11.62
+      }
     },
     {
       "booth_no": "326",
@@ -7506,7 +9134,12 @@
       "village": "South Facing",
       "building": "Panchayat Union Primary School , South Facing, North Wing, Thirumudivakkam- 600132",
       "lat": 13.0283965,
-      "lng": 80.00609659999999
+      "lng": 80.00609659999999,
+      "comparison": {
+        "dmk_swing": 17.23,
+        "aiadmk_swing": -9.2,
+        "turnout_change": -32.33
+      }
     },
     {
       "booth_no": "327",
@@ -7529,7 +9162,12 @@
       "village": "South Facing",
       "building": "Government Higher Secondary School, South Facing, Centre Building, Pazanthandalam-600132",
       "lat": 12.9677068,
-      "lng": 79.9429916
+      "lng": 79.9429916,
+      "comparison": {
+        "dmk_swing": 10.08,
+        "aiadmk_swing": -4.29,
+        "turnout_change": -39.06
+      }
     },
     {
       "booth_no": "328",
@@ -7552,7 +9190,12 @@
       "village": "North Facing",
       "building": "Government Higher Secondary School, North Facing, Centre Building, Pazanthandalam-600132",
       "lat": 12.9677068,
-      "lng": 79.9429916
+      "lng": 79.9429916,
+      "comparison": {
+        "dmk_swing": 9.33,
+        "aiadmk_swing": 3.92,
+        "turnout_change": -33.9
+      }
     },
     {
       "booth_no": "329",
@@ -7575,7 +9218,12 @@
       "village": "North Facing",
       "building": "Government Higher Secondary School, North Facing, Centre Building, Pazanthandalam-600132",
       "lat": 12.9677068,
-      "lng": 79.9429916
+      "lng": 79.9429916,
+      "comparison": {
+        "dmk_swing": 11.92,
+        "aiadmk_swing": -6.28,
+        "turnout_change": -34.12
+      }
     },
     {
       "booth_no": "330",
@@ -7598,7 +9246,12 @@
       "village": "West Facing",
       "building": "Government Higher Secondary School, West Facing, Centre Building, Pazanthandalam-600132",
       "lat": 12.9677068,
-      "lng": 79.9429916
+      "lng": 79.9429916,
+      "comparison": {
+        "dmk_swing": 7.8,
+        "aiadmk_swing": 1.64,
+        "turnout_change": -2.98
+      }
     },
     {
       "booth_no": "331",

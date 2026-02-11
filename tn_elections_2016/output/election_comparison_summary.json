@@ -1,0 +1,30 @@
+[
+  {
+    "ac_id": "AC036",
+    "name": "Uthiramerur",
+    "avg_dmk_swing": 1.409700996677741,
+    "avg_aiadmk_swing": 6.802857142857143,
+    "avg_turnout_change": 5.876877076411961
+  },
+  {
+    "ac_id": "AC037",
+    "name": "Kancheepuram",
+    "avg_dmk_swing": 4.364031746031746,
+    "avg_aiadmk_swing": 2.5316825396825395,
+    "avg_turnout_change": 5.972857142857142
+  },
+  {
+    "ac_id": "AC029",
+    "name": "Sriperumbudur",
+    "avg_dmk_swing": 4.955666666666667,
+    "avg_aiadmk_swing": -2.751242424242424,
+    "avg_turnout_change": 11.205303030303034
+  },
+  {
+    "ac_id": "AC028",
+    "name": "Alandur",
+    "avg_dmk_swing": 4.52827763496144,
+    "avg_aiadmk_swing": -3.5388946015424163,
+    "avg_turnout_change": 13.390745501285346
+  }
+]

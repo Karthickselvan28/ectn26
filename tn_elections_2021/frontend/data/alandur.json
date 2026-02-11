@@ -7,7 +7,10 @@
     "aiadmk_won": 85,
     "swing": 43,
     "lean": 58,
-    "strong": 464
+    "strong": 464,
+    "avg_dmk_swing": 4.52827763496144,
+    "avg_aiadmk_swing": -3.5388946015424163,
+    "avg_turnout_change": 13.390745501285346
   },
   "booths": [
     {
@@ -36,7 +39,12 @@
       "village": "",
       "building": "",
       "lat": null,
-      "lng": null
+      "lng": null,
+      "comparison": {
+        "dmk_swing": 4.44,
+        "aiadmk_swing": -3.51,
+        "turnout_change": 3.88
+      }
     },
     {
       "booth_no": "2",
@@ -64,7 +72,12 @@
       "village": "South Side Building North Facing Iyyappanthangal",
       "building": "Panchayat Union Primary School, South Side Building North Facing Iyyappanthangal-600056.",
       "lat": 13.0506077,
-      "lng": 80.0988127
+      "lng": 80.0988127,
+      "comparison": {
+        "dmk_swing": -1.35,
+        "aiadmk_swing": -2.83,
+        "turnout_change": 27.45
+      }
     },
     {
       "booth_no": "3",
@@ -92,7 +105,12 @@
       "village": "East Facing West Building",
       "building": "Panchayat Union Primary School, East Facing West Building, Iyyappanthangal- 600056.",
       "lat": 13.0506077,
-      "lng": 80.0988127
+      "lng": 80.0988127,
+      "comparison": {
+        "dmk_swing": 9.52,
+        "aiadmk_swing": -8.49,
+        "turnout_change": 7.41
+      }
     },
     {
       "booth_no": "4",
@@ -120,7 +138,12 @@
       "village": "North Facing",
       "building": "Panchayat Union Primary School, North Facing, Left Corner New Building Room No 1, Iyyappanthangal-500056.",
       "lat": 13.0541089,
-      "lng": 80.1543169
+      "lng": 80.1543169,
+      "comparison": {
+        "dmk_swing": 9.05,
+        "aiadmk_swing": -11.54,
+        "turnout_change": 13.21
+      }
     },
     {
       "booth_no": "5",
@@ -148,7 +171,12 @@
       "village": "East Facing west building",
       "building": "Panchayat union primary school, East Facing west building , Iyyappanthangal- 600056.",
       "lat": 13.0506077,
-      "lng": 80.0988127
+      "lng": 80.0988127,
+      "comparison": {
+        "dmk_swing": -4.2,
+        "aiadmk_swing": 6.19,
+        "turnout_change": 3.63
+      }
     },
     {
       "booth_no": "6",
@@ -176,7 +204,12 @@
       "village": "North Facing Left Corner New Building Room No",
       "building": "Panchayat union primary school, North Facing Left Corner New Building Room No 02, Iyyappanthangal-600056.",
       "lat": 13.0484624,
-      "lng": 80.1348127
+      "lng": 80.1348127,
+      "comparison": {
+        "dmk_swing": 4.42,
+        "aiadmk_swing": -8.45,
+        "turnout_change": 7.16
+      }
     },
     {
       "booth_no": "7",
@@ -204,7 +237,12 @@
       "village": "Iyyappanthangal",
       "building": "Panchayat union primary school west building, Iyyappanthangal -600056.",
       "lat": 13.0237241,
-      "lng": 80.1225821
+      "lng": 80.1225821,
+      "comparison": {
+        "dmk_swing": 2.46,
+        "aiadmk_swing": -5.31,
+        "turnout_change": -3.7
+      }
     },
     {
       "booth_no": "8",
@@ -232,7 +270,12 @@
       "village": "Iyyappanthangal",
       "building": "Government Higher Secondary School Iyyappanthangal, Iyyappanthangal 600056.",
       "lat": 12.8227048,
-      "lng": 79.6965056
+      "lng": 79.6965056,
+      "comparison": {
+        "dmk_swing": 9.44,
+        "aiadmk_swing": -11.37,
+        "turnout_change": 3.14
+      }
     },
     {
       "booth_no": "9",
@@ -260,7 +303,12 @@
       "village": "Iyyappanthangal",
       "building": "Government Higher Secondary School Iyyappanthangal, Iyyappanthangal 600056.",
       "lat": 12.8227048,
-      "lng": 79.6965056
+      "lng": 79.6965056,
+      "comparison": {
+        "dmk_swing": 6.73,
+        "aiadmk_swing": -11.27,
+        "turnout_change": 8.16
+      }
     },
     {
       "booth_no": "10",
@@ -288,7 +336,12 @@
       "village": "Iyyappanthangal",
       "building": "Government Higher Secondary School Iyyappanthangal, Iyyappanthangal 600056.",
       "lat": 12.8227048,
-      "lng": 79.6965056
+      "lng": 79.6965056,
+      "comparison": {
+        "dmk_swing": 6.84,
+        "aiadmk_swing": -7.98,
+        "turnout_change": 7.37
+      }
     },
     {
       "booth_no": "11",
@@ -316,7 +369,12 @@
       "village": "Iyyappanthangal",
       "building": "Government Higher Secondary School Iyyappanthangal, Iyyappanthangal 600056.",
       "lat": 12.8227048,
-      "lng": 79.6965056
+      "lng": 79.6965056,
+      "comparison": {
+        "dmk_swing": -2.41,
+        "aiadmk_swing": 4.05,
+        "turnout_change": 16.25
+      }
     },
     {
       "booth_no": "12",
@@ -344,7 +402,12 @@
       "village": "Iyyappanthangal",
       "building": "Government Higher Secondary School Iyyappanthangal, Iyyappanthangal 600056.",
       "lat": 12.8227048,
-      "lng": 79.6965056
+      "lng": 79.6965056,
+      "comparison": {
+        "dmk_swing": 4.75,
+        "aiadmk_swing": -1.17,
+        "turnout_change": 20.88
+      }
     },
     {
       "booth_no": "13",
@@ -372,7 +435,12 @@
       "village": "Iyyappanthangal",
       "building": "Government Higher Secondary School Iyyappanthangal, Iyyappanthangal 600056.",
       "lat": 12.8227048,
-      "lng": 79.6965056
+      "lng": 79.6965056,
+      "comparison": {
+        "dmk_swing": 1.93,
+        "aiadmk_swing": -11.39,
+        "turnout_change": 9.33
+      }
     },
     {
       "booth_no": "14",
@@ -400,7 +468,12 @@
       "village": "North Facing",
       "building": "Government Higher Secondary School, North Facing, Class No. 8, Iyyappanthangal - 600056",
       "lat": 13.0374408,
-      "lng": 80.13546339999999
+      "lng": 80.13546339999999,
+      "comparison": {
+        "dmk_swing": 3.66,
+        "aiadmk_swing": 5.67,
+        "turnout_change": 4.01
+      }
     },
     {
       "booth_no": "15",
@@ -428,7 +501,12 @@
       "village": "",
       "building": "Kalakshetra Higher Secondary School Sousth Facing Mount Poonamalli High Road Iyyappanthangal 600056",
       "lat": 13.0413894,
-      "lng": 80.1267136
+      "lng": 80.1267136,
+      "comparison": {
+        "dmk_swing": -11.52,
+        "aiadmk_swing": 7.6,
+        "turnout_change": 168.85
+      }
     },
     {
       "booth_no": "16",
@@ -456,7 +534,12 @@
       "village": "",
       "building": "Kalakshetra Higher Secondary School Sousth Facing Mount Poonamalli High Road Iyyappanthangal 600056",
       "lat": 13.0413894,
-      "lng": 80.1267136
+      "lng": 80.1267136,
+      "comparison": {
+        "dmk_swing": 10.85,
+        "aiadmk_swing": -17.83,
+        "turnout_change": 12.44
+      }
     },
     {
       "booth_no": "17",
@@ -484,7 +567,12 @@
       "village": "North Facing Building",
       "building": "Government Higher Secondary School, North Facing Building, Iyyappanthangal - 600056",
       "lat": 13.0212213,
-      "lng": 80.1669572
+      "lng": 80.1669572,
+      "comparison": {
+        "dmk_swing": 6.25,
+        "aiadmk_swing": -3.91,
+        "turnout_change": 7.65
+      }
     },
     {
       "booth_no": "18",
@@ -512,7 +600,12 @@
       "village": "North Facing Building Room No",
       "building": "Panchayat union primary school, North Facing Building Room No. 1 , Iyyappanthangal - 600056",
       "lat": 13.0397178,
-      "lng": 80.1336488
+      "lng": 80.1336488,
+      "comparison": {
+        "dmk_swing": 7.96,
+        "aiadmk_swing": -12.54,
+        "turnout_change": -2.51
+      }
     },
     {
       "booth_no": "19",
@@ -540,7 +633,12 @@
       "village": "North Facing Building Room No",
       "building": "Panchayat union primary school, North Facing Building Room No. 2, Iyyappanthangal - 600056",
       "lat": 13.0397178,
-      "lng": 80.1336488
+      "lng": 80.1336488,
+      "comparison": {
+        "dmk_swing": 5.88,
+        "aiadmk_swing": -7.57,
+        "turnout_change": 32.1
+      }
     },
     {
       "booth_no": "20",
@@ -568,7 +666,12 @@
       "village": "North Facing Building Room No",
       "building": "Panchayat union primary school, North Facing Building Room No. 3, Iyyappanthangal - 600056",
       "lat": 13.0397178,
-      "lng": 80.1336488
+      "lng": 80.1336488,
+      "comparison": {
+        "dmk_swing": 11.07,
+        "aiadmk_swing": -13.86,
+        "turnout_change": 15.19
+      }
     },
     {
       "booth_no": "21",
@@ -596,7 +699,12 @@
       "village": "North Facing Building Room No",
       "building": "Panchayat union primary school, North Facing Building Room No. 4, Iyyappanthangal - 600056",
       "lat": 13.0397178,
-      "lng": 80.1336488
+      "lng": 80.1336488,
+      "comparison": {
+        "dmk_swing": 2.01,
+        "aiadmk_swing": -3.38,
+        "turnout_change": 10.82
+      }
     },
     {
       "booth_no": "22",
@@ -624,7 +732,12 @@
       "village": "Iyyappanthangal",
       "building": "Kundrathur Panchayat Union Primary School Iyyappanthangal, Iyyappanthangal 600056.",
       "lat": 13.0330749,
-      "lng": 80.1405467
+      "lng": 80.1405467,
+      "comparison": {
+        "dmk_swing": 8.79,
+        "aiadmk_swing": -11.42,
+        "turnout_change": 23.64
+      }
     },
     {
       "booth_no": "23",
@@ -652,7 +765,12 @@
       "village": "Iyyappanthangal",
       "building": "Kundrathur Panchayat Union Primary School Iyyappanthangal, Iyyappanthangal 600056.",
       "lat": 13.0330749,
-      "lng": 80.1405467
+      "lng": 80.1405467,
+      "comparison": {
+        "dmk_swing": 0.72,
+        "aiadmk_swing": -5.13,
+        "turnout_change": 21.29
+      }
     },
     {
       "booth_no": "24",
@@ -680,7 +798,12 @@
       "village": "North Side Building",
       "building": "Kundrathur Panchayat Union Primary School, North Side Building, South Facing, Room No 3, Iyyappanthangal - 600056",
       "lat": 13.0427222,
-      "lng": 80.1384195
+      "lng": 80.1384195,
+      "comparison": {
+        "dmk_swing": -4.29,
+        "aiadmk_swing": 0.63,
+        "turnout_change": 36.62
+      }
     },
     {
       "booth_no": "25",
@@ -708,7 +831,12 @@
       "village": "",
       "building": "Kundrathur Panchayat Union Primary School Ayyappanthangal - 600056",
       "lat": 13.0506077,
-      "lng": 80.0988127
+      "lng": 80.0988127,
+      "comparison": {
+        "dmk_swing": 2.45,
+        "aiadmk_swing": -7.9,
+        "turnout_change": 107.58
+      }
     },
     {
       "booth_no": "26",
@@ -736,7 +864,12 @@
       "village": "Iyyappanthangal",
       "building": "Government Higher Secondary School Iyyappanthangal, Iyyappanthangal 600056.",
       "lat": 12.8227048,
-      "lng": 79.6965056
+      "lng": 79.6965056,
+      "comparison": {
+        "dmk_swing": 1.73,
+        "aiadmk_swing": -7.03,
+        "turnout_change": -15.04
+      }
     },
     {
       "booth_no": "27",
@@ -764,7 +897,12 @@
       "village": "North Side Building",
       "building": "Kundrathur Panchayat Union Primary School, North Side Building, South Facing, Room No 5, Iyyappanthangal - 600056",
       "lat": 13.0427222,
-      "lng": 80.1384195
+      "lng": 80.1384195,
+      "comparison": {
+        "dmk_swing": 3.23,
+        "aiadmk_swing": 4.71,
+        "turnout_change": 9.97
+      }
     },
     {
       "booth_no": "28",
@@ -792,7 +930,12 @@
       "village": "Srinivasapuram",
       "building": "Masi Matriculation Higher Secondary School Srinivasapuram, Srinivasapuram 600122.",
       "lat": 13.0347336,
-      "lng": 80.13465459999999
+      "lng": 80.13465459999999,
+      "comparison": {
+        "dmk_swing": -6.71,
+        "aiadmk_swing": 14.71,
+        "turnout_change": 17.51
+      }
     },
     {
       "booth_no": "29",
@@ -820,7 +963,12 @@
       "village": "Srinivasapuram",
       "building": "Masi Matriculation Higher Secondary School Srinivasapuram, Srinivasapuram 600122.",
       "lat": 13.0347336,
-      "lng": 80.13465459999999
+      "lng": 80.13465459999999,
+      "comparison": {
+        "dmk_swing": 3.71,
+        "aiadmk_swing": -3.1,
+        "turnout_change": -20.83
+      }
     },
     {
       "booth_no": "30",
@@ -848,7 +996,12 @@
       "village": "Srinivasapuram",
       "building": "Masi Matriculation Higher Secondary School Srinivasapuram, Srinivasapuram 600122.",
       "lat": 13.0347336,
-      "lng": 80.13465459999999
+      "lng": 80.13465459999999,
+      "comparison": {
+        "dmk_swing": -3.97,
+        "aiadmk_swing": 0.97,
+        "turnout_change": 6.09
+      }
     },
     {
       "booth_no": "31",
@@ -876,7 +1029,12 @@
       "village": "Srinivasapuram",
       "building": "Masi Matriculation Higher Secondary School Srinivasapuram, Srinivasapuram 600122.",
       "lat": 13.0347336,
-      "lng": 80.13465459999999
+      "lng": 80.13465459999999,
+      "comparison": {
+        "dmk_swing": -0.88,
+        "aiadmk_swing": 1.34,
+        "turnout_change": 5.23
+      }
     },
     {
       "booth_no": "32",
@@ -904,7 +1062,12 @@
       "village": "Srinivasapuram",
       "building": "Masi Matriculation Higher Secondary School Srinivasapuram, Srinivasapuram 600122.",
       "lat": 13.0347336,
-      "lng": 80.13465459999999
+      "lng": 80.13465459999999,
+      "comparison": {
+        "dmk_swing": 3.69,
+        "aiadmk_swing": -2.72,
+        "turnout_change": 13.34
+      }
     },
     {
       "booth_no": "33",
@@ -932,7 +1095,12 @@
       "village": "Srinivasapuram",
       "building": "Masi Matriculation Higher Secondary School Srinivasapuram, Srinivasapuram 600122.",
       "lat": 13.0347336,
-      "lng": 80.13465459999999
+      "lng": 80.13465459999999,
+      "comparison": {
+        "dmk_swing": 7.55,
+        "aiadmk_swing": 2.24,
+        "turnout_change": -5.65
+      }
     },
     {
       "booth_no": "34",
@@ -960,7 +1128,12 @@
       "village": "Srinivasapuram",
       "building": "Masi Matriculation Higher Secondary School Srinivasapuram, Srinivasapuram 600122.",
       "lat": 13.0347336,
-      "lng": 80.13465459999999
+      "lng": 80.13465459999999,
+      "comparison": {
+        "dmk_swing": 0.04,
+        "aiadmk_swing": -2.07,
+        "turnout_change": 24.38
+      }
     },
     {
       "booth_no": "35",
@@ -988,7 +1161,12 @@
       "village": "Srinivasapuram",
       "building": "Masi Matriculation Higher Secondary School Srinivasapuram, Srinivasapuram 600122.",
       "lat": 13.0347336,
-      "lng": 80.13465459999999
+      "lng": 80.13465459999999,
+      "comparison": {
+        "dmk_swing": 6.31,
+        "aiadmk_swing": -8.84,
+        "turnout_change": 32.33
+      }
     },
     {
       "booth_no": "36",
@@ -1016,7 +1194,12 @@
       "village": "West Facing",
       "building": "Panchayat Union Middle School, West Facing , Room No 1, Bharaniputhur - 600122",
       "lat": 13.021994,
-      "lng": 80.134018
+      "lng": 80.134018,
+      "comparison": {
+        "dmk_swing": 8.06,
+        "aiadmk_swing": -8.03,
+        "turnout_change": -18.8
+      }
     },
     {
       "booth_no": "37",
@@ -1044,7 +1227,12 @@
       "village": "West Facing Room No",
       "building": "Panchayat Union Middle School , West Facing Room No 2, Bharaniputhur - 600122",
       "lat": 13.021994,
-      "lng": 80.134018
+      "lng": 80.134018,
+      "comparison": {
+        "dmk_swing": 9.13,
+        "aiadmk_swing": -6.31,
+        "turnout_change": 56.01
+      }
     },
     {
       "booth_no": "38",
@@ -1072,7 +1260,12 @@
       "village": "West Facing Room No",
       "building": "Panchayat Union Middle School , West Facing Room No 3 , Bharaniputhur - 600122",
       "lat": 13.021994,
-      "lng": 80.134018
+      "lng": 80.134018,
+      "comparison": {
+        "dmk_swing": -5.07,
+        "aiadmk_swing": 13.35,
+        "turnout_change": 1.22
+      }
     },
     {
       "booth_no": "39",
@@ -1100,7 +1293,12 @@
       "village": "East Facing Room No",
       "building": "Panchayat Union Middle School , East Facing Room No 1 , Bharaniputhur - 600122",
       "lat": 13.021994,
-      "lng": 80.134018
+      "lng": 80.134018,
+      "comparison": {
+        "dmk_swing": 7.07,
+        "aiadmk_swing": -8.78,
+        "turnout_change": 1.86
+      }
     },
     {
       "booth_no": "40",
@@ -1128,7 +1326,12 @@
       "village": "Old Building West Side",
       "building": "Panchayat Union Middle school, Old Building West Side 600122, Bharaniputhur - 600122",
       "lat": 13.0211435,
-      "lng": 80.1313474
+      "lng": 80.1313474,
+      "comparison": {
+        "dmk_swing": 14.49,
+        "aiadmk_swing": -14.77,
+        "turnout_change": 45.61
+      }
     },
     {
       "booth_no": "41",
@@ -1156,7 +1359,12 @@
       "village": "South West Corner Room No",
       "building": "Panchayat Union Primay School, South West Corner Room No. 2, Bharaniputhur - 600122",
       "lat": 13.0205301,
-      "lng": 80.13223049999999
+      "lng": 80.13223049999999,
+      "comparison": {
+        "dmk_swing": 10.16,
+        "aiadmk_swing": -7.51,
+        "turnout_change": 2.6
+      }
     },
     {
       "booth_no": "42",
@@ -1184,7 +1392,12 @@
       "village": "South West Corner Room No",
       "building": "Panchayat Union Primay School, South West Corner Room No. 1, Bharaniputhur - 600122",
       "lat": 13.0205301,
-      "lng": 80.13223049999999
+      "lng": 80.13223049999999,
+      "comparison": {
+        "dmk_swing": 14.38,
+        "aiadmk_swing": -13.42,
+        "turnout_change": 55.6
+      }
     },
     {
       "booth_no": "43",
@@ -1212,7 +1425,12 @@
       "village": "East Facing Building Room No",
       "building": "Panchayat Union Primay School, East Facing Building Room No 1 , Bharaniputhur - 600122",
       "lat": 13.021994,
-      "lng": 80.134018
+      "lng": 80.134018,
+      "comparison": {
+        "dmk_swing": 2.41,
+        "aiadmk_swing": 0.42,
+        "turnout_change": 19.46
+      }
     },
     {
       "booth_no": "44",
@@ -1240,7 +1458,12 @@
       "village": "East Facing Room",
       "building": "Panchayat Union Primay School, East Facing Room 2, Bharaniputhur - 600122",
       "lat": 13.0205301,
-      "lng": 80.13223049999999
+      "lng": 80.13223049999999,
+      "comparison": {
+        "dmk_swing": 1.17,
+        "aiadmk_swing": -5.97,
+        "turnout_change": 45.22
+      }
     },
     {
       "booth_no": "45",
@@ -1268,7 +1491,12 @@
       "village": "Kovur",
       "building": "Somasundara Chettiyar Government Higher Secondary School Kovur, Kovur 600122.",
       "lat": 13.0316303,
-      "lng": 80.1119382
+      "lng": 80.1119382,
+      "comparison": {
+        "dmk_swing": 1.88,
+        "aiadmk_swing": -2.64,
+        "turnout_change": 11.36
+      }
     },
     {
       "booth_no": "46",
@@ -1296,7 +1524,12 @@
       "village": "Kovur",
       "building": "Somasundara Chettiyar Government Higher Secondary School Kovur, Kovur 600122.",
       "lat": 13.0316303,
-      "lng": 80.1119382
+      "lng": 80.1119382,
+      "comparison": {
+        "dmk_swing": 5.4,
+        "aiadmk_swing": 4.46,
+        "turnout_change": 21.74
+      }
     },
     {
       "booth_no": "47",
@@ -1324,7 +1557,12 @@
       "village": "Kovur",
       "building": "Somasundara Chettiyar Government Higher Secondary School Kovur, Kovur 600122.",
       "lat": 13.0316303,
-      "lng": 80.1119382
+      "lng": 80.1119382,
+      "comparison": {
+        "dmk_swing": 8.04,
+        "aiadmk_swing": -10.22,
+        "turnout_change": 41.3
+      }
     },
     {
       "booth_no": "48",
@@ -1352,7 +1590,12 @@
       "village": "Kovur",
       "building": "Somasundara Chettiyar Government Higher Secondary School Kovur, Kovur 600122.",
       "lat": 13.0316303,
-      "lng": 80.1119382
+      "lng": 80.1119382,
+      "comparison": {
+        "dmk_swing": 8.91,
+        "aiadmk_swing": -11.0,
+        "turnout_change": 7.14
+      }
     },
     {
       "booth_no": "49",
@@ -1380,7 +1623,12 @@
       "village": "Kovur",
       "building": "Somasundara Chettiyar Government Higher Secondary School Kovur, Kovur 600122.",
       "lat": 13.0316303,
-      "lng": 80.1119382
+      "lng": 80.1119382,
+      "comparison": {
+        "dmk_swing": 3.38,
+        "aiadmk_swing": -6.45,
+        "turnout_change": 17.29
+      }
     },
     {
       "booth_no": "50",
@@ -1408,7 +1656,12 @@
       "village": "Kovur",
       "building": "Somasundara Chettiyar Government Higher Secondary School Kovur, Kovur 600122.",
       "lat": 13.0316303,
-      "lng": 80.1119382
+      "lng": 80.1119382,
+      "comparison": {
+        "dmk_swing": 3.69,
+        "aiadmk_swing": -7.11,
+        "turnout_change": 23.47
+      }
     },
     {
       "booth_no": "51",
@@ -1436,7 +1689,12 @@
       "village": "North Facing",
       "building": "Somasundaram chettiyar Government Higher Secondary School, North Facing, Room No 7, Kovur - 600128",
       "lat": 13.0177744,
-      "lng": 80.1114535
+      "lng": 80.1114535,
+      "comparison": {
+        "dmk_swing": 5.58,
+        "aiadmk_swing": -11.12,
+        "turnout_change": 27.8
+      }
     },
     {
       "booth_no": "52",
@@ -1464,7 +1722,12 @@
       "village": "North Facing",
       "building": "Somasundaram chettiyar Government Higher Secondary School, North Facing, Sec 12th STD A1,A2, Kovur - 600128",
       "lat": 13.0108473,
-      "lng": 80.1177335
+      "lng": 80.1177335,
+      "comparison": {
+        "dmk_swing": -1.3,
+        "aiadmk_swing": -2.92,
+        "turnout_change": 24.85
+      }
     },
     {
       "booth_no": "53",
@@ -1492,7 +1755,12 @@
       "village": "North Facing Sec",
       "building": "Somasundaram chettiyar Government Higher Secondary School, North Facing Sec 12th STD B1,B2, Kovur - 600128",
       "lat": 13.0108473,
-      "lng": 80.1177335
+      "lng": 80.1177335,
+      "comparison": {
+        "dmk_swing": 1.93,
+        "aiadmk_swing": -5.48,
+        "turnout_change": 4.45
+      }
     },
     {
       "booth_no": "54",
@@ -1520,7 +1788,12 @@
       "village": "New Building",
       "building": "Somasundaram chettiyar Government Higher Secondary School, New Building, North Facing Sec 12th STD B1,B2 , Kovur - 600128",
       "lat": 13.0108473,
-      "lng": 80.1177335
+      "lng": 80.1177335,
+      "comparison": {
+        "dmk_swing": 2.48,
+        "aiadmk_swing": -7.63,
+        "turnout_change": 28.18
+      }
     },
     {
       "booth_no": "55",
@@ -1548,7 +1821,12 @@
       "village": "North Facing Sec",
       "building": "Somasundaram chettiyar Government Higher Secondary School, North Facing Sec 11th STD A Sec , Kovur - 600128",
       "lat": 13.0108473,
-      "lng": 80.1177335
+      "lng": 80.1177335,
+      "comparison": {
+        "dmk_swing": 4.75,
+        "aiadmk_swing": -5.01,
+        "turnout_change": 31.08
+      }
     },
     {
       "booth_no": "56",
@@ -1576,7 +1854,12 @@
       "village": "Moulivakka",
       "building": "Government Adidiravidar Welfare Higher Secondary School, Moulivakka600125",
       "lat": 13.0546418,
-      "lng": 80.1927841
+      "lng": 80.1927841,
+      "comparison": {
+        "dmk_swing": 0.91,
+        "aiadmk_swing": -2.37,
+        "turnout_change": 25.37
+      }
     },
     {
       "booth_no": "57",
@@ -1604,7 +1887,12 @@
       "village": "Moulivakka",
       "building": "Government Adidiravidar Welfare Higher Secondary School, Moulivakka600125",
       "lat": 13.0546418,
-      "lng": 80.1927841
+      "lng": 80.1927841,
+      "comparison": {
+        "dmk_swing": 2.54,
+        "aiadmk_swing": -4.29,
+        "turnout_change": 14.55
+      }
     },
     {
       "booth_no": "58",
@@ -1632,7 +1920,12 @@
       "village": "Moulivakka",
       "building": "Government Adidiravidar Welfare Higher Secondary School, Moulivakka600125",
       "lat": 13.0546418,
-      "lng": 80.1927841
+      "lng": 80.1927841,
+      "comparison": {
+        "dmk_swing": 13.37,
+        "aiadmk_swing": -5.59,
+        "turnout_change": 3.93
+      }
     },
     {
       "booth_no": "59",
@@ -1660,7 +1953,12 @@
       "village": "Moulivakka",
       "building": "Government Adidiravidar Welfare Higher Secondary School, Moulivakka600125",
       "lat": 13.0546418,
-      "lng": 80.1927841
+      "lng": 80.1927841,
+      "comparison": {
+        "dmk_swing": 5.09,
+        "aiadmk_swing": -6.15,
+        "turnout_change": 6.0
+      }
     },
     {
       "booth_no": "60",
@@ -1688,7 +1986,12 @@
       "village": "Moulivakka",
       "building": "Government Adidiravidar Welfare Higher Secondary School, Moulivakka600125",
       "lat": 13.0546418,
-      "lng": 80.1927841
+      "lng": 80.1927841,
+      "comparison": {
+        "dmk_swing": 1.2,
+        "aiadmk_swing": -2.92,
+        "turnout_change": 8.24
+      }
     },
     {
       "booth_no": "61",
@@ -1716,7 +2019,12 @@
       "village": "Moulivakkam",
       "building": "Little Flower Matriculation Higher Secondary School Moulivakkam, Moulivakkam-600125",
       "lat": 13.0324326,
-      "lng": 80.2169447
+      "lng": 80.2169447,
+      "comparison": {
+        "dmk_swing": 10.51,
+        "aiadmk_swing": -10.64,
+        "turnout_change": 11.11
+      }
     },
     {
       "booth_no": "62",
@@ -1744,7 +2052,12 @@
       "village": "Moulivakkam",
       "building": "Little Flower Matriculation Higher Secondary School Moulivakkam, Moulivakkam-600125",
       "lat": 13.0324326,
-      "lng": 80.2169447
+      "lng": 80.2169447,
+      "comparison": {
+        "dmk_swing": 0.71,
+        "aiadmk_swing": -5.74,
+        "turnout_change": 20.31
+      }
     },
     {
       "booth_no": "63",
@@ -1772,7 +2085,12 @@
       "village": "Moulivakkam",
       "building": "Little Flower Matriculation Higher Secondary School Moulivakkam, Moulivakkam-600125",
       "lat": 13.0324326,
-      "lng": 80.2169447
+      "lng": 80.2169447,
+      "comparison": {
+        "dmk_swing": 0.83,
+        "aiadmk_swing": -1.5,
+        "turnout_change": 7.85
+      }
     },
     {
       "booth_no": "64",
@@ -1800,7 +2118,12 @@
       "village": "Moulivakkam",
       "building": "Little Flower Matriculation Higher Secondary School Moulivakkam, Moulivakkam-600125",
       "lat": 13.0324326,
-      "lng": 80.2169447
+      "lng": 80.2169447,
+      "comparison": {
+        "dmk_swing": -0.8,
+        "aiadmk_swing": -3.81,
+        "turnout_change": 8.3
+      }
     },
     {
       "booth_no": "65",
@@ -1828,7 +2151,12 @@
       "village": "Moulivakkam",
       "building": "Little Flower Matriculation Higher Secondary School Moulivakkam, Moulivakkam-600125",
       "lat": 13.0324326,
-      "lng": 80.2169447
+      "lng": 80.2169447,
+      "comparison": {
+        "dmk_swing": 1.21,
+        "aiadmk_swing": -3.03,
+        "turnout_change": 11.63
+      }
     },
     {
       "booth_no": "66",
@@ -1856,7 +2184,12 @@
       "village": "Moulivakkam",
       "building": "Little Flower Matriculation Higher Secondary School Moulivakkam, Moulivakkam-600125",
       "lat": 13.0324326,
-      "lng": 80.2169447
+      "lng": 80.2169447,
+      "comparison": {
+        "dmk_swing": 2.83,
+        "aiadmk_swing": -5.07,
+        "turnout_change": 12.59
+      }
     },
     {
       "booth_no": "67",
@@ -1884,7 +2217,12 @@
       "village": "Moulivakkam",
       "building": "Little Flower Matriculation Higher Secondary School Moulivakkam, Moulivakkam-600125",
       "lat": 13.0324326,
-      "lng": 80.2169447
+      "lng": 80.2169447,
+      "comparison": {
+        "dmk_swing": 5.79,
+        "aiadmk_swing": -6.82,
+        "turnout_change": 0.31
+      }
     },
     {
       "booth_no": "68",
@@ -1912,7 +2250,12 @@
       "village": "Mugalivakkam",
       "building": "Government High School Mugalivakkam, Mugalivakkam-600125",
       "lat": 13.0212213,
-      "lng": 80.1669572
+      "lng": 80.1669572,
+      "comparison": {
+        "dmk_swing": 1.68,
+        "aiadmk_swing": -4.27,
+        "turnout_change": 75.24
+      }
     },
     {
       "booth_no": "69",
@@ -1940,7 +2283,12 @@
       "village": "Mugalivakkam",
       "building": "Government High School Mugalivakkam, Mugalivakkam-600125",
       "lat": 13.0212213,
-      "lng": 80.1669572
+      "lng": 80.1669572,
+      "comparison": {
+        "dmk_swing": 3.79,
+        "aiadmk_swing": -3.79,
+        "turnout_change": 16.04
+      }
     },
     {
       "booth_no": "70",
@@ -1968,7 +2316,12 @@
       "village": "Mugalivakkam",
       "building": "Government High School Mugalivakkam, Mugalivakkam-600125",
       "lat": 13.0212213,
-      "lng": 80.1669572
+      "lng": 80.1669572,
+      "comparison": {
+        "dmk_swing": 1.82,
+        "aiadmk_swing": -2.22,
+        "turnout_change": 7.34
+      }
     },
     {
       "booth_no": "71",
@@ -1996,7 +2349,12 @@
       "village": "Mugalivakkam",
       "building": "Government High School Mugalivakkam, Mugalivakkam-600125",
       "lat": 13.0212213,
-      "lng": 80.1669572
+      "lng": 80.1669572,
+      "comparison": {
+        "dmk_swing": 0.44,
+        "aiadmk_swing": 2.66,
+        "turnout_change": 6.92
+      }
     },
     {
       "booth_no": "72",
@@ -2024,7 +2382,12 @@
       "village": "North Facing Room",
       "building": "Government High School, North Facing Room 3, Mugalivakkam - 600125",
       "lat": 13.0212213,
-      "lng": 80.1669572
+      "lng": 80.1669572,
+      "comparison": {
+        "dmk_swing": -1.1,
+        "aiadmk_swing": -4.34,
+        "turnout_change": 15.23
+      }
     },
     {
       "booth_no": "73",
@@ -2052,7 +2415,12 @@
       "village": "North Facing Room",
       "building": "Government High School, North Facing Room 4, Mugalivakkam - 600125",
       "lat": 13.0212213,
-      "lng": 80.1669572
+      "lng": 80.1669572,
+      "comparison": {
+        "dmk_swing": -0.27,
+        "aiadmk_swing": 0.44,
+        "turnout_change": 16.16
+      }
     },
     {
       "booth_no": "74",
@@ -2080,7 +2448,12 @@
       "village": "East Facing",
       "building": "Government High School, East Facing , Mugalivakkam - 600125",
       "lat": 13.0212213,
-      "lng": 80.1669572
+      "lng": 80.1669572,
+      "comparison": {
+        "dmk_swing": 8.42,
+        "aiadmk_swing": -5.25,
+        "turnout_change": 12.6
+      }
     },
     {
       "booth_no": "75",
@@ -2108,7 +2481,12 @@
       "village": "Mugalivakkam",
       "building": "Greater Chennai Primary School Mugalivakkam, Mugalivakkam-600125",
       "lat": 13.0208125,
-      "lng": 80.16745829999999
+      "lng": 80.16745829999999,
+      "comparison": {
+        "dmk_swing": 4.41,
+        "aiadmk_swing": -3.34,
+        "turnout_change": 16.38
+      }
     },
     {
       "booth_no": "76",
@@ -2136,7 +2514,12 @@
       "village": "Mugalivakkam",
       "building": "Greater Chennai Primary School Mugalivakkam, Mugalivakkam-600125",
       "lat": 13.0208125,
-      "lng": 80.16745829999999
+      "lng": 80.16745829999999,
+      "comparison": {
+        "dmk_swing": 0.11,
+        "aiadmk_swing": -0.16,
+        "turnout_change": 1.05
+      }
     },
     {
       "booth_no": "77",
@@ -2164,7 +2547,12 @@
       "village": "Mugalivakkam",
       "building": "Greater Chennai Primary School Mugalivakkam, Mugalivakkam-600125",
       "lat": 13.0208125,
-      "lng": 80.16745829999999
+      "lng": 80.16745829999999,
+      "comparison": {
+        "dmk_swing": 5.66,
+        "aiadmk_swing": -5.87,
+        "turnout_change": 14.89
+      }
     },
     {
       "booth_no": "78",
@@ -2192,7 +2580,12 @@
       "village": "Mugalivakkam",
       "building": "Greater Chennai Primary School Mugalivakkam, Mugalivakkam-600125",
       "lat": 13.0208125,
-      "lng": 80.16745829999999
+      "lng": 80.16745829999999,
+      "comparison": {
+        "dmk_swing": 3.1,
+        "aiadmk_swing": -2.51,
+        "turnout_change": 27.92
+      }
     },
     {
       "booth_no": "79",
@@ -2220,7 +2613,12 @@
       "village": "Mugalivakkam",
       "building": "Greater Chennai Primary School Mugalivakkam, Mugalivakkam-600125",
       "lat": 13.0208125,
-      "lng": 80.16745829999999
+      "lng": 80.16745829999999,
+      "comparison": {
+        "dmk_swing": -0.09,
+        "aiadmk_swing": -0.58,
+        "turnout_change": 14.2
+      }
     },
     {
       "booth_no": "80",
@@ -2248,7 +2646,12 @@
       "village": "",
       "building": "ICDS Center - 116 Mugalivakkam North Facing",
       "lat": 13.0201119,
-      "lng": 80.16407099999999
+      "lng": 80.16407099999999,
+      "comparison": {
+        "dmk_swing": -3.21,
+        "aiadmk_swing": -0.46,
+        "turnout_change": 0.25
+      }
     },
     {
       "booth_no": "81",
@@ -2276,7 +2679,12 @@
       "village": "West Facing Room",
       "building": "Greater Chennai Primary School, West Facing Room 4, Mugalivakkam - 600125",
       "lat": 13.0341314,
-      "lng": 80.1596897
+      "lng": 80.1596897,
+      "comparison": {
+        "dmk_swing": -0.86,
+        "aiadmk_swing": -2.25,
+        "turnout_change": 29.03
+      }
     },
     {
       "booth_no": "82",
@@ -2304,7 +2712,12 @@
       "village": "West Facing Room",
       "building": "Greater Chennai Primary School , West Facing Room 3, Mugalivakkam - 600125",
       "lat": 13.0204262,
-      "lng": 80.1654252
+      "lng": 80.1654252,
+      "comparison": {
+        "dmk_swing": 15.25,
+        "aiadmk_swing": -13.28,
+        "turnout_change": 13.0
+      }
     },
     {
       "booth_no": "83",
@@ -2332,7 +2745,12 @@
       "village": "Madhananthapuram",
       "building": "Greater Chennai Middle School Madhanandhapuram, Madhananthapuram - 600125",
       "lat": 13.0227454,
-      "lng": 80.1556937
+      "lng": 80.1556937,
+      "comparison": {
+        "dmk_swing": 7.45,
+        "aiadmk_swing": -11.38,
+        "turnout_change": 12.68
+      }
     },
     {
       "booth_no": "84",
@@ -2360,7 +2778,12 @@
       "village": "North Corner West Building East Facing",
       "building": "Greater Chennai Primary School , North Corner West Building East Facing, Madhananthapuram - 600125",
       "lat": 13.0228386,
-      "lng": 80.1463194
+      "lng": 80.1463194,
+      "comparison": {
+        "dmk_swing": 4.83,
+        "aiadmk_swing": 1.51,
+        "turnout_change": 22.78
+      }
     },
     {
       "booth_no": "85",
@@ -2388,7 +2811,12 @@
       "village": "Mugalivakkam",
       "building": "M.K.M. Matriculation Higher Secondary School Mugalivakkam, Mugalivakkam- 600125",
       "lat": 13.0231453,
-      "lng": 80.1628716
+      "lng": 80.1628716,
+      "comparison": {
+        "dmk_swing": 0.94,
+        "aiadmk_swing": -0.73,
+        "turnout_change": 9.52
+      }
     },
     {
       "booth_no": "86",
@@ -2416,7 +2844,12 @@
       "village": "Mugalivakkam",
       "building": "M.K.M. Matriculation Higher Secondary School Mugalivakkam, Mugalivakkam- 600125",
       "lat": 13.0231453,
-      "lng": 80.1628716
+      "lng": 80.1628716,
+      "comparison": {
+        "dmk_swing": -2.87,
+        "aiadmk_swing": 3.28,
+        "turnout_change": 8.9
+      }
     },
     {
       "booth_no": "87",
@@ -2444,7 +2877,12 @@
       "village": "Madhananthapuram",
       "building": "Greater Chennai Middle School Madhanandhapuram, Madhananthapuram - 600125",
       "lat": 13.0227454,
-      "lng": 80.1556937
+      "lng": 80.1556937,
+      "comparison": {
+        "dmk_swing": 2.15,
+        "aiadmk_swing": 4.25,
+        "turnout_change": 25.08
+      }
     },
     {
       "booth_no": "88",
@@ -2472,7 +2910,12 @@
       "village": "Mugalivakkam",
       "building": "M.K.M. Matriculation Higher Secondary School Mugalivakkam, Mugalivakkam- 600125",
       "lat": 13.0231453,
-      "lng": 80.1628716
+      "lng": 80.1628716,
+      "comparison": {
+        "dmk_swing": -2.36,
+        "aiadmk_swing": 1.87,
+        "turnout_change": 10.95
+      }
     },
     {
       "booth_no": "89",
@@ -2500,7 +2943,12 @@
       "village": "Mugalivakkam",
       "building": "M.K.M. Matriculation Higher Secondary School Mugalivakkam, Mugalivakkam- 600125",
       "lat": 13.0231453,
-      "lng": 80.1628716
+      "lng": 80.1628716,
+      "comparison": {
+        "dmk_swing": 4.17,
+        "aiadmk_swing": -1.07,
+        "turnout_change": 10.34
+      }
     },
     {
       "booth_no": "90",
@@ -2528,7 +2976,12 @@
       "village": "East Facing Room no",
       "building": "Greater Chennai Primary School , East Facing Room no 1, Mugalivakkam - 600125",
       "lat": 13.0201248,
-      "lng": 80.1656868
+      "lng": 80.1656868,
+      "comparison": {
+        "dmk_swing": 3.25,
+        "aiadmk_swing": 1.89,
+        "turnout_change": 88.72
+      }
     },
     {
       "booth_no": "91",
@@ -2556,7 +3009,12 @@
       "village": "New Building",
       "building": "M.K.M. Matriculation Higher Secondary School , New Building 600116, Mugalivakkam - 600125",
       "lat": 13.0231453,
-      "lng": 80.1628716
+      "lng": 80.1628716,
+      "comparison": {
+        "dmk_swing": 1.09,
+        "aiadmk_swing": 0.0,
+        "turnout_change": 17.36
+      }
     },
     {
       "booth_no": "92",
@@ -2584,7 +3042,12 @@
       "village": "North Facing Room No",
       "building": "Greater Chennai Middle School, North Facing Room No 1, Madhananthapuram - 600125",
       "lat": 13.0204228,
-      "lng": 80.1422805
+      "lng": 80.1422805,
+      "comparison": {
+        "dmk_swing": 1.83,
+        "aiadmk_swing": 1.2,
+        "turnout_change": 17.05
+      }
     },
     {
       "booth_no": "93",
@@ -2612,7 +3075,12 @@
       "village": "East Facing West Side Building",
       "building": "Integrated Child Development Scheme Center :15, East Facing West Side Building, Madhanandhapuram - 600125",
       "lat": 13.0228386,
-      "lng": 80.1463194
+      "lng": 80.1463194,
+      "comparison": {
+        "dmk_swing": -2.14,
+        "aiadmk_swing": 0.26,
+        "turnout_change": 20.07
+      }
     },
     {
       "booth_no": "94",
@@ -2640,7 +3108,12 @@
       "village": "Madhananthapuram",
       "building": "Greater Chennai Middle School Madhanandhapuram, Madhananthapuram - 600125",
       "lat": 13.0227454,
-      "lng": 80.1556937
+      "lng": 80.1556937,
+      "comparison": {
+        "dmk_swing": -0.77,
+        "aiadmk_swing": -2.75,
+        "turnout_change": 15.85
+      }
     },
     {
       "booth_no": "95",
@@ -2668,7 +3141,12 @@
       "village": "Madhanandapuam Main Road Mugalivakkam Chennai",
       "building": "ICDS Center - 516, Madhanandapuam Main Road Mugalivakkam Chennai-600125",
       "lat": 13.0188093,
-      "lng": 80.1604119
+      "lng": 80.1604119,
+      "comparison": {
+        "dmk_swing": 4.61,
+        "aiadmk_swing": -8.59,
+        "turnout_change": 14.2
+      }
     },
     {
       "booth_no": "96",
@@ -2696,7 +3174,12 @@
       "village": "Madhananthapuram",
       "building": "Greater Chennai Middle School Madhanandhapuram, Madhananthapuram - 600125",
       "lat": 13.0227454,
-      "lng": 80.1556937
+      "lng": 80.1556937,
+      "comparison": {
+        "dmk_swing": 9.97,
+        "aiadmk_swing": -12.53,
+        "turnout_change": 0.44
+      }
     },
     {
       "booth_no": "97",
@@ -2724,7 +3207,12 @@
       "village": "Nort Facing Mugalivakkam",
       "building": "M K M Metriculations Higher Secondary School, Nort Facing Mugalivakkam. Chennai-600125",
       "lat": 13.0231453,
-      "lng": 80.1628716
+      "lng": 80.1628716,
+      "comparison": {
+        "dmk_swing": 7.84,
+        "aiadmk_swing": -9.82,
+        "turnout_change": 8.05
+      }
     },
     {
       "booth_no": "98",
@@ -2752,7 +3240,12 @@
       "village": "Nort Facing Mugalivakkam",
       "building": "M K M Metriculations Higher Secondary School, Nort Facing Mugalivakkam. Chennai-600125",
       "lat": 13.0231453,
-      "lng": 80.1628716
+      "lng": 80.1628716,
+      "comparison": {
+        "dmk_swing": 14.95,
+        "aiadmk_swing": -1.5,
+        "turnout_change": -2.59
+      }
     },
     {
       "booth_no": "99",
@@ -2780,7 +3273,12 @@
       "village": "East Facing",
       "building": "Greater Chennai Middle School, East Facing, Room No 3 , Madhananthapuram - 600125",
       "lat": 13.0204228,
-      "lng": 80.1422805
+      "lng": 80.1422805,
+      "comparison": {
+        "dmk_swing": 12.3,
+        "aiadmk_swing": -17.15,
+        "turnout_change": -1.28
+      }
     },
     {
       "booth_no": "100",
@@ -2808,7 +3306,12 @@
       "village": "Unit",
       "building": "Unit Office, Unit-35, Division - 158, Zone - 12 Nandambakkam, Nandambakkam - 600089",
       "lat": 13.0157879,
-      "lng": 80.19292039999999
+      "lng": 80.19292039999999,
+      "comparison": {
+        "dmk_swing": 7.77,
+        "aiadmk_swing": -16.95,
+        "turnout_change": 28.82
+      }
     },
     {
       "booth_no": "101",
@@ -2836,7 +3339,12 @@
       "village": "Unit",
       "building": "Unit Office, Unit-35, Division - 158, Zone - 12 Nandambakkam, Nandambakkam - 600089",
       "lat": 13.0157879,
-      "lng": 80.19292039999999
+      "lng": 80.19292039999999,
+      "comparison": {
+        "dmk_swing": 19.54,
+        "aiadmk_swing": -22.03,
+        "turnout_change": -18.79
+      }
     },
     {
       "booth_no": "102",
@@ -2864,7 +3372,12 @@
       "village": "East Facing West Side Building",
       "building": "Greater Chennai Primary School, East Facing West Side Building, Nandambakkam - 600069",
       "lat": 13.0341314,
-      "lng": 80.1596897
+      "lng": 80.1596897,
+      "comparison": {
+        "dmk_swing": 18.43,
+        "aiadmk_swing": -18.81,
+        "turnout_change": 12.81
+      }
     },
     {
       "booth_no": "103",
@@ -2892,7 +3405,12 @@
       "village": "West Facing East Building",
       "building": "Integrated Child Development Scheme Center-104, West Facing East Building , Nandambakkam - 600069",
       "lat": 12.9965005,
-      "lng": 80.20470639999999
+      "lng": 80.20470639999999,
+      "comparison": {
+        "dmk_swing": -1.81,
+        "aiadmk_swing": 1.9,
+        "turnout_change": 16.22
+      }
     },
     {
       "booth_no": "104",
@@ -2920,7 +3438,12 @@
       "village": "East Building",
       "building": "Tamil Nadu Establishment Co-op House Building Society , East Building, West Facing , Nandambakkam - 600069",
       "lat": 12.9823761,
-      "lng": 80.06026450000002
+      "lng": 80.06026450000002,
+      "comparison": {
+        "dmk_swing": 10.07,
+        "aiadmk_swing": -10.1,
+        "turnout_change": 8.09
+      }
     },
     {
       "booth_no": "105",
@@ -2948,7 +3471,12 @@
       "village": "Nandambakkam",
       "building": "Branch Library Raman Koil Street Nandambakkam, Nandambakkam - 600089",
       "lat": 13.0164119,
-      "lng": 80.1913065
+      "lng": 80.1913065,
+      "comparison": {
+        "dmk_swing": 13.42,
+        "aiadmk_swing": -15.37,
+        "turnout_change": -4.81
+      }
     },
     {
       "booth_no": "106",
@@ -2976,7 +3504,12 @@
       "village": "Lotus Villa Vasantham Nagar",
       "building": "Vels Global Higher Secondary School, 137/1, Lotus Villa Vasantham Nagar, Room no 6 East Facing, Nandambakkam, Chennai - 600089.",
       "lat": 13.0164295,
-      "lng": 80.1899202
+      "lng": 80.1899202,
+      "comparison": {
+        "dmk_swing": 14.89,
+        "aiadmk_swing": -9.5,
+        "turnout_change": -29.0
+      }
     },
     {
       "booth_no": "107",
@@ -3004,7 +3537,12 @@
       "village": "Lotus Villa",
       "building": "Vels Global Higher Secondary School, 137/1, Lotus Villa, Vasantham Nagar, Room no 7 East Facing, Nandambakkam, Chennai - 600089.",
       "lat": 13.1505948,
-      "lng": 80.2021634
+      "lng": 80.2021634,
+      "comparison": {
+        "dmk_swing": 5.04,
+        "aiadmk_swing": 7.37,
+        "turnout_change": -8.13
+      }
     },
     {
       "booth_no": "108",
@@ -3032,7 +3570,12 @@
       "village": "Lotus Villa",
       "building": "Vels Global Higher Secondary School, 137/1, Lotus Villa, Vasantham Nagar, Room no 8 East Facing, Nandambakkam, Chennai - 600089.",
       "lat": 13.1505948,
-      "lng": 80.2021634
+      "lng": 80.2021634,
+      "comparison": {
+        "dmk_swing": 5.95,
+        "aiadmk_swing": -4.79,
+        "turnout_change": 10.87
+      }
     },
     {
       "booth_no": "109",
@@ -3060,7 +3603,12 @@
       "village": "Lotus Villa",
       "building": "Vels Global Higher Secondary School, 137/1, Lotus Villa, Vasantham Nagar, Room no 9 West Facing, Nandambakkam, Chennai - 600089.",
       "lat": 13.1505948,
-      "lng": 80.2021634
+      "lng": 80.2021634,
+      "comparison": {
+        "dmk_swing": 3.81,
+        "aiadmk_swing": -6.18,
+        "turnout_change": 20.05
+      }
     },
     {
       "booth_no": "110",
@@ -3088,7 +3636,12 @@
       "village": "West Facing",
       "building": "Tamil Nadu Establishment Co-op House Building Society, West Facing , Nandambakkam - 600069",
       "lat": 12.9823761,
-      "lng": 80.06026450000002
+      "lng": 80.06026450000002,
+      "comparison": {
+        "dmk_swing": 2.42,
+        "aiadmk_swing": -1.79,
+        "turnout_change": 14.01
+      }
     },
     {
       "booth_no": "111",
@@ -3116,7 +3669,12 @@
       "village": "West Facing",
       "building": "O/O A.E. Metro Water Office, West Facing, Manappakkam - 600125",
       "lat": 12.9740439,
-      "lng": 80.1814925
+      "lng": 80.1814925,
+      "comparison": {
+        "dmk_swing": 6.13,
+        "aiadmk_swing": -9.45,
+        "turnout_change": 18.12
+      }
     },
     {
       "booth_no": "112",
@@ -3144,7 +3702,12 @@
       "village": "Division",
       "building": "Greater Chennai Corporation Middle School Manapakkam,Division 157 Chennai 600125",
       "lat": 13.011327,
-      "lng": 80.16238899999999
+      "lng": 80.16238899999999,
+      "comparison": {
+        "dmk_swing": 2.24,
+        "aiadmk_swing": -4.59,
+        "turnout_change": 8.94
+      }
     },
     {
       "booth_no": "113",
@@ -3172,7 +3735,12 @@
       "village": "South Facing",
       "building": "Immanuvel Nursery & Praimary School, South Facing, Manapakkam, Chennai 600125",
       "lat": 13.0548545,
-      "lng": 80.2485765
+      "lng": 80.2485765,
+      "comparison": {
+        "dmk_swing": 12.81,
+        "aiadmk_swing": -8.09,
+        "turnout_change": 1.55
+      }
     },
     {
       "booth_no": "114",
@@ -3200,7 +3768,12 @@
       "village": "Division",
       "building": "Greater Chennai Corporation Middle School Manapakkam,Division 157 Chennai 600125",
       "lat": 13.011327,
-      "lng": 80.16238899999999
+      "lng": 80.16238899999999,
+      "comparison": {
+        "dmk_swing": 8.12,
+        "aiadmk_swing": -12.59,
+        "turnout_change": 0.76
+      }
     },
     {
       "booth_no": "115",
@@ -3228,7 +3801,12 @@
       "village": "Division",
       "building": "Greater Chennai Corporation Middle School Manapakkam,Division 157 Chennai 600125",
       "lat": 13.011327,
-      "lng": 80.16238899999999
+      "lng": 80.16238899999999,
+      "comparison": {
+        "dmk_swing": 9.0,
+        "aiadmk_swing": -4.76,
+        "turnout_change": 11.53
+      }
     },
     {
       "booth_no": "116",
@@ -3256,7 +3834,12 @@
       "village": "Manapakkam",
       "building": "O/O A.E. Metro Water Office, Manapakkam - 600125, West Facing",
       "lat": 12.9740439,
-      "lng": 80.1814925
+      "lng": 80.1814925,
+      "comparison": {
+        "dmk_swing": 7.29,
+        "aiadmk_swing": -8.61,
+        "turnout_change": 20.75
+      }
     },
     {
       "booth_no": "117",
@@ -3284,7 +3867,12 @@
       "village": "East Facing Room No",
       "building": "Greater Chennai Middle School, East Facing Room No 3, Manappakkam - 600125",
       "lat": 13.0134921,
-      "lng": 80.16466779999999
+      "lng": 80.16466779999999,
+      "comparison": {
+        "dmk_swing": 4.77,
+        "aiadmk_swing": -1.53,
+        "turnout_change": 5.79
+      }
     },
     {
       "booth_no": "118",
@@ -3312,7 +3900,12 @@
       "village": "South Facing Room No",
       "building": "Greater Chennai Middle School , South Facing Room No 1, Manappakkam - 600125",
       "lat": 13.0134921,
-      "lng": 80.16466779999999
+      "lng": 80.16466779999999,
+      "comparison": {
+        "dmk_swing": 1.69,
+        "aiadmk_swing": 6.08,
+        "turnout_change": 13.38
+      }
     },
     {
       "booth_no": "119",
@@ -3340,7 +3933,12 @@
       "village": "South Facing Room No",
       "building": "Greater Chennai Middle School, South Facing Room No 2, Manappakkam - 600125",
       "lat": 13.0134921,
-      "lng": 80.16466779999999
+      "lng": 80.16466779999999,
+      "comparison": {
+        "dmk_swing": 2.15,
+        "aiadmk_swing": -3.94,
+        "turnout_change": 31.49
+      }
     },
     {
       "booth_no": "120",
@@ -3368,7 +3966,12 @@
       "village": "Manapakkam",
       "building": "ICDS Center , Manapakkam, Chennai- 600125",
       "lat": 13.0212637,
-      "lng": 80.18324580000001
+      "lng": 80.18324580000001,
+      "comparison": {
+        "dmk_swing": 1.89,
+        "aiadmk_swing": -3.1,
+        "turnout_change": 8.64
+      }
     },
     {
       "booth_no": "121",
@@ -3396,7 +3999,12 @@
       "village": "South Facing",
       "building": "Immanuvel Nursery & Praimary School, South Facing, Manapakkam, Chennai 600125",
       "lat": 13.0548545,
-      "lng": 80.2485765
+      "lng": 80.2485765,
+      "comparison": {
+        "dmk_swing": 5.47,
+        "aiadmk_swing": -12.35,
+        "turnout_change": 10.1
+      }
     },
     {
       "booth_no": "122",
@@ -3424,7 +4032,12 @@
       "village": "Manapakkam",
       "building": "Emmanuvel Nursary Primary School Manapakkam, Manapakkam 600125",
       "lat": 13.0212637,
-      "lng": 80.18324580000001
+      "lng": 80.18324580000001,
+      "comparison": {
+        "dmk_swing": 4.29,
+        "aiadmk_swing": 0.47,
+        "turnout_change": 13.54
+      }
     },
     {
       "booth_no": "123",
@@ -3452,7 +4065,12 @@
       "village": "Manapakkam",
       "building": "Emmanuvel Nursary Primary School Manapakkam, Manapakkam 600125",
       "lat": 13.0212637,
-      "lng": 80.18324580000001
+      "lng": 80.18324580000001,
+      "comparison": {
+        "dmk_swing": 2.78,
+        "aiadmk_swing": -6.26,
+        "turnout_change": 38.87
+      }
     },
     {
       "booth_no": "124",
@@ -3480,7 +4098,12 @@
       "village": "Manapakkam",
       "building": "Emmanuvel Nursary Primary School Manapakkam, Manapakkam 600125",
       "lat": 13.0212637,
-      "lng": 80.18324580000001
+      "lng": 80.18324580000001,
+      "comparison": {
+        "dmk_swing": -6.05,
+        "aiadmk_swing": 1.75,
+        "turnout_change": 35.35
+      }
     },
     {
       "booth_no": "125",
@@ -3508,7 +4131,12 @@
       "village": "Kolappakkam",
       "building": "Government Higher Secondary School Kolappakkam, Kolappakkam-600128",
       "lat": 13.0142211,
-      "lng": 80.1594391
+      "lng": 80.1594391,
+      "comparison": {
+        "dmk_swing": 1.57,
+        "aiadmk_swing": -4.09,
+        "turnout_change": 13.04
+      }
     },
     {
       "booth_no": "126",
@@ -3536,7 +4164,12 @@
       "village": "Kolappakkam",
       "building": "Government Higher Secondary School Kolappakkam, Kolappakkam-600128",
       "lat": 13.0142211,
-      "lng": 80.1594391
+      "lng": 80.1594391,
+      "comparison": {
+        "dmk_swing": 2.12,
+        "aiadmk_swing": -0.65,
+        "turnout_change": 28.52
+      }
     },
     {
       "booth_no": "127",
@@ -3564,7 +4197,12 @@
       "village": "East Facing Kolapakkam",
       "building": "St.Francis International School, East Facing Kolapakkam-600128",
       "lat": 13.0114576,
-      "lng": 80.1543842
+      "lng": 80.1543842,
+      "comparison": {
+        "dmk_swing": 7.77,
+        "aiadmk_swing": -15.28,
+        "turnout_change": 15.43
+      }
     },
     {
       "booth_no": "128",
@@ -3592,7 +4230,12 @@
       "village": "East Facing",
       "building": "St.Francis International School, East Facing, LKG class Room B, Kolapakkam- 600128.",
       "lat": 13.0114576,
-      "lng": 80.1543842
+      "lng": 80.1543842,
+      "comparison": {
+        "dmk_swing": 3.5,
+        "aiadmk_swing": 1.68,
+        "turnout_change": 13.07
+      }
     },
     {
       "booth_no": "129",
@@ -3620,7 +4263,12 @@
       "village": "East Facing",
       "building": "St.Francis International School, East Facing, LKG class Room A, Kolapakkam- 600128.",
       "lat": 13.0114576,
-      "lng": 80.1543842
+      "lng": 80.1543842,
+      "comparison": {
+        "dmk_swing": -1.93,
+        "aiadmk_swing": -3.48,
+        "turnout_change": 50.97
+      }
     },
     {
       "booth_no": "130",
@@ -3648,7 +4296,12 @@
       "village": "Kolapakkam Chennai",
       "building": "Government Higher Secondary School, Kolapakkam Chennai-600128",
       "lat": 13.010418,
-      "lng": 80.147915
+      "lng": 80.147915,
+      "comparison": {
+        "dmk_swing": 2.09,
+        "aiadmk_swing": 3.25,
+        "turnout_change": 0.86
+      }
     },
     {
       "booth_no": "131",
@@ -3676,7 +4329,12 @@
       "village": "Kolapakkam",
       "building": "Government High School, (HM Room) West Facing, Kolapakkam - 600125",
       "lat": 13.0212213,
-      "lng": 80.1669572
+      "lng": 80.1669572,
+      "comparison": {
+        "dmk_swing": 5.17,
+        "aiadmk_swing": -4.63,
+        "turnout_change": 29.87
+      }
     },
     {
       "booth_no": "132",
@@ -3704,7 +4362,12 @@
       "village": "Kolappakkam",
       "building": "Government Higher Secondary School Kolappakkam, Kolappakkam-600128",
       "lat": 13.0142211,
-      "lng": 80.1594391
+      "lng": 80.1594391,
+      "comparison": {
+        "dmk_swing": 4.5,
+        "aiadmk_swing": -10.22,
+        "turnout_change": 57.37
+      }
     },
     {
       "booth_no": "133",
@@ -3732,7 +4395,12 @@
       "village": "Kolappakkam",
       "building": "Government Higher Secondary School Kolappakkam, Kolappakkam-600128",
       "lat": 13.0142211,
-      "lng": 80.1594391
+      "lng": 80.1594391,
+      "comparison": {
+        "dmk_swing": -3.69,
+        "aiadmk_swing": -2.69,
+        "turnout_change": 32.64
+      }
     },
     {
       "booth_no": "134",
@@ -3760,7 +4428,12 @@
       "village": "Kolappakkam",
       "building": "Government Higher Secondary School Kolappakkam, Kolappakkam-600128",
       "lat": 13.0142211,
-      "lng": 80.1594391
+      "lng": 80.1594391,
+      "comparison": {
+        "dmk_swing": -2.93,
+        "aiadmk_swing": -5.32,
+        "turnout_change": 5.45
+      }
     },
     {
       "booth_no": "135",
@@ -3788,7 +4461,12 @@
       "village": "Kolappakkam",
       "building": "Government Higher Secondary School Kolappakkam, Kolappakkam-600128",
       "lat": 13.0142211,
-      "lng": 80.1594391
+      "lng": 80.1594391,
+      "comparison": {
+        "dmk_swing": -0.03,
+        "aiadmk_swing": -7.79,
+        "turnout_change": 15.85
+      }
     },
     {
       "booth_no": "136",
@@ -3816,7 +4494,12 @@
       "village": "New Building East Facing",
       "building": "Government Higher Secondary School, New Building East Facing, Room No. 2, Kolapakkam - 600125",
       "lat": 13.0152122,
-      "lng": 80.1795691
+      "lng": 80.1795691,
+      "comparison": {
+        "dmk_swing": 2.45,
+        "aiadmk_swing": -8.61,
+        "turnout_change": 13.04
+      }
     },
     {
       "booth_no": "137",
@@ -3844,7 +4527,12 @@
       "village": "Gerugambakkam",
       "building": "Sri Raghavendra Vidhyalaya Nursery &Primary School, Gerugambakkam, Gerugambakkam 600122",
       "lat": 13.0316303,
-      "lng": 80.1119382
+      "lng": 80.1119382,
+      "comparison": {
+        "dmk_swing": 0.36,
+        "aiadmk_swing": -7.15,
+        "turnout_change": 0.38
+      }
     },
     {
       "booth_no": "138",
@@ -3872,7 +4560,12 @@
       "village": "Tharapakkam",
       "building": "Kudrathur Panchayat Union Primary School, Tharapakkam-600122",
       "lat": 13.0019913,
-      "lng": 80.1354788
+      "lng": 80.1354788,
+      "comparison": {
+        "dmk_swing": -0.72,
+        "aiadmk_swing": -0.85,
+        "turnout_change": 2.59
+      }
     },
     {
       "booth_no": "139",
@@ -3900,7 +4593,12 @@
       "village": "Gerugambakkam",
       "building": "Kudrathur Panchayat Union Primary School, Gerugambakkam-600122",
       "lat": 13.0210902,
-      "lng": 80.12670240000001
+      "lng": 80.12670240000001,
+      "comparison": {
+        "dmk_swing": -2.14,
+        "aiadmk_swing": -3.71,
+        "turnout_change": 25.48
+      }
     },
     {
       "booth_no": "140",
@@ -3928,7 +4626,12 @@
       "village": "Gerugambakkam",
       "building": "Sri Raghavendra Vidhyalaya Nursery &Primary School, Gerugambakkam, Gerugambakkam 600122",
       "lat": 13.0316303,
-      "lng": 80.1119382
+      "lng": 80.1119382,
+      "comparison": {
+        "dmk_swing": 2.44,
+        "aiadmk_swing": -7.17,
+        "turnout_change": 33.26
+      }
     },
     {
       "booth_no": "141",
@@ -3956,7 +4659,12 @@
       "village": "Gerugambakkam",
       "building": "Sri Raghavendra Vidhyalaya Nursery &Primary School, Gerugambakkam, Gerugambakkam 600122",
       "lat": 13.0316303,
-      "lng": 80.1119382
+      "lng": 80.1119382,
+      "comparison": {
+        "dmk_swing": -1.56,
+        "aiadmk_swing": 5.84,
+        "turnout_change": 22.6
+      }
     },
     {
       "booth_no": "142",
@@ -3984,7 +4692,12 @@
       "village": "Gerugambakkam",
       "building": "Government High School Gerugambakkam, Gerugambakkam 600122",
       "lat": 13.0317462,
-      "lng": 80.1119385
+      "lng": 80.1119385,
+      "comparison": {
+        "dmk_swing": -1.5,
+        "aiadmk_swing": 0.4,
+        "turnout_change": 9.8
+      }
     },
     {
       "booth_no": "143",
@@ -4012,7 +4725,12 @@
       "village": "Gerugambakkam",
       "building": "ICDS Centre 07 Gerugambakkam, Gerugambakkam 600122",
       "lat": 13.009526,
-      "lng": 80.139149
+      "lng": 80.139149,
+      "comparison": {
+        "dmk_swing": 1.41,
+        "aiadmk_swing": -9.32,
+        "turnout_change": 101.81
+      }
     },
     {
       "booth_no": "144",
@@ -4040,7 +4758,12 @@
       "village": "Gerugambakkam",
       "building": "Government High School Gerugambakkam, Gerugambakkam 600122",
       "lat": 13.0317462,
-      "lng": 80.1119385
+      "lng": 80.1119385,
+      "comparison": {
+        "dmk_swing": -3.27,
+        "aiadmk_swing": -4.85,
+        "turnout_change": 86.11
+      }
     },
     {
       "booth_no": "145",
@@ -4068,7 +4791,12 @@
       "village": "East Side New Building",
       "building": "Panchayat Union Primary School, East Side New Building 1st Std Room, Gerugambakkam - 600122",
       "lat": 13.0100445,
-      "lng": 80.1391059
+      "lng": 80.1391059,
+      "comparison": {
+        "dmk_swing": 2.71,
+        "aiadmk_swing": -3.08,
+        "turnout_change": 8.83
+      }
     },
     {
       "booth_no": "146",
@@ -4096,7 +4824,12 @@
       "village": "West Facing East Side New Building",
       "building": "Sri Raghavendra Primary School, West Facing East Side New Building 1st A Std Room, Gerugambakkam - 600122",
       "lat": 12.9965438,
-      "lng": 80.2045355
+      "lng": 80.2045355,
+      "comparison": {
+        "dmk_swing": 4.05,
+        "aiadmk_swing": 5.84,
+        "turnout_change": 384.07
+      }
     },
     {
       "booth_no": "147",
@@ -4124,7 +4857,12 @@
       "village": "Gerugambakkam",
       "building": "Sri Raghavendra Vidhyalaya Nursery &Primary School, Gerugambakkam, Gerugambakkam 600122",
       "lat": 13.0316303,
-      "lng": 80.1119382
+      "lng": 80.1119382,
+      "comparison": {
+        "dmk_swing": 6.25,
+        "aiadmk_swing": -9.96,
+        "turnout_change": 12.16
+      }
     },
     {
       "booth_no": "148",
@@ -4152,7 +4890,12 @@
       "village": "Gerugambakkam",
       "building": "Government High School Gerugambakkam, Gerugambakkam 600122",
       "lat": 13.0317462,
-      "lng": 80.1119385
+      "lng": 80.1119385,
+      "comparison": {
+        "dmk_swing": 1.79,
+        "aiadmk_swing": -8.57,
+        "turnout_change": 1.53
+      }
     },
     {
       "booth_no": "149",
@@ -4180,7 +4923,12 @@
       "village": "Gerugambakkam",
       "building": "Government High School Gerugambakkam, Gerugambakkam 600122",
       "lat": 13.0317462,
-      "lng": 80.1119385
+      "lng": 80.1119385,
+      "comparison": {
+        "dmk_swing": 0.01,
+        "aiadmk_swing": -2.08,
+        "turnout_change": -0.79
+      }
     },
     {
       "booth_no": "150",
@@ -4208,7 +4956,12 @@
       "village": "Gerugambakkam",
       "building": "Government High School Gerugambakkam, Gerugambakkam 600122",
       "lat": 13.0317462,
-      "lng": 80.1119385
+      "lng": 80.1119385,
+      "comparison": {
+        "dmk_swing": 1.46,
+        "aiadmk_swing": -5.99,
+        "turnout_change": 27.48
+      }
     },
     {
       "booth_no": "151",
@@ -4236,7 +4989,12 @@
       "village": "West Facing",
       "building": "Panchayat Union Primary School, West Facing, North Part, Gerugambakkam - 600122",
       "lat": 12.8074054,
-      "lng": 79.76675589999999
+      "lng": 79.76675589999999,
+      "comparison": {
+        "dmk_swing": 2.24,
+        "aiadmk_swing": -10.61,
+        "turnout_change": 13.46
+      }
     },
     {
       "booth_no": "152",
@@ -4264,7 +5022,12 @@
       "village": "South Builing West Corner West Facing",
       "building": "Government High School , South Builing West Corner West Facing, Gerugambakkam - 600122",
       "lat": 13.0317462,
-      "lng": 80.1119385
+      "lng": 80.1119385,
+      "comparison": {
+        "dmk_swing": 16.44,
+        "aiadmk_swing": -17.0,
+        "turnout_change": 9.71
+      }
     },
     {
       "booth_no": "153",
@@ -4292,7 +5055,12 @@
       "village": "West Facing",
       "building": "Panchayat Union Primary School, West Facing, North Part, Gerugambakkam - 600122",
       "lat": 12.8074054,
-      "lng": 79.76675589999999
+      "lng": 79.76675589999999,
+      "comparison": {
+        "dmk_swing": 9.37,
+        "aiadmk_swing": -12.95,
+        "turnout_change": 11.5
+      }
     },
     {
       "booth_no": "154",
@@ -4320,7 +5088,12 @@
       "village": "Gerugambakkam",
       "building": "Government High School Gerugambakkam, Gerugambakkam 600122",
       "lat": 13.0317462,
-      "lng": 80.1119385
+      "lng": 80.1119385,
+      "comparison": {
+        "dmk_swing": 6.56,
+        "aiadmk_swing": -12.74,
+        "turnout_change": 71.79
+      }
     },
     {
       "booth_no": "155",
@@ -4348,7 +5121,12 @@
       "village": "Middle Building",
       "building": "Panchayat Union Primary School, Middle Building, West Facing, North Part, Gerugambakkam - 600122",
       "lat": 12.9974873,
-      "lng": 80.2006371
+      "lng": 80.2006371,
+      "comparison": {
+        "dmk_swing": 5.54,
+        "aiadmk_swing": -11.17,
+        "turnout_change": -7.95
+      }
     },
     {
       "booth_no": "156",
@@ -4376,7 +5154,12 @@
       "village": "Gerugambakkam",
       "building": "Government High School Gerugambakkam, Gerugambakkam 600122",
       "lat": 13.0317462,
-      "lng": 80.1119385
+      "lng": 80.1119385,
+      "comparison": {
+        "dmk_swing": 3.5,
+        "aiadmk_swing": -8.63,
+        "turnout_change": 22.81
+      }
     },
     {
       "booth_no": "157",
@@ -4404,7 +5187,12 @@
       "village": "Gerugambakkam",
       "building": "Government Adidravidar Welfare Primary School. North Facing, Gerugambakkam- 600122",
       "lat": 13.0117814,
-      "lng": 80.1332856
+      "lng": 80.1332856,
+      "comparison": {
+        "dmk_swing": 8.17,
+        "aiadmk_swing": -11.58,
+        "turnout_change": 15.74
+      }
     },
     {
       "booth_no": "158",
@@ -4432,7 +5220,12 @@
       "village": "Gerugambakkam",
       "building": "Government Adidravidar Welfare Primary School. North Facing, Gerugambakkam- 600122",
       "lat": 13.0117814,
-      "lng": 80.1332856
+      "lng": 80.1332856,
+      "comparison": {
+        "dmk_swing": 7.34,
+        "aiadmk_swing": -12.4,
+        "turnout_change": 14.32
+      }
     },
     {
       "booth_no": "159",
@@ -4460,7 +5253,12 @@
       "village": "North Side",
       "building": "Panchayat Union Middle school , North Side, Room No. 1, Thandalam - 600056",
       "lat": 12.8205083,
-      "lng": 79.7029088
+      "lng": 79.7029088,
+      "comparison": {
+        "dmk_swing": 7.76,
+        "aiadmk_swing": -15.55,
+        "turnout_change": 53.52
+      }
     },
     {
       "booth_no": "160",
@@ -4488,7 +5286,12 @@
       "village": "North Side",
       "building": "Panchayat Union Middle school , North Side, Room No. 2 , Thandalam - 600056",
       "lat": 12.8205083,
-      "lng": 79.7029088
+      "lng": 79.7029088,
+      "comparison": {
+        "dmk_swing": 6.06,
+        "aiadmk_swing": -10.37,
+        "turnout_change": 15.16
+      }
     },
     {
       "booth_no": "161",
@@ -4516,7 +5319,12 @@
       "village": "Thandalam",
       "building": "Government Adidharvidar welfare Primary School, Thandalam, 600128",
       "lat": 13.0117814,
-      "lng": 80.1332856
+      "lng": 80.1332856,
+      "comparison": {
+        "dmk_swing": 9.36,
+        "aiadmk_swing": -9.07,
+        "turnout_change": 1.95
+      }
     },
     {
       "booth_no": "162",
@@ -4544,7 +5352,12 @@
       "village": "Thandalam",
       "building": "Government Adidharvidar welfare Primary School, Thandalam, 600128",
       "lat": 13.0117814,
-      "lng": 80.1332856
+      "lng": 80.1332856,
+      "comparison": {
+        "dmk_swing": 5.5,
+        "aiadmk_swing": -5.69,
+        "turnout_change": 16.45
+      }
     },
     {
       "booth_no": "163",
@@ -4572,7 +5385,12 @@
       "village": "Thandalam",
       "building": "Government Adidiravidar Welfare High School Thandalam, Thandalam - 600128",
       "lat": 13.007805,
-      "lng": 80.1273649
+      "lng": 80.1273649,
+      "comparison": {
+        "dmk_swing": 5.39,
+        "aiadmk_swing": 5.69,
+        "turnout_change": 3.35
+      }
     },
     {
       "booth_no": "164",
@@ -4600,7 +5418,12 @@
       "village": "Thandalam",
       "building": "Government Adidiravidar Welfare High School Thandalam, Thandalam - 600128",
       "lat": 13.007805,
-      "lng": 80.1273649
+      "lng": 80.1273649,
+      "comparison": {
+        "dmk_swing": 9.86,
+        "aiadmk_swing": -2.03,
+        "turnout_change": 8.05
+      }
     },
     {
       "booth_no": "165",
@@ -4628,7 +5451,12 @@
       "village": "East Side Room No",
       "building": "Panchayat Union Middle school , East Side Room No 1, Irandamkattalai - 600056",
       "lat": 12.9974873,
-      "lng": 80.2006371
+      "lng": 80.2006371,
+      "comparison": {
+        "dmk_swing": -5.35,
+        "aiadmk_swing": 5.88,
+        "turnout_change": 3.1
+      }
     },
     {
       "booth_no": "166",
@@ -4656,7 +5484,12 @@
       "village": "East Side Room",
       "building": "Panchayat Union Middle school, East Side Room 2 , Irandamkattalai - 600056",
       "lat": 12.8205083,
-      "lng": 79.7029088
+      "lng": 79.7029088,
+      "comparison": {
+        "dmk_swing": 15.94,
+        "aiadmk_swing": -20.28,
+        "turnout_change": 5.66
+      }
     },
     {
       "booth_no": "167",
@@ -4684,7 +5517,12 @@
       "village": "West Side Room No",
       "building": "Panchayat Union Middle school, West Side Room No 1, Irandamkattalai - 600056",
       "lat": 12.9974873,
-      "lng": 80.2006371
+      "lng": 80.2006371,
+      "comparison": {
+        "dmk_swing": 6.34,
+        "aiadmk_swing": -9.5,
+        "turnout_change": 3.05
+      }
     },
     {
       "booth_no": "168",
@@ -4712,7 +5550,12 @@
       "village": "West Side Room No",
       "building": "Panchayat Union Middle school, West Side Room No 2, Irandamkattalai - 600056",
       "lat": 12.9974873,
-      "lng": 80.2006371
+      "lng": 80.2006371,
+      "comparison": {
+        "dmk_swing": 6.2,
+        "aiadmk_swing": -14.37,
+        "turnout_change": 9.02
+      }
     },
     {
       "booth_no": "169",
@@ -4740,7 +5583,12 @@
       "village": "Cowl Bazzar",
       "building": "St Thomas Mount Panchayat union Primary School Cowl Bazzar, Cowl Bazzar - 600074",
       "lat": 12.9840069,
-      "lng": 80.1287516
+      "lng": 80.1287516,
+      "comparison": {
+        "dmk_swing": 13.14,
+        "aiadmk_swing": -18.74,
+        "turnout_change": 5.98
+      }
     },
     {
       "booth_no": "170",
@@ -4768,7 +5616,12 @@
       "village": "Cowl Bazzar",
       "building": "St Thomas Mount Panchayat union Primary School Cowl Bazzar, Cowl Bazzar - 600074",
       "lat": 12.9840069,
-      "lng": 80.1287516
+      "lng": 80.1287516,
+      "comparison": {
+        "dmk_swing": -2.07,
+        "aiadmk_swing": -8.42,
+        "turnout_change": -3.93
+      }
     },
     {
       "booth_no": "171",
@@ -4796,7 +5649,12 @@
       "village": "Cowl Bazzar",
       "building": "St Thomas Mount Panchayat union Primary School Cowl Bazzar, Cowl Bazzar - 600074",
       "lat": 12.9840069,
-      "lng": 80.1287516
+      "lng": 80.1287516,
+      "comparison": {
+        "dmk_swing": 15.41,
+        "aiadmk_swing": -20.71,
+        "turnout_change": 64.78
+      }
     },
     {
       "booth_no": "172",
@@ -4824,7 +5682,12 @@
       "village": "Cowl Bazzar",
       "building": "St Thomas Mount Panchayat union Primary School Cowl Bazzar, Cowl Bazzar - 600074",
       "lat": 12.9840069,
-      "lng": 80.1287516
+      "lng": 80.1287516,
+      "comparison": {
+        "dmk_swing": 11.25,
+        "aiadmk_swing": -15.48,
+        "turnout_change": -11.92
+      }
     },
     {
       "booth_no": "173",
@@ -4852,7 +5715,12 @@
       "village": "Poonamalle High Road St Thomas Mount",
       "building": "St. Domnic Higher Secondary School St Thomas Mount, Poonamalle High Road St Thomas Mount 600016.",
       "lat": 13.0083474,
-      "lng": 80.1963138
+      "lng": 80.1963138,
+      "comparison": {
+        "dmk_swing": 8.22,
+        "aiadmk_swing": -14.61,
+        "turnout_change": 12.86
+      }
     },
     {
       "booth_no": "174",
@@ -4880,7 +5748,12 @@
       "village": "Poonamalle High Road St Thomas Mount",
       "building": "St. Domnic Higher Secondary School St Thomas Mount, Poonamalle High Road St Thomas Mount 600016.",
       "lat": 13.0083474,
-      "lng": 80.1963138
+      "lng": 80.1963138,
+      "comparison": {
+        "dmk_swing": 3.35,
+        "aiadmk_swing": -8.2,
+        "turnout_change": 8.15
+      }
     },
     {
       "booth_no": "175",
@@ -4908,7 +5781,12 @@
       "village": "Poonamalle High Road St Thomas Mount",
       "building": "St. Domnic Higher Secondary School St Thomas Mount, Poonamalle High Road St Thomas Mount 600016.",
       "lat": 13.0083474,
-      "lng": 80.1963138
+      "lng": 80.1963138,
+      "comparison": {
+        "dmk_swing": -0.56,
+        "aiadmk_swing": -8.81,
+        "turnout_change": 19.83
+      }
     },
     {
       "booth_no": "176",
@@ -4936,7 +5814,12 @@
       "village": "St",
       "building": "R C M High School St Thomas Mount, St. Thomas Mount - 600016",
       "lat": 13.0091091,
-      "lng": 80.19520279999999
+      "lng": 80.19520279999999,
+      "comparison": {
+        "dmk_swing": 2.36,
+        "aiadmk_swing": -6.62,
+        "turnout_change": 2.41
+      }
     },
     {
       "booth_no": "177",
@@ -4964,7 +5847,12 @@
       "village": "St",
       "building": "R C M Primary School St Thomas Mount, St. Thomas Mount - 600016",
       "lat": 13.005056,
-      "lng": 80.19330599999999
+      "lng": 80.19330599999999,
+      "comparison": {
+        "dmk_swing": 4.58,
+        "aiadmk_swing": -4.43,
+        "turnout_change": -15.31
+      }
     },
     {
       "booth_no": "178",
@@ -4992,7 +5880,12 @@
       "village": "St",
       "building": "R C M High School St Thomas Mount, St. Thomas Mount - 600016",
       "lat": 13.0091091,
-      "lng": 80.19520279999999
+      "lng": 80.19520279999999,
+      "comparison": {
+        "dmk_swing": 3.77,
+        "aiadmk_swing": -12.12,
+        "turnout_change": -4.09
+      }
     },
     {
       "booth_no": "179",
@@ -5020,7 +5913,12 @@
       "village": "St",
       "building": "R C M High School St Thomas Mount, St. Thomas Mount - 600016",
       "lat": 13.0091091,
-      "lng": 80.19520279999999
+      "lng": 80.19520279999999,
+      "comparison": {
+        "dmk_swing": 7.23,
+        "aiadmk_swing": -13.43,
+        "turnout_change": -1.97
+      }
     },
     {
       "booth_no": "180",
@@ -5048,7 +5946,12 @@
       "village": "St",
       "building": "R C M High School St Thomas Mount, St. Thomas Mount - 600016",
       "lat": 13.0091091,
-      "lng": 80.19520279999999
+      "lng": 80.19520279999999,
+      "comparison": {
+        "dmk_swing": 4.54,
+        "aiadmk_swing": -9.51,
+        "turnout_change": 12.61
+      }
     },
     {
       "booth_no": "181",
@@ -5076,7 +5979,12 @@
       "village": "St",
       "building": "R C M High School St Thomas Mount, St. Thomas Mount - 600016",
       "lat": 13.0091091,
-      "lng": 80.19520279999999
+      "lng": 80.19520279999999,
+      "comparison": {
+        "dmk_swing": 4.11,
+        "aiadmk_swing": -9.86,
+        "turnout_change": 0.8
+      }
     },
     {
       "booth_no": "182",
@@ -5104,7 +6012,12 @@
       "village": "St",
       "building": "R C M High School St Thomas Mount, St. Thomas Mount - 600016",
       "lat": 13.0091091,
-      "lng": 80.19520279999999
+      "lng": 80.19520279999999,
+      "comparison": {
+        "dmk_swing": 9.12,
+        "aiadmk_swing": -11.63,
+        "turnout_change": 5.46
+      }
     },
     {
       "booth_no": "183",
@@ -5132,7 +6045,12 @@
       "village": "St",
       "building": "Dr.M.G.R. Cantonment High School St Thomas Mount - 600016., St. Thomas Mount - 600016",
       "lat": 13.0129123,
-      "lng": 80.19535239999999
+      "lng": 80.19535239999999,
+      "comparison": {
+        "dmk_swing": 9.62,
+        "aiadmk_swing": -20.33,
+        "turnout_change": 7.14
+      }
     },
     {
       "booth_no": "184",
@@ -5160,7 +6078,12 @@
       "village": "St",
       "building": "Dr.M.G.R. Cantonment High School St Thomas Mount - 600016., St. Thomas Mount - 600016",
       "lat": 13.0129123,
-      "lng": 80.19535239999999
+      "lng": 80.19535239999999,
+      "comparison": {
+        "dmk_swing": 7.8,
+        "aiadmk_swing": -14.92,
+        "turnout_change": -1.61
+      }
     },
     {
       "booth_no": "185",
@@ -5188,7 +6111,12 @@
       "village": "St",
       "building": "Dr.M.G.R. Cantonment High School St Thomas Mount - 600016., St. Thomas Mount - 600016",
       "lat": 13.0129123,
-      "lng": 80.19535239999999
+      "lng": 80.19535239999999,
+      "comparison": {
+        "dmk_swing": 5.02,
+        "aiadmk_swing": -6.13,
+        "turnout_change": 1.18
+      }
     },
     {
       "booth_no": "186",
@@ -5216,7 +6144,12 @@
       "village": "St",
       "building": "Dr.M.G.R. Cantonment High School St Thomas Mount - 600016., St. Thomas Mount - 600016",
       "lat": 13.0129123,
-      "lng": 80.19535239999999
+      "lng": 80.19535239999999,
+      "comparison": {
+        "dmk_swing": 3.79,
+        "aiadmk_swing": -12.86,
+        "turnout_change": 20.7
+      }
     },
     {
       "booth_no": "187",
@@ -5244,7 +6177,12 @@
       "village": "St",
       "building": "Dr.M.G.R. Cantonment High School St Thomas Mount - 600016., St. Thomas Mount - 600016",
       "lat": 13.0129123,
-      "lng": 80.19535239999999
+      "lng": 80.19535239999999,
+      "comparison": {
+        "dmk_swing": -0.2,
+        "aiadmk_swing": -4.51,
+        "turnout_change": -1.12
+      }
     },
     {
       "booth_no": "188",
@@ -5272,7 +6210,12 @@
       "village": "St",
       "building": "Dr.M.G.R. Cantonment High School St Thomas Mount - 600016., St. Thomas Mount - 600016",
       "lat": 13.0129123,
-      "lng": 80.19535239999999
+      "lng": 80.19535239999999,
+      "comparison": {
+        "dmk_swing": 6.73,
+        "aiadmk_swing": -10.19,
+        "turnout_change": 5.34
+      }
     },
     {
       "booth_no": "189",
@@ -5300,7 +6243,12 @@
       "village": "St",
       "building": "C S I St.Thomas Higher Secondary School St Thomas Mount, St. Thomas Mount - 600016",
       "lat": 13.0076901,
-      "lng": 80.1983176
+      "lng": 80.1983176,
+      "comparison": {
+        "dmk_swing": 13.46,
+        "aiadmk_swing": -14.73,
+        "turnout_change": 7.12
+      }
     },
     {
       "booth_no": "190",
@@ -5328,7 +6276,12 @@
       "village": "St",
       "building": "C S I St.Thomas Higher Secondary School St Thomas Mount, St. Thomas Mount - 600016",
       "lat": 13.0076901,
-      "lng": 80.1983176
+      "lng": 80.1983176,
+      "comparison": {
+        "dmk_swing": 16.97,
+        "aiadmk_swing": -19.43,
+        "turnout_change": 6.94
+      }
     },
     {
       "booth_no": "191",
@@ -5356,7 +6309,12 @@
       "village": "St",
       "building": "C S I St.Thomas Higher Secondary School St Thomas Mount, St. Thomas Mount - 600016",
       "lat": 13.0076901,
-      "lng": 80.1983176
+      "lng": 80.1983176,
+      "comparison": {
+        "dmk_swing": 5.03,
+        "aiadmk_swing": -6.39,
+        "turnout_change": 1.66
+      }
     },
     {
       "booth_no": "192",
@@ -5384,7 +6342,12 @@
       "village": "St",
       "building": "C S I St.Thomas Higher Secondary School St Thomas Mount, St. Thomas Mount - 600016",
       "lat": 13.0076901,
-      "lng": 80.1983176
+      "lng": 80.1983176,
+      "comparison": {
+        "dmk_swing": 10.31,
+        "aiadmk_swing": -15.59,
+        "turnout_change": 10.58
+      }
     },
     {
       "booth_no": "193",
@@ -5412,7 +6375,12 @@
       "village": "St",
       "building": "C S I St.Thomas Higher Secondary School St Thomas Mount, St. Thomas Mount - 600016",
       "lat": 13.0076901,
-      "lng": 80.1983176
+      "lng": 80.1983176,
+      "comparison": {
+        "dmk_swing": 5.51,
+        "aiadmk_swing": -9.8,
+        "turnout_change": 3.66
+      }
     },
     {
       "booth_no": "194",
@@ -5440,7 +6408,12 @@
       "village": "St",
       "building": "C S I St.Thomas Higher Secondary School St Thomas Mount, St. Thomas Mount - 600016",
       "lat": 13.0076901,
-      "lng": 80.1983176
+      "lng": 80.1983176,
+      "comparison": {
+        "dmk_swing": 9.19,
+        "aiadmk_swing": -12.95,
+        "turnout_change": 1.56
+      }
     },
     {
       "booth_no": "195",
@@ -5468,7 +6441,12 @@
       "village": "St",
       "building": "C S I St.Thomas Higher Secondary School St Thomas Mount, St. Thomas Mount - 600016",
       "lat": 13.0076901,
-      "lng": 80.1983176
+      "lng": 80.1983176,
+      "comparison": {
+        "dmk_swing": 8.92,
+        "aiadmk_swing": -8.72,
+        "turnout_change": 6.67
+      }
     },
     {
       "booth_no": "196",
@@ -5496,7 +6474,12 @@
       "village": "St",
       "building": "Kamarajar Cantonment Primary School, St.Thomas Mount, St. Thomas Mount - 600016",
       "lat": 13.0066528,
-      "lng": 80.1944807
+      "lng": 80.1944807,
+      "comparison": {
+        "dmk_swing": 11.32,
+        "aiadmk_swing": -12.7,
+        "turnout_change": 3.95
+      }
     },
     {
       "booth_no": "197",
@@ -5524,7 +6507,12 @@
       "village": "St",
       "building": "Kamarajar Cantonment Primary School, St.Thomas Mount, St. Thomas Mount - 600016",
       "lat": 13.0066528,
-      "lng": 80.1944807
+      "lng": 80.1944807,
+      "comparison": {
+        "dmk_swing": 16.65,
+        "aiadmk_swing": -15.19,
+        "turnout_change": -0.53
+      }
     },
     {
       "booth_no": "198",
@@ -5552,7 +6540,12 @@
       "village": "St",
       "building": "Kamarajar Cantonment Primary School, St.Thomas Mount, St. Thomas Mount - 600016",
       "lat": 13.0066528,
-      "lng": 80.1944807
+      "lng": 80.1944807,
+      "comparison": {
+        "dmk_swing": 12.14,
+        "aiadmk_swing": -12.78,
+        "turnout_change": 10.57
+      }
     },
     {
       "booth_no": "199",
@@ -5580,7 +6573,12 @@
       "village": "St",
       "building": "Kamarajar Cantonment Primary School, St.Thomas Mount, St. Thomas Mount - 600016",
       "lat": 13.0066528,
-      "lng": 80.1944807
+      "lng": 80.1944807,
+      "comparison": {
+        "dmk_swing": 8.65,
+        "aiadmk_swing": -14.56,
+        "turnout_change": 0.0
+      }
     },
     {
       "booth_no": "200",
@@ -5608,7 +6606,12 @@
       "village": "St",
       "building": "Kamarajar Cantonment Primary School, St.Thomas Mount, St. Thomas Mount - 600016",
       "lat": 13.0066528,
-      "lng": 80.1944807
+      "lng": 80.1944807,
+      "comparison": {
+        "dmk_swing": 11.29,
+        "aiadmk_swing": -11.83,
+        "turnout_change": -9.39
+      }
     },
     {
       "booth_no": "201",
@@ -5636,7 +6639,12 @@
       "village": "St",
       "building": "Kamarajar Cantonment Primary School, St.Thomas Mount, St. Thomas Mount - 600016",
       "lat": 13.0066528,
-      "lng": 80.1944807
+      "lng": 80.1944807,
+      "comparison": {
+        "dmk_swing": 8.0,
+        "aiadmk_swing": -10.63,
+        "turnout_change": -12.89
+      }
     },
     {
       "booth_no": "202",
@@ -5664,7 +6672,12 @@
       "village": "St",
       "building": "Kamarajar Cantonment Primary School, St.Thomas Mount, St. Thomas Mount - 600016",
       "lat": 13.0066528,
-      "lng": 80.1944807
+      "lng": 80.1944807,
+      "comparison": {
+        "dmk_swing": 8.09,
+        "aiadmk_swing": -0.87,
+        "turnout_change": 0.0
+      }
     },
     {
       "booth_no": "203",
@@ -5692,7 +6705,12 @@
       "village": "St",
       "building": "Kamarajar Cantonment Primary School, St.Thomas Mount, St. Thomas Mount - 600016",
       "lat": 13.0066528,
-      "lng": 80.1944807
+      "lng": 80.1944807,
+      "comparison": {
+        "dmk_swing": 9.33,
+        "aiadmk_swing": -13.95,
+        "turnout_change": 3.91
+      }
     },
     {
       "booth_no": "204",
@@ -5720,7 +6738,12 @@
       "village": "Poonamalle High Road St Thomas Mount",
       "building": "St. Domnic Higher Secondary School St Thomas Mount, Poonamalle High Road St Thomas Mount 600016.",
       "lat": 13.0083474,
-      "lng": 80.1963138
+      "lng": 80.1963138,
+      "comparison": {
+        "dmk_swing": 5.99,
+        "aiadmk_swing": -10.65,
+        "turnout_change": -5.42
+      }
     },
     {
       "booth_no": "205",
@@ -5748,7 +6771,12 @@
       "village": "Poonamalle High Road St Thomas Mount",
       "building": "St. Domnic Higher Secondary School St Thomas Mount, Poonamalle High Road St Thomas Mount 600016.",
       "lat": 13.0083474,
-      "lng": 80.1963138
+      "lng": 80.1963138,
+      "comparison": {
+        "dmk_swing": 0.94,
+        "aiadmk_swing": -4.76,
+        "turnout_change": 7.6
+      }
     },
     {
       "booth_no": "206",
@@ -5776,7 +6804,12 @@
       "village": "Poonamalle High Road St Thomas Mount",
       "building": "St. Domnic Higher Secondary School St Thomas Mount, Poonamalle High Road St Thomas Mount 600016.",
       "lat": 13.0083474,
-      "lng": 80.1963138
+      "lng": 80.1963138,
+      "comparison": {
+        "dmk_swing": 12.14,
+        "aiadmk_swing": -15.12,
+        "turnout_change": 6.84
+      }
     },
     {
       "booth_no": "207",
@@ -5804,7 +6837,12 @@
       "village": "Meenambakkam",
       "building": "Civil Aviation Middle School Meenambakkam, Meenambakkam 600027.",
       "lat": 12.987454,
-      "lng": 80.17534909999999
+      "lng": 80.17534909999999,
+      "comparison": {
+        "dmk_swing": 8.66,
+        "aiadmk_swing": -6.19,
+        "turnout_change": 3.62
+      }
     },
     {
       "booth_no": "208",
@@ -5832,7 +6870,12 @@
       "village": "Meenambakkam",
       "building": "Civil Aviation Middle School Meenambakkam, Meenambakkam 600027.",
       "lat": 12.987454,
-      "lng": 80.17534909999999
+      "lng": 80.17534909999999,
+      "comparison": {
+        "dmk_swing": 15.35,
+        "aiadmk_swing": -13.71,
+        "turnout_change": -5.5
+      }
     },
     {
       "booth_no": "209",
@@ -5860,7 +6903,12 @@
       "village": "Meenambakkam",
       "building": "Civil Aviation Middle School Meenambakkam, Meenambakkam 600027.",
       "lat": 12.987454,
-      "lng": 80.17534909999999
+      "lng": 80.17534909999999,
+      "comparison": {
+        "dmk_swing": 12.55,
+        "aiadmk_swing": -18.01,
+        "turnout_change": 4.44
+      }
     },
     {
       "booth_no": "210",
@@ -5888,7 +6936,12 @@
       "village": "Cantonment Pallavaram",
       "building": "Aringnar Anna Cantonment High School, Cantonment Pallavaram, Cantonment Pallavaram-600043",
       "lat": 12.9717343,
-      "lng": 80.1503536
+      "lng": 80.1503536,
+      "comparison": {
+        "dmk_swing": -3.36,
+        "aiadmk_swing": 3.24,
+        "turnout_change": -1.33
+      }
     },
     {
       "booth_no": "211",
@@ -5916,7 +6969,12 @@
       "village": "Cantonment Pallavaram",
       "building": "Aringnar Anna Cantonment High School, Cantonment Pallavaram, Cantonment Pallavaram-600043",
       "lat": 12.9717343,
-      "lng": 80.1503536
+      "lng": 80.1503536,
+      "comparison": {
+        "dmk_swing": 7.25,
+        "aiadmk_swing": -10.1,
+        "turnout_change": 2.96
+      }
     },
     {
       "booth_no": "212",
@@ -5944,7 +7002,12 @@
       "village": "Cantonment Pallavaram",
       "building": "Aringnar Anna Cantonment High School, Cantonment Pallavaram, Cantonment Pallavaram-600043",
       "lat": 12.9717343,
-      "lng": 80.1503536
+      "lng": 80.1503536,
+      "comparison": {
+        "dmk_swing": 12.67,
+        "aiadmk_swing": -17.11,
+        "turnout_change": 2.19
+      }
     },
     {
       "booth_no": "213",
@@ -5972,7 +7035,12 @@
       "village": "Cantonment Pallavaram",
       "building": "Aringnar Anna Cantonment High School, Cantonment Pallavaram, Cantonment Pallavaram-600043",
       "lat": 12.9717343,
-      "lng": 80.1503536
+      "lng": 80.1503536,
+      "comparison": {
+        "dmk_swing": 15.59,
+        "aiadmk_swing": -16.98,
+        "turnout_change": 50.0
+      }
     },
     {
       "booth_no": "214",
@@ -6000,7 +7068,12 @@
       "village": "Cantonment Pallavaram",
       "building": "Aringnar Anna Cantonment High School, Cantonment Pallavaram, Cantonment Pallavaram-600043",
       "lat": 12.9717343,
-      "lng": 80.1503536
+      "lng": 80.1503536,
+      "comparison": {
+        "dmk_swing": 22.54,
+        "aiadmk_swing": -26.16,
+        "turnout_change": -3.94
+      }
     },
     {
       "booth_no": "215",
@@ -6028,7 +7101,12 @@
       "village": "Cantonment Pallavaram",
       "building": "Aringnar Anna Cantonment High School, Cantonment Pallavaram, Cantonment Pallavaram-600043",
       "lat": 12.9717343,
-      "lng": 80.1503536
+      "lng": 80.1503536,
+      "comparison": {
+        "dmk_swing": 17.59,
+        "aiadmk_swing": -19.35,
+        "turnout_change": -22.69
+      }
     },
     {
       "booth_no": "216",
@@ -6056,7 +7134,12 @@
       "village": "Cantonment Pallavaram",
       "building": "Aringnar Anna Cantonment High School, Cantonment Pallavaram, Cantonment Pallavaram-600043",
       "lat": 12.9717343,
-      "lng": 80.1503536
+      "lng": 80.1503536,
+      "comparison": {
+        "dmk_swing": 9.05,
+        "aiadmk_swing": -7.83,
+        "turnout_change": -7.1
+      }
     },
     {
       "booth_no": "217",
@@ -6084,7 +7167,12 @@
       "village": "Cantonment Pallavaram",
       "building": "Aringnar Anna Cantonment High School, Cantonment Pallavaram, Cantonment Pallavaram-600043",
       "lat": 12.9717343,
-      "lng": 80.1503536
+      "lng": 80.1503536,
+      "comparison": {
+        "dmk_swing": 0.65,
+        "aiadmk_swing": -7.72,
+        "turnout_change": -6.69
+      }
     },
     {
       "booth_no": "218",
@@ -6112,7 +7200,12 @@
       "village": "Cantonment Pallavaram",
       "building": "Aringnar Anna Cantonment High School, Cantonment Pallavaram, Cantonment Pallavaram-600043",
       "lat": 12.9717343,
-      "lng": 80.1503536
+      "lng": 80.1503536,
+      "comparison": {
+        "dmk_swing": 7.88,
+        "aiadmk_swing": -8.38,
+        "turnout_change": -7.28
+      }
     },
     {
       "booth_no": "219",
@@ -6140,7 +7233,12 @@
       "village": "Cantonment Pallavaram",
       "building": "Dr. APJ Abdul Kalam Cantonment Primary School, Cantonment Pallavaram, Cantonment Pallavaram-600043",
       "lat": 12.972,
-      "lng": 80.15047050000001
+      "lng": 80.15047050000001,
+      "comparison": {
+        "dmk_swing": -0.9,
+        "aiadmk_swing": -1.77,
+        "turnout_change": -6.5
+      }
     },
     {
       "booth_no": "220",
@@ -6168,7 +7266,12 @@
       "village": "Cantonment Pallavaram",
       "building": "Dr. APJ Abdul Kalam Cantonment Primary School, Cantonment Pallavaram, Cantonment Pallavaram-600043",
       "lat": 12.972,
-      "lng": 80.15047050000001
+      "lng": 80.15047050000001,
+      "comparison": {
+        "dmk_swing": 2.53,
+        "aiadmk_swing": -7.05,
+        "turnout_change": -8.5
+      }
     },
     {
       "booth_no": "221",
@@ -6196,7 +7299,12 @@
       "village": "Cantonment Pallavaram",
       "building": "Dr. APJ Abdul Kalam Cantonment Primary School, Cantonment Pallavaram, Cantonment Pallavaram-600043",
       "lat": 12.972,
-      "lng": 80.15047050000001
+      "lng": 80.15047050000001,
+      "comparison": {
+        "dmk_swing": 7.28,
+        "aiadmk_swing": -10.55,
+        "turnout_change": 3.72
+      }
     },
     {
       "booth_no": "222",
@@ -6224,7 +7332,12 @@
       "village": "Cantonment Pallavaram",
       "building": "Dr. APJ Abdul Kalam Cantonment Primary School, Cantonment Pallavaram, Cantonment Pallavaram-600043",
       "lat": 12.972,
-      "lng": 80.15047050000001
+      "lng": 80.15047050000001,
+      "comparison": {
+        "dmk_swing": 12.99,
+        "aiadmk_swing": -10.01,
+        "turnout_change": -5.38
+      }
     },
     {
       "booth_no": "223",
@@ -6252,7 +7365,12 @@
       "village": "Cantonment Pallavaram",
       "building": "Dr. APJ Abdul Kalam Cantonment Primary School, Cantonment Pallavaram, Cantonment Pallavaram-600043",
       "lat": 12.972,
-      "lng": 80.15047050000001
+      "lng": 80.15047050000001,
+      "comparison": {
+        "dmk_swing": 8.45,
+        "aiadmk_swing": -8.06,
+        "turnout_change": -3.79
+      }
     },
     {
       "booth_no": "224",
@@ -6280,7 +7398,12 @@
       "village": "Cantonment Pallavaram",
       "building": "Dr. APJ Abdul Kalam Cantonment Primary School, Cantonment Pallavaram, Cantonment Pallavaram-600043",
       "lat": 12.972,
-      "lng": 80.15047050000001
+      "lng": 80.15047050000001,
+      "comparison": {
+        "dmk_swing": 1.29,
+        "aiadmk_swing": -6.2,
+        "turnout_change": 2.2
+      }
     },
     {
       "booth_no": "225",
@@ -6308,7 +7431,12 @@
       "village": "Muthukumarasamy Koil Street Alandur",
       "building": "Hindu Religion Middle School Alandur, Muthukumarasamy Koil Street Alandur 600016.",
       "lat": 13.0015562,
-      "lng": 80.20499559999999
+      "lng": 80.20499559999999,
+      "comparison": {
+        "dmk_swing": 1.8,
+        "aiadmk_swing": -4.9,
+        "turnout_change": 2.74
+      }
     },
     {
       "booth_no": "226",
@@ -6336,7 +7464,12 @@
       "village": "Muthukumarasamy Koil Street Alandur",
       "building": "Hindu Religion Middle School Alandur, Muthukumarasamy Koil Street Alandur 600016.",
       "lat": 13.0015562,
-      "lng": 80.20499559999999
+      "lng": 80.20499559999999,
+      "comparison": {
+        "dmk_swing": 10.72,
+        "aiadmk_swing": -11.73,
+        "turnout_change": 1.66
+      }
     },
     {
       "booth_no": "227",
@@ -6364,7 +7497,12 @@
       "village": "Thadikarasamy Koil Street Alandur",
       "building": "Gandhi Primary School Alandur, Thadikarasamy Koil Street Alandur 600016.",
       "lat": 13.0041026,
-      "lng": 80.2047333
+      "lng": 80.2047333,
+      "comparison": {
+        "dmk_swing": 6.47,
+        "aiadmk_swing": -13.25,
+        "turnout_change": 12.56
+      }
     },
     {
       "booth_no": "228",
@@ -6392,7 +7530,12 @@
       "village": "Thadikarasamy Koil Street Alandur",
       "building": "Gandhi Primary School Alandur, Thadikarasamy Koil Street Alandur 600016.",
       "lat": 13.0041026,
-      "lng": 80.2047333
+      "lng": 80.2047333,
+      "comparison": {
+        "dmk_swing": 17.85,
+        "aiadmk_swing": -18.8,
+        "turnout_change": -3.81
+      }
     },
     {
       "booth_no": "229",
@@ -6420,7 +7563,12 @@
       "village": "Room No",
       "building": "Greater Chennai High School, Room No. 3, Alandur - 600016",
       "lat": 12.9990374,
-      "lng": 80.2141796
+      "lng": 80.2141796,
+      "comparison": {
+        "dmk_swing": 11.7,
+        "aiadmk_swing": -10.75,
+        "turnout_change": 6.24
+      }
     },
     {
       "booth_no": "230",
@@ -6448,7 +7596,12 @@
       "village": "Alandur",
       "building": "Greater Chennai Primary School, (North) Ekambara Dabedar Street, Alandur, Ekambara Dabedar Street, Alandur 600016",
       "lat": 13.0046542,
-      "lng": 80.20298079999999
+      "lng": 80.20298079999999,
+      "comparison": {
+        "dmk_swing": 8.49,
+        "aiadmk_swing": -13.34,
+        "turnout_change": 6.18
+      }
     },
     {
       "booth_no": "231",
@@ -6476,7 +7629,12 @@
       "village": "Alandur",
       "building": "Greater Chennai High School Jal Street, Alandur-600016",
       "lat": 13.0027811,
-      "lng": 80.205003
+      "lng": 80.205003,
+      "comparison": {
+        "dmk_swing": -0.03,
+        "aiadmk_swing": -2.41,
+        "turnout_change": 3.52
+      }
     },
     {
       "booth_no": "232",
@@ -6504,7 +7662,12 @@
       "village": "Alandur",
       "building": "Greater Chennai Primary School, (North) Ekambara Dabedar Street, Alandur, Ekambara Dabedar Street, Alandur 600016",
       "lat": 13.0046542,
-      "lng": 80.20298079999999
+      "lng": 80.20298079999999,
+      "comparison": {
+        "dmk_swing": 3.63,
+        "aiadmk_swing": -9.67,
+        "turnout_change": 3.24
+      }
     },
     {
       "booth_no": "233",
@@ -6532,7 +7695,12 @@
       "village": "Alandur",
       "building": "Greater Chennai Primary School, (North) Ekambara Dabedar Street, Alandur, Ekambara Dabedar Street, Alandur 600016",
       "lat": 13.0046542,
-      "lng": 80.20298079999999
+      "lng": 80.20298079999999,
+      "comparison": {
+        "dmk_swing": 2.25,
+        "aiadmk_swing": -6.82,
+        "turnout_change": 3.12
+      }
     },
     {
       "booth_no": "234",
@@ -6560,7 +7728,12 @@
       "village": "Room No",
       "building": "Greater Chennai Primary School, Room No 3 , Alandur - 600016",
       "lat": 13.0004119,
-      "lng": 80.20285009999999
+      "lng": 80.20285009999999,
+      "comparison": {
+        "dmk_swing": 6.79,
+        "aiadmk_swing": -12.77,
+        "turnout_change": -30.02
+      }
     },
     {
       "booth_no": "235",
@@ -6588,7 +7761,12 @@
       "village": "Muthukumarasamy Koil Street Alandur",
       "building": "Hindu Religion Middle School Alandur, Muthukumarasamy Koil Street Alandur 600016.",
       "lat": 13.0015562,
-      "lng": 80.20499559999999
+      "lng": 80.20499559999999,
+      "comparison": {
+        "dmk_swing": 12.23,
+        "aiadmk_swing": -5.18,
+        "turnout_change": -16.47
+      }
     },
     {
       "booth_no": "236",
@@ -6616,7 +7794,12 @@
       "village": "Muthukumarasamy Koil Street Alandur",
       "building": "Hindu Religion Middle School Alandur, Muthukumarasamy Koil Street Alandur 600016.",
       "lat": 13.0015562,
-      "lng": 80.20499559999999
+      "lng": 80.20499559999999,
+      "comparison": {
+        "dmk_swing": 2.04,
+        "aiadmk_swing": -4.75,
+        "turnout_change": -8.4
+      }
     },
     {
       "booth_no": "237",
@@ -6644,7 +7827,12 @@
       "village": "Ponniyamman Koil Street",
       "building": "A.J.S Nithi Higher Secondary School Alandur, Ponniyamman Koil Street, Alandur - 600016",
       "lat": 12.9655621,
-      "lng": 80.1960629
+      "lng": 80.1960629,
+      "comparison": {
+        "dmk_swing": 5.13,
+        "aiadmk_swing": 2.46,
+        "turnout_change": -13.63
+      }
     },
     {
       "booth_no": "238",
@@ -6672,7 +7860,12 @@
       "village": "Ponniyamman Koil Street",
       "building": "A.J.S Nithi Higher Secondary School Alandur, Ponniyamman Koil Street, Alandur - 600016",
       "lat": 12.9655621,
-      "lng": 80.1960629
+      "lng": 80.1960629,
+      "comparison": {
+        "dmk_swing": -10.6,
+        "aiadmk_swing": -9.77,
+        "turnout_change": -26.82
+      }
     },
     {
       "booth_no": "239",
@@ -6700,7 +7893,12 @@
       "village": "Ponniyamman Koil Street",
       "building": "A.J.S Nithi Higher Secondary School Alandur, Ponniyamman Koil Street, Alandur - 600016",
       "lat": 12.9655621,
-      "lng": 80.1960629
+      "lng": 80.1960629,
+      "comparison": {
+        "dmk_swing": 12.69,
+        "aiadmk_swing": -11.0,
+        "turnout_change": -9.86
+      }
     },
     {
       "booth_no": "240",
@@ -6728,7 +7926,12 @@
       "village": "Ponniyamman Koil Street",
       "building": "A.J.S Nithi Higher Secondary School Alandur, Ponniyamman Koil Street, Alandur - 600016",
       "lat": 12.9655621,
-      "lng": 80.1960629
+      "lng": 80.1960629,
+      "comparison": {
+        "dmk_swing": 1.29,
+        "aiadmk_swing": -8.92,
+        "turnout_change": 41.08
+      }
     },
     {
       "booth_no": "241",
@@ -6756,7 +7959,12 @@
       "village": "Ponniyamman Koil Street",
       "building": "A.J.S Nithi Higher Secondary School Alandur, Ponniyamman Koil Street, Alandur - 600016",
       "lat": 12.9655621,
-      "lng": 80.1960629
+      "lng": 80.1960629,
+      "comparison": {
+        "dmk_swing": 12.75,
+        "aiadmk_swing": -5.27,
+        "turnout_change": 12.25
+      }
     },
     {
       "booth_no": "242",
@@ -6784,7 +7992,12 @@
       "village": "Abraham Street",
       "building": "St. Britos College, Abraham Street, South Side, Room No 1, Adambakkam - 600088",
       "lat": 12.9956193,
-      "lng": 80.2049835
+      "lng": 80.2049835,
+      "comparison": {
+        "dmk_swing": 2.59,
+        "aiadmk_swing": -10.41,
+        "turnout_change": -15.85
+      }
     },
     {
       "booth_no": "243",
@@ -6812,7 +8025,12 @@
       "village": "Abraham Street",
       "building": "St. Britos College , Abraham Street, South Side, Room No 1, Adambakkam - 600088",
       "lat": 12.9956193,
-      "lng": 80.2049835
+      "lng": 80.2049835,
+      "comparison": {
+        "dmk_swing": 9.63,
+        "aiadmk_swing": -5.12,
+        "turnout_change": 19.2
+      }
     },
     {
       "booth_no": "244",
@@ -6840,7 +8058,12 @@
       "village": "Adambakkam",
       "building": "St.Britio's College Abraham Street, Adambakkam 600088",
       "lat": 12.996104,
-      "lng": 80.2040721
+      "lng": 80.2040721,
+      "comparison": {
+        "dmk_swing": 11.2,
+        "aiadmk_swing": -13.21,
+        "turnout_change": 189.88
+      }
     },
     {
       "booth_no": "245",
@@ -6868,7 +8091,12 @@
       "village": "Adambakkam",
       "building": "St.Britio's College Abraham Street, Adambakkam 600088",
       "lat": 12.996104,
-      "lng": 80.2040721
+      "lng": 80.2040721,
+      "comparison": {
+        "dmk_swing": 12.21,
+        "aiadmk_swing": -9.46,
+        "turnout_change": -60.66
+      }
     },
     {
       "booth_no": "246",
@@ -6896,7 +8124,12 @@
       "village": "Adambakkam",
       "building": "St.Britio's College Abraham Street, Adambakkam 600088",
       "lat": 12.996104,
-      "lng": 80.2040721
+      "lng": 80.2040721,
+      "comparison": {
+        "dmk_swing": 6.61,
+        "aiadmk_swing": -8.27,
+        "turnout_change": -12.46
+      }
     },
     {
       "booth_no": "247",
@@ -6924,7 +8157,12 @@
       "village": "Adambakkam",
       "building": "St.Britio's College Abraham Street, Adambakkam 600088",
       "lat": 12.996104,
-      "lng": 80.2040721
+      "lng": 80.2040721,
+      "comparison": {
+        "dmk_swing": 6.76,
+        "aiadmk_swing": -7.52,
+        "turnout_change": -2.51
+      }
     },
     {
       "booth_no": "248",
@@ -6952,7 +8190,12 @@
       "village": "Adambakkam",
       "building": "St.Britio's College Abraham Street, Adambakkam 600088",
       "lat": 12.996104,
-      "lng": 80.2040721
+      "lng": 80.2040721,
+      "comparison": {
+        "dmk_swing": 1.12,
+        "aiadmk_swing": -2.93,
+        "turnout_change": -22.05
+      }
     },
     {
       "booth_no": "249",
@@ -6980,7 +8223,12 @@
       "village": "Adambakkam",
       "building": "St.Britio's College Abraham Street, Adambakkam 600088",
       "lat": 12.996104,
-      "lng": 80.2040721
+      "lng": 80.2040721,
+      "comparison": {
+        "dmk_swing": 17.44,
+        "aiadmk_swing": -3.29,
+        "turnout_change": 27.35
+      }
     },
     {
       "booth_no": "250",
@@ -7008,7 +8256,12 @@
       "village": "Adambakkam",
       "building": "St.Britio's College Abraham Street, Adambakkam, Adambakkam 600088",
       "lat": 12.996104,
-      "lng": 80.2040721
+      "lng": 80.2040721,
+      "comparison": {
+        "dmk_swing": -6.34,
+        "aiadmk_swing": 8.31,
+        "turnout_change": -13.69
+      }
     },
     {
       "booth_no": "251",
@@ -7036,7 +8289,12 @@
       "village": "Adambakkam",
       "building": "St.Britio's College Abraham Street, Adambakkam, Adambakkam 600088",
       "lat": 12.996104,
-      "lng": 80.2040721
+      "lng": 80.2040721,
+      "comparison": {
+        "dmk_swing": 6.98,
+        "aiadmk_swing": -4.26,
+        "turnout_change": 2.92
+      }
     },
     {
       "booth_no": "252",
@@ -7064,7 +8322,12 @@
       "village": "Adambakkam",
       "building": "St.Britio's College Abraham Street, Adambakkam, Adambakkam 600088",
       "lat": 12.996104,
-      "lng": 80.2040721
+      "lng": 80.2040721,
+      "comparison": {
+        "dmk_swing": -0.1,
+        "aiadmk_swing": -0.67,
+        "turnout_change": 35.97
+      }
     },
     {
       "booth_no": "253",
@@ -7092,7 +8355,12 @@
       "village": "Adambakkam",
       "building": "St.Britio's College Abraham Street, Adambakkam, Adambakkam 600088",
       "lat": 12.996104,
-      "lng": 80.2040721
+      "lng": 80.2040721,
+      "comparison": {
+        "dmk_swing": -1.9,
+        "aiadmk_swing": 8.18,
+        "turnout_change": 26.82
+      }
     },
     {
       "booth_no": "254",
@@ -7120,7 +8388,12 @@
       "village": "Adambakkam",
       "building": "Greater Chennai Middle School , Adambakkam, Karuneekar Street Adambakkam - 600088",
       "lat": 12.9927848,
-      "lng": 80.2013413
+      "lng": 80.2013413,
+      "comparison": {
+        "dmk_swing": 2.18,
+        "aiadmk_swing": -7.34,
+        "turnout_change": -18.06
+      }
     },
     {
       "booth_no": "255",
@@ -7148,7 +8421,12 @@
       "village": "Adambakkam",
       "building": "Greater Chennai Middle School , Adambakkam, Karuneekar Street Adambakkam - 600088",
       "lat": 12.9927848,
-      "lng": 80.2013413
+      "lng": 80.2013413,
+      "comparison": {
+        "dmk_swing": 1.06,
+        "aiadmk_swing": 2.84,
+        "turnout_change": -3.02
+      }
     },
     {
       "booth_no": "256",
@@ -7176,7 +8454,12 @@
       "village": "Adambakkam",
       "building": "Greater Chennai Middle School , Adambakkam, Karuneekar Street Adambakkam - 600088",
       "lat": 12.9927848,
-      "lng": 80.2013413
+      "lng": 80.2013413,
+      "comparison": {
+        "dmk_swing": -4.83,
+        "aiadmk_swing": 5.62,
+        "turnout_change": 1.55
+      }
     },
     {
       "booth_no": "257",
@@ -7204,7 +8487,12 @@
       "village": "Adambakkam",
       "building": "Greater Chennai Middle School , Adambakkam, Karuneekar Street Adambakkam - 600088",
       "lat": 12.9927848,
-      "lng": 80.2013413
+      "lng": 80.2013413,
+      "comparison": {
+        "dmk_swing": 6.44,
+        "aiadmk_swing": -10.1,
+        "turnout_change": 41.95
+      }
     },
     {
       "booth_no": "258",
@@ -7232,7 +8520,12 @@
       "village": "Adambakkam",
       "building": "Jai Nursery and Primary School Adambakkam, Adambakkam 600088",
       "lat": 12.9868537,
-      "lng": 80.20030009999999
+      "lng": 80.20030009999999,
+      "comparison": {
+        "dmk_swing": 3.21,
+        "aiadmk_swing": -8.06,
+        "turnout_change": -11.02
+      }
     },
     {
       "booth_no": "259",
@@ -7260,7 +8553,12 @@
       "village": "New Colony",
       "building": "New Prince Matriculation Higher Secondary School Adambakkam, New Colony,Adambakkam 600088.",
       "lat": 12.9854612,
-      "lng": 80.202964
+      "lng": 80.202964,
+      "comparison": {
+        "dmk_swing": 5.44,
+        "aiadmk_swing": -6.43,
+        "turnout_change": 5.94
+      }
     },
     {
       "booth_no": "260",
@@ -7288,7 +8586,12 @@
       "village": "New Colony",
       "building": "New Prince Matriculation Higher Secondary School Adambakkam, New Colony,Adambakkam 600088.",
       "lat": 12.9854612,
-      "lng": 80.202964
+      "lng": 80.202964,
+      "comparison": {
+        "dmk_swing": 6.18,
+        "aiadmk_swing": -4.49,
+        "turnout_change": 12.58
+      }
     },
     {
       "booth_no": "261",
@@ -7316,7 +8619,12 @@
       "village": "New Colony",
       "building": "New Prince Matriculation Higher Secondary School Adambakkam, New Colony,Adambakkam 600088.",
       "lat": 12.9854612,
-      "lng": 80.202964
+      "lng": 80.202964,
+      "comparison": {
+        "dmk_swing": 8.59,
+        "aiadmk_swing": -8.31,
+        "turnout_change": -36.25
+      }
     },
     {
       "booth_no": "262",
@@ -7344,7 +8652,12 @@
       "village": "New Colony",
       "building": "New Prince Matriculation Higher Secondary School Adambakkam, New Colony,Adambakkam 600088.",
       "lat": 12.9854612,
-      "lng": 80.202964
+      "lng": 80.202964,
+      "comparison": {
+        "dmk_swing": -0.41,
+        "aiadmk_swing": 2.61,
+        "turnout_change": 174.52
+      }
     },
     {
       "booth_no": "263",
@@ -7372,7 +8685,12 @@
       "village": "New Colony",
       "building": "New Prince Matriculation Higher Secondary School Adambakkam, New Colony,Adambakkam 600088.",
       "lat": 12.9854612,
-      "lng": 80.202964
+      "lng": 80.202964,
+      "comparison": {
+        "dmk_swing": 3.65,
+        "aiadmk_swing": -10.16,
+        "turnout_change": -34.36
+      }
     },
     {
       "booth_no": "264",
@@ -7400,7 +8718,12 @@
       "village": "New Colony",
       "building": "New Prince Matriculation Higher Secondary School Adambakkam, New Colony,Adambakkam 600088.",
       "lat": 12.9854612,
-      "lng": 80.202964
+      "lng": 80.202964,
+      "comparison": {
+        "dmk_swing": 16.72,
+        "aiadmk_swing": -18.49,
+        "turnout_change": 85.34
+      }
     },
     {
       "booth_no": "265",
@@ -7428,7 +8751,12 @@
       "village": "New Colony",
       "building": "New Prince Matriculation Higher Secondary School Adambakkam, New Colony,Adambakkam 600088.",
       "lat": 12.9854612,
-      "lng": 80.202964
+      "lng": 80.202964,
+      "comparison": {
+        "dmk_swing": 4.89,
+        "aiadmk_swing": -14.83,
+        "turnout_change": -47.65
+      }
     },
     {
       "booth_no": "266",
@@ -7456,7 +8784,12 @@
       "village": "New Colony",
       "building": "New Prince Matriculation Higher Secondary School Adambakkam, New Colony,Adambakkam 600088.",
       "lat": 12.9854612,
-      "lng": 80.202964
+      "lng": 80.202964,
+      "comparison": {
+        "dmk_swing": 29.24,
+        "aiadmk_swing": -29.01,
+        "turnout_change": 84.66
+      }
     },
     {
       "booth_no": "267",
@@ -7484,7 +8817,12 @@
       "village": "Kundrakudi Nagar Adambakkam",
       "building": "Indira Gandhi Matriculation School Adambakkam, Kundrakudi Nagar Adambakkam 600088.",
       "lat": 12.984931,
-      "lng": 80.2021492
+      "lng": 80.2021492,
+      "comparison": {
+        "dmk_swing": 11.44,
+        "aiadmk_swing": -16.22,
+        "turnout_change": -39.82
+      }
     },
     {
       "booth_no": "268",
@@ -7512,7 +8850,12 @@
       "village": "Kundrakudi Nagar Adambakkam",
       "building": "Indira Gandhi Matriculation School Adambakkam, Kundrakudi Nagar Adambakkam 600088.",
       "lat": 12.984931,
-      "lng": 80.2021492
+      "lng": 80.2021492,
+      "comparison": {
+        "dmk_swing": 23.6,
+        "aiadmk_swing": -26.48,
+        "turnout_change": -3.73
+      }
     },
     {
       "booth_no": "269",
@@ -7540,7 +8883,12 @@
       "village": "Kundrakudi Nagar Adambakkam",
       "building": "Indira Gandhi Matriculation School Adambakkam, Kundrakudi Nagar Adambakkam 600088.",
       "lat": 12.984931,
-      "lng": 80.2021492
+      "lng": 80.2021492,
+      "comparison": {
+        "dmk_swing": 17.77,
+        "aiadmk_swing": -16.88,
+        "turnout_change": 95.1
+      }
     },
     {
       "booth_no": "270",
@@ -7568,7 +8916,12 @@
       "village": "Kundrakudi Nagar Adambakkam",
       "building": "Indira Gandhi Matriculation School Adambakkam, Kundrakudi Nagar Adambakkam 600088.",
       "lat": 12.984931,
-      "lng": 80.2021492
+      "lng": 80.2021492,
+      "comparison": {
+        "dmk_swing": 11.26,
+        "aiadmk_swing": -18.65,
+        "turnout_change": -20.22
+      }
     },
     {
       "booth_no": "271",
@@ -7596,7 +8949,12 @@
       "village": "Kundrakudi Nagar Adambakkam",
       "building": "Indira Gandhi Matriculation School Adambakkam, Kundrakudi Nagar Adambakkam 600088.",
       "lat": 12.984931,
-      "lng": 80.2021492
+      "lng": 80.2021492,
+      "comparison": {
+        "dmk_swing": 11.56,
+        "aiadmk_swing": -9.64,
+        "turnout_change": 98.31
+      }
     },
     {
       "booth_no": "272",
@@ -7624,7 +8982,12 @@
       "village": "Ponniyamman Koil Street",
       "building": "A.J.S. Nithi Higher Secondary School Alandur, Ponniyamman Koil Street, Alandur - 600016",
       "lat": 12.9655621,
-      "lng": 80.1960629
+      "lng": 80.1960629,
+      "comparison": {
+        "dmk_swing": 10.15,
+        "aiadmk_swing": -9.15,
+        "turnout_change": 1.08
+      }
     },
     {
       "booth_no": "273",
@@ -7652,7 +9015,12 @@
       "village": "Ponniyamman Koil Street",
       "building": "A.J.S. Nithi Higher Secondary School Alandur, Ponniyamman Koil Street, Alandur - 600016",
       "lat": 12.9655621,
-      "lng": 80.1960629
+      "lng": 80.1960629,
+      "comparison": {
+        "dmk_swing": 4.07,
+        "aiadmk_swing": -1.26,
+        "turnout_change": -10.68
+      }
     },
     {
       "booth_no": "274",
@@ -7680,7 +9048,12 @@
       "village": "Ponniyamman Koil Street",
       "building": "A.J.S. Nithi Higher Secondary School Alandur, Ponniyamman Koil Street, Alandur - 600016",
       "lat": 12.9655621,
-      "lng": 80.1960629
+      "lng": 80.1960629,
+      "comparison": {
+        "dmk_swing": 13.37,
+        "aiadmk_swing": -5.19,
+        "turnout_change": 85.98
+      }
     },
     {
       "booth_no": "275",
@@ -7708,7 +9081,12 @@
       "village": "Ponniyamman Koil Street",
       "building": "A.J.S. Nithi Higher Secondary School Alandur, Ponniyamman Koil Street, Alandur - 600016",
       "lat": 12.9655621,
-      "lng": 80.1960629
+      "lng": 80.1960629,
+      "comparison": {
+        "dmk_swing": -9.34,
+        "aiadmk_swing": 9.36,
+        "turnout_change": -34.74
+      }
     },
     {
       "booth_no": "276",
@@ -7736,7 +9114,12 @@
       "village": "Ponniyamman Koil Street",
       "building": "A.J.S. Nithi Higher Secondary School Alandur, Ponniyamman Koil Street, Alandur - 600016",
       "lat": 12.9655621,
-      "lng": 80.1960629
+      "lng": 80.1960629,
+      "comparison": {
+        "dmk_swing": 4.88,
+        "aiadmk_swing": -8.99,
+        "turnout_change": -18.26
+      }
     },
     {
       "booth_no": "277",
@@ -7764,7 +9147,12 @@
       "village": "Ponniyamman Koil Street",
       "building": "A.J.S. Nithi Higher Secondary School Alandur, Ponniyamman Koil Street, Alandur - 600016",
       "lat": 12.9655621,
-      "lng": 80.1960629
+      "lng": 80.1960629,
+      "comparison": {
+        "dmk_swing": 11.31,
+        "aiadmk_swing": -14.1,
+        "turnout_change": -41.7
+      }
     },
     {
       "booth_no": "278",
@@ -7792,7 +9180,12 @@
       "village": "South Part",
       "building": "Greater Chennai High School, South Part, Alandur - 600016",
       "lat": 12.9990374,
-      "lng": 80.2141796
+      "lng": 80.2141796,
+      "comparison": {
+        "dmk_swing": 5.86,
+        "aiadmk_swing": -10.62,
+        "turnout_change": 110.36
+      }
     },
     {
       "booth_no": "279",
@@ -7820,7 +9213,12 @@
       "village": "Alandur",
       "building": "Greater Chennai Primary School ,Alandur, A.R. Lane Alandur - 600016",
       "lat": 12.9974873,
-      "lng": 80.2006371
+      "lng": 80.2006371,
+      "comparison": {
+        "dmk_swing": 7.5,
+        "aiadmk_swing": 1.16,
+        "turnout_change": -59.98
+      }
     },
     {
       "booth_no": "280",
@@ -7848,7 +9246,12 @@
       "village": "Alandur",
       "building": "Greater Chennai Primary School ,Alandur, A.R. Lane Alandur - 600016",
       "lat": 12.9974873,
-      "lng": 80.2006371
+      "lng": 80.2006371,
+      "comparison": {
+        "dmk_swing": 5.83,
+        "aiadmk_swing": -4.42,
+        "turnout_change": 206.38
+      }
     },
     {
       "booth_no": "281",
@@ -7876,7 +9279,12 @@
       "village": "Alandur",
       "building": "Greater Chennai Primary School ,Alandur, A.R. Lane Alandur South Side 600016.",
       "lat": 12.9974873,
-      "lng": 80.2006371
+      "lng": 80.2006371,
+      "comparison": {
+        "dmk_swing": -4.32,
+        "aiadmk_swing": 0.93,
+        "turnout_change": -29.88
+      }
     },
     {
       "booth_no": "282",
@@ -7904,7 +9312,12 @@
       "village": "Alandur",
       "building": "Greater Chennai Primary School ,Alandur, A.R. Lane Alandur South Side 600016.",
       "lat": 12.9974873,
-      "lng": 80.2006371
+      "lng": 80.2006371,
+      "comparison": {
+        "dmk_swing": 2.49,
+        "aiadmk_swing": -3.35,
+        "turnout_change": 8.38
+      }
     },
     {
       "booth_no": "283",
@@ -7932,7 +9345,12 @@
       "village": "North Building Fire Statge",
       "building": "Indira Gandhi Matriculation School , North Building Fire Statge, Adambakkam - 600088",
       "lat": 12.9956432,
-      "lng": 80.2019629
+      "lng": 80.2019629,
+      "comparison": {
+        "dmk_swing": 24.77,
+        "aiadmk_swing": -13.87,
+        "turnout_change": 20.38
+      }
     },
     {
       "booth_no": "284",
@@ -7960,7 +9378,12 @@
       "village": "South Side Building East Corner Staff Room",
       "building": "Indira Gandhi Matriculation School , South Side Building East Corner Staff Room, Adambakkam - 600088",
       "lat": 12.9956375,
-      "lng": 80.2018901
+      "lng": 80.2018901,
+      "comparison": {
+        "dmk_swing": 5.54,
+        "aiadmk_swing": -11.28,
+        "turnout_change": -23.17
+      }
     },
     {
       "booth_no": "285",
@@ -7988,7 +9411,12 @@
       "village": "GST Road",
       "building": "St. Peters Higher Secondary School Alandur, GST Road, Alandur, 600016.",
       "lat": 12.998951,
-      "lng": 80.193
+      "lng": 80.193,
+      "comparison": {
+        "dmk_swing": 9.93,
+        "aiadmk_swing": -7.64,
+        "turnout_change": -12.13
+      }
     },
     {
       "booth_no": "286",
@@ -8016,7 +9444,12 @@
       "village": "GST Road",
       "building": "St. Peters Higher Secondary School Alandur, GST Road, Alandur, 600016.",
       "lat": 12.998951,
-      "lng": 80.193
+      "lng": 80.193,
+      "comparison": {
+        "dmk_swing": 4.73,
+        "aiadmk_swing": -4.64,
+        "turnout_change": 52.49
+      }
     },
     {
       "booth_no": "287",
@@ -8044,7 +9477,12 @@
       "village": "GST Road",
       "building": "St. Peters Higher Secondary School Alandur, GST Road, Alandur, 600016.",
       "lat": 12.998951,
-      "lng": 80.193
+      "lng": 80.193,
+      "comparison": {
+        "dmk_swing": 11.1,
+        "aiadmk_swing": 0.1,
+        "turnout_change": -16.51
+      }
     },
     {
       "booth_no": "288",
@@ -8072,7 +9510,12 @@
       "village": "GST Road",
       "building": "St. Peters Higher Secondary School Alandur, GST Road, Alandur, 600016.",
       "lat": 12.998951,
-      "lng": 80.193
+      "lng": 80.193,
+      "comparison": {
+        "dmk_swing": 11.7,
+        "aiadmk_swing": 11.37,
+        "turnout_change": 0.32
+      }
     },
     {
       "booth_no": "289",
@@ -8100,7 +9543,12 @@
       "village": "Nobal Street",
       "building": "C.S.I Primary School Alandur, Nobal Street, Alandur 600016.",
       "lat": 12.9957418,
-      "lng": 80.1895918
+      "lng": 80.1895918,
+      "comparison": {
+        "dmk_swing": 4.21,
+        "aiadmk_swing": 12.54,
+        "turnout_change": 35.09
+      }
     },
     {
       "booth_no": "290",
@@ -8128,7 +9576,12 @@
       "village": "Nobal Street",
       "building": "C.S.I Primary School Alandur, Nobal Street, Alandur 600016.",
       "lat": 12.9957418,
-      "lng": 80.1895918
+      "lng": 80.1895918,
+      "comparison": {
+        "dmk_swing": -0.83,
+        "aiadmk_swing": 15.97,
+        "turnout_change": -14.79
+      }
     },
     {
       "booth_no": "291",
@@ -8156,7 +9609,12 @@
       "village": "Nobal Street",
       "building": "C.S.I Primary School Alandur, Nobal Street, Alandur 600016.",
       "lat": 12.9957418,
-      "lng": 80.1895918
+      "lng": 80.1895918,
+      "comparison": {
+        "dmk_swing": -6.26,
+        "aiadmk_swing": 11.9,
+        "turnout_change": -20.4
+      }
     },
     {
       "booth_no": "292",
@@ -8184,7 +9642,12 @@
       "village": "Nobal Street",
       "building": "C.S.I Primary School Alandur, Nobal Street, Alandur 600016.",
       "lat": 12.9957418,
-      "lng": 80.1895918
+      "lng": 80.1895918,
+      "comparison": {
+        "dmk_swing": 10.57,
+        "aiadmk_swing": 9.23,
+        "turnout_change": 2.23
+      }
     },
     {
       "booth_no": "293",
@@ -8212,7 +9675,12 @@
       "village": "College road",
       "building": "Nehru Govt Boys Higher Secondary School Pazhavanthangal, College road, Pazhavanthangal- 600144",
       "lat": 12.9864286,
-      "lng": 80.1847641
+      "lng": 80.1847641,
+      "comparison": {
+        "dmk_swing": -1.28,
+        "aiadmk_swing": 14.47,
+        "turnout_change": 1.04
+      }
     },
     {
       "booth_no": "294",
@@ -8240,7 +9708,12 @@
       "village": "College road",
       "building": "Nehru Govt Boys Higher Secondary School Pazhavanthangal, College road, Pazhavanthangal- 600144",
       "lat": 12.9864286,
-      "lng": 80.1847641
+      "lng": 80.1847641,
+      "comparison": {
+        "dmk_swing": -8.94,
+        "aiadmk_swing": 23.71,
+        "turnout_change": -6.64
+      }
     },
     {
       "booth_no": "295",
@@ -8268,7 +9741,12 @@
       "village": "College road",
       "building": "Nehru Govt Boys Higher Secondary School Pazhavanthangal, College road, Pazhavanthangal- 600144",
       "lat": 12.9864286,
-      "lng": 80.1847641
+      "lng": 80.1847641,
+      "comparison": {
+        "dmk_swing": 7.68,
+        "aiadmk_swing": 7.62,
+        "turnout_change": 5.7
+      }
     },
     {
       "booth_no": "296",
@@ -8296,7 +9774,12 @@
       "village": "College road",
       "building": "Nehru Govt Boys Higher Secondary School Pazhavanthangal, College road, Pazhavanthangal- 600144",
       "lat": 12.9864286,
-      "lng": 80.1847641
+      "lng": 80.1847641,
+      "comparison": {
+        "dmk_swing": 0.65,
+        "aiadmk_swing": 4.29,
+        "turnout_change": 50.0
+      }
     },
     {
       "booth_no": "297",
@@ -8324,7 +9807,12 @@
       "village": "South Building",
       "building": "Greater Chennai Primary School, South Building, North Facing, Room No. 1, Ram Nagar 8th Street, Nanganallur -600061",
       "lat": 12.984187,
-      "lng": 80.193558
+      "lng": 80.193558,
+      "comparison": {
+        "dmk_swing": -24.95,
+        "aiadmk_swing": 24.29,
+        "turnout_change": -26.05
+      }
     },
     {
       "booth_no": "298",
@@ -8352,7 +9840,12 @@
       "village": "South Building",
       "building": "Greater Chennai Primary School, South Building, North Facing, Room No. 2, Ram Nagar 8th Street, Nanganallur -600061",
       "lat": 12.984187,
-      "lng": 80.193558
+      "lng": 80.193558,
+      "comparison": {
+        "dmk_swing": 3.22,
+        "aiadmk_swing": 3.83,
+        "turnout_change": 43.9
+      }
     },
     {
       "booth_no": "299",
@@ -8380,7 +9873,12 @@
       "village": "Ram Nagar",
       "building": "ICDS Center: 36, Ram Nagar,Nanganallur - 600061",
       "lat": 12.979225,
-      "lng": 80.193685
+      "lng": 80.193685,
+      "comparison": {
+        "dmk_swing": -17.24,
+        "aiadmk_swing": 13.78,
+        "turnout_change": -38.8
+      }
     },
     {
       "booth_no": "300",
@@ -8408,7 +9906,12 @@
       "village": "South Building",
       "building": "Greater Chennai Primary School, South Building, North Facing, Staff Room, Ram Nagar 8th Street, Nanganallur -600061",
       "lat": 12.9913596,
-      "lng": 80.2117945
+      "lng": 80.2117945,
+      "comparison": {
+        "dmk_swing": -4.92,
+        "aiadmk_swing": 16.39,
+        "turnout_change": 25.13
+      }
     },
     {
       "booth_no": "301",
@@ -8436,7 +9939,12 @@
       "village": "Ram Nagar",
       "building": "ICDS Center: 37, Ram Nagar , Nanganallur - 600061",
       "lat": 12.9819334,
-      "lng": 80.1930102
+      "lng": 80.1930102,
+      "comparison": {
+        "dmk_swing": 7.13,
+        "aiadmk_swing": -1.86,
+        "turnout_change": -52.05
+      }
     },
     {
       "booth_no": "302",
@@ -8464,7 +9972,12 @@
       "village": "Ram Nagar",
       "building": "Greater Chennai Primary School, Ram Nagar, Nanganallur, 600061",
       "lat": 12.9838844,
-      "lng": 80.1944807
+      "lng": 80.1944807,
+      "comparison": {
+        "dmk_swing": -4.76,
+        "aiadmk_swing": -0.63,
+        "turnout_change": 95.89
+      }
     },
     {
       "booth_no": "303",
@@ -8492,7 +10005,12 @@
       "village": "East Single Room",
       "building": "Greater Chennai Primary School, East Single Room,West Facing Additional Room, Ram Nagar 8th Street, Nanganallur - 600061",
       "lat": 12.9838844,
-      "lng": 80.1944807
+      "lng": 80.1944807,
+      "comparison": {
+        "dmk_swing": -1.71,
+        "aiadmk_swing": 3.1,
+        "turnout_change": -13.96
+      }
     },
     {
       "booth_no": "304",
@@ -8520,7 +10038,12 @@
       "village": "Ram Nagar",
       "building": "Greater Chennai Primary School, Ram Nagar, Nanganallur, Ram Nagar Nanganallur - 600061",
       "lat": 12.9791951,
-      "lng": 80.18073729999999
+      "lng": 80.18073729999999,
+      "comparison": {
+        "dmk_swing": -0.74,
+        "aiadmk_swing": -3.73,
+        "turnout_change": -38.76
+      }
     },
     {
       "booth_no": "305",
@@ -8548,7 +10071,12 @@
       "village": "Palavanthangal",
       "building": "Nehru Govt Boys Higher Secondary School, Palavanthangal, Collage Road-600114",
       "lat": 12.9864286,
-      "lng": 80.1847641
+      "lng": 80.1847641,
+      "comparison": {
+        "dmk_swing": 10.18,
+        "aiadmk_swing": -15.08,
+        "turnout_change": 3.37
+      }
     },
     {
       "booth_no": "306",
@@ -8576,7 +10104,12 @@
       "village": "Thiruvalluvar Nagar Adambakkam",
       "building": "D.A.V Higher Secondary School Adambakkam, Thiruvalluvar Nagar Adambakkam - 600088",
       "lat": 12.9970896,
-      "lng": 80.2094706
+      "lng": 80.2094706,
+      "comparison": {
+        "dmk_swing": 1.93,
+        "aiadmk_swing": 5.25,
+        "turnout_change": 30.72
+      }
     },
     {
       "booth_no": "307",
@@ -8604,7 +10137,12 @@
       "village": "Thiruvalluvar Nagar Adambakkam",
       "building": "D.A.V Higher Secondary School Adambakkam, Thiruvalluvar Nagar Adambakkam 600088.",
       "lat": 12.9970896,
-      "lng": 80.2094706
+      "lng": 80.2094706,
+      "comparison": {
+        "dmk_swing": 17.14,
+        "aiadmk_swing": -7.42,
+        "turnout_change": 0.15
+      }
     },
     {
       "booth_no": "308",
@@ -8632,7 +10170,12 @@
       "village": "Thiruvalluvar Nagar Adambakkam",
       "building": "D.A.V Higher Secondary School Adambakkam, Thiruvalluvar Nagar Adambakkam 600088.",
       "lat": 12.9970896,
-      "lng": 80.2094706
+      "lng": 80.2094706,
+      "comparison": {
+        "dmk_swing": 3.96,
+        "aiadmk_swing": 13.12,
+        "turnout_change": -1.28
+      }
     },
     {
       "booth_no": "309",
@@ -8660,7 +10203,12 @@
       "village": "Thiruvalluvar Nagar Adambakkam",
       "building": "D.A.V Higher Secondary School Adambakkam, Thiruvalluvar Nagar Adambakkam - 600088",
       "lat": 12.9970896,
-      "lng": 80.2094706
+      "lng": 80.2094706,
+      "comparison": {
+        "dmk_swing": -21.92,
+        "aiadmk_swing": 35.06,
+        "turnout_change": 34.03
+      }
     },
     {
       "booth_no": "310",
@@ -8688,7 +10236,12 @@
       "village": "Thiruvalluvar Nagar Adambakkam",
       "building": "D.A.V Higher Secondary School Adambakkam, Thiruvalluvar Nagar Adambakkam - 600088",
       "lat": 12.9970896,
-      "lng": 80.2094706
+      "lng": 80.2094706,
+      "comparison": {
+        "dmk_swing": -3.87,
+        "aiadmk_swing": 6.11,
+        "turnout_change": 56.23
+      }
     },
     {
       "booth_no": "311",
@@ -8716,7 +10269,12 @@
       "village": "Thiruvalluvar Nagar Adambakkam",
       "building": "D.A.V Higher Secondary School Adambakkam, Thiruvalluvar Nagar Adambakkam - 600088",
       "lat": 12.9970896,
-      "lng": 80.2094706
+      "lng": 80.2094706,
+      "comparison": {
+        "dmk_swing": -10.14,
+        "aiadmk_swing": 13.15,
+        "turnout_change": -54.16
+      }
     },
     {
       "booth_no": "312",
@@ -8744,7 +10302,12 @@
       "village": "Vanuvampettai",
       "building": "Greater Chennai Primary School Vanuvampettai, Vanuvampettai 600091",
       "lat": 12.9756381,
-      "lng": 80.1966363
+      "lng": 80.1966363,
+      "comparison": {
+        "dmk_swing": -4.03,
+        "aiadmk_swing": -1.17,
+        "turnout_change": 77.23
+      }
     },
     {
       "booth_no": "313",
@@ -8772,7 +10335,12 @@
       "village": "Pazhandiyamman Koil Street",
       "building": "ICDS Center: 21, Pazhandiyamman Koil Street, Vanuvampet, Pazhandiyamman Koil Street, Vanuvampet- 600091",
       "lat": 12.9593202,
-      "lng": 80.1847392
+      "lng": 80.1847392,
+      "comparison": {
+        "dmk_swing": 19.67,
+        "aiadmk_swing": -7.92,
+        "turnout_change": 8.27
+      }
     },
     {
       "booth_no": "314",
@@ -8800,7 +10368,12 @@
       "village": "Vanuvampet",
       "building": "Greater Chennai Primary School ,Vanuvampet, Vanuvampettai 600091",
       "lat": 12.9756381,
-      "lng": 80.1966363
+      "lng": 80.1966363,
+      "comparison": {
+        "dmk_swing": -8.22,
+        "aiadmk_swing": -7.32,
+        "turnout_change": -49.33
+      }
     },
     {
       "booth_no": "315",
@@ -8828,7 +10401,12 @@
       "village": "North Building West Part Room No",
       "building": "Greater Chennai Primary school , North Building West Part Room No 2, Vanuvampettai - 600091",
       "lat": 12.9726883,
-      "lng": 80.19434269999999
+      "lng": 80.19434269999999,
+      "comparison": {
+        "dmk_swing": 45.39,
+        "aiadmk_swing": -20.61,
+        "turnout_change": 142.44
+      }
     },
     {
       "booth_no": "316",
@@ -8856,7 +10434,12 @@
       "village": "Nanganallur Chennai",
       "building": "Rajkumar Sulochana Matriculation School, 44th Street, Nanganallur Chennai-600061",
       "lat": 12.9819209,
-      "lng": 80.1876047
+      "lng": 80.1876047,
+      "comparison": {
+        "dmk_swing": -5.83,
+        "aiadmk_swing": 22.96,
+        "turnout_change": -18.81
+      }
     },
     {
       "booth_no": "317",
@@ -8884,7 +10467,12 @@
       "village": "East Building Room No",
       "building": "Greater Chennai Primary School, East Building Room No 1 , Nanganallur - 600061",
       "lat": 12.9791951,
-      "lng": 80.18073729999999
+      "lng": 80.18073729999999,
+      "comparison": {
+        "dmk_swing": 2.28,
+        "aiadmk_swing": 13.67,
+        "turnout_change": -31.72
+      }
     },
     {
       "booth_no": "318",
@@ -8912,7 +10500,12 @@
       "village": "East Building Room No",
       "building": "Greater Chennai Primary School , East Building Room No 2, Nanganallur - 600061",
       "lat": 12.9791951,
-      "lng": 80.18073729999999
+      "lng": 80.18073729999999,
+      "comparison": {
+        "dmk_swing": 4.58,
+        "aiadmk_swing": 9.99,
+        "turnout_change": 42.24
+      }
     },
     {
       "booth_no": "319",
@@ -8940,7 +10533,12 @@
       "village": "South Facing",
       "building": "D.A.V Higher Secondary School , South Facing, Adambakkam - 600088",
       "lat": 12.9816704,
-      "lng": 80.20289749999999
+      "lng": 80.20289749999999,
+      "comparison": {
+        "dmk_swing": -6.65,
+        "aiadmk_swing": 28.91,
+        "turnout_change": 31.13
+      }
     },
     {
       "booth_no": "320",
@@ -8968,7 +10566,12 @@
       "village": "Swami Vivekananthar Block Room No",
       "building": "D.A.V Higher Secondary School , Swami Vivekananthar Block Room No.179, Adambakkam - 600088",
       "lat": 12.9816704,
-      "lng": 80.20289749999999
+      "lng": 80.20289749999999,
+      "comparison": {
+        "dmk_swing": -6.01,
+        "aiadmk_swing": 28.86,
+        "turnout_change": -39.93
+      }
     },
     {
       "booth_no": "321",
@@ -8996,7 +10599,12 @@
       "village": "South Facing",
       "building": "D.A.V Higher Secondary School , South Facing , Adambakkam - 600088",
       "lat": 12.9816704,
-      "lng": 80.20289749999999
+      "lng": 80.20289749999999,
+      "comparison": {
+        "dmk_swing": -26.6,
+        "aiadmk_swing": 31.3,
+        "turnout_change": 24.07
+      }
     },
     {
       "booth_no": "322",
@@ -9024,7 +10632,12 @@
       "village": "East Part",
       "building": "CSI Primary School, East Part , Pazhavanthagal - 600114",
       "lat": 12.9974873,
-      "lng": 80.2006371
+      "lng": 80.2006371,
+      "comparison": {
+        "dmk_swing": 9.23,
+        "aiadmk_swing": -3.8,
+        "turnout_change": -5.46
+      }
     },
     {
       "booth_no": "323",
@@ -9052,7 +10665,12 @@
       "village": "North Side Building Middle Room",
       "building": "Greater Chennai Primary School, North Side Building Middle Room 3rd Std, Pazhavanthangal - 600114",
       "lat": 12.9913596,
-      "lng": 80.2117945
+      "lng": 80.2117945,
+      "comparison": {
+        "dmk_swing": -9.11,
+        "aiadmk_swing": 10.21,
+        "turnout_change": 7.89
+      }
     },
     {
       "booth_no": "324",
@@ -9080,7 +10698,12 @@
       "village": "East Part",
       "building": "CSI Primary School, East Part, Pazhavanthangal - 600114",
       "lat": 12.9974873,
-      "lng": 80.2006371
+      "lng": 80.2006371,
+      "comparison": {
+        "dmk_swing": 11.11,
+        "aiadmk_swing": -8.23,
+        "turnout_change": -57.09
+      }
     },
     {
       "booth_no": "325",
@@ -9108,7 +10731,12 @@
       "village": "South Facing",
       "building": "Nehru Government Boys Higher Secondary School, South Facing, Smart Class Room No. 1, College Road, Pazhavanthangal - 600114",
       "lat": 12.9860805,
-      "lng": 80.1853895
+      "lng": 80.1853895,
+      "comparison": {
+        "dmk_swing": 13.22,
+        "aiadmk_swing": -7.82,
+        "turnout_change": 128.4
+      }
     },
     {
       "booth_no": "326",
@@ -9136,7 +10764,12 @@
       "village": "East Side Building South Corner",
       "building": "P.M.S Matriculation Higher Secondary School, East Side Building South Corner 1st Std Room, Nanganallur - 600061",
       "lat": 12.9820735,
-      "lng": 80.1878287
+      "lng": 80.1878287,
+      "comparison": {
+        "dmk_swing": -8.92,
+        "aiadmk_swing": 23.47,
+        "turnout_change": -43.36
+      }
     },
     {
       "booth_no": "327",
@@ -9164,7 +10797,12 @@
       "village": "South Facing",
       "building": "Nehru Government Boys Higher Secondary School, South Facing, Smart Class Room No. 2, College Road, Pazhavanthangal - 600114",
       "lat": 12.9860805,
-      "lng": 80.1853895
+      "lng": 80.1853895,
+      "comparison": {
+        "dmk_swing": 6.32,
+        "aiadmk_swing": 3.74,
+        "turnout_change": 39.22
+      }
     },
     {
       "booth_no": "328",
@@ -9192,7 +10830,12 @@
       "village": "South Facing",
       "building": "Nehru Government Boys Higher Secondary School, South Facing, Room No. 3, College Road, Pazhavanthangal -600114",
       "lat": 12.9860805,
-      "lng": 80.1853895
+      "lng": 80.1853895,
+      "comparison": {
+        "dmk_swing": 22.63,
+        "aiadmk_swing": -12.06,
+        "turnout_change": -7.16
+      }
     },
     {
       "booth_no": "329",
@@ -9220,7 +10863,12 @@
       "village": "East Side Building South Corner",
       "building": "P.M.S Matriculation Higher Secondary School, East Side Building South Corner 2nd Std Room, Nanganallur - 600061",
       "lat": 12.9820735,
-      "lng": 80.1878287
+      "lng": 80.1878287,
+      "comparison": {
+        "dmk_swing": -4.35,
+        "aiadmk_swing": 10.86,
+        "turnout_change": -9.0
+      }
     },
     {
       "booth_no": "330",
@@ -9248,7 +10896,12 @@
       "village": "South Facing",
       "building": "Nehru Government Boys Higher Secondary School, South Facing, Room No. 4, College Road, Pazhavanthangal -600114",
       "lat": 12.9860805,
-      "lng": 80.1853895
+      "lng": 80.1853895,
+      "comparison": {
+        "dmk_swing": 11.92,
+        "aiadmk_swing": -1.25,
+        "turnout_change": -26.1
+      }
     },
     {
       "booth_no": "331",
@@ -9276,7 +10929,12 @@
       "village": "Main Building",
       "building": "Nehru Government Boys Higher Secondary School, Main Building, Room No 1, Pazhavanthangal - 600114",
       "lat": 12.9964056,
-      "lng": 80.1901166
+      "lng": 80.1901166,
+      "comparison": {
+        "dmk_swing": -5.89,
+        "aiadmk_swing": -5.23,
+        "turnout_change": 15.31
+      }
     },
     {
       "booth_no": "332",
@@ -9304,7 +10962,12 @@
       "village": "Main Building",
       "building": "Nehru Government Boys Higher Secondary School, Main Building, Room No 2, Pazhavanthangal - 600114",
       "lat": 12.9964056,
-      "lng": 80.1901166
+      "lng": 80.1901166,
+      "comparison": {
+        "dmk_swing": -13.31,
+        "aiadmk_swing": 6.66,
+        "turnout_change": 6.84
+      }
     },
     {
       "booth_no": "333",
@@ -9332,7 +10995,12 @@
       "village": "Room No",
       "building": "Nehru Government Boys Higher Secondary School, Room No 3, Pazhavanthangal - 600114",
       "lat": 12.9878339,
-      "lng": 80.1878923
+      "lng": 80.1878923,
+      "comparison": {
+        "dmk_swing": 27.17,
+        "aiadmk_swing": -21.74,
+        "turnout_change": 13.84
+      }
     },
     {
       "booth_no": "334",
@@ -9360,7 +11028,12 @@
       "village": "Room No",
       "building": "Nehru Government Boys Higher Secondary School , Room No 4, Pazhavanthangal - 600114",
       "lat": 12.9878339,
-      "lng": 80.1878923
+      "lng": 80.1878923,
+      "comparison": {
+        "dmk_swing": 6.15,
+        "aiadmk_swing": -10.46,
+        "turnout_change": 9.57
+      }
     },
     {
       "booth_no": "335",
@@ -9388,7 +11061,12 @@
       "village": "Room No",
       "building": "Nehru Government Boys Higher Secondary School , Room No 5, Pazhavanthangal - 600114",
       "lat": 12.9878339,
-      "lng": 80.1878923
+      "lng": 80.1878923,
+      "comparison": {
+        "dmk_swing": 2.17,
+        "aiadmk_swing": -5.56,
+        "turnout_change": 8.09
+      }
     },
     {
       "booth_no": "336",
@@ -9416,7 +11094,12 @@
       "village": "Pazhavanthangal",
       "building": "Jaigopal Garodioa Government Girls Higher Secondary School Pazhavanthangal, Pazhavanthangal 600114",
       "lat": 12.9889896,
-      "lng": 80.1882195
+      "lng": 80.1882195,
+      "comparison": {
+        "dmk_swing": 3.41,
+        "aiadmk_swing": -5.76,
+        "turnout_change": 33.17
+      }
     },
     {
       "booth_no": "337",
@@ -9444,7 +11127,12 @@
       "village": "Pazhavanthangal",
       "building": "Jaigopal Garodioa Government Girls Higher Secondary School Pazhavanthangal, Pazhavanthangal 600114",
       "lat": 12.9889896,
-      "lng": 80.1882195
+      "lng": 80.1882195,
+      "comparison": {
+        "dmk_swing": -0.2,
+        "aiadmk_swing": -4.1,
+        "turnout_change": -35.01
+      }
     },
     {
       "booth_no": "338",
@@ -9472,7 +11160,12 @@
       "village": "Pazhavanthangal",
       "building": "Jaigopal Garodioa Government Girls Higher Secondary School Pazhavanthangal, Pazhavanthangal 600114",
       "lat": 12.9889896,
-      "lng": 80.1882195
+      "lng": 80.1882195,
+      "comparison": {
+        "dmk_swing": 44.6,
+        "aiadmk_swing": -21.45,
+        "turnout_change": 73.36
+      }
     },
     {
       "booth_no": "339",
@@ -9500,7 +11193,12 @@
       "village": "Pazhavanthangal",
       "building": "Jaigopal Garodioa Government Girls Higher Secondary School Pazhavanthangal, Pazhavanthangal 600114",
       "lat": 12.9889896,
-      "lng": 80.1882195
+      "lng": 80.1882195,
+      "comparison": {
+        "dmk_swing": -2.8,
+        "aiadmk_swing": 20.25,
+        "turnout_change": -22.59
+      }
     },
     {
       "booth_no": "340",
@@ -9528,7 +11226,12 @@
       "village": "Pazhavanthangal",
       "building": "Jaigopal Garodioa Government Girls Higher Secondary School Pazhavanthangal, Pazhavanthangal 600114",
       "lat": 12.9889896,
-      "lng": 80.1882195
+      "lng": 80.1882195,
+      "comparison": {
+        "dmk_swing": -2.79,
+        "aiadmk_swing": 26.56,
+        "turnout_change": 13.62
+      }
     },
     {
       "booth_no": "341",
@@ -9556,7 +11259,12 @@
       "village": "Pazhavanthangal",
       "building": "Jaigopal Garodioa Government Girls Higher Secondary School Pazhavanthangal, Pazhavanthangal 600114",
       "lat": 12.9889896,
-      "lng": 80.1882195
+      "lng": 80.1882195,
+      "comparison": {
+        "dmk_swing": 1.16,
+        "aiadmk_swing": 15.71,
+        "turnout_change": -14.22
+      }
     },
     {
       "booth_no": "342",
@@ -9584,7 +11292,12 @@
       "village": "Pazhavanthangal",
       "building": "Jaigopal Garodioa Government Girls Higher Secondary School Pazhavanthangal, Pazhavanthangal 600114",
       "lat": 12.9889896,
-      "lng": 80.1882195
+      "lng": 80.1882195,
+      "comparison": {
+        "dmk_swing": -2.22,
+        "aiadmk_swing": 21.61,
+        "turnout_change": -0.16
+      }
     },
     {
       "booth_no": "343",
@@ -9612,7 +11325,12 @@
       "village": "Pazhavanthangal",
       "building": "Jaigopal Garodioa Government Girls Higher Secondary School Pazhavanthangal, Pazhavanthangal 600114",
       "lat": 12.9889896,
-      "lng": 80.1882195
+      "lng": 80.1882195,
+      "comparison": {
+        "dmk_swing": -9.05,
+        "aiadmk_swing": 30.04,
+        "turnout_change": 63.81
+      }
     },
     {
       "booth_no": "344",
@@ -9640,7 +11358,12 @@
       "village": "Pazhavanthangal",
       "building": "Jaigopal Garodioa Government Girls Higher Secondary School Pazhavanthangal, Pazhavanthangal 600114",
       "lat": 12.9889896,
-      "lng": 80.1882195
+      "lng": 80.1882195,
+      "comparison": {
+        "dmk_swing": 0.4,
+        "aiadmk_swing": 24.81,
+        "turnout_change": -21.98
+      }
     },
     {
       "booth_no": "345",
@@ -9668,7 +11391,12 @@
       "village": "Pazhavanthangal",
       "building": "Jaigopal Garodioa Government Girls Higher Secondary School Pazhavanthangal, Pazhavanthangal 600114",
       "lat": 12.9889896,
-      "lng": 80.1882195
+      "lng": 80.1882195,
+      "comparison": {
+        "dmk_swing": -5.03,
+        "aiadmk_swing": 21.42,
+        "turnout_change": 13.75
+      }
     },
     {
       "booth_no": "346",
@@ -9696,7 +11424,12 @@
       "village": "Pazhavanthangal",
       "building": "Jaigopal Garodioa Government Girls Higher Secondary School Pazhavanthangal, Pazhavanthangal 600114",
       "lat": 12.9889896,
-      "lng": 80.1882195
+      "lng": 80.1882195,
+      "comparison": {
+        "dmk_swing": 0.68,
+        "aiadmk_swing": 9.3,
+        "turnout_change": 10.26
+      }
     },
     {
       "booth_no": "347",
@@ -9724,7 +11457,12 @@
       "village": "Pazhavanthangal",
       "building": "Jaigopal Garodioa Government Girls Higher Secondary School Pazhavanthangal, Pazhavanthangal 600114",
       "lat": 12.9889896,
-      "lng": 80.1882195
+      "lng": 80.1882195,
+      "comparison": {
+        "dmk_swing": -11.33,
+        "aiadmk_swing": 23.21,
+        "turnout_change": 13.09
+      }
     },
     {
       "booth_no": "348",
@@ -9752,7 +11490,12 @@
       "village": "Nanganallur",
       "building": "Chellammal Vidyalaya Senior Secondary School Nanganallur, Nanganallur 600061.",
       "lat": 12.9785941,
-      "lng": 80.183932
+      "lng": 80.183932,
+      "comparison": {
+        "dmk_swing": 3.03,
+        "aiadmk_swing": 12.92,
+        "turnout_change": 5.48
+      }
     },
     {
       "booth_no": "349",
@@ -9780,7 +11523,12 @@
       "village": "Nanganallur",
       "building": "Chellammal Vidyalaya Senior Secondary School Nanganallur, Nanganallur 600061.",
       "lat": 12.9785941,
-      "lng": 80.183932
+      "lng": 80.183932,
+      "comparison": {
+        "dmk_swing": -20.85,
+        "aiadmk_swing": 12.87,
+        "turnout_change": -27.53
+      }
     },
     {
       "booth_no": "350",
@@ -9808,7 +11556,12 @@
       "village": "Nanganallur",
       "building": "Chellammal Vidyalaya Senior Secondary School Nanganallur, Nanganallur 600061.",
       "lat": 12.9785941,
-      "lng": 80.183932
+      "lng": 80.183932,
+      "comparison": {
+        "dmk_swing": 14.32,
+        "aiadmk_swing": -14.07,
+        "turnout_change": 15.93
+      }
     },
     {
       "booth_no": "351",
@@ -9836,7 +11589,12 @@
       "village": "Nanganallur",
       "building": "Chellammal Vidyalaya Senior Secondary School Nanganallur, Nanganallur 600061.",
       "lat": 12.9785941,
-      "lng": 80.183932
+      "lng": 80.183932,
+      "comparison": {
+        "dmk_swing": 0.2,
+        "aiadmk_swing": 1.1,
+        "turnout_change": 26.29
+      }
     },
     {
       "booth_no": "352",
@@ -9864,7 +11622,12 @@
       "village": "Nanganallur",
       "building": "Chellammal Vidyalaya Senior Secondary School Nanganallur, Nanganallur 600061.",
       "lat": 12.9785941,
-      "lng": 80.183932
+      "lng": 80.183932,
+      "comparison": {
+        "dmk_swing": 13.03,
+        "aiadmk_swing": -7.93,
+        "turnout_change": 47.15
+      }
     },
     {
       "booth_no": "353",
@@ -9892,7 +11655,12 @@
       "village": "Nanganallur",
       "building": "Chellammal Vidyalaya Senior Secondary School Nanganallur, Nanganallur 600061.",
       "lat": 12.9785941,
-      "lng": 80.183932
+      "lng": 80.183932,
+      "comparison": {
+        "dmk_swing": 8.43,
+        "aiadmk_swing": -5.78,
+        "turnout_change": 27.13
+      }
     },
     {
       "booth_no": "354",
@@ -9920,7 +11688,12 @@
       "village": "Nanganallur",
       "building": "Chellammal Vidyalaya Senior Secondary School Nanganallur, Nanganallur 600061.",
       "lat": 12.9785941,
-      "lng": 80.183932
+      "lng": 80.183932,
+      "comparison": {
+        "dmk_swing": 13.89,
+        "aiadmk_swing": -7.54,
+        "turnout_change": -38.22
+      }
     },
     {
       "booth_no": "355",
@@ -9948,7 +11721,12 @@
       "village": "Nanganallur",
       "building": "Chellammal Vidyalaya Senior Secondary School Nanganallur, Nanganallur 600061.",
       "lat": 12.9785941,
-      "lng": 80.183932
+      "lng": 80.183932,
+      "comparison": {
+        "dmk_swing": 6.02,
+        "aiadmk_swing": -3.92,
+        "turnout_change": 101.25
+      }
     },
     {
       "booth_no": "356",
@@ -9976,7 +11754,12 @@
       "village": "Nanganallur",
       "building": "Chellammal Vidyalaya Senior Secondary School Nanganallur, Nanganallur 600061.",
       "lat": 12.9785941,
-      "lng": 80.183932
+      "lng": 80.183932,
+      "comparison": {
+        "dmk_swing": 9.09,
+        "aiadmk_swing": -8.97,
+        "turnout_change": -39.56
+      }
     },
     {
       "booth_no": "357",
@@ -10004,7 +11787,12 @@
       "village": "Nanganallur",
       "building": "Chellammal Vidyalaya Senior Secondary School Nanganallur, Nanganallur 600061.",
       "lat": 12.9785941,
-      "lng": 80.183932
+      "lng": 80.183932,
+      "comparison": {
+        "dmk_swing": 6.1,
+        "aiadmk_swing": -0.04,
+        "turnout_change": -10.37
+      }
     },
     {
       "booth_no": "358",
@@ -10032,7 +11820,12 @@
       "village": "Nanganallur",
       "building": "Chellammal Vidyalaya Senior Secondary School Nanganallur, Nanganallur 600061.",
       "lat": 12.9785941,
-      "lng": 80.183932
+      "lng": 80.183932,
+      "comparison": {
+        "dmk_swing": 6.3,
+        "aiadmk_swing": -5.02,
+        "turnout_change": 30.1
+      }
     },
     {
       "booth_no": "359",
@@ -10060,7 +11853,12 @@
       "village": "Hindu Colony Nanganallur",
       "building": "Sri Venkateswara Middle School Nanganallur, Hindu Colony Nanganallur 600061.",
       "lat": 12.9757826,
-      "lng": 80.1831505
+      "lng": 80.1831505,
+      "comparison": {
+        "dmk_swing": 3.39,
+        "aiadmk_swing": -4.71,
+        "turnout_change": -35.88
+      }
     },
     {
       "booth_no": "360",
@@ -10088,7 +11886,12 @@
       "village": "Hindu Colony Nanganallur",
       "building": "Sri Venkateswara Middle School Nanganallur, Hindu Colony Nanganallur 600061.",
       "lat": 12.9757826,
-      "lng": 80.1831505
+      "lng": 80.1831505,
+      "comparison": {
+        "dmk_swing": 5.71,
+        "aiadmk_swing": -7.31,
+        "turnout_change": 88.99
+      }
     },
     {
       "booth_no": "361",
@@ -10116,7 +11919,12 @@
       "village": "Nanganallur",
       "building": "Goverment Aided Middile School, Nanganallur, BV Nagar,Nanganallur Chennai-600061",
       "lat": 12.9762675,
-      "lng": 80.179807
+      "lng": 80.179807,
+      "comparison": {
+        "dmk_swing": 19.42,
+        "aiadmk_swing": -11.79,
+        "turnout_change": -22.76
+      }
     },
     {
       "booth_no": "362",
@@ -10144,7 +11952,12 @@
       "village": "B V Nagar",
       "building": "Government Aided Primary School Nanganallur, B V Nagar 3rd Street Nanganallur - 600061",
       "lat": 12.9734193,
-      "lng": 80.1894944
+      "lng": 80.1894944,
+      "comparison": {
+        "dmk_swing": -4.83,
+        "aiadmk_swing": 9.76,
+        "turnout_change": 8.99
+      }
     },
     {
       "booth_no": "363",
@@ -10172,7 +11985,12 @@
       "village": "B V Nagar",
       "building": "Government Aided Primary School Nanganallur, B V Nagar 3rd Street Nanganallur - 600061",
       "lat": 12.9734193,
-      "lng": 80.1894944
+      "lng": 80.1894944,
+      "comparison": {
+        "dmk_swing": 21.25,
+        "aiadmk_swing": -13.43,
+        "turnout_change": 37.23
+      }
     },
     {
       "booth_no": "364",
@@ -10200,7 +12018,12 @@
       "village": "",
       "building": "Childrens Garden Nursery & Primary School NO : 41 Venugopalapuram Palavanthangal Chennai - 600114. (Room No:1)",
       "lat": 13.1684208,
-      "lng": 80.2542137
+      "lng": 80.2542137,
+      "comparison": {
+        "dmk_swing": -3.03,
+        "aiadmk_swing": 6.56,
+        "turnout_change": -13.65
+      }
     },
     {
       "booth_no": "365",
@@ -10228,7 +12051,12 @@
       "village": "",
       "building": "Childrens Garden Nursery & Primary School NO : 41 Venugopalapuram Palavanthangal Chennai - 600114. (Room No:1)",
       "lat": 13.1684208,
-      "lng": 80.2542137
+      "lng": 80.2542137,
+      "comparison": {
+        "dmk_swing": -20.25,
+        "aiadmk_swing": 17.33,
+        "turnout_change": -5.58
+      }
     },
     {
       "booth_no": "366",
@@ -10256,7 +12084,12 @@
       "village": "Hindu Colony Nanganallur",
       "building": "Sri Venkateswara Middle School Nanganallur, Hindu Colony Nanganallur 600061.",
       "lat": 12.9757826,
-      "lng": 80.1831505
+      "lng": 80.1831505,
+      "comparison": {
+        "dmk_swing": 8.49,
+        "aiadmk_swing": -1.45,
+        "turnout_change": -1.41
+      }
     },
     {
       "booth_no": "367",
@@ -10284,7 +12117,12 @@
       "village": "Hindu Colony Nanganallur",
       "building": "Sri Venkateswara Middle School Nanganallur, Hindu Colony Nanganallur 600061.",
       "lat": 12.9757826,
-      "lng": 80.1831505
+      "lng": 80.1831505,
+      "comparison": {
+        "dmk_swing": 23.67,
+        "aiadmk_swing": -0.37,
+        "turnout_change": 40.47
+      }
     },
     {
       "booth_no": "368",
@@ -10312,7 +12150,12 @@
       "village": "K K Nagar Thalakkanancherry",
       "building": "Greater Chennai Primary School Thalakanancherry, K K Nagar Thalakkanancherry - 600114",
       "lat": 12.9747324,
-      "lng": 80.1813506
+      "lng": 80.1813506,
+      "comparison": {
+        "dmk_swing": 5.3,
+        "aiadmk_swing": 10.02,
+        "turnout_change": 8.05
+      }
     },
     {
       "booth_no": "369",
@@ -10340,7 +12183,12 @@
       "village": "K K Nagar Thalakkanancherry",
       "building": "Greater Chennai Primary School Thalakanancherry, K K Nagar Thalakkanancherry - 600114",
       "lat": 12.9747324,
-      "lng": 80.1813506
+      "lng": 80.1813506,
+      "comparison": {
+        "dmk_swing": -15.59,
+        "aiadmk_swing": 29.53,
+        "turnout_change": -7.21
+      }
     },
     {
       "booth_no": "370",
@@ -10368,7 +12216,12 @@
       "village": "K K Nagar Thalakkanancherry",
       "building": "Greater Chennai Primary School Thalakanancherry, K K Nagar Thalakkanancherry - 600114",
       "lat": 12.9747324,
-      "lng": 80.1813506
+      "lng": 80.1813506,
+      "comparison": {
+        "dmk_swing": 3.96,
+        "aiadmk_swing": 10.12,
+        "turnout_change": -16.61
+      }
     },
     {
       "booth_no": "371",
@@ -10396,7 +12249,12 @@
       "village": "K K Nagar Thalakkanancherry",
       "building": "Greater Chennai Primary School Thalakanancherry, K K Nagar Thalakkanancherry - 600114",
       "lat": 12.9747324,
-      "lng": 80.1813506
+      "lng": 80.1813506,
+      "comparison": {
+        "dmk_swing": 3.4,
+        "aiadmk_swing": 16.74,
+        "turnout_change": 63.45
+      }
     },
     {
       "booth_no": "372",
@@ -10424,7 +12282,12 @@
       "village": "K K Nagar Thalakkanancherry",
       "building": "Greater Chennai Primary School Thalakanancherry, K K Nagar Thalakkanancherry - 600114",
       "lat": 12.9747324,
-      "lng": 80.1813506
+      "lng": 80.1813506,
+      "comparison": {
+        "dmk_swing": -12.33,
+        "aiadmk_swing": 20.13,
+        "turnout_change": 6.21
+      }
     },
     {
       "booth_no": "373",
@@ -10452,7 +12315,12 @@
       "village": "K K Nagar Thalakkanancherry",
       "building": "Greater Chennai Primary School Thalakanancherry, K K Nagar Thalakkanancherry - 600114",
       "lat": 12.9747324,
-      "lng": 80.1813506
+      "lng": 80.1813506,
+      "comparison": {
+        "dmk_swing": 0.76,
+        "aiadmk_swing": 17.05,
+        "turnout_change": 7.05
+      }
     },
     {
       "booth_no": "374",
@@ -10480,7 +12348,12 @@
       "village": "A G S Colony Nanganallur",
       "building": "Modern Senior Secondary School Nanganallur, A G S Colony Nanganallur 600061",
       "lat": 12.9725278,
-      "lng": 80.1857629
+      "lng": 80.1857629,
+      "comparison": {
+        "dmk_swing": -5.35,
+        "aiadmk_swing": 16.42,
+        "turnout_change": 5.41
+      }
     },
     {
       "booth_no": "375",
@@ -10508,7 +12381,12 @@
       "village": "A G S Colony Nanganallur",
       "building": "Modern Senior Secondary School Nanganallur, A G S Colony Nanganallur 600061",
       "lat": 12.9725278,
-      "lng": 80.1857629
+      "lng": 80.1857629,
+      "comparison": {
+        "dmk_swing": -7.2,
+        "aiadmk_swing": 6.44,
+        "turnout_change": -0.18
+      }
     },
     {
       "booth_no": "376",
@@ -10536,7 +12414,12 @@
       "village": "A G S Colony Nanganallur",
       "building": "Modern Senior Secondary School Nanganallur, A G S Colony Nanganallur 600061",
       "lat": 12.9725278,
-      "lng": 80.1857629
+      "lng": 80.1857629,
+      "comparison": {
+        "dmk_swing": 5.88,
+        "aiadmk_swing": -2.84,
+        "turnout_change": 8.83
+      }
     },
     {
       "booth_no": "377",
@@ -10564,7 +12447,12 @@
       "village": "A G S Colony Nanganallur",
       "building": "Modern Senior Secondary School Nanganallur, A G S Colony Nanganallur 600061",
       "lat": 12.9725278,
-      "lng": 80.1857629
+      "lng": 80.1857629,
+      "comparison": {
+        "dmk_swing": 21.94,
+        "aiadmk_swing": -5.75,
+        "turnout_change": 21.49
+      }
     },
     {
       "booth_no": "378",
@@ -10592,7 +12480,12 @@
       "village": "A G S Colony Nanganallur",
       "building": "Modern Senior Secondary School Nanganallur, A G S Colony Nanganallur 600061",
       "lat": 12.9725278,
-      "lng": 80.1857629
+      "lng": 80.1857629,
+      "comparison": {
+        "dmk_swing": -3.21,
+        "aiadmk_swing": 16.44,
+        "turnout_change": -31.25
+      }
     },
     {
       "booth_no": "379",
@@ -10620,7 +12513,12 @@
       "village": "A G S Colony Nanganallur",
       "building": "Modern Senior Secondary School Nanganallur, A G S Colony Nanganallur 600061",
       "lat": 12.9725278,
-      "lng": 80.1857629
+      "lng": 80.1857629,
+      "comparison": {
+        "dmk_swing": -14.58,
+        "aiadmk_swing": 24.19,
+        "turnout_change": 58.61
+      }
     },
     {
       "booth_no": "380",
@@ -10648,7 +12546,12 @@
       "village": "A G S Colony Nanganallur",
       "building": "Modern Senior Secondary School Nanganallur, A G S Colony Nanganallur 600061",
       "lat": 12.9725278,
-      "lng": 80.1857629
+      "lng": 80.1857629,
+      "comparison": {
+        "dmk_swing": 1.08,
+        "aiadmk_swing": -4.26,
+        "turnout_change": 29.81
+      }
     },
     {
       "booth_no": "381",
@@ -10676,7 +12579,12 @@
       "village": "A G S Colony Nanganallur",
       "building": "Modern Senior Secondary School Nanganallur, A G S Colony Nanganallur 600061",
       "lat": 12.9725278,
-      "lng": 80.1857629
+      "lng": 80.1857629,
+      "comparison": {
+        "dmk_swing": -3.69,
+        "aiadmk_swing": -3.13,
+        "turnout_change": -10.76
+      }
     },
     {
       "booth_no": "382",
@@ -10704,7 +12612,12 @@
       "village": "Primary Wing",
       "building": "Modern Senior Secondary School, Primary Wing, Nanganallur, S B I Colony Nanganallur 600061",
       "lat": 12.9747552,
-      "lng": 80.1847619
+      "lng": 80.1847619,
+      "comparison": {
+        "dmk_swing": 2.62,
+        "aiadmk_swing": -4.45,
+        "turnout_change": 21.45
+      }
     },
     {
       "booth_no": "383",
@@ -10732,7 +12645,12 @@
       "village": "Primary Wing",
       "building": "Modern Senior Secondary School, Primary Wing, Nanganallur, S B I Colony Nanganallur 600061",
       "lat": 12.9747552,
-      "lng": 80.1847619
+      "lng": 80.1847619,
+      "comparison": {
+        "dmk_swing": 4.3,
+        "aiadmk_swing": 3.91,
+        "turnout_change": -30.61
+      }
     },
     {
       "booth_no": "384",
@@ -10760,7 +12678,12 @@
       "village": "Nanganallur",
       "building": "Brilliant Matriculation Higher Secondary School, Nanganallur, 2nd Main Road Nanganallur 600061",
       "lat": 12.9831701,
-      "lng": 80.1920722
+      "lng": 80.1920722,
+      "comparison": {
+        "dmk_swing": 5.28,
+        "aiadmk_swing": -0.99,
+        "turnout_change": 47.22
+      }
     },
     {
       "booth_no": "385",
@@ -10788,7 +12711,12 @@
       "village": "Primary Wing",
       "building": "Modern Senior Secondary School, Primary Wing, Nanganallur, S B I Colony Nanganallur 600061",
       "lat": 12.9747552,
-      "lng": 80.1847619
+      "lng": 80.1847619,
+      "comparison": {
+        "dmk_swing": -3.61,
+        "aiadmk_swing": -1.54,
+        "turnout_change": -11.59
+      }
     },
     {
       "booth_no": "386",
@@ -10816,7 +12744,12 @@
       "village": "Nanganallur",
       "building": "Brilliant Matriculation Higher Secondary School, Nanganallur, 2nd Main Road Nanganallur 600061",
       "lat": 12.9831701,
-      "lng": 80.1920722
+      "lng": 80.1920722,
+      "comparison": {
+        "dmk_swing": 5.11,
+        "aiadmk_swing": 1.54,
+        "turnout_change": 40.21
+      }
     },
     {
       "booth_no": "387",
@@ -10844,7 +12777,12 @@
       "village": "Nanganallur",
       "building": "Brilliant Matriculation Higher Secondary School, Nanganallur, 2nd Main Road Nanganallur 600061",
       "lat": 12.9831701,
-      "lng": 80.1920722
+      "lng": 80.1920722,
+      "comparison": {
+        "dmk_swing": 13.05,
+        "aiadmk_swing": 1.39,
+        "turnout_change": 48.3
+      }
     },
     {
       "booth_no": "388",
@@ -10872,7 +12810,12 @@
       "village": "Primary Wing",
       "building": "Modern Senior Secondary School, Primary Wing, Nanganallur, S B I Colony Nanganallur 600061",
       "lat": 12.9747552,
-      "lng": 80.1847619
+      "lng": 80.1847619,
+      "comparison": {
+        "dmk_swing": -0.08,
+        "aiadmk_swing": 7.39,
+        "turnout_change": -14.89
+      }
     },
     {
       "booth_no": "389",
@@ -10900,7 +12843,12 @@
       "village": "Primary Wing",
       "building": "Modern Senior Secondary School, Primary Wing, Nanganallur, S B I Colony Nanganallur 600061",
       "lat": 12.9747552,
-      "lng": 80.1847619
+      "lng": 80.1847619,
+      "comparison": {
+        "dmk_swing": -3.42,
+        "aiadmk_swing": 5.01,
+        "turnout_change": -3.74
+      }
     },
     {
       "booth_no": "390",
